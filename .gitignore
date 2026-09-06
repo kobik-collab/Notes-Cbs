@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Build temp (created transiently by build-site.mjs / md2pdf.sh)
+notes/**/_part-*.md
+notes/**/*.html
+
+# Copyrighted source material — kept LOCAL only, never published.
+# (textbooks, assigned readings, lecture slide decks)
+notes/**/*.pptx
+notes/**/*.pdf
+# ...but DO publish the user's own compiled study notes:
+!notes/**/*-Notes.pdf
+!notes/applied-micro/ch01-introduction.pdf
