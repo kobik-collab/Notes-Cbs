@@ -1,0 +1,7 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "echo 'No build needed — the site is prebuilt in docs/'",
+  "outputDirectory": "docs",
+  "installCommand": "echo 'No dependencies'",
+  "cleanUrls": true
+}

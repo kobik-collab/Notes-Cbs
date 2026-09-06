@@ -978,14 +978,18 @@ How democracies organise their governing institutions — **executive, legislatu
 #### Judiciary
 
 ***Core:*** courts interpret law and, via **judicial review**, can strike laws as unconstitutional — making them a **veto player** and a check on the majority (the "why should unelected judges decide?" problem). Only real if **institutionalised**.
-- **Two legal families:** **common law** (precedent; UK/US → *decentralised, concrete* review) vs **code law** (written-only, Napoleon; French/Iberian colonies → *centralised, abstract* review via a special constitutional court).
-- **"Judicialisation of politics"** (Tate & Vallinder) — a major recent trend. Judicial **independence** rests largely on **informal** factors (a fragmented, competitive political system gives courts room) and on hard-won **legitimacy** (courts have no army/purse).
+- **Two legal families → two review types:** **common law** (Britain + colonies incl. US; judges follow **precedent**) → **decentralised + concrete** review (*any* court can rule on constitutionality, but only inside a real case); **code law** (Roman/Napoleon; written code only, precedent ignored; French/Iberian colonies) → **centralised + abstract** review (one special **constitutional court**, which can rule on a law in the abstract).
+- **Why let unelected judges override elected majorities?** Defenders: legislatures aren't perfectly representative either; judges are *appointed by elected officials* (Dahl 1957: justices sit within the ruling coalition); courts check the other branches and *claim* to protect minorities (though studies find they more often side with the powerful).
+- **"Judicialisation of politics"** (Tate & Vallinder) — courts pulled into ever more political questions; "one of the most significant trends" of recent government, as many actors turn courts into a **veto point**.
+- **Independence depends on informal factors + legitimacy:** a **fragmented, competitive** political system gives courts room; judges' own beliefs matter; and because courts command neither army nor purse, hard-won **legitimacy** is what makes review real. *Example:* **Brazil's Supreme Federal Tribunal (STF)** grew confident enough to help impeach presidents and drove the *Lava Jato* anti-corruption probe — but code-law **abstract review** lets ~**70,000 cases/year** flood in (≈90% decided by a single judge), making it a clogged **veto point**.
 
 #### Bureaucracy
 
 ***Core:*** every state needs a merit-based, law-bound bureaucracy — but unelected officials with expertise create a **principal–agent problem** (agents pursue their own interests → inefficiency or corruption).
-- Controls: **political appointees**, specific legislation, **legislative oversight**, courts — none perfect. **New Public Management (NPM)** (Reagan/Thatcher, 1980s): privatise, add competition, "customer satisfaction," flatten hierarchies — a UK 30-year study found a 1/3 staff cut but slightly *higher* costs and slightly *worse* service.
-- **Corruption:** **bribery** + **rent-seeking**; worse in more-regulated, more-unequal economies. **Majoritarian** systems (clear responsibility) let voters punish it better. Johnston's four syndromes: *Influence Markets* (rich democracies) → *Elite Cartels* → *Oligarchs & Clans* → *Official Moguls* (poorest).
+- **Professionalisation** (merit appointment) replaced **patronage** and gives bureaucrats **expertise = their own independent power** — which is exactly what creates the principal–agent gap (agents may expand budgets/turf, or take bribes).
+- **Iron triangle** — a cosy, closed policy loop of **bureaucrats + legislators + business** in one sector that serves the insiders and keeps everyone else out (see the [Japan case](#c5-japan): iron triangles + *amakudari*).
+- Controls: **political appointees** (US ~6–8 per department; UK ~2 per ministry), specific legislation, **legislative oversight** (committees, hearings, budgets), courts — none perfect. **New Public Management (NPM)** (Reagan/Thatcher, 1980s): privatise, add competition, "customer satisfaction," flatten hierarchies — a UK 30-year study found a **1/3 staff cut but slightly *higher* costs and slightly *worse*, less-fair service.**
+- **Corruption:** two types — **bribery** + **rent-seeking** (using regulation for advantage instead of being productive); worse in **more-regulated, more-unequal** economies (rational-choice), or from postcolonial legitimacy deficits (**Ekeh's "two publics"** in Africa: a moral *primordial* public vs an amoral *civic* one). **Majoritarian** systems (clear responsibility) let voters punish it better. **Johnston's four syndromes:** *Influence Markets* (rich democracies — US, Japan) → *Elite Cartels* (middle-income — Brazil) → *Oligarchs & Clans* (Russia) → *Official Moguls* (poorest).
 
 #### Federal vs unitary systems
 
@@ -993,6 +997,7 @@ How democracies organise their governing institutions — **executive, legislatu
 - **Why federate:** bring government closer (big countries); divide power (bicameral upper house + judicial review); protect ethnic/religious minorities (**Belgium** = federalism + consociationalism; **541 days** to form a government in 2010).
 - Real power depends on **revenue control** and **upper-house strength**, not paper rules (strong **US Senate** vs weak German **Bundesrat**). **Symmetrical** (US) vs **asymmetrical** (special powers for some units). **Devolution** = reversible decentralisation in a unitary state (UK → Scotland/Wales/N. Ireland). Riker: federalism is inherently unstable (→ centralisation or secession).
 - *Examples:* **federal** = US, Germany; **unitary** = France, UK, **Denmark**. In US federalism the **national** level holds war & foreign policy, coining money, admitting new states; **states** hold schools, public welfare, local law & order (the "**Hamilton** [federal] vs **Jefferson** [states]" division).
+- **Federalism is only as real as the politics behind it** (revenue + party system, not paper): **Mexico** looked federal on paper but the **PRI** centralised everything via revenue until democratisation (2000) decentralised power to governors; **India** = *centralised* federalism (the centre can redraw state borders or impose **"President's Rule"**), decentralising since 1989 as state parties bargain in national coalitions; **Russia** = a federal **shell** — Putin gutted regional autonomy (appointing governors from 2004; centre took ~85% of revenue). Weak institutions can even preserve **subnational authoritarianism** inside a national democracy (Gibson).
 
 ### Cases & examples
 
@@ -1119,8 +1124,8 @@ Looks at the three institutions through which democracies channel **participatio
 | **Proportional (PR)** — closed/open list | seats **= vote share** (national/large districts, a **threshold**) | **multiparty** | **high** | higher | **better** | [Israel](#c6-israel), [Brazil](#c6-brazil) (open) |
 | **Mixed / semiproportional** | SMD seats **+** party-list PR | multiparty | high (**compensatory**, [Germany](#c6-germany)) / medium (**noncompensatory**, [Japan](#c6-japan)) | higher | — | Germany, Japan |
 
-- **SMD/FPTP:** *strengths* — strong voter–representative link, single-party government (efficient, accountable). *Weaknesses* — **wasted votes**, **disproportionality** (a party can win many seats on ~35% pluralities; a broad-but-thin party wins almost none), gerrymandering, fewer women/minorities.
-- **PR:** *strengths* — few wasted votes, **higher turnout**, far **more women & minorities** (lists + quotas), more information/positions, more egalitarian policy. *Weaknesses* — no identifiable individual rep, **coalition instability**, small extremist parties gain outsized leverage.
+- **SMD/FPTP:** *strengths* — strong voter–representative link, single-party government (efficient, accountable); defenders also invoke **virtual representation** (co-partisans elected in *other* districts speak for you). *Weaknesses* — **wasted votes**, **disproportionality** (a party can win many seats on ~35% pluralities; a broad-but-thin party wins almost none), gerrymandering, fewer women/minorities. *(Empirically the SMD "closer link" is weak — Curtice & Shively found no real advantage in voter–rep contact.)*
+- **PR:** *strengths* — few wasted votes, **higher turnout**, far **more women & minorities** (lists + quotas), more information/positions, more egalitarian policy (Orellana). *Weaknesses* — no identifiable individual rep, **coalition instability**, small extremist parties gain outsized leverage; **Kedar:** PR voters even vote for *more extreme* parties on purpose, expecting post-election compromise to pull policy back to the middle.
 - **Mixed:** two ballots (a district candidate **+** a party list) — blends a personal rep with proportional fairness; **Germany's compensatory** version tops seats up to full proportionality, **Japan's noncompensatory** version keeps SMD & PR separate (less proportional). **AV/ranked-choice** wastes fewer votes than FPTP (Maine 2018 elected the first US Congress seat by AV).
 - **Redistribution link (Iversen & Soskice — from Lecture 4):** **PR → the middle class allies with the poor → bigger welfare states**; majoritarian → middle allies with the rich → less. A key reason electoral systems shape *policy*, not just seats (the [Sweden vs US welfare](#case-sweden) puzzle).
 
@@ -1132,20 +1137,26 @@ Looks at the three institutions through which democracies channel **participatio
 
 #### Party systems
 
-***Core:*** classify by **number & strength**: **dominant-party** (S. Africa ANC) · **two-party** (US, UK) · **multiparty** (Italy). Origins are **sociological** (social **cleavages** — economic everywhere; + religion in some places → multiparty) **and institutional** (**Duverger's** electoral incentives).
+***Core:*** classify by **number & strength**: **dominant-party** (S. Africa ANC — won every election) · **two-party** (US, UK) · **multiparty** (Italy — coalitions required).
+- **Where party systems come from — two explanations:**
+  - **Sociological:** parties reflect social **cleavages** — an economic **capital vs labour** split everywhere, *plus* a religious split in some places. Where *both* are salient → **multiparty**; where only economic → **two-party**.
+  - **Institutional (Duverger):** rational politicians build parties to win *under the given electoral rules* — SMD squeezes toward two.
+- **Bridging the "chicken-and-egg":** the institutional effect holds in **established** democracies but *not* in **new** ones, where voters aren't strategic (ethnic/identity voting persists, FPTP winners take seats on 20–30%) — Boix; Moser & Scheiner. **France** is the classic Duverger case (its two-round SMD pushed a fragmented system to ~two blocs, 82% of seats by 2012) — until **2017**, when Macron's one-year-old party blew it up.
 
 #### How parties mobilise — and the "crisis of party democracy"
 
-***Core:*** parties win support three ways — **programmatic** (ideas/ideology) · **patronage/clientelist** (material benefits for votes — common in poorer/newer democracies) · **populist** (a personalist leader, "the people" vs "corrupt elites," crisis rhetoric, "bad manners").
-- **Crisis:** only ~**20%** trust parties (though ~80% value democracy); falling loyalty/membership/turnout, rising **volatility** and **far-right populism** (post-2015 refugee crisis). Debates: **dealignment vs realignment**; catch-all → **"cartel parties."**
+***Core:*** parties win support three ways — **programmatic** (ideas/ideology) · **patronage/clientelist** (material benefits for votes, via **brokers** — common in poorer/newer & statist economies) · **populist** (a personalist leader, "the people" vs "corrupt elites," crisis rhetoric, "bad manners").
+- *Caveat on "programmatic":* **Achen & Bartels** ("folk theory" critique) argue voters mostly vote by **social identity**, not by carefully weighing ideas — so pure programmatic appeal is partly a myth.
+- **Crisis of party democracy:** only ~**20%** trust parties (though ~80% value democracy); falling loyalty/membership/turnout, rising **electoral volatility**, single-issue/postmaterialist voting, and **far-right/anti-system** parties (nativism, post-2015 refugee crisis). Explanations: economic (globalisation, manufacturing decline); **dealignment** (voters detach from all parties) vs **realignment** (they switch); catch-all parties → **"cartel parties"** (Mair) colluding at the centre → lost efficacy.
+- **US exception:** not dealignment but partisan **sorting/polarisation** (Abramowitz), racial realignment, and Trump's **status-threat** populism (Mutz 2018).
 
 <a id="c6-civilsociety"></a>
 #### Civil society & interest groups — pluralism vs neocorporatism
 
-***Core:*** beyond parties, organised **interest groups** represent society — in two rival models.
-- **Pluralism** (US): **many** competing groups, a **neutral** state; easy entry but fragmented clout, and business is inherently privileged.
-- **Neocorporatism** (Germany, N. Europe): a **few large hierarchical peak associations** negotiate **binding** deals with the state; more influence (esp. for labour vs business) but less participatory. *(State corporatism = the mandated, authoritarian version.)*
-- **Social capital** debate: Putnam's *Bowling Alone* (civic decline) vs critics ("**Kicking in Groups**" — activity just moved to new forms).
+***Core:*** beyond parties, organised **interest groups** (they *don't* seek office, unlike parties) represent society — in two rival models. Groups grew sector-by-sector: first **labour, business, agriculture**, then **women/minority** groups; in divided societies, ethnic/religious groups dominate (some, like the KKK, are internally *undemocratic* — a tension for democracy).
+- **Pluralism** (US): **many** competing groups, a **neutral** state; easy entry & local control, but fragmented clout — and **business is inherently privileged** (Lindblom).
+- **Neocorporatism** / societal corporatism (Germany, N. Europe): a **few large, hierarchical peak associations** the state recognises as *the* voice of each sector negotiate **binding** deals; more influence (esp. for labour countering business) but **less participatory** (little incentive to form new groups). *(State corporatism = the mandated, authoritarian version — ch. 8.)*
+- **Social-capital debate:** Putnam (*Bowling Alone*) sees civic **decline**; Skocpol adds that mass-membership bodies gave way to **managed advocacy**; critics (Dalton, "**Kicking in Groups**") reply that activity just **moved to new forms** (movements, single-issue groups).
 
 <a id="c6-tradeoff"></a>
 #### The master trade-off (Powell)
