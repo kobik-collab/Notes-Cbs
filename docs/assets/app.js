@@ -97,14 +97,16 @@ function renderSubject(subject, partSlug) {
       <span class="pv-title">${esc(selected.full ? subject.name + ' — Full notes' : selected.title)}</span>
       <a class="btn" href="${esc(selected.pdf)}" download>${dlIcon} Download</a>
     </div>
-    <iframe class="preview-frame" title="PDF preview" src="${esc(selected.pdf)}#view=FitH"></iframe>
+    <iframe class="preview-frame" title="PDF preview" src="${esc(selected.pdf)}#view=Fit&zoom=page-fit"></iframe>
   ` : `<div class="preview-empty">No documents available yet for this subject.</div>`;
 
   app.innerHTML = `
-    <div class="crumbs"><a href="#/">Subjects</a> &nbsp;›&nbsp; ${esc(subject.name)}</div>
-    <div class="subject-head"><h1>${esc(subject.name)}</h1></div>
     <div class="reader">
-      ${listHtml}
+      <div class="reader-left">
+        <div class="crumbs"><a href="#/">Subjects</a> &nbsp;›&nbsp; ${esc(subject.name)}</div>
+        <div class="subject-head"><h1>${esc(subject.name)}</h1></div>
+        ${listHtml}
+      </div>
       <div class="preview">${previewHtml}</div>
     </div>`;
 
