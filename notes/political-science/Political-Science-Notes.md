@@ -923,7 +923,7 @@ How democracies organise their governing institutions — **executive, legislatu
 
 ***Core:*** the executive fills two roles — **head of state** (symbolic) and **head of government** (policy) — and *how those relate to the legislature* defines the three systems.
 - One person can hold both roles (US president) or they can be split (UK monarch + PM). The **executive–legislative relationship** is the key variable.
-- **Legislatures:** **unicameral** (one house) vs **bicameral** (two — the upper house usually represents states/regions; standard in federal systems). Legislatures are *more powerful in presidential systems* (members aren't chasing cabinet seats, so they stay independent) than in parliamentary ones.
+- **Legislatures:** **unicameral** (one house) vs **bicameral** (two — the upper house usually represents states/regions; standard in federal systems). Legislatures are *more powerful in presidential systems* than in parliamentary ones — because of **separation of powers, a legislator can't also sit in the cabinet**, so members have **no ministerial promotion to earn from the executive** and stay independent. *(In a parliamentary system, ministers ARE MPs, so ambitious MPs toe the party line to be promoted into the cabinet → a weaker, executive-dependent legislature. Note: this is about chasing **cabinet (minister) posts**, not re-election to one's own seat — every legislator chases that.)*
 
 <a id="c5-parliamentary"></a>
 #### Parliamentarism — the Westminster model *(most emphasised)*

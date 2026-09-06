@@ -1,0 +1,12 @@
+{
+  "name": "notes-cbs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Study-notes website: browse, preview and download notes by subject and lecture.",
+  "scripts": {
+    "dev": "python3 -m http.server 8000 --directory docs",
+    "start": "python3 -m http.server 8000 --directory docs",
+    "build": "node notes/_tools/build-site.mjs",
+    "build:fast": "node notes/_tools/build-site.mjs --no-pdf"
+  }
+}
