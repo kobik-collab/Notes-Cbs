@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T14:43:44.649Z",
+  "generatedAt": "2026-09-06T15:04:47.949Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -10,7 +10,7 @@
           "slug": "chapter-1",
           "title": "Chapter 1 — Introduction",
           "pdf": "pdfs/applied-micro/chapter-1.pdf",
-          "sizeKB": 133
+          "sizeKB": 134
         }
       ],
       "note": "In progress"
@@ -21,14 +21,14 @@
       "full": {
         "title": "Political & Economic Thought — Full notes",
         "pdf": "pdfs/political-economic-thought/Political-Economic-Thought-Notes.pdf",
-        "sizeKB": 715
+        "sizeKB": 714
       },
       "parts": [
         {
           "slug": "week-36",
           "title": "Week 36",
           "pdf": "pdfs/political-economic-thought/week-36.pdf",
-          "sizeKB": 699
+          "sizeKB": 697
         }
       ]
     },
@@ -38,38 +38,38 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 1859
+        "sizeKB": 1861
       },
       "parts": [
         {
           "slug": "lecture-1",
           "title": "Lecture 1: Introduction — Power, Politics, and Political Science (MDJ)",
           "pdf": "pdfs/political-science/lecture-1.pdf",
-          "sizeKB": 628
+          "sizeKB": 627
         },
         {
           "slug": "lecture-2",
           "title": "Lecture 2: The State (AUW)",
           "pdf": "pdfs/political-science/lecture-2.pdf",
-          "sizeKB": 626
+          "sizeKB": 625
         },
         {
           "slug": "lecture-3",
           "title": "Lecture 3: Political Regimes (FK)",
           "pdf": "pdfs/political-science/lecture-3.pdf",
-          "sizeKB": 427
+          "sizeKB": 426
         },
         {
           "slug": "lecture-4",
           "title": "Lecture 4: Systems of Government",
           "pdf": "pdfs/political-science/lecture-4.pdf",
-          "sizeKB": 394
+          "sizeKB": 398
         },
         {
           "slug": "lecture-5",
           "title": "Lecture 5: Participation and Representation (FK)",
           "pdf": "pdfs/political-science/lecture-5.pdf",
-          "sizeKB": 358
+          "sizeKB": 357
         }
       ]
     }

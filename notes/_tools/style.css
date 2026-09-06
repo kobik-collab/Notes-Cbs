@@ -13,6 +13,10 @@
 
 html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 
+/* Suppress pandoc's auto title block (it just echoes the file name — the doc
+   provides its own H1). Keeps the PDF's metadata title but hides the visible line. */
+#title-block-header { display: none; }
+
 body {
   font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   color: var(--ink);

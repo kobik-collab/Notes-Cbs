@@ -11,7 +11,7 @@ CSS="$TOOLS_DIR/style.css"
 BASE="${MD%.md}"
 HTML="$BASE.html"
 PDF="$BASE.pdf"
-TITLE="$(basename "$BASE")"
+TITLE="${2:-$(basename "$BASE")}"
 
 CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 

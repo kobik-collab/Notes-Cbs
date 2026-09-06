@@ -67,8 +67,10 @@ function splitMaster(md) {
   };
 }
 
-function renderPdf(mdPath) {
-  execFileSync('bash', [path.join(TOOLS, 'md2pdf.sh'), mdPath], { stdio: 'pipe' });
+function renderPdf(mdPath, title) {
+  const args = [path.join(TOOLS, 'md2pdf.sh'), mdPath];
+  if (title) args.push(title);           // clean PDF title (else md2pdf uses the file name)
+  execFileSync('bash', args, { stdio: 'pipe' });
   return mdPath.replace(/\.md$/, '.pdf');
 }
 
@@ -99,9 +101,9 @@ for (const slug of subjects) {
     const { title, parts } = splitMaster(fs.readFileSync(masterPath, 'utf8'));
     subj.name = subj.name || title || slug;
 
-    // full doc: reuse the already-built master PDF if present, else build it.
+    // full doc: rebuild the master PDF (so styling/title fixes apply), unless --no-pdf.
     let masterPdf = masterPath.replace(/\.md$/, '.pdf');
-    if (!fs.existsSync(masterPdf) && !NO_PDF) masterPdf = renderPdf(masterPath);
+    if (!NO_PDF) masterPdf = renderPdf(masterPath, `${subj.name} — Full notes`);
     if (fs.existsSync(masterPdf)) {
       const dest = path.join(outDir, path.basename(masterPdf));
       fs.copyFileSync(masterPdf, dest);
@@ -118,7 +120,7 @@ for (const slug of subjects) {
         const header = `<p class="byline">${subj.name} — Master Notes · by Jakob V. Stangel</p>\n\n`;
         fs.writeFileSync(tmpMd, part.body.replace(/\n/, `\n${header}`));
         try {
-          const builtPdf = renderPdf(tmpMd);
+          const builtPdf = renderPdf(tmpMd, part.title);
           fs.copyFileSync(builtPdf, destPdf);
           fs.rmSync(builtPdf, { force: true });
         } finally {
@@ -136,13 +138,13 @@ for (const slug of subjects) {
     subj.name = subj.name || slug;
     for (const f of chapterMds) {
       const mdPath = path.join(dir, f);
-      const pslug = slugify(fs.readFileSync(mdPath, 'utf8').match(/^# (.*)/m)?.[1] || f);
+      const title = fs.readFileSync(mdPath, 'utf8').match(/^# (.*)/m)?.[1] || f;
+      const pslug = slugify(title);
       let pdf = mdPath.replace(/\.md$/, '.pdf');
-      if (!fs.existsSync(pdf) && !NO_PDF) pdf = renderPdf(mdPath);
+      if (!NO_PDF) pdf = renderPdf(mdPath, title);
       if (fs.existsSync(pdf)) {
         const dest = path.join(outDir, `${pslug}.pdf`);
         fs.copyFileSync(pdf, dest);
-        const title = fs.readFileSync(mdPath, 'utf8').match(/^# (.*)/m)?.[1] || f;
         subj.parts.push({ slug: pslug, title, pdf: rel(dest), sizeKB: kb(dest) });
         log(`  ✓ ${slug}/${pslug}`);
       }
