@@ -96,11 +96,18 @@ the "where is everything" index; keep it updated as lectures/weeks are added.
 7a. **Decompose concepts into their named sub-parts.** If a term splits into categories/types
    (the *three faces of power*; the *four implications* of "politics"; the *three research methods*),
    **list them** — a key concept stated without its components lacks depth.
-7b. **Lecture slide decks are a primary source — use them.** When a `.pptx` exists for a
-   lecture, read it (parse the zip's `ppt/slides/*.xml`): it shows the **lecturer's grouping and
-   emphasis**, which is what the exam follows. Fold its extra definitions, attributions and examples
-   into the notes (mark lecturer-only additions, e.g. *"(from the lecture — INITIALS)"*), and
-   **extract its diagrams** (`ppt/media/*`) as figures (see §8 → Figures).
+7b. **The lecture deck is the CENTRE of the notes — build around it, don't decorate with it.**
+   When a deck exists, **read it first** and let *its* outline, emphasis, examples and "take-away"
+   slides **define the section structure and the spine/red-thread**. Foreground exactly what the
+   deck foregrounds (it's what the lecturer stresses and the exam follows). Then use the **readings
+   to fill in the depth *around* each deck point** (definitions, evidence, nuance); reading-only
+   material goes in as clearly *secondary*. Mark deck-sourced points (*"(from the lecture — INITIALS)"*)
+   and **extract its diagrams** (`ppt/media/*`) as figures (§8 → Figures).
+   - **Deck-first ordering matters:** if the reading is built *before* the deck arrives, treat the
+     deck as a **re-centre** job (reorder/foreground around it), not just an append — e.g. Pitkin's
+     concept of representation should *lead* the Representation lecture, not be tacked on.
+   - `.pptx` = zip → parse `ppt/slides/*.xml`. Old **`.ppt`** = OLE binary (no zip); extract text by
+     scanning UTF-16LE/ASCII string runs from the raw bytes (noisier — ask for `.pptx` if possible).
 7c. **Expand the most-emphasised section theory-by-theory.** For the section the reading/lecture
    dwells on most (e.g. OD ch.1's *What explains behaviour?*), don't cram all theories into one
    table — give each **family its own table** with every theory's **core idea + critique** (and,
