@@ -1422,6 +1422,10 @@ Hall & Taylor show that "the new institutionalism" is **not one theory but three
 
 ***Core:*** take one outcome (e.g. **Brexit**) and give **three competing explanations** — one per school.
 
+![Bloomberg infographic "Britain Votes to Leave": turnout donut 72.2%, result donut 51.9% Leave (pink) vs 48.1% Remain (blue), and a UK district map split pink/blue](figures/l6-brexit-result.png)
+
+**How to read it (the Brexit outcome the three schools explain).** The 2016 referendum: **72.2% turnout**, **51.9% Leave vs 48.1% Remain** — razor-thin — with the district map showing a **geographic split** (Scotland, London & N. Ireland Remain-blue; most of England & Wales Leave-pink). This single result is the *explanandum*: **RCI** reads it as actors' cost–benefit calculus and interests, **HI** as path dependence hitting a critical juncture, **SI** as a clash of identities/paradigms — same fact, three lenses.
+
 | School | **Explains CHANGE by…** | **Explains CONTINUITY by…** |
 |---|---|---|
 | **RCI** | disrupted equilibrium; actors' **interests** (utility-max, cost–benefit); strategic action; **few veto players** (or in agreement) | policy **equilibrium**; **many veto players** (or in disagreement) |

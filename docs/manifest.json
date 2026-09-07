@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T17:30:31.304Z",
+  "generatedAt": "2026-09-07T17:33:02.635Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -47,7 +47,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 6955
+        "sizeKB": 7319
       },
       "parts": [
         {
@@ -84,7 +84,7 @@
           "slug": "lecture-6",
           "title": "Lecture 6: Institutions and Institutionalisms (AUW)",
           "pdf": "pdfs/political-science/lecture-6.pdf",
-          "sizeKB": 452
+          "sizeKB": 814
         }
       ]
     }
