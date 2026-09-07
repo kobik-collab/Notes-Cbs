@@ -1134,11 +1134,14 @@ Looks at the three institutions through which democracies channel **participatio
 |---|---|---|---|---|---|---|
 | **SMD plurality (FPTP)** | most votes in each district wins (no majority needed) | **two parties** | **low** (wasted votes) | lower | worse | [UK](#c6-uk), US, [India](#c6-india) |
 | **Majoritarian** (two-round / **AV** ranked-choice) | need **50%+1** → runoff or reallocate | ~two blocs | low–medium | — | — | France |
-| **Proportional (PR)** — closed/open list | seats **= vote share** (national/large districts, a **threshold**) | **multiparty** | **high** | higher | **better** | [Israel](#c6-israel), [Brazil](#c6-brazil) (open) |
+| **Proportional (PR)** — [closed/open list](#c6-lists) | seats **= vote share** (national/large districts, a **threshold**) | **multiparty** | **high** | higher | **better** | [Israel](#c6-israel), [Brazil](#c6-brazil) (open) |
 | **Mixed / semiproportional** | SMD seats **+** party-list PR | multiparty | high (**compensatory**, [Germany](#c6-germany)) / medium (**noncompensatory**, [Japan](#c6-japan)) | higher | — | Germany, Japan |
 
 - **SMD/FPTP:** *strengths* — strong voter–representative link, single-party government (efficient, accountable); defenders also invoke **virtual representation** (co-partisans elected in *other* districts speak for you). *Weaknesses* — **wasted votes**, **disproportionality** (a party can win many seats on ~35% pluralities; a broad-but-thin party wins almost none), gerrymandering, fewer women/minorities. *(Empirically the SMD "closer link" is weak — Curtice & Shively found no real advantage in voter–rep contact.)*
 - **PR:** *strengths* — few wasted votes, **higher turnout**, far **more women & minorities** (lists + quotas), more information/positions, more egalitarian policy (Orellana). *Weaknesses* — no identifiable individual rep, **coalition instability**, small extremist parties gain outsized leverage; **Kedar:** PR voters even vote for *more extreme* parties on purpose, expecting post-election compromise to pull policy back to the middle.
+  - <a id="c6-lists"></a>**Closed vs open list — *who decides the order within a party's seats?*** Under PR you vote for a **party**, which then fills its won seats from a ranked **list of candidates**. The two variants differ in *who sets that rank*:
+    - **Closed list:** the **party** fixes the order in advance; you vote only for the party, and if it wins *n* seats they go to the top *n* names on the party's list. → **more party control, party discipline, and easy use of quotas** (a party can guarantee women high spots), but voters can't pick the *individual*. *(e.g. [Israel](#c6-israel).)*
+    - **Open list:** you vote for the party **and** for a **specific candidate** within it; the candidates' *own* vote totals decide who gets the party's seats. → **more voter choice over individuals**, but it makes candidates compete against their *own* party-mates → **weaker, more personalist parties.** *(e.g. [Brazil](#c6-brazil) — a big reason its parties are so fragmented and weak.)*
 - **Mixed:** two ballots (a district candidate **+** a party list) — blends a personal rep with proportional fairness; **Germany's compensatory** version tops seats up to full proportionality, **Japan's noncompensatory** version keeps SMD & PR separate (less proportional). **AV/ranked-choice** wastes fewer votes than FPTP (Maine 2018 elected the first US Congress seat by AV).
 - **Redistribution link (Iversen & Soskice — from Lecture 4):** **PR → the middle class allies with the poor → bigger welfare states**; majoritarian → middle allies with the rich → less. A key reason electoral systems shape *policy*, not just seats (the [Sweden vs US welfare](#case-sweden) puzzle).
 
@@ -1205,7 +1208,9 @@ Looks at the three institutions through which democracies channel **participatio
 | Single-member district (SMD) | Each district elects one representative |
 | Plurality / FPTP | Most votes wins (no majority needed) |
 | Majoritarian / Alternative vote | Winner needs 50%+1 (runoff / ranked-choice) |
-| Proportional representation (PR) | Seats = vote share (closed-list / open-list; threshold) |
+| Proportional representation (PR) | Seats = vote share (national/large districts + a threshold) |
+| [Closed-list PR](#c6-lists) | Vote for a party; the **party** sets the candidate order (party control, quotas) — Israel |
+| [Open-list PR](#c6-lists) | Vote for party **and** a candidate; candidates' own votes set the order (voter choice, weaker parties) — Brazil |
 | Mixed / semiproportional | SMD seats + party-list PR (compensatory / noncompensatory) |
 | Duverger's Law | SMD → two parties; PR → multiparty |
 | Party system | Number & strength of parties (dominant / two-party / multiparty) |
