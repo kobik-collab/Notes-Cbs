@@ -79,16 +79,28 @@
 
 - *Night before the exam:* total benefit of studying rises then flattens; the **marginal benefit of each extra hour falls** (**law of diminishing marginal returns**). Optimal hours = where MB of one more hour just equals its MC.
 
+![Two-panel diagram. Left: total benefit of studying rises steeply then flattens (diminishing returns). Right: a downward-sloping marginal-benefit line crosses an upward-sloping marginal-cost line at the optimum Q*, with "MB>MC → do more" left of it and "MC>MB → do less" right of it](figures/l1-marginal-optimum.png)
+
+**How to read it (illustrative diagram — the graph the book draws in a later chapter).** *Left:* **total benefit** rises but each extra hour adds less — the curve **flattens** (diminishing returns). *Right:* that flattening means **marginal benefit slopes down**; **marginal cost** slopes up. Left of the crossing, **MB > MC** so one more unit is worth it (*do more*); right of it, **MC > MB** (*do less*). The best you can do is the quantity where they meet — **the optimum Q\*, where MB = MC.**
+
 <a id="micro-equilibrium"></a>
 #### Equilibrium
 
 ***Core:*** an **equilibrium** is a resting point — given what everyone else is doing, **no individual can make themselves better off by changing their own behaviour.** Market prices are the classic example (later lectures): they adjust until quantity supplied = quantity demanded and no one wants to move.
+
+![Two supermarket-checkout pictograms. Left ("In equilibrium"): every queue is the same length. Right ("Out of equilibrium"): some lanes are long, others short or empty](figures/l1-equilibrium-checkouts.png)
+
+**How to read it (equilibrium = supermarket queues, from the lecture).** Each lane is a checkout; the queue length is how many people are waiting. **Out of equilibrium** (right) the lanes are uneven, so anyone in a long line can still gain by switching to a shorter one — people keep moving. **In equilibrium** (left) all lanes are equal, so **no one can do better by changing lane on their own** — that "no incentive to move" resting point is exactly what equilibrium means (and why market prices settle where supply meets demand).
 
 <a id="micro-empiricism"></a>
 #### Empiricism — models, and positive vs normative
 
 ***Core:*** economics reasons with **models** and tests them against **data** — and it deals in **positive** (testable) statements, not **normative** (value) ones.
 - **A model** expresses relationships between variables and makes **simplifying assumptions** (abstracts from reality). *"All models are useful, but all models are wrong"* — the art is choosing the right model (Keynes).
+
+![Textbook Fig. 1.1: a Marshall Islands navigation "stick chart" — a lattice of tied sticks (wave patterns) and shells (islands)](figures/l1-model-stick-chart.png)
+
+**How to read it (Friberg Fig. 1.1 — what a "model" is).** This is a Polynesian **stick chart**: sticks map the ocean's swell patterns, shells mark islands. It's not a literal picture of the Pacific — it **strips reality down to just the features you need to navigate.** That's the book's metaphor for an economic model: deliberately simplified, "wrong" as a full description, yet **good enough to steer decisions by.**
 - **Positive vs normative:**
   - **Positive** = a **testable/falsifiable** cause-effect claim — *"each additional Starbucks in a ZIP code is associated with a 0.5% rise in housing prices"* (Glaeser et al. 2018).
   - **Normative** = a **value judgment** — *"gentrification is bad because it forces the poor out."*

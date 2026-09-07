@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T17:26:43.473Z",
+  "generatedAt": "2026-09-07T17:30:31.304Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -7,14 +7,14 @@
       "full": {
         "title": "Applied Microeconomics — Full notes",
         "pdf": "pdfs/applied-micro/Applied-Micro-Notes.pdf",
-        "sizeKB": 404
+        "sizeKB": 9205
       },
       "parts": [
         {
           "slug": "lecture-1",
           "title": "Lecture 1: Principles of Economics (Chapter 1)",
           "pdf": "pdfs/applied-micro/lecture-1.pdf",
-          "sizeKB": 352
+          "sizeKB": 9154
         }
       ]
     },
