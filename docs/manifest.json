@@ -1,19 +1,22 @@
 {
-  "generatedAt": "2026-09-07T12:06:48.061Z",
+  "generatedAt": "2026-09-07T12:21:11.732Z",
   "subjects": [
     {
       "slug": "applied-micro",
       "name": "Applied Microeconomics",
-      "full": null,
+      "full": {
+        "title": "Applied Microeconomics — Full notes",
+        "pdf": "pdfs/applied-micro/Applied-Micro-Notes.pdf",
+        "sizeKB": 315
+      },
       "parts": [
         {
-          "slug": "chapter-1",
-          "title": "Chapter 1 — Introduction",
-          "pdf": "pdfs/applied-micro/chapter-1.pdf",
-          "sizeKB": 134
+          "slug": "lecture-1",
+          "title": "Lecture 1: Principles of Economics (Chapter 1)",
+          "pdf": "pdfs/applied-micro/lecture-1.pdf",
+          "sizeKB": 264
         }
-      ],
-      "note": "In progress"
+      ]
     },
     {
       "slug": "political-economic-thought",
