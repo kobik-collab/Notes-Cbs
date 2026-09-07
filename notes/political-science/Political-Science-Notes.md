@@ -1138,6 +1138,10 @@ Looks at the three institutions through which democracies channel **participatio
 | **Mixed / semiproportional** | SMD seats **+** party-list PR | multiparty | high (**compensatory**, [Germany](#c6-germany)) / medium (**noncompensatory**, [Japan](#c6-japan)) | higher | — | Germany, Japan |
 
 - **SMD/FPTP:** *strengths* — strong voter–representative link, single-party government (efficient, accountable); defenders also invoke **virtual representation** (co-partisans elected in *other* districts speak for you). *Weaknesses* — **wasted votes**, **disproportionality** (a party can win many seats on ~35% pluralities; a broad-but-thin party wins almost none), gerrymandering, fewer women/minorities. *(Empirically the SMD "closer link" is weak — Curtice & Shively found no real advantage in voter–rep contact.)*
+
+  <img src="figures/l5-gerrymander.png" alt="The original 1812 'Gerry-mander' cartoon: a Massachusetts electoral district drawn into the shape of a winged salamander" style="max-width:340px">
+
+  **How to read it (the original "Gerry-mander," 1812).** SMD only works if someone *draws the district lines* — and whoever draws them can rig outcomes. This famous cartoon mocks a Massachusetts district that Governor **Elbridge Gerry**'s party contorted into a **salamander** shape to pack/crack opponents into losing configurations. *Gerry + salamander = "gerrymander."* It's the visual shorthand for why single-member districts are vulnerable to **manipulated boundaries** — a weakness PR (large multi-member districts) largely avoids.
 - <a id="c6-majoritarian"></a>**Majoritarian — two-round runoff & the Alternative Vote.** Unlike FPTP, the winner must clear an **absolute majority (50%+1)**, so the count needs a *second step* FPTP doesn't have. Two ways to get there:
   - **Two-round system (TRS / runoff)** — *France.* **Round 1:** win outright if you get 50%+1; if not, the top candidates go to a **second-round runoff** a week or two later (top two — or in France's legislative version, *everyone above 12.5% of registered voters*), and whoever leads the runoff wins. Voters whose first choice is knocked out get to **re-choose** among those left.
   - **Alternative Vote (AV) / ranked-choice / instant-runoff** — *one ballot,* but you **rank** candidates 1-2-3… Count the 1st preferences; if nobody has 50%+1, **eliminate the last-placed candidate and transfer their ballots to each voter's next-ranked choice**; repeat until someone passes 50%. It's a runoff done "instantly" in a single election.
@@ -1150,6 +1154,10 @@ Looks at the three institutions through which democracies channel **participatio
 - **Mixed:** two ballots (a district candidate **+** a party list) — blends a personal rep with proportional fairness; **Germany's compensatory** version tops seats up to full proportionality, **Japan's noncompensatory** version keeps SMD & PR separate (less proportional). **AV/ranked-choice** wastes fewer votes than FPTP (Maine 2018 elected the first US Congress seat by AV).
   - **Is Germany still "mixed"? (2023 reform).** You can argue it's **drifting toward pure PR.** Germany's compensatory mechanism caused the Bundestag to balloon (**736 seats in 2021** via overhang + balance seats). The **2023 reform** (first used in the **2025** election) **capped the house at 630** and **abolished overhang & compensatory seats**: a party now gets **only** the seats its **second (list) vote** earns, and district winners are seated **only if their party's list vote covers them** (*Zweitstimmendeckung*) — otherwise the narrowest district winners **lose their seats** even though they won locally. So the **first vote no longer guarantees a personal representative**, and total seats are set almost entirely by the party vote → many now call it **"personalised PR"** rather than a genuine mixed system. *(The Constitutional Court upheld the cap in 2024 but reinstated the basic-mandate/3-seat clause.)*
 - **Redistribution link (Iversen & Soskice — from Lecture 4):** **PR → the middle class allies with the poor → bigger welfare states**; majoritarian → middle allies with the rich → less. A key reason electoral systems shape *policy*, not just seats (the [Sweden vs US welfare](#case-sweden) puzzle).
+
+![Table: years of left vs right government by electoral system, 1945–98. Proportional systems = 342 left-years vs 120 right (0.26 proportion right); majoritarian = 86 left vs 256 right (0.75 proportion right)](figures/l5-iversen-soskice.png)
+
+**How to read it (Iversen & Soskice).** Count the years each system spent under left vs right government (1945–98). Under **PR**, the right governed only **26%** of the time; under **majoritarian**, the right governed **75%** of the time. Same democracies, opposite tilt — hard evidence that **the electoral system biases *which* side holds power over the long run**, and hence how big the welfare state gets.
 
 <a id="c6-duverger"></a>
 #### Duverger's Law — and its limits
@@ -1176,10 +1184,25 @@ Looks at the three institutions through which democracies channel **participatio
 
 #### How parties mobilise — and the "crisis of party democracy"
 
-***Core:*** parties win support three ways — **programmatic** (ideas/ideology) · **patronage/clientelist** (material benefits for votes, via **brokers** — common in poorer/newer & statist economies) · **populist** (a personalist leader, "the people" vs "corrupt elites," crisis rhetoric, "bad manners").
-- **Where parties sit — two ideology axes (FK):** the classic **economic Left–Right** (redistribution) *plus* the modern cultural **GAL–TAN** — **GAL** (Green/Alternative/Libertarian: progressive, cosmopolitan, pro-environment, individual rights) vs **TAN** (Traditional/Authoritarian/Nationalist). Today's populist/far-right parties (Farage, Salvini, AfD) mobilise mainly on the **TAN** end of this second axis.
+***Core:*** parties win support in **three distinct ways** — how a party mobilises tells you what *kind* of party it is:
+
+| Type | How it wins votes | Signature | Where it thrives |
+|---|---|---|---|
+| **Programmatic** | offers **ideas / ideology / policy** — you vote for its platform | manifestos, left–right positioning | established, richer democracies |
+| **Patronage / clientelist** | trades **material benefits for votes**, delivered through local **brokers** | jobs, cash, favours, "get out the vote" machines | poorer / newer & **statist** economies |
+| **Populist** | a **personalist leader** frames **"the people" vs a "corrupt elite"** | crisis rhetoric, anti-establishment, deliberate "**bad manners**" | anywhere in a "crisis of party democracy" |
+
+- **Where parties sit — two ideology axes (FK):** parties map onto **two** dimensions, not one — the classic **economic Left–Right** (redistribution: *state intervention to increase equality* ⇄ *no intervention*) *plus* the modern cultural **GAL–TAN** — **GAL** (Green/Alternative/Libertarian: progressive, cosmopolitan, pro-environment, individual rights) vs **TAN/TAL** (Traditional/Authoritarian/Nationalist). Today's populist/far-right parties (Farage, Salvini, AfD) mobilise mainly on the **TAN** end of this *second* axis.
+
+![OD Fig. 6.4 — Von Beyme's two-axis map of parties: horizontal = economic left (state intervention for equality) to right (no intervention); vertical = GAL (green/alternative/libertarian) to TAL (traditional/authoritarian/nationalist), with real parties plotted](figures/l5-party-axes.png)
+
+**How to read it (Von Beyme, OD Fig. 6.4).** The **horizontal axis = economics** (left = *state intervention to increase equality*; right = *no intervention*); the **vertical axis = culture/values** (bottom = **GAL**; top = **TAL/TAN**). A party's position is the *pair* of coordinates — e.g. **Labour/Dems** sit centre-left & GAL-ish, **RN (Rassemblement National)** & **FIDESZ** sit right & strongly **TAL**, **Greens** sit far GAL. The point: two parties can share an economic position yet be opposites on culture — which is exactly how the far-right mobilises on the *TAN* axis without moving economically.
 - *Caveat on "programmatic":* **Achen & Bartels** ("folk theory" critique) argue voters mostly vote by **social identity**, not by carefully weighing ideas — so pure programmatic appeal is partly a myth.
 - **Crisis of party democracy:** only ~**20%** trust parties (though ~80% value democracy); falling loyalty/membership/turnout, rising **electoral volatility**, single-issue/postmaterialist voting, and **far-right/anti-system** parties (nativism, post-2015 refugee crisis). Explanations: economic (globalisation, manufacturing decline); **dealignment** (voters detach from all parties) vs **realignment** (they switch); catch-all parties → **"cartel parties"** (Mair) colluding at the centre → lost efficacy.
+
+![Stacked bar chart of combined vote share of far-left, populist and far-right parties across 31 European countries, 1993–2022 — roughly doubling from ~12% to ~31%, driven mainly by far-right populist parties](figures/l5-populism-rise.png)
+
+**How to read it (The PopuList, Rooduijn et al. 2024).** Each bar = one year's **combined vote share** of anti-establishment parties across 31 European countries; the colours split them into far-left, far-left-populist, populist, **far-right-populist (blue)** and far-right. The story is the **near-doubling** from ~12% (1993) to ~31% (2022), and that most of the growth is the **blue far-right-populist** band — the empirical face of the "crisis of party democracy."
 - **US exception:** not dealignment but partisan **sorting/polarisation** (Abramowitz), racial realignment, and Trump's **status-threat** populism (Mutz 2018).
 
 <a id="c6-civilsociety"></a>
@@ -1189,6 +1212,12 @@ Looks at the three institutions through which democracies channel **participatio
 - **Pluralism** (US): **many** competing groups, a **neutral** state; easy entry & local control, but fragmented clout — and **business is inherently privileged** (Lindblom). **Schattschneider's** famous jab: *"the flaw in the pluralist heaven is that the heavenly chorus sings with a strong upper-class accent"* — i.e. who *gets organised* is skewed toward the well-off.
 - **Neocorporatism** / societal corporatism (Germany, N. Europe): a **few large, hierarchical peak associations** the state recognises as *the* voice of each sector negotiate **binding** deals; more influence (esp. for labour countering business) but **less participatory** (little incentive to form new groups). *(State corporatism = the mandated, authoritarian version — ch. 8.)*
 - **Social-capital debate:** Putnam (*Bowling Alone*) sees civic **decline**; Skocpol adds that mass-membership bodies gave way to **managed advocacy**; critics (Dalton, "**Kicking in Groups**") reply that activity just **moved to new forms** (movements, single-issue groups).
+
+![Pluralism (US): a central 'State' with many small competing business and labour groups all loosely linked to it](figures/l5-pluralism-us.png)
+
+![Neocorporatism (Germany): a 'State' formally linked to a few large peak associations (peak labour, peak industry, peak employers), each with individual members beneath](figures/l5-neocorporatism-germany.png)
+
+**How to read them (OD).** *Pluralism (US, first diagram):* **many** groups orbit a **neutral** state, connected by thin/loose lines — lots of competing voices, easy entry, but **fragmented** clout and no single channel. *Neocorporatism (Germany, second):* the state is formally wired to just **a few large peak associations** (peak labour DGB, peak industry BDI, peak employers BDA), each sitting *above* its own member firms/unions — fewer, **binding** channels → more influence (esp. for labour) but **harder for new groups** to break in. Same job (representing interests), opposite architecture: *many-and-loose* vs *few-and-binding.*
 
 <a id="c6-tradeoff"></a>
 #### The master trade-off (Powell)
