@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T15:04:47.949Z",
+  "generatedAt": "2026-09-07T12:06:48.061Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -38,7 +38,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 1861
+        "sizeKB": 2176
       },
       "parts": [
         {
@@ -63,13 +63,19 @@
           "slug": "lecture-4",
           "title": "Lecture 4: Systems of Government",
           "pdf": "pdfs/political-science/lecture-4.pdf",
-          "sizeKB": 398
+          "sizeKB": 417
         },
         {
           "slug": "lecture-5",
           "title": "Lecture 5: Participation and Representation (FK)",
           "pdf": "pdfs/political-science/lecture-5.pdf",
-          "sizeKB": 357
+          "sizeKB": 376
+        },
+        {
+          "slug": "lecture-6",
+          "title": "Lecture 6: Institutions and Institutionalisms (AUW)",
+          "pdf": "pdfs/political-science/lecture-6.pdf",
+          "sizeKB": 452
         }
       ]
     }

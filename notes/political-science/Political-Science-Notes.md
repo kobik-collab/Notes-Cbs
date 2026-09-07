@@ -1316,6 +1316,7 @@ Hall & Taylor show that "the new institutionalism" is **not one theory but three
 
 ***Core:*** institutions are **rules that structure strategic interaction** among rational, fixed-preference **utility-maximisers**; they persist because they're an **equilibrium** and are created to **capture gains from cooperation**.
 - Borrows the "new economics of organization" (transaction costs, property rights, principal–agent). Politics = a series of **collective-action dilemmas** (prisoner's dilemma, tragedy of the commons); institutions solve them by providing **information + enforcement**.
+- **Exemplars:** US Congress studies — **Shepsle, Weingast**; **Ostrom** on common-pool resources; **North** on economic institutions.
 - **Best at:** precise, generalisable theory; explaining **why institutions persist**. **Weak at:** origins/change — its explanations are **functionalist** (deduce origins from consequences — but you can't, because of unintended consequences), **intentionalist**, **voluntarist** (understates power); and the **equilibrium paradox** (if the status quo is already a Nash equilibrium, why would anyone agree to change it?).
 
 <a id="l6-hi"></a>
@@ -1323,6 +1324,7 @@ Hall & Taylor show that "the new institutionalism" is **not one theory but three
 
 ***Core:*** institutions **distribute power unevenly** ("structure conflict to privilege some, demobilise others") and, once set, lock national development onto **paths** that are costly to reverse — change comes at **critical junctures**.
 - Definition sits in the middle (procedures/routines/norms embedded in organizations); **eclectic** on behaviour (both calculus & cultural, integrating **ideas**). History = **long continuity punctuated by critical junctures** (triggered by crisis/war) that create **branching points**; between them, **path dependence + unintended consequences** dominate.
+- **Exemplars:** **Immergut** (health-care reform), **Steinmo** (tax policy), **Hattam** (US labour), **Skocpol** (welfare states & state capacities); **Thelen** (how institutions evolve).
 - **The most "commodious"** and realistic school, and the **pivot** between RCI and SI. **Weak at:** specifying the exact causal mechanism; too inductive to build systematic theory. *(This is the school Busemeyer & Thelen exemplify — see below.)*
 
 <a id="l6-si"></a>
@@ -1330,6 +1332,7 @@ Hall & Taylor show that "the new institutionalism" is **not one theory but three
 
 ***Core:*** institutions are **cultural frames of meaning** (symbols, scripts, templates) that don't just constrain behaviour but **constitute actors' identities and preferences**; organizations adopt practices for **legitimacy**, not efficiency.
 - Dissolves the **institution/culture** boundary (a "cognitive turn"). Actors follow a **"logic of appropriateness"** (what's socially appropriate), not pure calculation. Explains **isomorphism** — why organizations in a field converge on the same forms "regardless of local conditions," even when **dysfunctional**.
+- **Exemplars:** **Meyer & Rowan** ("myth & ceremony"), **DiMaggio & Powell** (isomorphism / the "organizational field"), **March & Olsen** (logic of appropriateness), **Dobbin, Fligstein, Soysal**.
 - **Best at:** meaning, legitimacy, identity, and the inefficiencies RCI can't explain (the "waiting at a red light with no one around" point). **Weak at:** power & agency — "curiously **bloodless**," can look like **"action without agents."**
 
 <a id="l6-change"></a>
@@ -1346,7 +1349,8 @@ Hall & Taylor show that "the new institutionalism" is **not one theory but three
 #### Hall & Taylor's conclusion — cross-fertilise
 
 ***Core:*** each school reveals a **genuine but partial** dimension of behaviour, so they should **borrow from each other** rather than stay in isolation.
-- Who does what: **RCI** = precision & persistence (weak on motivation/change); **HI** = power & history (weak on mechanism); **SI** = meaning & legitimacy (weak on power/agency). HI is the **bridge**. Syntheses: norms as **"focal points"** picking among equilibria (Garrett & Weingast); "decision rules + decision styles" (Scharpf).
+- Who does what: **RCI** = precision & persistence (weak on motivation/change); **HI** = power & history (weak on mechanism); **SI** = meaning & legitimacy (weak on power/agency). HI is the **bridge** — its arguments translate into RCI terms yet open toward SI (actors pick institutions strategically, but "from a menu made historically available").
+- **Emerging syntheses they cite:** **Kreps** (corporate culture as an efficient supplement to monitoring); **Garrett & Weingast** (norms/ideas as **"focal points"** that select among multiple equilibria); **Scharpf** ("decision rules" [incentives] + "decision styles" [beliefs about appropriate behaviour]); **Bates & Weingast** (strategic interaction as **signalling games** needing cultural context). *(Caveat: they don't claim a full synthesis is yet possible — "there is much to be said for tenacious debate.")*
 
 ### Key terms
 | Term | Meaning |
@@ -1388,6 +1392,7 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 ***Core:*** to structural + instrumental power, add **institutional business power** — endogenous to **past policy-design choices**, not a generic feature of capitalism.
 - **Three types:** **structural** (investor's exit threat — Lindblom) · **instrumental** (lobbying/donations) · **institutional** (entrenched role in delivering a **public function**). They act as **"communicating vessels."**
 - **Two conditions** set how strong institutional power is: **(1) the credibility of business's exit threat** and **(2) the depth of state dependence** (has the state lost the capacity to provide the service itself?). Both high → power strongest.
+- Once entrenched, institutional power grants business insider **"quiet politics"** access (Culpepper) — so it needs far less *overt* lobbying. The three cases are deliberately **"most different"** (Esping-Andersen's three welfare worlds × Hall & Soskice's *varieties of capitalism*) to show a **common dynamic despite maximally different systems.**
 
 #### Three mechanisms → three countries
 
