@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T13:56:26.586Z",
+  "generatedAt": "2026-09-07T14:01:38.729Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -47,7 +47,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 2223
+        "sizeKB": 2243
       },
       "parts": [
         {
@@ -78,7 +78,7 @@
           "slug": "lecture-5",
           "title": "Lecture 5: Participation and Representation (FK)",
           "pdf": "pdfs/political-science/lecture-5.pdf",
-          "sizeKB": 424
+          "sizeKB": 446
         },
         {
           "slug": "lecture-6",

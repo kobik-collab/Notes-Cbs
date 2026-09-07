@@ -1133,11 +1133,16 @@ Looks at the three institutions through which democracies channel **participatio
 | System | Votes → seats | Parties (Duverger) | Proportionality | Turnout | Women/minorities | Cases |
 |---|---|---|---|---|---|---|
 | **SMD plurality (FPTP)** | most votes in each district wins (no majority needed) | **two parties** | **low** (wasted votes) | lower | worse | [UK](#c6-uk), US, [India](#c6-india) |
-| **Majoritarian** (two-round / **AV** ranked-choice) | need **50%+1** → runoff or reallocate | ~two blocs | low–medium | — | — | France |
+| **[Majoritarian](#c6-majoritarian)** (two-round / **AV** ranked-choice) | need **50%+1** → runoff or reallocate | ~two blocs | low–medium | — | — | France |
 | **Proportional (PR)** — [closed/open list](#c6-lists) | seats **= vote share** (national/large districts, a **threshold**) | **multiparty** | **high** | higher | **better** | [Israel](#c6-israel), [Brazil](#c6-brazil) (open) |
 | **Mixed / semiproportional** | SMD seats **+** party-list PR | multiparty | high (**compensatory**, [Germany](#c6-germany)) / medium (**noncompensatory**, [Japan](#c6-japan)) | higher | — | Germany, Japan |
 
 - **SMD/FPTP:** *strengths* — strong voter–representative link, single-party government (efficient, accountable); defenders also invoke **virtual representation** (co-partisans elected in *other* districts speak for you). *Weaknesses* — **wasted votes**, **disproportionality** (a party can win many seats on ~35% pluralities; a broad-but-thin party wins almost none), gerrymandering, fewer women/minorities. *(Empirically the SMD "closer link" is weak — Curtice & Shively found no real advantage in voter–rep contact.)*
+- <a id="c6-majoritarian"></a>**Majoritarian — two-round runoff & the Alternative Vote.** Unlike FPTP, the winner must clear an **absolute majority (50%+1)**, so the count needs a *second step* FPTP doesn't have. Two ways to get there:
+  - **Two-round system (TRS / runoff)** — *France.* **Round 1:** win outright if you get 50%+1; if not, the top candidates go to a **second-round runoff** a week or two later (top two — or in France's legislative version, *everyone above 12.5% of registered voters*), and whoever leads the runoff wins. Voters whose first choice is knocked out get to **re-choose** among those left.
+  - **Alternative Vote (AV) / ranked-choice / instant-runoff** — *one ballot,* but you **rank** candidates 1-2-3… Count the 1st preferences; if nobody has 50%+1, **eliminate the last-placed candidate and transfer their ballots to each voter's next-ranked choice**; repeat until someone passes 50%. It's a runoff done "instantly" in a single election.
+  - *Mini worked example (AV):* three candidates — **A 40% · B 35% · C 25%**, nobody at 50%. Eliminate **C**; C's voters' 2nd choices split (say **+18%→B, +7%→A**). New totals: **A 47% · B 53% → B wins** — even though A *led* the first count. That flip is the whole point: it rewards the **broadly acceptable** candidate over the one with the biggest *minority*.
+  - *Effect:* squeezes extremes, rewards second-choice-friendly candidates, wastes fewer votes than FPTP; produces **~two blocs** but more softly than FPTP. *(Case: **Maine 2018** — first US Congress seat decided by AV; Golden won **50.5–49.5 after trailing on the first count**.)*
 - **PR:** *strengths* — few wasted votes, **higher turnout**, far **more women & minorities** (lists + quotas), more information/positions, more egalitarian policy (Orellana). *Weaknesses* — no identifiable individual rep, **coalition instability**, small extremist parties gain outsized leverage; **Kedar:** PR voters even vote for *more extreme* parties on purpose, expecting post-election compromise to pull policy back to the middle.
   - <a id="c6-lists"></a>**Closed vs open list — *who decides the order within a party's seats?*** Under PR you vote for a **party**, which then fills its won seats from a ranked **list of candidates**. The two variants differ in *who sets that rank*:
     - **Closed list:** the **party** fixes the order in advance; you vote only for the party, and if it wins *n* seats they go to the top *n* names on the party's list. → **more party control, party discipline, and easy use of quotas** (a party can guarantee women high spots), but voters can't pick the *individual*. *(e.g. [Israel](#c6-israel).)*
@@ -1208,7 +1213,9 @@ Looks at the three institutions through which democracies channel **participatio
 | Electoral system | Legal mechanism translating votes into offices/seats |
 | Single-member district (SMD) | Each district elects one representative |
 | Plurality / FPTP | Most votes wins (no majority needed) |
-| Majoritarian / Alternative vote | Winner needs 50%+1 (runoff / ranked-choice) |
+| [Majoritarian](#c6-majoritarian) | Winner needs an absolute majority (50%+1) |
+| [Two-round system (runoff)](#c6-majoritarian) | If no 50%+1 in round 1, top candidates meet in a second-round runoff (France) |
+| [Alternative Vote (AV) / ranked-choice](#c6-majoritarian) | Rank candidates; eliminate last-placed & transfer their votes until one passes 50% |
 | Proportional representation (PR) | Seats = vote share (national/large districts + a threshold) |
 | [Closed-list PR](#c6-lists) | Vote for a party; the **party** sets the candidate order (party control, quotas) — Israel |
 | [Open-list PR](#c6-lists) | Vote for party **and** a candidate; candidates' own votes set the order (voter choice, weaker parties) — Brazil |
