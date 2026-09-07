@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T14:36:11.213Z",
+  "generatedAt": "2026-09-07T17:26:43.473Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -47,7 +47,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 4930
+        "sizeKB": 6955
       },
       "parts": [
         {
@@ -72,7 +72,7 @@
           "slug": "lecture-4",
           "title": "Lecture 4: Systems of Government",
           "pdf": "pdfs/political-science/lecture-4.pdf",
-          "sizeKB": 417
+          "sizeKB": 2443
         },
         {
           "slug": "lecture-5",
