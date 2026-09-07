@@ -116,7 +116,13 @@ the "where is everything" index; keep it updated as lectures/weeks are added.
      two-axis maps, charts/tables (e.g. Iversen–Soskice), iconic illustrations (the Gerry-mander).
      **Skip pure decoration** (stock photos, clip-art crowds, flags, personal screenshots). Save to
      `notes/<subject>/figures/l<N>-<slug>.png`, embed via §8 (Figures) with a **"How to read it"**
-     caption, and constrain tall images with an inline `style="max-width:…"`.
+     caption, and constrain tall images with an inline `style="max-width:…"`. **Book-page photos** in
+     decks are often sideways/upside-down — rotate with PIL (`.rotate(180/90, expand=True)`) before use.
+   - **If a deck is mostly decoration** (stock photos, news imagery, no real diagrams — as in Lec 6),
+     **don't force images in**; say so and move on. And **if a central concept's graph lives only in a
+     later chapter** (e.g. Micro ch.1 describes MB=MC but draws it in ch.4), **generate a clean
+     illustrative diagram** (matplotlib: thin marks, direct-labelled lines, recessive axes) and label the
+     caption *"illustrative diagram"* so it's not mistaken for a source figure.
 7c. **Expand the most-emphasised section theory-by-theory.** For the section the reading/lecture
    dwells on most (e.g. OD ch.1's *What explains behaviour?*), don't cram all theories into one
    table — give each **family its own table** with every theory's **core idea + critique** (and,
