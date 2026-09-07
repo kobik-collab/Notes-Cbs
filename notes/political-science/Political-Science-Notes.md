@@ -14,6 +14,7 @@
 - **[Lecture 3: Political Regimes (FK)](#lecture-3)** — [OD Ch. 3: States, Citizens & Regimes](#od-ch-3--states-citizens-and-regimes) · [regime taxonomy](#c3-taxonomy) · [★ Fun facts](#ff-lecture3)
 - **[Lecture 4: Systems of Government](#lecture-4)** — [OD Ch. 5: Governing Institutions](#od-ch-5--governing-institutions-in-democracies) · [parliamentary vs presidential vs semi-presidential](#c5-comparison) · [★ Fun facts](#ff-lecture4)
 - **[Lecture 5: Participation and Representation (FK)](#lecture-5)** — [OD Ch. 6: Participation & Representation](#od-ch-6--institutions-of-participation-and-representation) · [electoral systems compared](#c6-electoral) · [★ Fun facts](#ff-lecture5)
+- **[Lecture 6: Institutions and Institutionalisms (AUW)](#lecture-6)** — [Hall & Taylor: the 3 institutionalisms](#l6-ht) · [RCI / HI / SI compared](#l6-comparison) · [Busemeyer & Thelen (HI example)](#l6-bt) · [★ Fun facts](#ff-lecture6)
 
 > *(All lectures so far fall under **Part I**. New lectures go under Part I until the syllabus introduces a new Part.)*
 
@@ -1235,3 +1236,210 @@ Looks at the three institutions through which democracies channel **participatio
 - **France:** the top two parties held **56% of Assembly seats (1973) → 82% (2012)** — then the system **collapsed in 2017** with Macron's one-year-old party.
 - **~60 countries** used FPTP in 2019 — almost all former British colonies; **Belarus** was the only continental-European one.
 - The social-capital debate in two titles: Putnam's ***Bowling Alone*** vs its rebuttal **"Kicking in Groups."**
+
+---
+
+<a id="lecture-6"></a>
+# Lecture 6: Institutions and Institutionalisms (AUW)
+
+**Required reading:** Hall & Taylor (1996), *Political Science and the Three New Institutionalisms* · Busemeyer & Thelen (2020), *Institutional Sources of Business Power* (an HI example)
+
+**Theme of the lecture:** the role of **institutions and structures** in political processes — how institutions **shape the behaviour of political actors**, and what drives institutional **change vs continuity** — focusing on the **rational-choice (RCI), historical (HI), and sociological (SI)** variants of **New Institutionalism** (with **path dependence** and **institutional legacies** as central concepts).
+
+**Lecture frame (AUW) — the essentials before the three schools**
+
+***Core:*** **institutions ≠ organizations.** Institutions are the **rules/norms that enable or constrain actors**; organizations are **groups of actors**. *(Ayca's example: the **Social Democratic Party** is an *organization*; the constitutional & legal rules, its internal statutes, and the unwritten norms governing it — e.g. can an MP defy the leadership and keep their job? — are *institutions*.)*
+- **The debate it settles: structure vs agency** — *what explains a political outcome?* New Institutionalism is the "revised" answer (behavioralism → institutionalist critique → New Institutionalism): **institutions structure outcomes.**
+- **Why study institutions?** They have **profound political consequences** — e.g. electoral system → party system (majoritarian → two-party; PR → multiparty — Lectures 4–5); parental-benefit design → labour-market gender equality.
+- **The definition of "institution" *widens* across the three schools** — this is the key organising idea:
+
+| School | What counts as an institution |
+|---|---|
+| **RCI** (narrowest) | **"Rules of the game"** — constitutions, laws, regulations, court decisions |
+| **HI** (middle) | The above **+ procedures, routines, norms, conventions** (how things are done; SOPs) |
+| **SI** (broadest) | All the above **+ symbol systems, cognitive scripts, moral/discursive templates** — "frames of meaning" (role of the state, national identity, patriarchy, institutional racism…) |
+
+---
+
+<a id="l6-ht"></a>
+## Hall & Taylor (1996) — The Three New Institutionalisms
+
+### Chapter résumé
+Hall & Taylor show that "the new institutionalism" is **not one theory but three** — **rational-choice (RCI)**, **historical (HI)**, and **sociological (SI)** institutionalism — which arose in the 1980s–90s (all reacting against 1960s–70s **behavioralism**) yet developed **independently**, "paint quite different pictures of the political world," and rarely cited each other. They compare the three on **two questions fundamental to any institutional analysis: (1) how institutions relate to behaviour, and (2) how institutions originate and change.** Their verdict: none is wrong — each captures a **partial** truth — so they call for **cross-fertilisation.**
+
+<div class="heart">★ <strong>The heart of the reading:</strong> three schools answer the same question — <em>how do institutions shape political behaviour and outcomes?</em> — very differently. <strong>RCI</strong>: institutions are rules that structure <strong>strategic interaction</strong> among fixed-preference utility-maximisers ("calculus"). <strong>HI</strong>: institutions distribute <strong>power</strong> unevenly and lock in <strong>paths</strong> over time (eclectic). <strong>SI</strong>: institutions are <strong>cultural frames of meaning</strong> that constitute actors' very identities and preferences ("cultural"). The exam task: fill in the comparison table and use it to build <em>three competing explanations</em> for one outcome.</div>
+
+**The red thread.** Everything reduces to **two cross-cutting approaches** (Hall & Taylor's own device): the **calculus approach** (actors strategically maximise; institutions give certainty about others' behaviour; persist as a **Nash equilibrium**) vs the **cultural approach** (actors interpret via worldviews; institutions provide moral/cognitive templates; persist because **taken-for-granted**). **RCI = pure calculus · SI = pure cultural · HI = both.** For any theory ask: *calculus or cultural — and how does that answer "how do actors behave / what do institutions do / why do they persist"?*
+
+### Key concepts / "modes" to use
+- **The three schools:** **RCI · HI · SI** (+ the widening definition of "institution").
+- **Calculus vs cultural approaches** — the master framework for *how institutions affect behaviour*.
+- **RCI toolkit:** strategic interaction · collective-action dilemmas · gains from exchange · **Nash equilibrium**.
+- **HI toolkit:** **power asymmetries · path dependence · critical junctures · unintended consequences**.
+- **SI toolkit:** **frames of meaning · logic of appropriateness · isomorphism · legitimacy**.
+
+### Section-by-section main points
+
+<a id="l6-calc"></a>
+#### The two archetypes — calculus vs cultural
+
+***Core:*** any institutionalism must answer three questions — *how do actors behave? what do institutions do? why do they persist?* — and there are two archetypal answer-sets.
+
+| | **Calculus approach** (→ RCI) | **Cultural approach** (→ SI) |
+|---|---|---|
+| **How do actors behave?** | Instrumental, strategic **utility-maximisers**; preferences given **exogenously** | Behaviour **bounded by a worldview**; **satisficers**; choice depends on *interpretation* |
+| **What do institutions do?** | Provide **certainty** about others (information, enforcement); shape **expectations** | Provide **moral/cognitive templates**; shape **identities & preferences** themselves |
+| **Why do they persist?** | They're a **Nash equilibrium** — deviating makes you worse off | **Taken-for-granted**; one actor can't change a collective convention |
+
+**HI is eclectic — it uses *both*.**
+
+<a id="l6-comparison"></a>
+#### ★ The three institutionalisms compared *(the exam table — from the screenshot)*
+
+***Core:*** memorise this. To answer "why did outcome X happen?", read *across a row* for three competing explanations.
+
+| Dimension | **Rational Choice (RCI)** | **Historical (HI)** | **Sociological (SI)** |
+|---|---|---|---|
+| **Definition of institutions** | Rules/procedures that structure **strategic interaction** (narrow) | Formal/informal **procedures, routines, norms, conventions** embedded in the polity/economy (tied to organizations) | **Symbol systems, cognitive scripts, moral templates** — "frames of meaning" (dissolves the institution/culture line) |
+| **Example they study** | **US Congress** (committees, rules of procedure) | **Cross-national public policy** (welfare states, labour, corporatism) | **Organizational forms & their diffusion** (why education ministries worldwide look alike) |
+| **Institutions ↔ behaviour** | **Calculus** | **Eclectic** (both) | **Cultural** |
+| **How do actors behave?** | Fixed **exogenous preferences**; instrumental, strategic maximisers | Both strategic *and* worldview-shaped (strategies can **ossify into worldviews**) | Socially-constituted interpreters; **"logic of appropriateness"** — what's "rational" is itself socially constituted |
+| **What do institutions do?** | Structure strategic interaction; provide info/enforcement → reduce uncertainty, enable **gains from exchange**; solve **collective-action problems** | **Structure conflict** — privilege some interests, demobilise others; distribute **power unevenly** | Confer **meaning & legitimacy**; constitute actors' **identities & preferences** |
+| **Why do they persist?** | They're a **Nash equilibrium** (deviation costs you) | **Path dependence** — groups develop interests "costly to shift" | **Taken-for-granted**; can't be changed by one individual |
+| **How/why do they change?** | Deductive; **voluntary agreement** / competitive selection *(weak on change — the "equilibrium paradox")* | **Critical junctures** (crisis/war) → **branching points**; otherwise path-dependent | Adopt new **templates for legitimacy** (not efficiency); **borrowing/diffusion**; can even be *dysfunctional* |
+| **Particular focus** | Strategic interaction; collective-action dilemmas; gains from exchange | **Power asymmetries; path dependence; unintended consequences; ideas** | **Legitimacy; culture; isomorphism** |
+| **Key concepts** | transaction costs, principal–agent, Nash equilibrium, gains from exchange | path dependence, critical junctures, unintended consequences, "mobilization of bias" | frames of meaning, cognitive scripts, logic of appropriateness, isomorphism |
+| **Hall & Taylor's critique** | **Thin/"simplistic" motivation**; exogenous preferences; **functionalist** origins | Vague on the **precise causal mechanism**; too **inductive** | **"Bloodless"; "action without agents"**; misses **power** |
+
+<a id="l6-rci"></a>
+#### Rational Choice Institutionalism (RCI) — the "calculus" school
+
+***Core:*** institutions are **rules that structure strategic interaction** among rational, fixed-preference **utility-maximisers**; they persist because they're an **equilibrium** and are created to **capture gains from cooperation**.
+- Borrows the "new economics of organization" (transaction costs, property rights, principal–agent). Politics = a series of **collective-action dilemmas** (prisoner's dilemma, tragedy of the commons); institutions solve them by providing **information + enforcement**.
+- **Best at:** precise, generalisable theory; explaining **why institutions persist**. **Weak at:** origins/change — its explanations are **functionalist** (deduce origins from consequences — but you can't, because of unintended consequences), **intentionalist**, **voluntarist** (understates power); and the **equilibrium paradox** (if the status quo is already a Nash equilibrium, why would anyone agree to change it?).
+
+<a id="l6-hi"></a>
+#### Historical Institutionalism (HI) — power + path dependence
+
+***Core:*** institutions **distribute power unevenly** ("structure conflict to privilege some, demobilise others") and, once set, lock national development onto **paths** that are costly to reverse — change comes at **critical junctures**.
+- Definition sits in the middle (procedures/routines/norms embedded in organizations); **eclectic** on behaviour (both calculus & cultural, integrating **ideas**). History = **long continuity punctuated by critical junctures** (triggered by crisis/war) that create **branching points**; between them, **path dependence + unintended consequences** dominate.
+- **The most "commodious"** and realistic school, and the **pivot** between RCI and SI. **Weak at:** specifying the exact causal mechanism; too inductive to build systematic theory. *(This is the school Busemeyer & Thelen exemplify — see below.)*
+
+<a id="l6-si"></a>
+#### Sociological Institutionalism (SI) — culture & legitimacy
+
+***Core:*** institutions are **cultural frames of meaning** (symbols, scripts, templates) that don't just constrain behaviour but **constitute actors' identities and preferences**; organizations adopt practices for **legitimacy**, not efficiency.
+- Dissolves the **institution/culture** boundary (a "cognitive turn"). Actors follow a **"logic of appropriateness"** (what's socially appropriate), not pure calculation. Explains **isomorphism** — why organizations in a field converge on the same forms "regardless of local conditions," even when **dysfunctional**.
+- **Best at:** meaning, legitimacy, identity, and the inefficiencies RCI can't explain (the "waiting at a red light with no one around" point). **Weak at:** power & agency — "curiously **bloodless**," can look like **"action without agents."**
+
+<a id="l6-change"></a>
+#### Change vs continuity — each school's answer *(AUW's deck; the Brexit test)*
+
+***Core:*** take one outcome (e.g. **Brexit**) and give **three competing explanations** — one per school.
+
+| School | **Explains CHANGE by…** | **Explains CONTINUITY by…** |
+|---|---|---|
+| **RCI** | disrupted equilibrium; actors' **interests** (utility-max, cost–benefit); strategic action; **few veto players** (or in agreement) | policy **equilibrium**; **many veto players** (or in disagreement) |
+| **HI** | **critical junctures**; unintended consequences; powerful **agenda-setters**; institutional inertia | **path dependence**; **policy lock-in**; institutional power vested in key actors |
+| **SI** | **societal shifts** (materialism→post-materialism); a new **economic paradigm** (Keynesianism→neoliberalism); IR shift (multilateral→unilateral) | deep **taken-for-granted** structures; **national identities**; nested power structures |
+
+#### Hall & Taylor's conclusion — cross-fertilise
+
+***Core:*** each school reveals a **genuine but partial** dimension of behaviour, so they should **borrow from each other** rather than stay in isolation.
+- Who does what: **RCI** = precision & persistence (weak on motivation/change); **HI** = power & history (weak on mechanism); **SI** = meaning & legitimacy (weak on power/agency). HI is the **bridge**. Syntheses: norms as **"focal points"** picking among equilibria (Garrett & Weingast); "decision rules + decision styles" (Scharpf).
+
+### Key terms
+| Term | Meaning |
+|---|---|
+| Institution vs organization | Rules/norms that constrain actors vs groups of actors |
+| Calculus vs cultural approach | Strategic maximising vs interpretation-by-worldview |
+| RCI / HI / SI | Rational-choice / historical / sociological institutionalism |
+| Nash equilibrium | Why institutions persist for RCI (deviation costs you) |
+| Collective-action dilemma | Individually rational, collectively bad (RCI's image of politics) |
+| Path dependence | Past choices lock development onto costly-to-reverse paths (HI) |
+| Critical juncture / branching point | Crisis moment when big institutional change sets a new path (HI) |
+| Unintended consequences | Ubiquitous — why you "can't deduce origins from consequences" |
+| Mobilization of bias | Institutions distribute power unevenly (HI) |
+| Logic of appropriateness | Act on what's socially appropriate, not calculation (SI) |
+| Isomorphism | Organizations in a field converge on the same form (SI) |
+| Frames of meaning | Symbol systems/scripts that constitute action (SI's institutions) |
+
+### Exam pointers
+- Reproduce the **[RCI/HI/SI comparison table](#l6-comparison)** — the exam's whole point (Ayca's table).
+- Nail **institution ≠ organization** and the **widening definition** (RCI rules → SI frames of meaning).
+- Use the **[calculus vs cultural](#l6-calc)** distinction to explain *how* each school links institutions to behaviour.
+- Run the **[change-vs-continuity table](#l6-change)** on one outcome (Brexit): **three competing explanations** (RCI equilibrium/interests · HI critical juncture/path dependence · SI paradigm/identity shift).
+- Know each school's **signature critique** (RCI thin motivation · HI vague mechanism · SI bloodless/no power).
+
+---
+
+<a id="l6-bt"></a>
+## Busemeyer & Thelen (2020) — Institutional Sources of Business Power *(an HI example)*
+
+### Chapter résumé
+An **exemplary Historical-Institutionalist study**: where does **business power** come from? The standard split is **structural** power (business's privileged position as investor — the exit/investment threat) vs **instrumental** power (lobbying, donations). Busemeyer & Thelen add a third, **institutional business power** — power that "results when state actors **delegate public functions to private business actors**" and, "over time, through **policy feedback and lock-in effects**," produces an **asymmetrical dependence of the state on business.** They prove it in **education/skill formation** (a "quintessentially public" area where you'd *least* expect business power) across **Germany, Sweden, and the USA.**
+
+<div class="heart">★ <strong>The heart of the reading:</strong> business power isn't a fixed feature of capitalism — it's <strong>built by institutions over time</strong>. Once the state hands parts of a public service to private actors, <strong>policy feedback + lock-in</strong> make the state <strong>dependent</strong> on them and the change <strong>near-impossible to reverse.</strong> This is <em>classic HI</em>: <strong>power asymmetries compounding through path dependence.</strong></div>
+
+### Section-by-section main points
+
+#### The argument — a third kind of business power
+
+***Core:*** to structural + instrumental power, add **institutional business power** — endogenous to **past policy-design choices**, not a generic feature of capitalism.
+- **Three types:** **structural** (investor's exit threat — Lindblom) · **instrumental** (lobbying/donations) · **institutional** (entrenched role in delivering a **public function**). They act as **"communicating vessels."**
+- **Two conditions** set how strong institutional power is: **(1) the credibility of business's exit threat** and **(2) the depth of state dependence** (has the state lost the capacity to provide the service itself?). Both high → power strongest.
+
+#### Three mechanisms → three countries
+
+***Core:*** the *same* dynamic (state shares a public function → feedback entrenches business → lock-in) plays out three ways across maximally different systems.
+
+| Country | Mechanism | What happened |
+|---|---|---|
+| [Germany](#bt-germany) | **Delegation** | state consciously shares regulatory space with employers (dual apprenticeship training) |
+| [Sweden](#bt-sweden) | **Deregulation** | state retreats from provision (school **vouchers** / for-profit "free schools") |
+| [USA](#bt-us) | **Accretion** | private actors *invite themselves in* (venture philanthropy, charter schools) |
+
+- <a id="bt-germany"></a>**Germany — Delegation (dual vocational training).** Firm-based apprenticeships rest on **employer voluntarism** (~500,000 youths/year, ≈ the number entering university). **Highest** institutional power: both state dependence *and* exit threat are high. Twice (**1970s**; **red–green 1998**) governments floated a statist **training levy** + school-based alternative; both times employers threatened to cut training places and the government **backed down** — and by the 2000s **unions & Social Democrats had *reversed*** to defending firm-based training (preference **conversion via feedback**). → *Delegation + lock-in + preference change = HI.*
+- <a id="bt-sweden"></a>**Sweden — Deregulation (school vouchers).** Early-1990s reforms broke a near-total **public monopoly**; public money now funds private "independent" schools. By 2014 **ten corporations held 30% of the market** (biggest: AcadeMedia, owned by VC firm EQT); ~85% of voucher schools are **for-profit** — a "welfare-industrial complex." The **2016 Reepalu** profit-cap proposal died after providers threatened to shut down; Reepalu himself: *"we'd be in an easier situation if this had been introduced twenty years ago"* (**lock-in spoken aloud**). → *Deregulation + self-reinforcing feedback (even unions flipped pro-privatisation).*
+- <a id="bt-us"></a>**USA — Accretion (venture philanthropy & charters).** Wealthy donors (**Gates, Broad, Walton**) "invite themselves" into education, funding charter schools/CMOs. **High exit threat, lower state dependence** (private funds *supplement*). Charters ≈6% of US enrolment but **~95% in post-Katrina New Orleans**; **Gates ranked the most influential individual in US education policy — ahead of the Secretary of Education.** In the 2014 de Blasio vs **Eva Moskowitz** fight, Walton-funded groups bused parents to Albany and Gov. Cuomo vowed *"We will save charter schools!"* → *Accretion — instrumental power converting into entrenched institutional power.*
+
+#### Why it's HI — and how RCI/SI would differ
+
+- **HI hallmarks:** **power** runs through the whole study (asymmetric state↔business dependence tilting "over time"); **historical legacies** (each country a longitudinal narrative); **path dependence & lock-in** ("reclaiming lost territory becomes more difficult over time"); **policy feedback**; **critical junctures** (German 1982 government change; **Hurricane Katrina** enabling New Orleans's charterisation).
+- **RCI would say:** business power = a credible **exit/holdup threat** in a principal–agent game; delegation persists because it's **efficient** (lowers state costs) — but static RCI misses the *temporal tilt* and the change in actors' preferences.
+- **SI would say:** private provision spreads because it becomes **legitimate/taken-for-granted** (Germans see employer involvement as "an asset"; Swedes internalise "free choice"; Gates's role "taken for granted") — an NPM/"choice" **template diffusing** (isomorphism) — but SI under-weights the raw **power** the authors foreground.
+
+### Exam pointers
+- Use this as your **worked HI example**: name the mechanism per country (**Delegation/Germany · Deregulation/Sweden · Accretion/US**) and show **power + path dependence + lock-in**.
+- Define **institutional business power** vs structural vs instrumental, and its **two conditions** (exit threat + state dependence).
+- Be ready to **re-explain the same outcome in RCI and SI terms** (Ayca's exercise).
+
+---
+
+<a id="l6-informal"></a>
+## Informal institutions *(AUW coda)*
+
+***Core:*** **informal institutions** = the "informal rules of the game" — *"socially shared rules, usually unwritten, created, communicated and enforced outside officially sanctioned channels."* They can matter as much as formal ones (esp. in weak states) — and are **not necessarily undemocratic.**
+- **Examples:** ***dedazo*** ("big finger", Mexico — the outgoing PRI president secretly picks his successor) · ***amakudari*** ("descent from heaven", Japan — retired bureaucrats get corporate jobs) · **clientelism** (Peronist Argentina). *Not* undemocratic: the **folkways of the US Senate** (Matthews 1959 — apprenticeship, courtesy, reciprocity, specialisation); pre-Erdoğan Turkish university-rector elections.
+
+---
+
+<a id="ff-lecture6"></a>
+## ★ Fun facts & memorable details
+
+> Sticky bits from Lecture 6 (institutions & institutionalisms).
+
+**Quotable**
+- The framing line: *"political science today is confronted with not one but three 'new institutionalisms.'"*
+- **SI's best point** (why we're not just calculators): *"anyone who has waited at a traffic light when no one else was around"* has to admit institutions work non-instrumentally too.
+- **RCI's key logical error** (Hall & Taylor): *"one cannot safely deduce origins from consequences"* — because unintended consequences are everywhere.
+- SI critique in three words: *"action without agents."*
+- **Reepalu (Sweden):** *"We'd be in a somewhat easier situation if much of what we're proposing had been introduced some twenty years ago"* — path dependence, out loud.
+- **Cuomo (US):** *"We will save charter schools!"*
+
+**Memorable**
+- The three schools "developed **quite independently of each other**," each "assiduously burnishing its own paradigm" — a paper about theories that ignored each other.
+- **Germany:** ~**500,000** start firm-based apprenticeships each year — about the same as start university.
+- **New Orleans** after Katrina: **~95%** of children in charter schools — the highest of any US city.
+- **Bill Gates** was ranked the **single most influential individual in US education policy — ahead of the Secretary of Education** (who, at the time, was herself a venture philanthropist).
+- **Institution ≠ organization:** the Social Democratic *Party* is the organization; the rules and unwritten norms governing it are the *institutions* — the distinction the whole lecture turns on.
