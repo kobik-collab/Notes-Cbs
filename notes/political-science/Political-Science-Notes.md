@@ -13,7 +13,7 @@
 - **[Lecture 2: The State (AUW)](#lecture-2)** — [OD Ch. 2: The Modern State](#od-ch-2--the-modern-state) · [OD Ch. 4: States & Identity](#od-ch-4--states-and-identity) · [★ Fun facts](#ff-module2)
 - **[Lecture 3: Political Regimes (FK)](#lecture-3)** — [OD Ch. 3: States, Citizens & Regimes](#od-ch-3--states-citizens-and-regimes) · [regime taxonomy](#c3-taxonomy) · [★ Fun facts](#ff-lecture3)
 - **[Lecture 4: Systems of Government](#lecture-4)** — [OD Ch. 5: Governing Institutions](#od-ch-5--governing-institutions-in-democracies) · [parliamentary vs presidential vs semi-presidential](#c5-comparison) · [★ Fun facts](#ff-lecture4)
-- **[Lecture 5: Participation and Representation (FK)](#lecture-5)** — [OD Ch. 6: Participation & Representation](#od-ch-6--institutions-of-participation-and-representation) · [electoral systems compared](#c6-electoral) · [★ Fun facts](#ff-lecture5)
+- **[Lecture 5: Participation and Representation (FK)](#lecture-5)** — [OD Ch. 6: Participation & Representation](#od-ch-6--institutions-of-participation-and-representation) · [what is representation? (Pitkin)](#c6-pitkin) · [electoral systems compared](#c6-electoral) · [★ Fun facts](#ff-lecture5)
 - **[Lecture 6: Institutions and Institutionalisms (AUW)](#lecture-6)** — [Hall & Taylor: the 3 institutionalisms](#l6-ht) · [RCI / HI / SI compared](#l6-comparison) · [Busemeyer & Thelen (HI example)](#l6-bt) · [★ Fun facts](#ff-lecture6)
 
 > *(All lectures so far fall under **Part I**. New lectures go under Part I until the syllabus introduces a new Part.)*
@@ -1107,6 +1107,18 @@ Looks at the three institutions through which democracies channel **participatio
 
 ### Section-by-section main points
 
+**Lecture frame (FK).** The lecture opens by asking *what representation even is* (**Pitkin**), then works through the institutions that produce it — **electoral systems → party systems → civil society** — and closes with **case studies** (UK, Germany, Japan, Brazil).
+
+<a id="c6-pitkin"></a>
+#### What is representation? — Pitkin's four views
+
+***Core:*** before asking *how* institutions represent, ask *what "representation" means.* **Hanna Pitkin** (*The Concept of Representation*, 1967) distinguishes **four** senses:
+- **Formalistic** — the institutional arrangement that **authorises** a representative and holds them **accountable** (elections = the "before" and "after" of representing).
+- **Descriptive** — the representative **resembles** the represented (shares gender, ethnicity, class) — "**standing for**" (the case for **quotas** / descriptive representation).
+- **Symbolic** — the representative **stands for** the represented symbolically (a leader/flag people identify with).
+- **Substantive** — the representative **acts in the interests** of the represented — "**acting for**" (the **delegate** [follow instructions] vs **trustee** [own judgment] debate).
+- *Why it matters:* the electoral systems below are really machines for producing one kind of representation or another — **PR** boosts **descriptive** representation (more women/minorities); **SMD** emphasises the **formalistic** local link.
+
 #### Why participate? — the collective-action problem
 
 ***Core:*** voting is individually **"irrational"** (Downs) — one vote rarely decides anything — so participation is a **collective-action problem** that *institutions* must overcome.
@@ -1147,6 +1159,7 @@ Looks at the three institutions through which democracies channel **participatio
 #### How parties mobilise — and the "crisis of party democracy"
 
 ***Core:*** parties win support three ways — **programmatic** (ideas/ideology) · **patronage/clientelist** (material benefits for votes, via **brokers** — common in poorer/newer & statist economies) · **populist** (a personalist leader, "the people" vs "corrupt elites," crisis rhetoric, "bad manners").
+- **Where parties sit — two ideology axes (FK):** the classic **economic Left–Right** (redistribution) *plus* the modern cultural **GAL–TAN** — **GAL** (Green/Alternative/Libertarian: progressive, cosmopolitan, pro-environment, individual rights) vs **TAN** (Traditional/Authoritarian/Nationalist). Today's populist/far-right parties (Farage, Salvini, AfD) mobilise mainly on the **TAN** end of this second axis.
 - *Caveat on "programmatic":* **Achen & Bartels** ("folk theory" critique) argue voters mostly vote by **social identity**, not by carefully weighing ideas — so pure programmatic appeal is partly a myth.
 - **Crisis of party democracy:** only ~**20%** trust parties (though ~80% value democracy); falling loyalty/membership/turnout, rising **electoral volatility**, single-issue/postmaterialist voting, and **far-right/anti-system** parties (nativism, post-2015 refugee crisis). Explanations: economic (globalisation, manufacturing decline); **dealignment** (voters detach from all parties) vs **realignment** (they switch); catch-all parties → **"cartel parties"** (Mair) colluding at the centre → lost efficacy.
 - **US exception:** not dealignment but partisan **sorting/polarisation** (Abramowitz), racial realignment, and Trump's **status-threat** populism (Mutz 2018).
@@ -1155,7 +1168,7 @@ Looks at the three institutions through which democracies channel **participatio
 #### Civil society & interest groups — pluralism vs neocorporatism
 
 ***Core:*** beyond parties, organised **interest groups** (they *don't* seek office, unlike parties) represent society — in two rival models. Groups grew sector-by-sector: first **labour, business, agriculture**, then **women/minority** groups; in divided societies, ethnic/religious groups dominate (some, like the KKK, are internally *undemocratic* — a tension for democracy).
-- **Pluralism** (US): **many** competing groups, a **neutral** state; easy entry & local control, but fragmented clout — and **business is inherently privileged** (Lindblom).
+- **Pluralism** (US): **many** competing groups, a **neutral** state; easy entry & local control, but fragmented clout — and **business is inherently privileged** (Lindblom). **Schattschneider's** famous jab: *"the flaw in the pluralist heaven is that the heavenly chorus sings with a strong upper-class accent"* — i.e. who *gets organised* is skewed toward the well-off.
 - **Neocorporatism** / societal corporatism (Germany, N. Europe): a **few large, hierarchical peak associations** the state recognises as *the* voice of each sector negotiate **binding** deals; more influence (esp. for labour countering business) but **less participatory** (little incentive to form new groups). *(State corporatism = the mandated, authoritarian version — ch. 8.)*
 - **Social-capital debate:** Putnam (*Bowling Alone*) sees civic **decline**; Skocpol adds that mass-membership bodies gave way to **managed advocacy**; critics (Dalton, "**Kicking in Groups**") reply that activity just **moved to new forms** (movements, single-issue groups).
 
