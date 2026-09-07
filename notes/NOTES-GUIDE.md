@@ -214,6 +214,18 @@ Pipeline: `linkify.py` (inject anchors + cross-links) → `pandoc` (GFM → styl
 Stylesheet = clean academic look: serif body, sans-serif blue headings, blue-header zebra tables,
 A4 print margins, page-break-avoids on headings/tables.
 
+### Formulas / functions (esp. Applied Micro)
+In math-heavy subjects, **every important function/formula stands on its own line, clearly marked** —
+never buried in prose. Wrap it in a **formula block**:
+```
+<div class="formula"><span class="flabel">Optimum condition</span>choose the quantity where <strong>MB = MC</strong></div>
+```
+- `.formula` renders as a centred, accent-bordered box (see `style.css`); the optional
+  `<span class="flabel">…</span>` is a small uppercase caption naming the formula.
+- Write math in clean Unicode (superscripts, `·` `−` `×` `÷` `≤` `≥` `≈` `Δ` `π`, italic variables via
+  `<em>`); the pipeline has no LaTeX/MathJax, so keep equations plain-text-renderable.
+- Give the *definition* form and the *worked* form their own blocks when both help.
+
 ### Figures (visual models)
 The notes must capture the book's **diagrams**, not just its prose. Workflow:
 1. Find the figure's page in the source PDF; render it to check the crop:

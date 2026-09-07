@@ -158,6 +158,32 @@ pre code { background: none; padding: 0; }
   border-radius: 0 4px 4px 0;
 }
 
+/* ---- Formula / function block (stands on its own line, clearly marked) ---- */
+.formula {
+  font-family: "Cambria Math", "Latin Modern Math", "Iowan Old Style", Georgia, serif;
+  font-size: 13pt;
+  text-align: center;
+  background: #fbfdff;
+  border: 1px solid var(--rule);
+  border-left: 4px solid var(--accent);
+  border-radius: 4px;
+  padding: 11px 14px;
+  margin: 0.9em 0;
+  line-height: 1.5;
+}
+.formula .flabel {           /* small caption above the equation */
+  display: block;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 9.5pt;
+  font-style: normal;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 4px;
+}
+.formula var, .formula em { font-style: italic; }   /* variables in italic */
+@media print { .formula { page-break-inside: avoid; } }
+
 /* ---- Figures / images ---- */
 img {
   display: block;

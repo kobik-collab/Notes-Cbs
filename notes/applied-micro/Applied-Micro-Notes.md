@@ -58,11 +58,26 @@
 #### Optimization — opportunity cost + marginal thinking
 
 ***Core:*** to optimise, use two tools — **opportunity cost** (weigh each use against its best alternative — "apples to apples") and **marginal thinking** (what does *one more* unit give me?).
-- **Opportunity cost = the best alternative you give up.** Nothing "free" is free if it uses a scarce resource.
-  - *Social media:* 1 hr/day on TikTok isn't free — you give up sport, study, work. To **monetise** the time, use the hourly wage (avg **118 DKK** in Denmark) → **118 × 365 ≈ 43,070 DKK/year.** *(A crude model — your true best alternative may be worth more or less.)*
-  - *Trip to Berlin (worked example):* drive = 1,280 DKK & **14 h**; fly = 1,930 DKK & **3 h**. Driving frees no time — flying frees 11 h you could work: **OC(car) = (1,930 − 1,280) − (118 × 11) = 650 − 1,298 = −648 DKK → you should fly.** *(Still a model — what if you enjoy the drive?)*
-- **Marginal thinking:** decide by the value of the **next** unit. Keep doing something while **marginal benefit ≥ marginal cost**; stop when they meet — that's the **optimum**.
-  - *Night before the exam:* total benefit of studying rises then flattens; the **marginal benefit of each extra hour falls** (**law of diminishing marginal returns**). Optimal hours = where the marginal benefit of one more hour just equals its marginal cost.
+
+**Opportunity cost = the value of the best alternative you give up** — nothing "free" is free if it uses a scarce resource.
+
+<div class="formula"><span class="flabel">Opportunity cost</span>OC(action) = benefit(action) − value of the best alternative given up</div>
+
+- *Social media:* 1 hr/day on TikTok isn't free — you give up sport, study, work. Monetise the time with the hourly wage (avg **118 DKK** in Denmark):
+
+<div class="formula"><span class="flabel">Yearly time-cost of 1 hr/day on TikTok</span>118 DKK/hr × 1 hr/day × 365 days = <strong>43,070 DKK / year</strong></div>
+
+- *Trip to Berlin (worked example):* drive = 1,280 DKK & 14 h; fly = 1,930 DKK & 3 h. Flying frees **11 h** you could work:
+
+<div class="formula"><span class="flabel">Opportunity cost of driving instead of flying</span>OC(drive) = (1,930 − 1,280) − (118 × 11) = 650 − 1,298 = <strong>−648 DKK</strong> &nbsp;⟹&nbsp; <strong>fly</strong></div>
+
+  *(Still a model — what if you enjoy the drive?)*
+
+**Marginal thinking:** decide by the value of the **next** unit — keep going while marginal benefit exceeds marginal cost; stop where they meet. That point is the **optimum**:
+
+<div class="formula"><span class="flabel">Optimum condition</span>choose the quantity where &nbsp;<strong>Marginal Benefit = Marginal Cost</strong>&nbsp; (MB = MC)</div>
+
+- *Night before the exam:* total benefit of studying rises then flattens; the **marginal benefit of each extra hour falls** (**law of diminishing marginal returns**). Optimal hours = where MB of one more hour just equals its MC.
 
 <a id="micro-equilibrium"></a>
 #### Equilibrium
