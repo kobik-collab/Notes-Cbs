@@ -1159,7 +1159,13 @@ Looks at the three institutions through which democracies channel **participatio
 
 #### Party systems
 
-***Core:*** classify by **number & strength**: **dominant-party** (S. Africa ANC — won every election) · **two-party** (US, UK) · **multiparty** (Italy — coalitions required).
+***Core:*** classify a system by the **number & relative strength** of parties. First, *what parties are for*; then the three types; then where they come from.
+
+- **What parties do — five functions (FK deck):** **① mobilise** citizens to participate · **② recruit** the political elite (candidates/leaders) · **③ simplify** choices (a label voters can reason with) · **④ organise government** (form and run the executive/legislature) · **⑤ provide opposition** (a government-in-waiting that scrutinises). *(This is what distinguishes parties from interest groups below — parties **seek office**; interest groups only seek influence.)*
+- **The three types — by number & strength:**
+  - <a id="c6-dominant"></a>**Dominant-party:** many parties compete in more-or-less free & fair elections, but **one wins *every* election** and governs continuously (**ANC**, South Africa — won all six post-apartheid elections, though its share fell to **57.5% in 2019**). **Key nuance:** the line to an **electoral-authoritarian regime** (ch. 8) is *thin* — the test is *how* the party keeps winning: by genuine **popularity** (still a democracy) vs by **manipulating the rules, using state resources, and intimidating rivals** (authoritarian).
+  - **Two-party:** only **two** parties can realistically win, though more compete (**US** — no third party significant since the Republicans emerged in the 1850s; UK). Third parties (Ross Perot's Reform Party) flare up but **rarely survive more than two elections.**
+  - **Multiparty:** **more than two** parties could win and govern → **coalitions**. Two sub-variants: **(a)** two large parties, one usually needing small partners to reach a majority (**Italy**); **(b)** three-four roughly equal parties, a majority *always* needing a coalition of ≥2.
 - **Where party systems come from — two explanations:**
   - **Sociological:** parties reflect social **cleavages** — an economic **capital vs labour** split everywhere, *plus* a religious split in some places. Where *both* are salient → **multiparty**; where only economic → **two-party**.
   - **Institutional (Duverger):** rational politicians build parties to win *under the given electoral rules* — SMD squeezes toward two.
