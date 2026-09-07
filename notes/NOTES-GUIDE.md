@@ -101,13 +101,22 @@ the "where is everything" index; keep it updated as lectures/weeks are added.
    slides **define the section structure and the spine/red-thread**. Foreground exactly what the
    deck foregrounds (it's what the lecturer stresses and the exam follows). Then use the **readings
    to fill in the depth *around* each deck point** (definitions, evidence, nuance); reading-only
-   material goes in as clearly *secondary*. Mark deck-sourced points (*"(from the lecture — INITIALS)"*)
-   and **extract its diagrams** (`ppt/media/*`) as figures (§8 → Figures).
+   material goes in as clearly *secondary*. Mark deck-sourced points (*"(from the lecture — INITIALS)"*).
    - **Deck-first ordering matters:** if the reading is built *before* the deck arrives, treat the
      deck as a **re-centre** job (reorder/foreground around it), not just an append — e.g. Pitkin's
      concept of representation should *lead* the Representation lecture, not be tacked on.
-   - `.pptx` = zip → parse `ppt/slides/*.xml`. Old **`.ppt`** = OLE binary (no zip); extract text by
-     scanning UTF-16LE/ASCII string runs from the raw bytes (noisier — ask for `.pptx` if possible).
+   - **Extracting deck TEXT:** `.pptx` = zip → parse `ppt/slides/*.xml` (`<a:t>` runs). Old **`.ppt`** =
+     OLE binary: `python3 -m pip install olefile`, open the **`PowerPoint Document`** stream and scan
+     for **TextCharsAtom (recType 0x0FA0, UTF-16LE)** and **TextBytesAtom (0x0FA8, latin1)** records —
+     far cleaner than raw string-scanning. (Ask for `.pptx` if the `.ppt` is still messy.)
+   - **Extracting & AUTO-USING deck VISUALS (do this every deck):** `.pptx` → images live in
+     `ppt/media/*`. Old **`.ppt`** → carve the **`Pictures`** OLE stream: find PNG (`\x89PNG…IEND`) and
+     JPEG (`\xff\xd8\xff…\xff\xd9`) blobs and write each out (drop blobs <4 KB = icons). **View every
+     candidate** and **embed the analytically *relevant* ones automatically** — typology matrices,
+     two-axis maps, charts/tables (e.g. Iversen–Soskice), iconic illustrations (the Gerry-mander).
+     **Skip pure decoration** (stock photos, clip-art crowds, flags, personal screenshots). Save to
+     `notes/<subject>/figures/l<N>-<slug>.png`, embed via §8 (Figures) with a **"How to read it"**
+     caption, and constrain tall images with an inline `style="max-width:…"`.
 7c. **Expand the most-emphasised section theory-by-theory.** For the section the reading/lecture
    dwells on most (e.g. OD ch.1's *What explains behaviour?*), don't cram all theories into one
    table — give each **family its own table** with every theory's **core idea + critique** (and,
