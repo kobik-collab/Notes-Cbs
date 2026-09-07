@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T12:26:20.865Z",
+  "generatedAt": "2026-09-07T12:45:08.067Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -24,14 +24,20 @@
       "full": {
         "title": "Political & Economic Thought — Full notes",
         "pdf": "pdfs/political-economic-thought/Political-Economic-Thought-Notes.pdf",
-        "sizeKB": 714
+        "sizeKB": 1039
       },
       "parts": [
         {
-          "slug": "week-36",
-          "title": "Week 36",
-          "pdf": "pdfs/political-economic-thought/week-36.pdf",
-          "sizeKB": 697
+          "slug": "module-1-antiquity-and-the-middle-ages-greeks-and-romans",
+          "title": "Module 1: Antiquity and the Middle Ages — Greeks and Romans",
+          "pdf": "pdfs/political-economic-thought/module-1-antiquity-and-the-middle-ages-greeks-and-romans.pdf",
+          "sizeKB": 700
+        },
+        {
+          "slug": "module-2-renaissance-and-early-modern-political-theory-from-",
+          "title": "Module 2: Renaissance and Early-Modern Political Theory — from Cosmopolis to *Stato* to the Social Contract",
+          "pdf": "pdfs/political-economic-thought/module-2-renaissance-and-early-modern-political-theory-from-.pdf",
+          "sizeKB": 458
         }
       ]
     },

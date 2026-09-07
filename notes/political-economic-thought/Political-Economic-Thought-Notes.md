@@ -2,21 +2,23 @@
 
 <p class="byline">by Jakob V. Stangel</p>
 
-> One running document for the whole course, organised **by week**.
+> One running document for the whole course, organised **by module**.
 > Format per reading: **Résumé → ★ Heart of it → Key concepts → Section-by-section → Cases → Key terms → Exam pointers.**
 
 ## Overview — where everything is
 *(Everything below is clickable — jump straight to a week, reading, case, or fun-facts box.)*
 
-- **[Week 36: Plato & Aristotle; what "history of economics" means](#week-36)** — [★ Lecture 1 (BAP/JL)](#week36-lecture) · [Reeve: Plato](#reeve--plato) · [McClelland: Aristotle](#mcclelland--aristotle) · [Galbraith intro](#galbraith--a-look-at-the-landscape) · [★ Reading questions (answered)](#week36-questions) · [★ Fun facts](#ff-week36)
+- **[Module 1: Antiquity & the Middle Ages — Greeks & Romans](#module-1-pet)** — [★ Lecture 1 (BAP/JL)](#week36-lecture) · [Reeve: Plato](#reeve--plato) · [McClelland: Aristotle](#mcclelland--aristotle) · [Galbraith intro](#galbraith--a-look-at-the-landscape) · [★ Reading questions (answered)](#week36-questions) · [★ Fun facts](#ff-week36)
+- **[Module 2: Renaissance & Early-Modern — from Cosmopolis to Stato to Social Contract](#module-2-pet)** — [McClelland: Hobbes](#m2-hobbes) · [Hobbes's social covenant](#hob-covenant) · [Grotius: natural law & the world system of states](#m2-grotius) · [Hobbes vs Grotius](#m2-compare) · [★ Fun facts](#ff-module2-pet)
 
 ---
 
-# Week 36
+<a id="module-1-pet"></a>
+# Module 1: Antiquity and the Middle Ages — Greeks and Romans
 
 **Readings:** Reeve on **Plato** · McClelland on **Aristotle** · Galbraith intro (**pp. 1–8**)
 
-**Theme of the week:** the two founders of Western political thought — **Plato** (the ideal state built on knowledge of the Good) and **Aristotle** (the empirical, "natural" study of the *polis*) — paired with Galbraith's framing of *how to read the history of economic ideas* (ideas as products of their time). Plato gives the **normative/idealist** pole, Aristotle the **empirical/naturalist** pole; both anchor every later debate.
+**Theme of the module:** the two founders of Western political thought — **Plato** (the ideal state built on knowledge of the Good) and **Aristotle** (the empirical, "natural" study of the *polis*) — paired with Galbraith's framing of *how to read the history of economic ideas* (ideas as products of their time). Plato gives the **normative/idealist** pole, Aristotle the **empirical/naturalist** pole; both anchor every later debate.
 
 <div class="heart">★ <strong>The red thread — each text in ONE idea</strong> (keep these three in view; all the detail below hangs off them):
 <br>• <strong>Reeve → Plato:</strong> rule belongs to those who <strong>KNOW the Good</strong> — politics is <em>derived from metaphysics</em> (the philosopher-king in the kallipolis).
@@ -367,7 +369,7 @@ Plato and Aristotle set the **normative-ideal** vs **empirical-natural** poles o
 <a id="week36-questions"></a>
 ## ★ Reading questions — worked answers
 
-> Study answers to Week 36's reading questions (Reeve on **Plato** · McClelland on **Aristotle** · Galbraith). Each: a one-line ***Answer***, then the depth for Plato and Aristotle.
+> Study answers to Module 1's reading questions (Reeve on **Plato** · McClelland on **Aristotle** · Galbraith). Each: a one-line ***Answer***, then the depth for Plato and Aristotle.
 
 ### 1 · What is the best city/state — for Plato and Aristotle? Why?
 ***Answer:*** **Plato** — the **[kallipolis](#pl-three-cities)**, *one* ideal city ordered by knowledge of the Good. **Aristotle** — *it depends*: an ideal polis of the "good life," but the best **achievable** is the **[politeia](#ar-politeia)** (a mixed, middle-class constitution).
@@ -431,3 +433,245 @@ Plato and Aristotle set the **normative-ideal** vs **empirical-natural** poles o
 - **Marshall's** still-quoted definition: economics is *"a study of mankind in the ordinary business of life."*
 - The **forecaster's paradox:** anyone who truly knew the economic future would quietly use the knowledge to get rich — not sell it in a newsletter. *(Hence Keynes: "In the long run we are all dead.")*
 - Galbraith subtitled his book **"A Critical History"** — he refuses to pose as a detached, dispassionate scientist.
+
+---
+
+<a id="module-2-pet"></a>
+# Module 2: Renaissance and Early-Modern Political Theory — from Cosmopolis to *Stato* to the Social Contract
+
+**Readings:** McClelland, *A History of Western Political Thought*, **ch. 11 (Hobbes, pp. 191–228)** · **Grotius** (Boisen, *Political Thinkers*-style chapter)
+**Focus:** *Thomas Hobbes: Leviathan and the social covenant* · *Hugo Grotius and the world system of states.*
+
+**Theme of the module:** the long shift from the medieval **Cosmopolis** (one universal Christian moral-legal order — Module 1's Aquinas) to the modern world of **sovereign states**. Three moves: **Machiavelli** frees politics from morality and invents the autonomous ***stato*** → **Hobbes** gives that state a **contractual foundation** and a *science* of absolute **sovereignty** → **Grotius** builds the **world system of states** bound by **natural law** (the birth of international law).
+
+<div class="heart">★ <strong>The heart of the module — each thinker in one idea</strong> (keep these in view):
+<br>• <strong>Machiavelli → the <em>stato</em>:</strong> politics is its own domain, freed from ethics; built on a fixed, pessimistic view of human nature.
+<br>• <strong>Hobbes → the social covenant:</strong> from a <strong>state of nature</strong> ("war of all against all") rational egoists <strong>covenant with each other</strong> to authorise an <strong>absolute sovereign</strong> (Leviathan) — anything less collapses back into war.
+<br>• <strong>Grotius → the world system of states:</strong> a <strong>natural law</strong> of universal rights & duties (binding "even if God did not exist") governs sovereigns too — grounding property, the free sea, and a <strong>just-war</strong> international order.</div>
+
+---
+
+<a id="m2-hobbes"></a>
+## McClelland — Hobbes: *Leviathan* and the Social Covenant
+
+### Chapter résumé
+McClelland reads Hobbes's ***Leviathan* (1651)** as *"the first masterpiece of social-contract theory"* — yet a deeply **untypical** one: contract language was invented to justify *resistance*, but Hobbes turns it into an argument **for absolute government**, "driving a coach and four through all the libertarian conclusions." Written amid the **English Civil War**, it builds the state **geometrically** from a bleak view of human nature: from a **state of nature** ("war of every man against every man," life "solitary, poor, nasty, brutish, and short"), self-interested **rational egoists** reason their way to a **covenant** transferring their unlimited **Right of Nature** to a **Sovereign** who is *not himself a party* to the contract — and whose power must therefore be **absolute and undivided**, because anything less slides back into the state of nature.
+
+<div class="heart">★ <strong>The heart:</strong> Hobbes's chain — <strong>state of nature</strong> (war of all against all) → the <strong>Right of Nature</strong> is a curse everyone would shed → reason's <strong>Law of Nature</strong> says "seek peace" → so men <strong>covenant with each other</strong> to authorise one <strong>Sovereign</strong> (who stays outside the deal) → sovereignty must be <strong>absolute & undivided</strong>, or you're back in the war.</div>
+
+**The red thread.** Read the whole argument as a **geometry**: the *axiom* is man as a **rational egoist**; the *theorems* are the Laws of Nature, the Social Contract, and absolute Sovereignty. For any step ask: *how does self-interested fear drive it, and why does it force the conclusion that the sovereign must have everything?*
+
+### Key concepts / "modes" to use
+- **State of nature** — no government → "war of all against all."
+- **Right of Nature** (a *permission*: unlimited liberty to preserve yourself) vs **Law of Nature** (a *command* of reason: **seek peace**).
+- **The social covenant** — every man with every man; the sovereign is **beneficiary, not party**.
+- **Sovereign / Leviathan** — the "mortal god"; **authorisation** ("what my agent does, I do"); **absolute & undivided**.
+- **Iniquity vs injury** · **sovereignty by institution vs acquisition** · the **efficiency constraint**.
+
+### Section-by-section main points
+
+#### The Machiavelli bridge — the autonomous *stato*
+
+***Core:*** Machiavelli supplies the ground Hobbes builds on — **politics as its own domain**, cut loose from morality and religion, resting on a fixed, pessimistic view of human nature.
+- *The Prince*: no natural law, no scripture — Machiavelli simply "treats those assumptions as if they were not there." He wants **axioms that always work**, so he assumes men are "always very bad" ("heads he wins, tails he doesn't lose").
+- **Fear over love** — *"treat everybody as a potential assassin"*; better to be feared than loved (Caligula's *Oderint dum metuant* — "let them hate, provided they fear"). **Virtù vs Fortuna**: skill meeting luck. *(McClelland: "Machiavelli anticipates Hobbes.")*
+
+#### Hobbes's method — a geometry of man
+
+***Core:*** Hobbes builds politics like **Euclid** — from axioms about human nature to theorems — using the **new science** (matter in **motion**).
+- **Materialist psychology:** humans are objects in **motion** (appetite/aversion); happiness is continual motion, not Aristotle's "rest." **Rational egoists** — Macpherson's "possessive individualists," "market-men" (the striking claim: *"a rising bourgeoisie requires an absolutist state"*).
+
+#### The state of nature — the war of all against all
+
+***Core:*** strip away government and you get **rough natural equality** → mutual fear → a **war of all against all** — a *disposition* to fight, not constant battle.
+- **Equality:** "no man is so strong that he cannot be killed by another by stealth" → everyone is a threat. Three drivers: **competition** (gain), **diffidence** (fear/safety), **glory** (reputation). *"Part of man's nature is anti-social, while the other part can only be satisfied through social living."*
+- **War as a condition:** *"the nature of War consisteth not in actuall fighting, but in the known disposition thereto."* The famous verdict: life is **"solitary, poore, nasty, brutish, and short."**
+
+#### Right of Nature vs Law of Nature
+
+***Core:*** the **Right** of Nature is a *permission* (do anything to survive); the **Law** of Nature is a *command* of reason (**seek peace**) — and reason tells you to *give up* the unlimited right.
+- **Right of Nature** = unlimited liberty of self-preservation — but since *everyone* has it, it's "a millstone" you'd be wise to shed.
+- **Law of Nature** (a "precept found out by reason" forbidding self-destruction): **1st — "seek peace, and follow it"**; **2nd — lay down your right to all things, as far as others will too.** In the state of nature these bind *in foro interno* (in conscience) but not *in foro externo* (in act) — no one dares go first.
+
+<a id="hob-covenant"></a>
+#### ★ The social covenant — how you escape the state of nature
+
+***Core:*** you **can't make law by agreement** (who'd go first? who'd enforce it?) — so instead, **by agreement choose a law-*giver***: everyone **covenants with everyone else** to transfer their Right of Nature to, and **authorise**, one **Sovereign**.
+- **The key twist:** the covenant is **of every man with every man — NOT with the sovereign.** The sovereign is the **beneficiary, not a contracting party**, so *he makes no promise and can never "breach" the contract.* Everyone makes the leap into civil society **except the sovereign, who stays in the state of nature.**
+- **Authorisation / representation:** the people **authorise everything the sovereign does** → *"what my agent does, I do… his will is my will."* A people has a will **only through its representative** (the sovereign).
+- **Institution vs Acquisition:** by **covenant** (the paradigm case) or by **conquest** (the ordinary historical case) — same result, because **fear doesn't invalidate a contract** ("all contracts are made through fear"; the man on a sinking ship "very willingly" throws his goods overboard).
+
+<a id="hob-sovereign"></a>
+#### The Sovereign / Leviathan — absolute, undivided, a "mortal god"
+
+***Core:*** the commonwealth is **Leviathan**, an "artificial man" / **"mortal god"**; because the sovereign is authorised by all, his power must be **absolute and undivided.**
+- **Iniquity vs injury** (crucial): the sovereign, being a man, *can* act wickedly (**iniquity**) — but he can never do a subject an **injury** (an *unlawful* act), because he makes the law and the subject authorised him → "the supposed injury is something I have done to myself."
+- Powers include: law, courts, war & peace ("the sword of justice is also the sword of war"), **censorship**, control of religion, appointments, honours — and it **repudiates all prior covenants, including any "covenant with God."**
+- **The only right you keep = self-preservation:** "no man is obliged to walk unbound to the scaffold." Otherwise a rational man sheds his Right of Nature entirely.
+
+#### Why absolutism — anything less collapses into war
+
+***Core:*** you **can't limit the sovereign by contract**, and you can't set up a judge over him without an **infinite regress** ("why stop at three?") that ends in "**the state of nature by another name.**"
+- Stark disjunction: *"Either you choose to live under a Sovereign or you don't"* — divided/limited sovereignty just breeds rival sovereigns → **civil war**.
+- **The real (non-legal) limit — the *efficiency constraint*:** the sovereign's *powers* are unlimited but his *power* (capacity to enforce) is not. Order holds **only while subjects fear the sovereign more than they fear each other**; when that reverses, "the rebellion has already happened internally."
+- **International anarchy:** *"covenants without the sword are but breath"* — with no super-sovereign over states, there's no peace between them (McClelland: why the League of Nations/UN are "bound to fail"). *(This is exactly the gap Grotius tries to fill.)*
+- *(Aside — the **political-obligation controversy**: does Hobbes give only **prudential** reasons to obey, or a real **moral** duty? If the Laws of Nature are genuinely **God's commands**, obligation is moral; if "mere dictates of prudence," you obey only when watched.)*
+
+### Cases & examples
+- **English Civil War (1642–51):** each attribute of sovereignty maps onto a live dispute — control of the **army/militia** (the 1642 trigger), **religion**, the **Common Law** "ancient constitution," the sale of honours. *Leviathan* was double-edged: usable by Charles I, Cromwell, *and* Charles II.
+- **The Norman Conquest:** Hobbes implies William was "a true Sovereign by the free consent of the defeated English" at Hastings — demolishing the Whig "Norman Yoke" story (sovereignty by **acquisition**).
+- **Grimmelshausen's *Simplicissimus* / the Thirty Years War** — the real-world picture of the state of nature (many sovereigns fighting for mastery).
+
+### Key terms
+| Term | Meaning |
+|---|---|
+| State of nature | Life without government → "war of all against all" |
+| Right of Nature | *Permission*: unlimited liberty to preserve yourself |
+| Law of Nature | *Command* of reason; **1st = seek peace** |
+| Social covenant | Every man with every man authorises a sovereign |
+| Sovereign as beneficiary not party | Why the sovereign can't "breach" the contract |
+| Leviathan / "mortal god" | The commonwealth as an artificial person |
+| Authorisation | "What my agent does, I do" — a people wills only via its sovereign |
+| Iniquity vs injury | Wickedness (possible) vs an *unlawful* act (impossible to a subject) |
+| Institution vs acquisition | Sovereignty by covenant vs by conquest |
+| Efficiency constraint | Order lasts only while subjects fear the sovereign most |
+
+### Exam pointers
+- Run **[Hobbes's chain](#hob-covenant)** cold: state of nature → right vs law of nature → **the covenant of every man with every man** → absolute sovereign.
+- Nail *why* the sovereign is **beneficiary, not party**, and what follows (no breach, no right of resistance beyond self-preservation).
+- Explain the **iniquity vs injury** distinction and the **regress argument** for why sovereignty can't be divided.
+- Use *"covenants without the sword are but breath"* to link Hobbes to the **international** problem Grotius addresses.
+
+---
+
+<a id="m2-grotius"></a>
+## Grotius — Natural Law and the World System of States
+
+### Chapter résumé
+**Hugo Grotius (1583–1645)**, Dutch jurist, aimed to *"formulate a set of universal rights and duties that would secure peace by constraining states in their internal and external relations."* Amid the confessional chaos of the Thirty Years War he **rehabilitated natural law** on a **minimal, universal** basis everyone could accept, and applied it to the relations *between* sovereigns — earning him the title **"father of modern international law."** His key move: natural law's obligatory force holds **"even if God did not exist"** (*etsi Deus non daretur*); from human **natural rights** (self-preservation, and the derived rights of **property** and **punishment**) he builds an order of sovereign states bound by a **law of nations** and a theory of **just war**. Unlike Hobbes, Grotius holds humans are **naturally sociable**.
+
+<div class="heart">★ <strong>The heart:</strong> there is a <strong>universal natural law</strong> — knowable by reason, binding even "if God did not exist" — that gives individuals <strong>natural rights</strong> (self-preservation → property → punishment) and applies <strong>equally to states</strong>. That's the foundation of the <strong>world system of states</strong>: free seas, property from occupation, and a <strong>just-war</strong> order in which even war is subject to law.</div>
+
+**The red thread.** Grotius scales **one idea — universal natural law/rights — up from individuals to states.** For each topic ask: *what does natural law permit or require here, and how does that constrain sovereigns?* Keep contrasting with **Hobbes**: same self-preservation start, but Grotius's humans are **sociable**, his natural law is genuinely **obligatory**, and his sovereign *can* be bound.
+
+### Key concepts / "modes" to use
+- **Natural law** — universal, immutable principles; known **a priori** (right reason) & **a posteriori** (agreement of nations); source = God, content = human nature.
+- **The "impious hypothesis"** (*etsi Deus non daretur*) — natural law binds *even if God did not exist*.
+- **Natural rights** (subjective — a *power* one "has"): self-defence & self-preservation → **property** & **punishment**.
+- ***Mare Liberum*** — the free sea as a **state of nature** (grounds free navigation & trade).
+- ***Appetitus societatis*** — humans are **naturally sociable** (vs Hobbes).
+- **The world system of states + just war** (four just causes) + the **right to punish**.
+
+### Section-by-section main points
+
+<a id="gro-naturallaw"></a>
+#### Natural law — secularised and universal
+
+***Core:*** natural law = **universal, immutable principles we must act in conformity with**, knowable by **right reason** — a *minimal* moral basis everyone could accept "despite profound confessional strife."
+- Content known **a priori** (by reason, from our rational & social nature) *and* **a posteriori** (the laws "to which all civilized nations subject" — "a universal effect requires a universal cause"). Dual foundation: **right reason AND God**, each able to carry the obligation.
+
+<a id="gro-impious"></a>
+#### ★ The "impious hypothesis" — *etsi Deus non daretur*
+
+***Core:*** the famous line — natural law *"would take place, though we should even grant… that there is no God."* Its obligatory force seems **independent of God's existence.**
+- **But note the qualification:** the *very next sentence* names God as Creator — so it's *not* atheism. Boisen's reading: a **deliberately vague** device to secure natural law's universality **across confessions**, not a denial of God. **Source of law = God; contents = human nature.** *(This is the move that starts to secularise natural law — hugely influential.)*
+
+<a id="gro-rights"></a>
+#### Natural rights — the *suum*, and rights as a *power*
+
+***Core:*** rights are **derived from facts about human nature** (chiefly sociability); a **subjective right** is *"something the individual possesses"* — a **power (potestas) over oneself** (liberty) or a claim over others/things. Grotius is "the first to give a systematic account of **subjective** natural rights."
+- Man is by nature **free and *sui iuris*** (subject to no one); the starting point is the ***suum*** (what is one's own). **Two primary rights:** self-defence & self-preservation → **two secondary claim-rights:** **property** and **punishment**.
+- **Rights are limited by a duty** not to injure others: *"the very nature of injustice consists in nothing else but the violation of another's rights."*
+
+<a id="gro-mareliberum"></a>
+#### The Free Sea (*Mare Liberum*) — the sea as a state of nature
+
+***Core:*** the **sea can't be owned** — it's "by nature open to all"; the high seas function like a **state of nature**, grounding a natural right to **free navigation and trade.**
+- Land can be parcelled into property (via occupation + agreement); the sea **cannot be occupied**, so it stays common. *(Written to justify the Dutch (VOC) breaking the Portuguese monopoly in the East Indies → a natural-law defence of **free trade**.)*
+- **vs Hobbes:** Grotius uses the state of nature **not to explain political authority**, but as a *device* to model the norms of the high seas.
+
+<a id="gro-property"></a>
+#### Property — occupation vs *dominium*
+
+***Core:*** we have a God-given **common use-right** (occupation) by nature; **private property (*dominium*) is a human convention** requiring agreement and law.
+- *"God gave all things not to this man or that man, but to mankind."* Property is "an invention of societies." The question isn't *how to justify* private property (Locke's later question) but *the conditions under which it's permissible* — with a **right of necessity** (in extreme hardship you may access another's property) that puts **natural rights above civil rights.**
+
+<a id="gro-sociability"></a>
+#### Sociability — *appetitus societatis* (the anti-Hobbes)
+
+***Core:*** humans have a natural **desire for society** (*appetitus societatis*) — an inclination to live peaceably with their own kind. This is Grotius's fundamental break from Hobbes.
+- Because man is naturally sociable, **maintaining social order is fundamental to law.** *(Critics (Haakonssen): it's a thin, "leave-others-alone" sociability — a non-interventionist account of liberty.)* We're also pushed together by **need** ("our lack of things"). Political authority arises through **voluntary agreements**; natural jurisdiction lies with the **individual**, "not a king or a pope."
+
+<a id="gro-justwar"></a>
+#### ★ The world system of states — just war & the right to punish
+
+***Core:*** universal natural law applies **equally to states**; a **law of nations** with authority to arbitrate wars makes an ordered **society of states** — and even **war is subject to law.**
+- ***The Rights of War and Peace* (1625):** subject international relations, incl. war, to the **rule of law**. War is *"an instrument of right… undertaken for the sake of peace"*: **just = the execution of a right; unjust = the execution of an injury.**
+- **Four just causes of war (*jus ad bellum*):** ① **self-defence** · ② **self-preservation** · ③ **recovery of property / a debt** · ④ **punishment.**
+- **Restraint in war (*jus in bello*):** a **middle ground** between Erasmus's pacifism and unlimited war — "just wars are those wherein rules are observed."
+- **The right to punish** (central to international order): derived from **natural law** (not mere revenge). Against **Vitoria** (who said conquistadors *couldn't* punish the American Indians for want of jurisdiction), Grotius argues *"war may be waged against those who sin against nature,"* since nature *"has jurisdiction over the whole of mankind."* But he **warns against using punitive war as a pretext** ("civilising barbarous peoples"), and punishment must be **forward-looking/deterrent**, not vengeful (Plato: "no wise man punishes because an offence was committed, but that it may not be committed again").
+
+#### Legacy
+
+***Core:*** **"father of international law"** (a title cemented by the 20th-c. jurist **Lauterpacht**; the term "international law" itself was coined by **Bentham**), and a pillar of the **social-contract tradition.**
+- Influenced **Hobbes** (Tuck: Hobbes's philosophy is "a Grotian theory"), **Locke** (the natural right to **punish**), **Pufendorf**. *Contested legacy:* his **occupation/*dominium*** and **punishment** doctrines were later "invoked to rationalise European **empire**" — "empire is an inescapable feature of early-modern political thought."
+
+### Key terms
+| Term | Meaning |
+|---|---|
+| Natural law | Universal immutable principles; source = God, content = human nature |
+| Impious hypothesis (*etsi Deus non daretur*) | Natural law binds "even if God did not exist" |
+| Natural (subjective) right | A *power/potestas* one "possesses" over oneself or a claim on others |
+| *Suum* / *sui iuris* | What is one's own / subject to no one (natural liberty) |
+| *Mare Liberum* | The free sea — common to all, a "state of nature" |
+| Occupation vs *dominium* | Common use-right (natural) vs private property (conventional) |
+| *Appetitus societatis* | The natural human desire for society (vs Hobbes) |
+| Just war (*jus ad bellum*) | 4 just causes: self-defence, self-preservation, recovery/debt, punishment |
+| Right to punish | Derived from natural law; enforces order among individuals & states |
+| Law of nations / society of states | Universal natural law applied to sovereign states |
+
+### Exam pointers
+- Explain the **[impious hypothesis](#gro-impious)** precisely (natural law "even if God did not exist") — and the qualification (not atheism; a universality device).
+- Trace the **rights chain**: *suum* → self-preservation → **property** (occupation vs *dominium*) → **punishment**.
+- Use ***[Mare Liberum](#gro-mareliberum)*** as the worked example (sea as state of nature → free trade).
+- State the **[four just causes of war](#gro-justwar)** + the right to punish + Grotius's **restraint** (vs Vitoria; vs Erasmus).
+
+---
+
+<a id="m2-compare"></a>
+## ★ Hobbes vs Grotius — the module's payoff
+
+***Core:*** both are pillars of **social-contract** theory and both start from **self-preservation** — but they split on **human nature**, and that split drives everything.
+
+| | **Hobbes** | **Grotius** |
+|---|---|---|
+| **Human nature** | Naturally in **conflict** → "war of all against all" | Naturally **sociable** (*appetitus societatis*) |
+| **Natural law** | **Reduced** to self-security — the way *out* of the state of nature | Genuinely **obligatory**; universal (binds "even if God did not exist") |
+| **State of nature — used for** | To explain the **origin of political authority** | Not authority *per se* — a **device** (e.g. the free seas / justifying a war) |
+| **The sovereign & the contract** | Sovereign is **not a party** → no breach, (almost) no right of resistance | Sovereign **can be a party** → a narrow right of resistance in extreme tyranny |
+| **Main worry** | Domestic order (avoiding civil war) | **International** order (a law-governed society of states) |
+| **Legacy** | Absolutism; the "science of the state" | International law; natural rights; (contested) empire |
+
+*Where they meet:* Grotius's line that there's no order without enforcement echoes Hobbes's *"covenants without the sword are but breath"* — but Grotius thinks natural law + sociability can bind sovereigns **without** a world-Leviathan, which is exactly what Hobbes denies.
+
+---
+
+<a id="ff-module2-pet"></a>
+## ★ Fun facts & memorable details
+
+> Sticky bits from Module 2 (Hobbes & Grotius).
+
+**Hobbes**
+- Life in the state of nature is **"solitary, poore, nasty, brutish, and short."**
+- The commonwealth is a **"mortal god."**
+- **"Covenants without the sword are but breath"** — Hobbes's one-line theory of international anarchy.
+- **"Hobbes and Fear were born twins"** — born prematurely in **1588**, his mother's labour supposedly brought on by news of the **Spanish Armada**. Yet he was reportedly cheerful and **died at 91**; Charles II gave him a pension and enjoyed watching wits bait "**the Bear**."
+- He **discovered Euclid by accident** in a gentleman's library — and built *Leviathan* like a geometry.
+
+**Grotius**
+- The **impious hypothesis:** natural law would hold *"though we should even grant… that there is no God."*
+- **Child prodigy:** at the University of **Leiden aged 11**; a law degree at ~16; Henry IV called him *"the miracle of Holland."*
+- **The book-chest escape:** sentenced to life in prison, he **escaped in 1621 hidden in a chest of books.**
+- The **VOC** hired him to justify seizing the Portuguese carrack *Santa Catarina* — a prize worth ~**3 million guilders** (≈ the entire annual revenue of the English government that year).
+- **"International law"** as a term was coined by **Bentham**; Grotius's "father of international law" title was cemented by the 20th-c. jurist **Lauterpacht**.
+- He **died in 1645 after surviving a shipwreck** on the way home from serving Queen Christina of Sweden.
