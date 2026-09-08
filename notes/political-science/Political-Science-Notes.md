@@ -1456,6 +1456,29 @@ Hall & Taylor show that "the new institutionalism" is **not one theory but three
 | **HI** | **critical junctures**; unintended consequences; powerful **agenda-setters**; institutional inertia | **path dependence**; **policy lock-in**; institutional power vested in key actors |
 | **SI** | **societal shifts** (materialism→post-materialism); a new **economic paradigm** (Keynesianism→neoliberalism); IR shift (multilateral→unilateral) | deep **taken-for-granted** structures; **national identities**; nested power structures |
 
+<a id="l6-brexit-worked"></a>
+##### ★ Worked example — the three schools explain **Brexit**
+
+***Core:*** the exam move is to take **one outcome** and give **three competing explanations**. None is "the" answer — each spotlights a different driver, and they're strongest *combined*. Each school's Brexit account, developed:
+
+**① RCI — Brexit as strategic actors pursuing interests.** Institutions are rules that structure the strategic game; the outcome is the aggregate of **cost–benefit calculations** by utility-maximisers.
+- **Elite gamble:** **Cameron** called the 2016 referendum as a *rational* move to manage his own party — buy off Eurosceptic backbenchers and kill the **UKIP** threat — **expecting Remain to win**. A calculated bet (that misfired: unintended consequence, but the *decision* was strategic). Leave elites (**Johnson, Gove**) likewise made career-maximising bets.
+- **Voters as calculators:** those who read themselves as **economic losers** from EU membership/immigration (job & wage competition, strained services) found Leave in their interest; **winners** (London finance, exporters reliant on the single market, the highly educated) voted Remain.
+- **Rules of the game:** a **binary referendum stripped out the usual veto players** (parliament's equilibrium was bypassed), so a bare 51.9% majority could flip policy.
+- *Blind spot:* takes preferences as **given** — it can't say *why* so many Britons wanted "out."
+
+**② HI — Brexit as a critical juncture releasing a path-dependent tension.** Institutions distribute power and **lock in paths**; big change needs a **critical juncture**.
+- **Path dependence:** Britain was always the *"awkward partner"* — it **stayed out of the founding EEC (1957)**, joined **late (1973)**, then negotiated **opt-outs** (no euro, no Schengen, the budget rebate). Forty years of *half-in* membership + a sovereign **Westminster** tradition jealous of pooled sovereignty + a Eurosceptic press kept **exit latent** on the path.
+- **Critical juncture + timing:** the referendum landed at a specific conjuncture — **post-2008 austerity** and the **2015 refugee crisis** — that gave Leave its opening; Cameron's **2015 election pledge** (itself an unintended consequence of earlier intra-party moves) set the branching point.
+- *Blind spot:* strong on *why Britain / why now*, weak on the **precise decision mechanism** on the day.
+
+**③ SI — Brexit as a clash of identity frames.** Institutions are **cultural frames of meaning** that constitute identities; people act by the **logic of appropriateness**, and change = a shift in the taken-for-granted paradigm.
+- **Identity, not calculation:** Leave mobilised a **national-sovereignty identity** ("**take back control**") against a **cosmopolitan, pro-European** one — the deep split was **older/less-educated/"left-behind" towns vs younger/urban/university-educated**. Voting Leave *expressed who people felt they were.*
+- **Cultural backlash / values shift** (Norris & Inglehart): a **materialist→post-materialist** realignment in which **cultural identity trumped economic interest** — for a certain British self-understanding, being governed from Brussels simply wasn't "appropriate" to *being British*.
+- *Blind spot:* strong on **meaning/identity**, weak on **power and strategic agency** (who engineered the vote).
+
+> **Putting them together (cross-fertilisation).** They're complementary: **HI** explains *why Britain and why 2016* (the path + juncture), **SI** explains *why the identity cleavage existed to be mobilised*, and **RCI** explains *why Cameron gambled and how interests aggregated into 51.9%*. That's the model answer — locate each on the [structure⇄agency spectrum](#l6-structure-agency) (SI most structural → RCI most agency) and show how the three combine.
+
 #### Hall & Taylor's conclusion — cross-fertilise
 
 ***Core:*** each school reveals a **genuine but partial** dimension of behaviour, so they should **borrow from each other** rather than stay in isolation.
@@ -1482,7 +1505,7 @@ Hall & Taylor show that "the new institutionalism" is **not one theory but three
 - Reproduce the **[RCI/HI/SI comparison table](#l6-comparison)** — the exam's whole point (Ayca's table).
 - Nail **institution ≠ organization** and the **widening definition** (RCI rules → SI frames of meaning).
 - Use the **[calculus vs cultural](#l6-calc)** distinction to explain *how* each school links institutions to behaviour.
-- Run the **[change-vs-continuity table](#l6-change)** on one outcome (Brexit): **three competing explanations** (RCI equilibrium/interests · HI critical juncture/path dependence · SI paradigm/identity shift).
+- Run the **[change-vs-continuity table](#l6-change)** on one outcome — see the **[worked Brexit example](#l6-brexit-worked)**: **three competing explanations** (RCI strategic gamble/interests · HI critical juncture/path dependence · SI identity-frame clash), then combine them.
 - Know each school's **signature critique** (RCI thin motivation · HI vague mechanism · SI bloodless/no power).
 
 ---
