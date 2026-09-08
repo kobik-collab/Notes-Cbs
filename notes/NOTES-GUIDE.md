@@ -184,6 +184,17 @@ Each reading (an `## H2`) contains:
    - **Completeness pass:** when the draft is done, walk the **source's own headings/sub-points** and
      confirm each is covered at proportional depth; if you deliberately skip something, say so. Never let
      "I read the section and it's not in the notes" happen.
+   **EXPLAIN, don't just list — deeper AND simpler (for understanding, not just coverage).** The goal is
+   *greater understanding*, so more depth must come with **plain language**, not denser jargon:
+   - **Gloss every hard term in everyday words.** After a technical term, add a short *"in plain terms…"*
+     / *"i.e.…"* clause a first-year could follow (e.g. *path dependence* → "early choices lock you onto
+     a track that gets more expensive to leave the longer you're on it"). Define before you use.
+   - **Explain the *why/how*, not just the *what*.** Don't state that a mechanism exists — walk one step
+     at a time how it works, ideally with a tiny running example so the abstract idea lands.
+   - **Short sentences over dense clauses.** Depth = more explained points, NOT longer, harder sentences.
+     A reader should come away *understanding* the concept, not just having seen the label.
+   *(Why: user — "explain the notes section by section more in depth and simpler to make greater
+   understanding.")*
 5. **Cases & examples** — the concrete cases, countries, experiments, or worked examples the
    reading uses to illustrate its concepts. *Include whenever the reading leans on cases*
    (essential for comparative politics; light or skipped for a purely theoretical piece).
