@@ -525,7 +525,25 @@ McClelland reads Hobbes's ***Leviathan* (1651)** as *"the first masterpiece of s
 
 - **Sovereignty is an *office of the state*, not the ruler's personal privilege (Popp-Madsen).** Hobbes describes the **rights of the office of sovereignty (i.e. the *state*)**, not the "advices" a particular ruler should follow. *In plain terms:* he's defining what **the position of Sovereign** may do — whoever fills it — not giving one king personal tips. This is why he says he founds **modern political thought**, and why the deck asks: **"Is Hobbes the first liberal?"** — his absolute state is built from **individuals' voluntary choices**, and the powers belong to the **institution**, not the person.
 - **Iniquity vs injury** (crucial): the sovereign, being a man, *can* act wickedly (**iniquity**) — but he can never do a subject an **injury** (an *unlawful* act), because he makes the law and the subject authorised him → "the supposed injury is something I have done to myself."
-- Powers include: law, courts, war & peace ("the sword of justice is also the sword of war"), **censorship** (he even fixes the meaning of "just" and "unjust"), control of religion, appointments, honours — and it **repudiates all prior covenants, including any "covenant with God."**
+
+<a id="hob-attributes"></a>
+***The attributes of sovereignty.*** McClelland lists **eleven** (the deck highlights the starred ⭐ ones) — all *deduced* from the covenant, and all belonging to the **office**, not the person. They are more absolutist than "even the most absolute of contemporary kings" claimed:
+
+| # | Attribute | What it means |
+|---|---|---|
+| 1 | **Repudiates all prior covenants** | The founding contract cancels every earlier deal — *including any "covenant with God"* (no religious limit on the sovereign). |
+| 2 | ⭐ **Cannot forfeit sovereignty** | The sovereign can never lose his authority — true by the definition of the contract. |
+| 3 | **Majority binds; may compel dissenters** | A majority suffices; anyone who refuses stays in the state of nature, where the sovereign may compel — or kill — them. |
+| 4 | ⭐ **Cannot be judged / do an "injury"** | Being authorised by all, he can't act *unlawfully* toward a subject (iniquity ≠ injury); he **cannot be judged.** |
+| 5 | ⭐ **Cannot justly be put to death by subjects** | To execute him would be to punish them for **their own** act. |
+| 6 | ⭐ **Censorship of opinion** | He controls what may be taught/said for peace — and even **fixes the meaning of "just" and "unjust."** |
+| 7 | ⭐ **Decides religion & forms of worship** | He settles public worship (vital when people "were prepared to kill each other" over salvation). |
+| 8 | ⭐ **Ultimate judge — all courts are his courts** | One uniform justice; rival courts breed the insecurity men fled. |
+| 9 | ⭐ **War-and-peace power** | "The sword of justice is also the sword of war" — the *ultima ratio regis*; the heart of sovereignty. |
+| 10 | **Chooses & dismisses his ministers** | He may *seek* advice, but no one has a **right** to advise him. |
+| 11 | ⭐ **Grants (and revokes) nobility** | "Aristocracy is the sovereign's creation." |
+
+- **Plus the umbrella rule (deck):** *every* action must be done **in the name of the sovereign** (authorisation) — and these are **attributes of a political office, not advice to an individual ruler.**
 - **The only right you keep = self-preservation:** "no man is obliged to walk unbound to the scaffold." Otherwise a rational man sheds his Right of Nature entirely.
 
 #### Why absolutism — anything less collapses into war
@@ -559,6 +577,7 @@ McClelland reads Hobbes's ***Leviathan* (1651)** as *"the first masterpiece of s
 - Run **[Hobbes's chain](#hob-covenant)** cold: state of nature → right vs law of nature → **the covenant of every man with every man** → absolute sovereign.
 - Nail *why* the sovereign is **beneficiary, not party**, and what follows (no breach, no right of resistance beyond self-preservation).
 - Explain the **iniquity vs injury** distinction and the **regress argument** for why sovereignty can't be divided.
+- Be able to reel off the **[attributes of sovereignty](#hob-attributes)** (censorship, religion, ultimate judge, war, nobility, can't-be-judged…) — and stress they are powers of the **office/state**, not the person.
 - Use *"covenants without the sword are but breath"* to link Hobbes to the **international** problem Grotius addresses.
 
 ---
