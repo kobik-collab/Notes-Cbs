@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T10:53:54.499Z",
+  "generatedAt": "2026-09-08T11:20:04.160Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -24,7 +24,7 @@
       "full": {
         "title": "Political & Economic Thought — Full notes",
         "pdf": "pdfs/political-economic-thought/Political-Economic-Thought-Notes.pdf",
-        "sizeKB": 2461
+        "sizeKB": 2470
       },
       "parts": [
         {
@@ -37,7 +37,7 @@
           "slug": "module-2-renaissance-and-early-modern-political-theory-from-",
           "title": "Module 2: Renaissance and Early-Modern Political Theory — from Cosmopolis to *Stato* to the Social Contract",
           "pdf": "pdfs/political-economic-thought/module-2-renaissance-and-early-modern-political-theory-from-.pdf",
-          "sizeKB": 1910
+          "sizeKB": 1918
         }
       ]
     },

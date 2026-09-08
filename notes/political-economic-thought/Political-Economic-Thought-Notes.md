@@ -9,7 +9,7 @@
 *(Everything below is clickable — jump straight to a week, reading, case, or fun-facts box.)*
 
 - **[Module 1: Antiquity & the Middle Ages — Greeks & Romans](#module-1-pet)** — [★ Lecture 1 (BAP/JL)](#week36-lecture) · [Reeve: Plato](#reeve--plato) · [McClelland: Aristotle](#mcclelland--aristotle) · [Galbraith intro](#galbraith--a-look-at-the-landscape) · [★ Reading questions (answered)](#week36-questions) · [★ Fun facts](#ff-week36)
-- **[Module 2: Renaissance & Early-Modern — from Cosmopolis to Stato to Social Contract](#module-2-pet)** — [McClelland: Hobbes](#m2-hobbes) · [Hobbes's social covenant](#hob-covenant) · [Grotius: natural law & the world system of states](#m2-grotius) · [Hobbes vs Grotius](#m2-compare) · [★ Fun facts](#ff-module2-pet)
+- **[Module 2: Renaissance & Early-Modern — from Cosmopolis to Stato to Social Contract](#module-2-pet)** — [McClelland: Hobbes](#m2-hobbes) · [Hobbes's social contract / covenant](#hob-covenant) · [Grotius: natural law & the world system of states](#m2-grotius) · [Hobbes vs Grotius](#m2-compare) · [★ Fun facts](#ff-module2-pet)
 
 ---
 
@@ -474,7 +474,7 @@ McClelland reads Hobbes's ***Leviathan* (1651)** as *"the first masterpiece of s
 ### Key concepts / "modes" to use
 - **State of nature** — no government → "war of all against all."
 - **Right of Nature** (a *permission*: unlimited liberty to preserve yourself) vs **Law of Nature** (a *command* of reason: **seek peace**).
-- **The social covenant** — every man with every man; the sovereign is **beneficiary, not party**.
+- **The social contract / covenant** — every man with every man; the sovereign is **beneficiary, not party**.
 - **Sovereign / Leviathan** — the "mortal god"; **authorisation** ("what my agent does, I do"); **absolute & undivided**.
 - **Iniquity vs injury** · **sovereignty by institution vs acquisition** · the **efficiency constraint**.
 
@@ -505,9 +505,11 @@ McClelland reads Hobbes's ***Leviathan* (1651)** as *"the first masterpiece of s
 - **Law of Nature** (a "precept found out by reason" forbidding self-destruction): **1st — "seek peace, and follow it"**; **2nd — lay down your right to all things, as far as others will too.** In the state of nature these bind *in foro interno* (in conscience) but not *in foro externo* (in act) — no one dares go first.
 
 <a id="hob-covenant"></a>
-#### ★ The social covenant — how you escape the state of nature
+#### ★ The social contract (Hobbes's *"covenant"*) — how you escape the state of nature
 
-***Core:*** you **can't make law by agreement** (who'd go first? who'd enforce it?) — so instead, **by agreement choose a law-*giver***: everyone **covenants with everyone else** to transfer their Right of Nature to, and **authorise**, one **Sovereign**.
+***Core:*** the way out of the war is a **social contract** — Hobbes calls it a **covenant**: you **can't make law by agreement** (who'd go first? who'd enforce it?), so instead everyone **agrees to *authorise a law-giver***. Every person covenants with every other to hand their **Right of Nature** to one **Sovereign** and back whatever he does.
+- **What the social contract actually *is* (plain terms):** each individual, *of their own free will*, says to all the others: **"I give up my right of governing myself to this man (or assembly), on condition that you do the same."** Hobbes's own words: *"I authorise and give up my right of governing myself to this man, or to this assembly of men, on this condition, that thou give up thy right to him, and authorise all his actions in like manner."* In one stroke a **multitude of separate wills becomes one will — the sovereign's** — and each person has **traded a slice of freedom for security.** The contract is **horizontal** (among equals) and **voluntary.**
+- **Hobbes turns social-contract theory on its head (Popp-Madsen).** *Before* Hobbes, the social contract was used to **limit** rulers (the ruler may only do what the contract permits → grounds for resistance). Hobbes uses the *same* device to do the **opposite** — to justify the **unlimited** power of the sovereign and the political *passivity* of subjects. To **break** the contract is therefore **unjust and illegitimate.**
 - **The key twist:** the covenant is **of every man with every man — NOT with the sovereign.** The sovereign is the **beneficiary, not a contracting party**, so *he makes no promise and can never "breach" the contract.* Everyone makes the leap into civil society **except the sovereign, who stays in the state of nature.**
 - **Authorisation / representation:** the people **authorise everything the sovereign does** → *"what my agent does, I do… his will is my will."* A people has a will **only through its representative** (the sovereign).
 - **Institution vs Acquisition:** by **covenant** (the paradigm case) or by **conquest** (the ordinary historical case) — same result, because **fear doesn't invalidate a contract** ("all contracts are made through fear"; the man on a sinking ship "very willingly" throws his goods overboard).
