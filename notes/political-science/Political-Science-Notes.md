@@ -1341,15 +1341,6 @@ Looks at the three institutions through which democracies channel **participatio
 ![Diagram of the structure-vs-agency debate: two boxes, STRUCTURE (institutions, rules, power, culture) and AGENCY (actors' choices, strategy, leadership), both feeding arrows into a "Political outcome (e.g. Brexit)" box; below, a spectrum from "more structure" to "more agency" with SI, HI and RCI plotted left-to-right](figures/l6-structure-agency.png)
 
 **How to read it (the deck's opening framing).** The **same outcome** (e.g. Brexit) can be explained by **structure** (the constraining context — institutions, rules, power, culture) or by **agency** (what actors chose to do). Institutionalism says it's *both*, with institutions as the structure that channels agency — and the **spectrum** at the bottom is the exam-useful part: **SI** leans most structural (culture makes the actors), **RCI** leans most agency (strategic actors within fixed rules), **HI** sits in the middle (path dependence + critical junctures). Locating a school on this line is how you answer "which weights structure vs agency?"
-<a id="l6-why-new"></a>
-- **Why "New" institutionalism? — three waves of theory** (the deck's *original → counter → revised* arc):
-  - **① Original theory — "old" institutionalism** (early–mid 20th c.): the **descriptive** study of *formal* institutions — constitutions, legal codes, the formal machinery of government. Rich on paper rules, but static and atheoretical.
-  - **② Counter theory — behavioralism** (1960s–70s): reacted *against* the old school — politics should be explained by **individual behaviour, attitudes and informal processes**, studied scientifically. Institutions were downgraded to **epiphenomena** (just the *sum* of individual choices; the formal rules "don't really matter").
-  - **③ Revised theory — New Institutionalism** (1980s–90s): **brings institutions back in** — but *revised*: institutions matter again *because they actively **shape and constrain** behaviour and outcomes* (not just describe them). That "institutions back in, but now doing explanatory work" is what makes it **New**.
-- **What New Institutionalism studies — institutions, via three guiding questions** (deck):
-  - **① What do institutions look like?** — e.g. **Danish labour-market rules** ("flexicurity"); **post-conflict peace-building** institutions (truth & reconciliation commissions in **Rwanda, South Africa**).
-  - **② What similarities & differences do they show across contexts?** — e.g. **neocorporatism in Sweden vs Germany**; **presidentialism in the US vs Brazil**.
-  - **③ Why do they differ across time & space?** — and here the **three schools give competing answers** (RCI vs HI vs SI). *Today's reading applies this:* why does **privatisation of education take different forms in three countries** (Busemeyer & Thelen)?
 - **Why study institutions?** They have **profound political consequences** — e.g. electoral system → party system (majoritarian → two-party; PR → multiparty — Lectures 4–5); parental-benefit design → labour-market gender equality.
 - **The definition of "institution" *widens* across the three schools** — this is the key organising idea:
 
@@ -1379,6 +1370,21 @@ Hall & Taylor show that "the new institutionalism" is **not one theory but three
 - **SI toolkit:** **frames of meaning · logic of appropriateness · isomorphism · legitimacy**.
 
 ### Section-by-section main points
+
+<a id="l6-why-new"></a>
+#### What "New Institutionalism" is — and why it's *"new"*
+
+***Core:*** **New Institutionalism** is the family of approaches (from the **1980s**) holding that **institutions shape political behaviour and outcomes** — reviving institutions as an *explanation* after behavioralism had sidelined them. The single claim uniting all three schools: **institutions are not a neutral backdrop; they structure what actors do** (they then disagree on *how*).
+
+- **Why "New"? — three waves of theory** (the deck's *original → counter → revised* arc):
+  - **① Original theory — "old" institutionalism** (early–mid 20th c.): the **descriptive** study of *formal* institutions — constitutions, legal codes, the machinery of government. Detailed on paper rules, but **static, atheoretical, country-by-country** — it described institutions without explaining behaviour.
+  - **② Counter theory — behavioralism** (1960s–70s): reacted *against* the old school — politics should be a **science of observable behaviour** (attitudes, voting, opinion), explained by **individuals and informal processes**. Institutions were demoted to **epiphenomena** — just the *aggregate* of individual choices, so the formal rules "don't really matter."
+  - **③ Revised theory — New Institutionalism** (1980s–90s): **brings institutions back in** — but *revised*. It concedes the behavioralist focus on action, yet insists institutions **actively shape and constrain** that action and its outcomes (not merely describe it). "Institutions back in, now doing real explanatory work" is what makes it **New**. *(This is also the [structure⇄agency](#l6-structure-agency) answer: institutions are the structure that channels agency.)*
+- **What New Institutionalism studies — institutions, through three guiding questions** (deck):
+  - **① What do institutions look like?** — e.g. **Danish labour-market rules** ("flexicurity" — flexible hiring/firing + strong welfare security); **post-conflict peace-building** institutions (truth & reconciliation commissions in **Rwanda, South Africa**).
+  - **② What similarities & differences do they show across contexts?** — e.g. **neocorporatism in Sweden vs Germany**; **presidentialism in the US vs Brazil** (same type, different workings — Lecture 4).
+  - **③ Why do they show those similarities/differences across time & space?** — the question the **three schools answer differently** (RCI vs HI vs SI). *Today's reading is exactly this move:* why does **privatisation of education take three different forms** in Germany, Sweden and the USA (Busemeyer & Thelen)?
+- **The pay-off for the rest of the lecture:** all three schools **agree** institutions matter and shape behaviour; they then **split two ways** — on *how* institutions work (**[calculus vs cultural](#l6-calc)**) and on *what even counts* as an institution (the widening definition above). Those two splits generate the three schools below.
 
 <a id="l6-calc"></a>
 #### The two archetypes — calculus vs cultural

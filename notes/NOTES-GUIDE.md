@@ -102,6 +102,14 @@ the "where is everything" index; keep it updated as lectures/weeks are added.
    deck foregrounds (it's what the lecturer stresses and the exam follows). Then use the **readings
    to fill in the depth *around* each deck point** (definitions, evidence, nuance); reading-only
    material goes in as clearly *secondary*. Mark deck-sourced points (*"(from the lecture — INITIALS)"*).
+   - **The deck is the FLOOR, not the ceiling.** It sets the skeleton; the reading supplies the flesh.
+     Never let a slide's terseness cap a section — after mirroring the deck, **go into the chapter and
+     bring in every additional relevant thing it covers** (user: "if we find more relevant stuff in the
+     chapter we bring that in too"). See rule 4's DEPTH + COMPLETENESS block.
+   - **Subagent digests must be comprehensive, not summaries.** If a subagent reads a chapter for you,
+     its prompt must demand **structured section-by-section detail that preserves every sub-point,
+     mechanism, example and caveat** (near-verbatim key claims), and must **flag anything it compressed**
+     — otherwise you compress a summary of a summary and the section goes thin.
    - **Deck-first ordering matters:** if the reading is built *before* the deck arrives, treat the
      deck as a **re-centre** job (reorder/foreground around it), not just an append — e.g. Pitkin's
      concept of representation should *lead* the Representation lecture, not be tacked on.
@@ -162,6 +170,20 @@ Each reading (an `## H2`) contains:
    detail (short bullets / small tables). The reader should get the whole section from the
    sub-headings + *Core* lines alone. Turn any "3 types / 4 demands / 2 pathways" into a small table.
    *(Anchors for exam-pointer links go on their own line immediately **before** the `####`.)*
+   **DEPTH + COMPLETENESS (the #1 failure mode — do not skip):** the `*Core:*` line is the section's
+   **opener, not the whole section.** Under it you MUST **walk the source's actual sub-points** — its
+   mechanisms, sub-arguments, examples, caveats — at proportional depth. Concretely:
+   - **Build each section from the FULL reading, not from the deck, the spine, or a digest.** Writing the
+     Heart/tables first and then treating section-by-section as brief reinforcement drops everything not
+     on the pre-chosen spine — *this is the mistake that makes notes "too short."* The deck is the
+     **floor, not the ceiling**: after mirroring the slide, go into the chapter and pull in every
+     additional relevant thing it covers.
+   - **Every concept the lecture/deck names earns its own explained subsection here** — not just a
+     mention in the intro/frame. If a deck slide is devoted to it (e.g. *structure vs agency*, *what
+     "New Institutionalism" studies*), it gets a section-by-section `####` that actually explains it.
+   - **Completeness pass:** when the draft is done, walk the **source's own headings/sub-points** and
+     confirm each is covered at proportional depth; if you deliberately skip something, say so. Never let
+     "I read the section and it's not in the notes" happen.
 5. **Cases & examples** — the concrete cases, countries, experiments, or worked examples the
    reading uses to illustrate its concepts. *Include whenever the reading leans on cases*
    (essential for comparative politics; light or skipped for a purely theoretical piece).
