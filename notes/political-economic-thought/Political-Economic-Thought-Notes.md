@@ -449,6 +449,16 @@ Plato and Aristotle set the **normative-ideal** vs **empirical-natural** poles o
 <br>• <strong>Hobbes → the social covenant:</strong> from a <strong>state of nature</strong> ("war of all against all") rational egoists <strong>covenant with each other</strong> to authorise an <strong>absolute sovereign</strong> (Leviathan) — anything less collapses back into war.
 <br>• <strong>Grotius → the world system of states:</strong> a <strong>natural law</strong> of universal rights & duties (binding "even if God did not exist") governs sovereigns too — grounding property, the free sea, and a <strong>just-war</strong> international order.</div>
 
+**Lecture frame (Popp-Madsen — from the deck).** *(The deck is the skeleton; the readings below add the flesh.)*
+
+- **The big story — how political power kept being re-grounded:** **Greek antiquity** = politics is part of **ethical life** (the *zoon politikon*, the good life) → **Middle Ages** = the **Church** is the authority, religion supplies the rules, **God is the ultimate sovereign** → **17th-century early modernity** = the ground shifts to **power, conflict and self-interest**, and to **political institutions and the *state*.** Hobbes and Grotius are the thinkers of that last shift.
+- <a id="m2-westphalia"></a>**The Westphalian system** (the world Hobbes & Grotius write into): after 1648 Europe becomes a set of **sovereign states**, each with **① exclusive sovereignty over its own territory**, **② non-interference** in others, and **③ legal equality** of states — and crucially **no supranational authority** above them (a rejection of the Catholic Church and Holy Roman Empire). *In plain terms:* the map stops being one Christendom and becomes a patchwork of independent states that recognise **no boss above them.**
+- **The hinge between the two thinkers:** Hobbes solves order *inside* the state (domestic anarchy → sovereign). **But what governs the space *between* sovereign states**, where there is no super-sovereign? That gap is exactly what **Grotius** tries to fill with international law.
+
+![Historical map "Europe 1648 — after the Peace Treaties of Westphalia," showing Europe as a dense patchwork of sovereign states and statelets (the fragmented Holy Roman Empire in the centre, France, the Swedish Empire, Poland-Lithuania, the Ottoman Empire, etc.)](figures/m2-europe-1648.jpg)
+
+**How to read it (the Westphalian map).** Each colour is a sovereign state after **1648**. The takeaway isn't the individual borders but the **pattern**: Europe is now a **mosaic of many independent sovereigns** — the fragmented **Holy Roman Empire** (centre) is a jumble of statelets — with **no emperor or pope ruling over the whole.** This is the "international anarchy" Hobbes says has no cure and Grotius says can be tamed by a **law of nations.**
+
 ---
 
 <a id="m2-hobbes"></a>
@@ -484,6 +494,7 @@ McClelland reads Hobbes's ***Leviathan* (1651)** as *"the first masterpiece of s
 #### The state of nature — the war of all against all
 
 ***Core:*** strip away government and you get **rough natural equality** → mutual fear → a **war of all against all** — a *disposition* to fight, not constant battle.
+- *In plain terms:* imagine no police, no courts, no laws. Since **anyone can kill anyone** (even the weakest can kill the strongest by stealth or in their sleep), nobody can ever feel safe. Everyone reasons that their **only security is to strike first / dominate others** — but everyone is thinking the same, so you get permanent mutual suspicion. It's "war" not because people fight all the time, but because the **threat never lifts** (like bad weather: not constant rain, but a settled *inclination* to storm).
 - **Equality:** "no man is so strong that he cannot be killed by another by stealth" → everyone is a threat. Three drivers: **competition** (gain), **diffidence** (fear/safety), **glory** (reputation). *"Part of man's nature is anti-social, while the other part can only be satisfied through social living."*
 - **War as a condition:** *"the nature of War consisteth not in actuall fighting, but in the known disposition thereto."* The famous verdict: life is **"solitary, poore, nasty, brutish, and short."**
 
@@ -505,8 +516,14 @@ McClelland reads Hobbes's ***Leviathan* (1651)** as *"the first masterpiece of s
 #### The Sovereign / Leviathan — absolute, undivided, a "mortal god"
 
 ***Core:*** the commonwealth is **Leviathan**, an "artificial man" / **"mortal god"**; because the sovereign is authorised by all, his power must be **absolute and undivided.**
+
+<img src="figures/m2-leviathan-frontispiece.jpg" alt="The 1651 frontispiece of Hobbes's Leviathan: a giant crowned sovereign rising over the land, his body made up of hundreds of tiny individual subjects, holding a sword in one hand and a bishop's crosier in the other; below, two columns of panels contrasting civil power (castle, crown, cannon, battle) with church power (church, mitre, thunderbolts, a council)" style="max-width:360px">
+
+**How to read it (the *Leviathan* frontispiece, 1651).** This one picture *is* Hobbes's argument. The **giant sovereign** is literally **made of the multitude** — hundreds of individuals whose authorisation composes his body (the "artificial man"). He towers **over the land** (he holds the peace of the whole commonwealth), and he grips **both swords of power at once: a sword** (civil/temporal authority, left) **and a bishop's crosier** (religious/spiritual authority, right) — Hobbes's point that sovereignty must be **undivided**, ruling church *and* state. The Latin banner (Job 41) reads *"there is no power on earth to compare with him."* The panels below mirror the two powers — civil (castle, crown, cannon) vs ecclesiastical (church, mitre, thunderbolts of excommunication).
+
+- **Sovereignty is an *office of the state*, not the ruler's personal privilege (Popp-Madsen).** Hobbes describes the **rights of the office of sovereignty (i.e. the *state*)**, not the "advices" a particular ruler should follow. *In plain terms:* he's defining what **the position of Sovereign** may do — whoever fills it — not giving one king personal tips. This is why he says he founds **modern political thought**, and why the deck asks: **"Is Hobbes the first liberal?"** — his absolute state is built from **individuals' voluntary choices**, and the powers belong to the **institution**, not the person.
 - **Iniquity vs injury** (crucial): the sovereign, being a man, *can* act wickedly (**iniquity**) — but he can never do a subject an **injury** (an *unlawful* act), because he makes the law and the subject authorised him → "the supposed injury is something I have done to myself."
-- Powers include: law, courts, war & peace ("the sword of justice is also the sword of war"), **censorship**, control of religion, appointments, honours — and it **repudiates all prior covenants, including any "covenant with God."**
+- Powers include: law, courts, war & peace ("the sword of justice is also the sword of war"), **censorship** (he even fixes the meaning of "just" and "unjust"), control of religion, appointments, honours — and it **repudiates all prior covenants, including any "covenant with God."**
 - **The only right you keep = self-preservation:** "no man is obliged to walk unbound to the scaffold." Otherwise a rational man sheds his Right of Nature entirely.
 
 #### Why absolutism — anything less collapses into war
@@ -567,28 +584,37 @@ McClelland reads Hobbes's ***Leviathan* (1651)** as *"the first masterpiece of s
 <a id="gro-naturallaw"></a>
 #### Natural law — secularised and universal
 
-***Core:*** natural law = **universal, immutable principles we must act in conformity with**, knowable by **right reason** — a *minimal* moral basis everyone could accept "despite profound confessional strife."
-- Content known **a priori** (by reason, from our rational & social nature) *and* **a posteriori** (the laws "to which all civilized nations subject" — "a universal effect requires a universal cause"). Dual foundation: **right reason AND God**, each able to carry the obligation.
+***Core:*** natural law = **universal, unchanging moral principles**, the same for everyone everywhere, that we work out by **reason** — a *minimal* moral basis everyone could accept *despite* Europe's ferocious religious splits.
+- *In plain terms:* Grotius wanted a set of moral rules so basic that **Catholics, Protestants and non-Christians could all agree on them**, so they could settle disputes without first agreeing about God. That's the whole point of grounding law in **reason + human nature** rather than in one church's doctrine.
+- **How we know its content — two routes:** **a priori** (by **right reason**, deduced from our rational and social nature) *and* **a posteriori** (by looking at the rules "to which all civilised nations subject" — because *"a universal effect requires a universal cause"*).
+- **Dual foundation — reason *and* God, each standing alone:** its **content** comes from human nature; its **obligatory force** rests on *both* right reason *and* God, "each independently able to carry the weight." Grotius explicitly loosens the medieval tie — natural law is **not** simply part of God's "eternal law" (contrast **Suárez**, who put the Ten Commandments inside natural law).
+- *(Background debate he sidesteps — **voluntarism vs intellectualism:** is a thing good *because God wills it* (voluntarism) or does *God will it because it is good* (intellectualism)? Finnis reads Grotius as **mediating**: the **content** of natural law can be worked out on its own, but its **binding force** still comes from the divine will.)
 
 <a id="gro-impious"></a>
 #### ★ The "impious hypothesis" — *etsi Deus non daretur*
 
 ***Core:*** the famous line — natural law *"would take place, though we should even grant… that there is no God."* Its obligatory force seems **independent of God's existence.**
-- **But note the qualification:** the *very next sentence* names God as Creator — so it's *not* atheism. Boisen's reading: a **deliberately vague** device to secure natural law's universality **across confessions**, not a denial of God. **Source of law = God; contents = human nature.** *(This is the move that starts to secularise natural law — hugely influential.)*
+- *In plain terms:* Grotius runs a **thought-experiment** — "*pretend*, just for argument, that there's no God: the basic moral rules would **still** hold." The point isn't to deny God; it's to show the rules are **so solid that people who disagree about religion can still all accept them.** That's how you get a law everyone in a war-torn, multi-faith Europe can share.
+- **The qualification (don't miss it):** the *very next sentence* names God as Creator "to be obeyed in all things" — so it's **not atheism** (his translator Barbeyrac was "so perturbed" he added a footnote insisting on God). **Haakonssen/Boisen:** it's a **deliberately vague device** to lift natural law *above* confessional quarrels, not a metaphysical denial. **Source of the law = God; contents = human nature.** *(This is the move that starts to **secularise** natural law — hugely influential.)*
 
 <a id="gro-rights"></a>
 #### Natural rights — the *suum*, and rights as a *power*
 
-***Core:*** rights are **derived from facts about human nature** (chiefly sociability); a **subjective right** is *"something the individual possesses"* — a **power (potestas) over oneself** (liberty) or a claim over others/things. Grotius is "the first to give a systematic account of **subjective** natural rights."
-- Man is by nature **free and *sui iuris*** (subject to no one); the starting point is the ***suum*** (what is one's own). **Two primary rights:** self-defence & self-preservation → **two secondary claim-rights:** **property** and **punishment**.
-- **Rights are limited by a duty** not to injure others: *"the very nature of injustice consists in nothing else but the violation of another's rights."*
+***Core:*** rights are **derived from facts about human nature** (chiefly sociability); a **subjective right** is *"something the individual possesses"* — a **power (*potestas*) over oneself** (liberty) or a claim over others/things. Grotius is "the first to give a systematic account of **subjective** natural rights."
+- *In plain terms — the big shift:* the old idea of "right" meant **"the right thing to do"** (an objective rule out there). Grotius flips it to a right as **something *you have*** — a personal power/possession you can point to and claim ("*this* is **mine**, *my* liberty, *my* property"). That "**rights as possessions**" idea is the seed of the whole modern language of individual rights. Grotius's own words: a right is *"a moral Quality annexed to the Person, enabling him to have, or do, something justly."*
+- Man is by nature **free and *sui iuris*** (*= his own master, subject to no one*); the starting point is the ***suum*** (*"one's own"* — your life, body, liberty, possessions). **Two primary rights:** self-defence & self-preservation → **two secondary claim-rights:** **property** and **punishment** (these are the **four rights that can justify war**).
+- **Rights are limited by a duty** not to injure others: *"the very nature of injustice consists in nothing else but the violation of another's rights."* *(He separates **justice = respecting others' rights** — what law can enforce — from **higher virtues** like generosity/mercy, which it can't; the state secures the first, not the second.)*
 
 <a id="gro-mareliberum"></a>
 #### The Free Sea (*Mare Liberum*) — the sea as a state of nature
 
-***Core:*** the **sea can't be owned** — it's "by nature open to all"; the high seas function like a **state of nature**, grounding a natural right to **free navigation and trade.**
-- Land can be parcelled into property (via occupation + agreement); the sea **cannot be occupied**, so it stays common. *(Written to justify the Dutch (VOC) breaking the Portuguese monopoly in the East Indies → a natural-law defence of **free trade**.)*
-- **vs Hobbes:** Grotius uses the state of nature **not to explain political authority**, but as a *device* to model the norms of the high seas.
+***Core:*** the **sea can't be owned** — it's "by nature open to all"; the high seas function like a **state of nature**, grounding a natural right to **free navigation and trade.** (*Mare liberum* = "free sea," against ***mare clausum*** = "closed sea.")
+- *In plain terms:* the sea is different from land. **Land** you can physically **occupy** and fence off, so (by agreement) it can become private property. **The sea can't be occupied or fenced** — so it stays **everyone's**, and no state may shut others out of it. Hence **freedom of navigation and trade for all.**
+- **Why it was written — the *Santa Catarina* / VOC:** a defence of the Dutch **breaking Portugal's monopoly** in the East Indies → a natural-law argument for **free international trade** (Grotius: undisturbed **commerce** is "part of the very fabric of humankind").
+- **He demolishes Portugal's three claimed rights — possession, navigation, trade:**
+  - **Possession:** distinguishes **occupation from discovery** — *"first sighting is not a claim to title."* You can only claim what was **nobody's (*res nullius*)** before; but the East Indies **weren't** nobody's — **native rulers already possessed their lands** (echoing **Vitoria:** the Spanish "got no more authority over the Indians… than the Indians would have over the Spaniards" had they sailed to Spain). Nor could a **papal grant** (Alexander VI's 1493 bulls) give title — the pope has no temporal authority over non-Christians.
+  - **Navigation & trade:** *"God gave all things not to this man or that but to mankind"*; **"no man hath the power to grant a privilege against mankind."** So the sea stays common and trade can't be lawfully blocked.
+- **vs Hobbes:** Grotius uses the state of nature **not to explain political authority** (as Hobbes does), but as a *device* to model the **norms of the high seas** — same concept, different job.
 
 <a id="gro-property"></a>
 #### Property — occupation vs *dominium*
@@ -600,16 +626,22 @@ McClelland reads Hobbes's ***Leviathan* (1651)** as *"the first masterpiece of s
 #### Sociability — *appetitus societatis* (the anti-Hobbes)
 
 ***Core:*** humans have a natural **desire for society** (*appetitus societatis*) — an inclination to live peaceably with their own kind. This is Grotius's fundamental break from Hobbes.
-- Because man is naturally sociable, **maintaining social order is fundamental to law.** *(Critics (Haakonssen): it's a thin, "leave-others-alone" sociability — a non-interventionist account of liberty.)* We're also pushed together by **need** ("our lack of things"). Political authority arises through **voluntary agreements**; natural jurisdiction lies with the **individual**, "not a king or a pope."
+- *In plain terms:* where **Hobbes** starts from people who are basically **dangerous to each other** (→ you need an all-powerful sovereign to keep the peace), **Grotius** starts from people who **naturally want to live together** peaceably (the Stoic *oikeiōsis*). So Grotius flatly rejects the line that "every creature only seeks its own private advantage." Same starting concern (self-preservation), **opposite view of human nature** → a much less absolutist politics.
+- **Sociability is "thin," on purpose.** Because man is sociable, **keeping social order is fundamental to law** — but critics (Haakonssen, Harvey) call it a **"meagre," leave-others-alone** sociability: essentially *leave others to the enjoyment of their **suum** as long as they leave you to yours.* That thinness is deliberate — a **minimalist** account that avoids taking sides on *what the good life is* (again, to sidestep religious quarrels). We're also pushed together by **need** ("our lack of things").
+- **Politics is built by voluntary agreement** — natural jurisdiction lies with the **individual**, "not a king or a pope." **Troubling corollary:** because you own your liberty, Grotius says you may **contract it away** — even into **slavery/servitude** (to escape death, debt or conquest). This let **Rousseau** brand him "an **apologist for absolutism**"; and Grotius allows only a **narrow right of resistance** — reserved for when the sovereign **breaks the founding contract.**
 
 <a id="gro-justwar"></a>
 #### ★ The world system of states — just war & the right to punish
 
 ***Core:*** universal natural law applies **equally to states**; a **law of nations** with authority to arbitrate wars makes an ordered **society of states** — and even **war is subject to law.**
-- ***The Rights of War and Peace* (1625):** subject international relations, incl. war, to the **rule of law**. War is *"an instrument of right… undertaken for the sake of peace"*: **just = the execution of a right; unjust = the execution of an injury.**
-- **Four just causes of war (*jus ad bellum*):** ① **self-defence** · ② **self-preservation** · ③ **recovery of property / a debt** · ④ **punishment.**
-- **Restraint in war (*jus in bello*):** a **middle ground** between Erasmus's pacifism and unlimited war — "just wars are those wherein rules are observed."
+- *In plain terms:* Grotius's big claim against Hobbes — the space *between* states **need not be lawless.** Law rests on **human rationality**, not on a sovereign's will, so **the same natural law that binds individuals binds states too**, even though there's no world government to enforce it. That's the birth of **international law.**
+- ***The Rights of War and Peace* (1625):** subject international relations, incl. war, to the **rule of law**. War is *"an instrument of right… undertaken for the sake of peace"*: **just = the execution of a right; unjust = the execution of an injury.** *"Where the methods of justice cease, war begins."*
+- **Four just causes of war (*jus ad bellum*):** ① **self-defence** · ② **self-preservation** · ③ **recovery of property / a debt** · ④ **punishment.** *(A state has a **right but only an "imperfect duty"** to punish — it *may* act, but isn't obliged to.)*
+- **Restraint in war (*jus in bello*):** a **middle ground (*temperamenta*)** between **Erasmus's pacifism** (which "bends the crooked stick too far the other way") and **unlimited war** — "just wars are those wherein rules are observed."
 - **The right to punish** (central to international order): derived from **natural law** (not mere revenge). Against **Vitoria** (who said conquistadors *couldn't* punish the American Indians for want of jurisdiction), Grotius argues *"war may be waged against those who sin against nature,"* since nature *"has jurisdiction over the whole of mankind."* But he **warns against using punitive war as a pretext** ("civilising barbarous peoples"), and punishment must be **forward-looking/deterrent**, not vengeful (Plato: "no wise man punishes because an offence was committed, but that it may not be committed again").
+
+<a id="m2-article51"></a>
+> **★ Worked example — Grotius's just war today: UN Article 51 & Putin's Ukraine war (from the deck).** Grotius's categories are *still the language of modern international law.* **UN Charter Article 51** guarantees "the inherent right of individual or collective **self-defence** if an armed attack occurs" — Grotius's just-cause ① in treaty form. Lawyers add two Grotian-style limits for **anticipatory** self-defence: **necessity** (the threat is imminent, no peaceful option) and **proportionality** (response fits the threat). **Putin (24 Feb 2022)** framed the invasion of Ukraine *precisely in this vocabulary:* he claimed "we have been left with **no other way to defend Russia**," invoked **"Article 51 of the UN Charter,"** said the Donbas "People's Republics" had **appealed for help** (collective self-defence), and cast the war as **punishment** ("prosecution of those who committed crimes," "de-Nazification"). → *This is exactly the danger Grotius flagged: the just causes (**self-defence** and **punishment**) are the ones most easily turned into a **pretext**. Grotius gives you both the framework and the warning.*
 
 #### Legacy
 
