@@ -280,6 +280,12 @@ never buried in prose. Wrap it in a **formula block**:
 - Write math in clean Unicode (superscripts, `·` `−` `×` `÷` `≤` `≥` `≈` `Δ` `π`, italic variables via
   `<em>`); the pipeline has no LaTeX/MathJax, so keep equations plain-text-renderable.
 - Give the *definition* form and the *worked* form their own blocks when both help.
+- **★ Every formula block MUST be followed by a plain-language description line** (an italic *"Reads:"* line
+  right under the box) that says **what the equation represents** and then **defines every symbol/part**
+  (`— **Q_D** = quantity demanded · **b** = slope · …`). For a *worked* numeric block, the key explains
+  **what each number is** (`**118 DKK/hr** = the average wage = value of an hour`). A function the reader
+  can't decode part-by-part is useless. **Why:** user — "for each of the functions shown there has to be a
+  description below what it is representing, the different parts of the equation."
 
 ### Figures (visual models)
 The notes must capture the book's **diagrams**, not just its prose. Workflow:

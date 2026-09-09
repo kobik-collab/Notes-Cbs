@@ -64,19 +64,27 @@
 
 <div class="formula"><span class="flabel">Opportunity cost</span>OC(action) = benefit(action) − value of the best alternative given up</div>
 
+*Reads:* the true cost of a choice is what it gives you **minus** what you gave up to get it. — **OC(action)** = the opportunity cost of doing it · **benefit(action)** = the gain the action delivers · **value of the best alternative given up** = the payoff of the *next-best* option you sacrificed by choosing this one.
+
 - *Social media:* 1 hr/day on TikTok isn't free — you give up sport, study, work. Monetise the time with the hourly wage (avg **118 DKK** in Denmark):
 
 <div class="formula"><span class="flabel">Yearly time-cost of 1 hr/day on TikTok</span>118 DKK/hr × 1 hr/day × 365 days = <strong>43,070 DKK / year</strong></div>
 
+*Reads:* price the time you *could* have been earning, added up over a year. — **118 DKK/hr** = Denmark's average hourly wage (i.e. the value of one hour of your time) · **1 hr/day** = the time you spend · **365 days** = a full year → **43,070 DKK** of wages forgone.
+
 - *Trip to Berlin (worked example):* drive = 1,280 DKK & 14 h; fly = 1,930 DKK & 3 h. Flying frees **11 h** you could work:
 
 <div class="formula"><span class="flabel">Opportunity cost of driving instead of flying</span>OC(drive) = (1,930 − 1,280) − (118 × 11) = 650 − 1,298 = <strong>−648 DKK</strong> &nbsp;⟹&nbsp; <strong>fly</strong></div>
+
+*Reads:* the money you save by driving, minus the value of the time driving wastes. — **(1,930 − 1,280)** = the extra *ticket* cost of flying (650 DKK) · **(118 × 11)** = the value of the **11 hours** flying saves you, priced at the 118 DKK/hr wage (1,298 DKK) · a **negative** result means driving is **648 DKK worse** than flying → **fly**.
 
   *(Still a model — what if you enjoy the drive?)*
 
 **Marginal thinking:** decide by the value of the **next** unit — keep going while marginal benefit exceeds marginal cost; stop where they meet. That point is the **optimum**:
 
 <div class="formula"><span class="flabel">Optimum condition</span>choose the quantity where &nbsp;<strong>Marginal Benefit = Marginal Cost</strong>&nbsp; (MB = MC)</div>
+
+*Reads:* keep going until one more unit's benefit exactly equals its cost. — **Marginal Benefit (MB)** = the *extra* benefit from **one more** unit · **Marginal Cost (MC)** = the *extra* cost of that unit · at the **optimum** MB = MC (while **MB > MC** do more; once **MC > MB** you've gone too far).
 
 - *Night before the exam:* total benefit of studying rises then flattens; the **marginal benefit of each extra hour falls** (**law of diminishing marginal returns**). Optimal hours = where MB of one more hour just equals its MC.
 
@@ -194,13 +202,19 @@ Each: *the example* → *the concept it teaches.*
 - *In plain terms — why it slopes down:* two reasons. **① Scarcity** — you don't have infinite money, so a lower price lets you afford more. **② Diminishing marginal utility** — the *first* slice of pizza is worth a lot to you; the 30th almost nothing, so you'll only buy more if it's cheaper.
 - **The demand function** describes quantity demanded `Q_D` as a function of price **and everything else**:
 
-<div class="formula"><span class="flabel">Demand function</span>Q_D = D( p , pₛ , p_c , Y , τ )   —   p = own price · pₛ = price of a <strong>substitute</strong> · p_c = price of a <strong>complement</strong> · Y = income · τ = taxes</div>
+<div class="formula"><span class="flabel">Demand function</span>Q_D = D( p , pₛ , p_c , Y , τ )</div>
+
+*Reads:* how much buyers want depends on the good's own price **and** a handful of other factors. — **Q_D** = quantity demanded (what we're solving for) · **D( · )** = "is a function of" · **p** = the good's **own price** · **pₛ** = price of a **substitute** · **p_c** = price of a **complement** · **Y** = consumers' **income** · **τ** = **taxes**.
 
 - **How the 2-D curve appears — "flush" the other variables into a constant.** A demand *curve* plots `Q_D` against **own price only**, so you **fix** everything else at set numbers; they collapse into the intercept. The book's worked reduction — start from a specific form and plug in temperature T=20°, substitute price pᵣ=2, income I=5:
 
 <div class="formula"><span class="flabel">Collapsing to a linear demand curve</span>Q_D = 1 − p + 0.25·T + 0.75·pᵣ + 0.5·I = 1 − p + <strong>5 + 1.5 + 2.5</strong> = <strong>10 − p</strong>   (intercept a = 10 bundles all the non-price factors)</div>
 
+*Reads:* plug fixed numbers into every non-price factor and they merge into one constant. — **T** = temperature (=20) · **pᵣ** = price of raspberries (=2) · **I** = income (=5); the **coefficients** (0.25, 0.75, 0.5) say how strongly each shifts demand · adding the constant pieces (1 + 5 + 1.5 + 2.5) gives the **intercept a = 10**, so only **p** is left as a variable → **Q_D = 10 − p**.
+
 <div class="formula"><span class="flabel">Linear demand & its inverse (for graphing)</span>Q_D = a − b·p   →   e.g. <strong>Q_D = 10 − p</strong>  (a = 10, b = 1).  Solve for p ⟹ <strong>inverse demand:  p = 10 − Q_D</strong>   ·  <em>(deck's version: Q_D = 20 − 2p ⟹ p = 10 − ½·Q_D)</em></div>
+
+*Reads:* a straight-line demand — quantity falls as price rises. — **a** = the **intercept** (quantity demanded if price were 0; it bundles income, other prices, tastes — *shift it and the whole curve moves*) · **b** = the **slope** (how many units demand drops per +1 in price) · **p** = price. The **inverse** just rearranges it to put **p** alone on the left, because graphs put price on the vertical axis.
 
 *Check:* p = 7 → Q_D = 3; p = 6 → Q_D = 4. **a** = the intercept (shift it and the whole curve moves); **b** = how many units demand falls per +1 in price.
 
@@ -237,6 +251,8 @@ Each: *the example* → *the concept it teaches.*
 
 <div class="formula"><span class="flabel">Aggregate (market) demand</span>Q(p) = q₁ + q₂ + … = D₁(p) + D₂(p) + …   <em>(add quantities across buyers at the same price)</em></div>
 
+*Reads:* market demand = every individual's demand added up **at each price**. — **Q(p)** = total quantity the whole market wants at price p · **q₁, q₂, …** = the quantities buyer 1, buyer 2, … each want at *that same* price · **D₁(p), D₂(p)** = each buyer's own demand function. (It's a **horizontal** sum — fix the price, add the quantities.)
+
   *Deck example:* Mike's inverse demand p = 100 − 2q_M, Linda's p = 100 − ½q_L → invert each to q(p), then add: at each price, total q = q_M + q_L. *(Watch for a **kink** where one buyer drops out at high prices.)*
 - **The T-shirt trap (don't confuse products):** seeing pricey Gucci shirts outsell cheap generics is **not** an upward-sloping demand curve — those are **different goods**. A demand curve compares a good **to itself** (Gucci cutting *its own* price sells *more*). Real upward-sloping demand = the very rare **Giffen good** (Irish-famine potatoes; poor Chinese rice households — Jensen & Miller 2008).
 
@@ -247,7 +263,9 @@ Each: *the example* → *the concept it teaches.*
 - *In plain terms — why upward:* a higher price (i) makes it worth producing more even as costs rise, and (ii) draws in higher-cost producers who couldn't profit at the low price.
 - **The supply function** (quantity supplied depends on price and input/other factors):
 
-<div class="formula"><span class="flabel">Supply function & its inverse</span>Q_S = S( p , p_o )   —   p_o = price of inputs.   Book's linear example: <strong>Q_S = −2 + p</strong>  ⟹  inverse supply <strong>p = 2 + Q_S</strong></div>
+<div class="formula"><span class="flabel">Supply function & its inverse</span>Q_S = S( p , p_o )   ·   linear example: <strong>Q_S = −2 + p</strong>  ⟹  inverse supply <strong>p = 2 + Q_S</strong></div>
+
+*Reads:* how much firms bring to market depends on the price they get and their costs. — **Q_S** = quantity supplied · **S( · )** = "is a function of" · **p** = the good's **price** · **p_o** = price of **inputs** (wages, materials — higher costs shift supply in). In the example the **"−2"** is the price-intercept read backwards: **price must exceed 2 before any is supplied** (at p = 2, Q_S = 0).
 
 - **Why the "−2" (a negative intercept that isn't weird):** read it in **inverse** form — **price must clear €2 before *any* is supplied** (at p = 2, Q_S = 0). *Check:* p = 3 → Q_S = 1; p = 4 → Q_S = 2.
 
@@ -273,6 +291,8 @@ Each: *the example* → *the concept it teaches.*
 
 <div class="formula"><span class="flabel">Step 3 — put p* back into EITHER curve for q*</span>Q* = 10 − 6 = <strong>4</strong>   (check: Q_S = −2 + 6 = 4 ✓)   ⟹   <strong>equilibrium (p*, q*) = (6, 4)</strong></div>
 
+*Reads:* find the price where the two plans agree, then the quantity that trades there. — **Q_D** = quantity demanded · **Q_S** = quantity supplied · setting **Q_D = Q_S** solves for **p\*** = the market-clearing **price**; substituting p\* back into either curve gives **q\*** = the **quantity** traded. The star (**\***) just marks "equilibrium value." (Both curves must give the *same* q\* — that's the ✓ check.)
+
 ![Textbook Fig 2.11 — market equilibrium: the downward demand curve and upward supply curve cross at p\*=6, q\*=4](figures/l2-equilibrium.png)
 
 **How to read it (equilibrium).** The **crossing point** is the only place the two plans agree — buyers want exactly what sellers offer (4 litres at €6). Everywhere else, one side is frustrated and price gets pushed toward the cross.
@@ -280,7 +300,11 @@ Each: *the example* → *the concept it teaches.*
 
 <div class="formula"><span class="flabel">Excess demand (SHORTAGE) — price below p*</span>at p = 4:  Q_D = 10−4 = <strong>6</strong>,  Q_S = −2+4 = <strong>2</strong>  ⟹  shortage = Q_D − Q_S = <strong>4</strong>  → upward pressure on price</div>
 
+*Reads:* below equilibrium, buyers want more than sellers will supply. — plug the low price (**p = 4**) into **both** curves → **Q_D = 6** wanted, **Q_S = 2** offered; the gap **Q_D − Q_S = 4** is the **shortage**, which pushes the price **up** toward p\*.
+
 <div class="formula"><span class="flabel">Excess supply (SURPLUS) — price above p*</span>at p = 8:  Q_D = 10−8 = <strong>2</strong>,  Q_S = −2+8 = <strong>6</strong>  ⟹  surplus = Q_S − Q_D = <strong>4</strong>  → downward pressure on price</div>
+
+*Reads:* above equilibrium, sellers offer more than buyers want. — plug the high price (**p = 8**) into **both** curves → **Q_S = 6** offered, **Q_D = 2** wanted; the gap **Q_S − Q_D = 4** is the **surplus**, which pushes the price **down** toward p\*.
 
 ![Textbook Fig 2.12 — a price below equilibrium (p=4): quantity demanded (6) exceeds quantity supplied (2), an excess demand of 4, creating upward pressure on price](figures/l2-excess-demand.png)
 

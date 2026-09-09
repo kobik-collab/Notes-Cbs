@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T18:34:51.888Z",
+  "generatedAt": "2026-09-09T18:41:55.552Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -7,20 +7,20 @@
       "full": {
         "title": "Applied Microeconomics — Full notes",
         "pdf": "pdfs/applied-micro/Applied-Micro-Notes.pdf",
-        "sizeKB": 10227
+        "sizeKB": 10274
       },
       "parts": [
         {
           "slug": "lecture-1",
           "title": "Lecture 1: Principles of Economics (Chapter 1)",
           "pdf": "pdfs/applied-micro/lecture-1.pdf",
-          "sizeKB": 9154
+          "sizeKB": 9167
         },
         {
           "slug": "lecture-2",
           "title": "Lecture 2: Supply and Demand (Chapter 2)",
           "pdf": "pdfs/applied-micro/lecture-2.pdf",
-          "sizeKB": 1199
+          "sizeKB": 1230
         }
       ]
     },
