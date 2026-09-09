@@ -16,7 +16,8 @@
 - **[Lecture 5: Participation and Representation (FK)](#lecture-5)** — [OD Ch. 6: Participation & Representation](#od-ch-6--institutions-of-participation-and-representation) · [what is representation? (Pitkin)](#c6-pitkin) · [electoral systems compared](#c6-electoral) · [★ Fun facts](#ff-lecture5)
 - **[Lecture 6: Institutions and Institutionalisms (AUW)](#lecture-6)** — [Hall & Taylor: the 3 institutionalisms](#l6-ht) · [RCI / HI / SI compared](#l6-comparison) · [Busemeyer & Thelen (HI example)](#l6-bt) · [★ Fun facts](#ff-lecture6)
 
-> *(All lectures so far fall under **Part I**. New lectures go under Part I until the syllabus introduces a new Part.)*
+**Part II · International Relations**
+- **[Lecture 1: IR I — Realism (AUW)](#ir-lecture-1)** — [what is IR + collective-goods problem](#ir1-field) · [levels of analysis](#ir1-levels) · [what realism is](#ir1-realism) · [★ the realist causal chain](#ir1-chain) · [power & the security dilemma](#ir1-power) · [balance of power & polarity](#ir1-polarity-sec) · [the realism family](#ir1-family) · [Prisoner's Dilemma](#ir1-pd) · [★ Fun facts](#ff-ir1)
 
 ---
 
@@ -64,6 +65,7 @@ These are the analytical toolkits you're expected to *apply* to cases later:
   - → politics as a **distributional game**: the capacity to distribute **material and non-material resources** (who wins, who loses).
   - Two key **assumptions** behind this view: **① scarcity** of resources (no scarcity → no distributional battle) and **② preference heterogeneity** (people want different, often conflicting, things).
 - **Comparative politics** = the subfield comparing power & decision-making *within* countries (contrast: **international relations** studies *between*/beyond states).
+<a id="c1-power"></a>
 - **Power — the three faces / dimensions.** *This is the chapter's master concept — it recurs as the lens for every theory later, so know it cold.* The lecture runs **one example** (a parliamentary **tax increase**) through all three so the differences are clear:
 
 | Face | Who (attribution) | Core idea | The tax example | Power = |
@@ -1612,3 +1614,248 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 - **New Orleans** after Katrina: **~95%** of children in charter schools — the highest of any US city.
 - **Bill Gates** was ranked the **single most influential individual in US education policy — ahead of the Secretary of Education** (who, at the time, was herself a venture philanthropist).
 - **Institution ≠ organization:** the Social Democratic *Party* is the organization; the rules and unwritten norms governing it are the *institutions* — the distinction the whole lecture turns on.
+
+---
+
+<div class="part" id="part-2">Part II · International Relations</div>
+
+<a id="ir-lecture-1"></a>
+# Lecture 1: IR I — Realism (AUW)
+
+**Required reading:** PG = **Goldstein & Pevehouse, *International Relations*** — **ch. 1** (*The Globalization of International Relations*) + **ch. 2** (*Realist Theories*). · Lecturer: **Ayça Uygur Wessel.**
+
+**Theme of the lecture:** first, *what is International Relations* and why we need **theories** to explain it (the field, key actors, **sovereignty**, **levels of analysis**, the **collective-goods problem**). Then the field's oldest and most influential theory: **realism** — how, in a world with no world government, states end up in **competition** for **power** and **security**.
+
+<div class="heart">★ <strong>The heart of the lecture:</strong> a theory is <em>an explanation of patterns</em> in world politics (what happened → <strong>why</strong>). Realism's answer runs in one chain: because the international system is <strong>anarchic</strong> (no sovereign above states), states can't trust each other, so they must <strong>self-help</strong>, which means watching <strong>relative power</strong> — and that breeds <strong>competition</strong>, alliances, and war. States are treated as <strong>unitary, rational actors</strong> pursuing the <strong>national interest defined as power</strong>. <em>Realism isn't "war is good" — it's "given anarchy, this is the logic states are trapped in."</em></div>
+
+**The red thread.** Everything hangs on one word: **anarchy** — *not chaos*, just **"no world police."** Ask of any event: *how does the absence of an enforcer above states drive this?* Trust becomes risky → survival can't be outsourced → power (especially **material/military**) is the currency → and because one state's gain can shift the balance, even **cooperation** is viewed through the lens of **relative** advantage.
+
+### Key concepts / "modes" to use
+- **Theory** (explains patterns) · **levels of analysis** (individual / domestic / interstate / global).
+- **Collective-goods problem** & its three solutions: **dominance · reciprocity · identity.**
+- **State · sovereignty · anarchy · non-state actors** (IGOs, NGOs, MNCs).
+- **Realism** — **unitary + rational** actor; **national interest = power**; classical vs structural vs offensive vs neoclassical.
+- **Self-help · power** (capability vs influence; hard/soft) · **relative vs absolute gains** · **security dilemma.**
+- **Balance of power · balancing** (internal/external) · **polarity** (uni/bi/multi) · **hegemony** & hegemonic stability.
+- **Alliances** (NATO) · **deterrence/compellence** · the **Prisoner's Dilemma.**
+
+---
+
+## A. Introducing International Relations *(PG ch. 1 — the set-up)*
+
+<a id="ir1-field"></a>
+#### What IR is — and why we need theory
+
+***Core:*** **IR = the relationships among the world's governments**, tangled up with other actors (UN, corporations, individuals), other relationships (economics, culture), and history/geography. We need **theories** because facts don't explain themselves — a theory turns *"what happened"* into *"why."*
+- *In plain terms:* a theory is a **pair of glasses**. Realism and liberalism look at the *same* events (a war, an alliance, a trade deal) and each highlights different causes. A good theory gives you **clear assumptions** (e.g. realism assumes states are **rational**) and a **shared vocabulary**.
+- IR is a **subfield of political science**; its two big halves are **international security** (war & peace) and **international political economy (IPE)** (trade, money, North–South relations).
+
+<a id="ir1-cgp"></a>
+#### The collective-goods problem — the core puzzle of IR
+
+***Core:*** how can a group (of states) serve its **collective interest** when each member is tempted to put its **own** interest first? Everyone benefits from a **collective good** (clean climate, a strong alliance) *whether or not they help pay* — so each is tempted to **free-ride**, and if too many do, the good collapses.
+- *In plain terms:* it's the **group-project problem** at world scale — everyone wants the good grade, nobody wants to do the work. Domestically a **government** forces contributions (taxes); internationally there's **no world government**, so the problem is especially hard.
+- **Three ways to solve it** (recurring across the whole course):
+
+| Solution | How it works | *In plain terms* | Upside / Downside |
+|---|---|---|---|
+| **Dominance** | a **power hierarchy** imposes order top-down (a "government without a government") | *someone's the boss — obey those above you* | order & stability / oppression & resentment |
+| **Reciprocity** | **tit-for-tat** — reward cooperation, punish cheating | *I'll help you if you help me; I'll hit back if you cheat* | robust, self-enforcing / downward spirals, hard accounting |
+| **Identity** | a **shared sense of "we"** makes members sacrifice for the group | *we're family, so I give without keeping score* | deep cooperation / can demonise an out-group |
+
+  *Examples:* nuclear non-proliferation runs on all three — **dominance** (the UNSC "big five" keep the bomb), **reciprocity** (the NPT bargain: you stay non-nuclear, we disarm), **identity** (Sweden/Japan chose *not* to build one). **Realism is built on the *dominance* principle.**
+
+<a id="ir1-actors"></a>
+#### Actors — states and non-state actors
+
+***Core:*** the lead actors are **states** — a **state** = *"an inhabited territory controlled by a government that exercises **sovereignty**."* But the stage is crowded with **non-state (transnational) actors.**
+- **State** = territory + government + **sovereignty** (answers to no higher authority) + **recognition** by others. Careful: *state ≠ nation* (a shared identity) *≠ country.* A **nation-state** is one where the population shares a national identity — the modern state system is only **~500 years old** (before: empires, city-states, fiefs).
+- **Non-state actors** (Table 1.2):
+
+| Type | Members are… | Examples |
+|---|---|---|
+| **IGOs** (intergovernmental orgs) | national governments | UN, NATO, WTO, EU |
+| **NGOs** (non-governmental orgs) | individuals & groups | Amnesty, Red Cross, Greenpeace |
+| **MNCs** (multinational corporations) | firms across borders | ExxonMobil, Toyota, Walmart |
+| **Others** | individuals, cities, networks | Bono, al-Qaeda, Iraqi Kurdistan |
+
+  *(There are **>50,000 NGOs** and **~5,000 IGOs**; there were **193 UN members** in 2018.)*
+
+<a id="ir1-sovereignty"></a>
+#### Sovereignty & anarchy
+
+***Core:*** **sovereignty** = a state's right to do as it likes **inside** its own borders (the **norm of non-interference**), and it's the flip side of **anarchy** — *"not chaos, but the lack of a central government that can enforce rules."*
+- *In plain terms:* **anarchy = "no world police."** No one stands above states to force them to keep promises or protect them — so, realists say, each must ultimately **look after itself** and watch others' **capabilities, not their intentions.**
+- **Territorial integrity** (respect borders) and **diplomatic norms** (an embassy = home soil) are strong shared **norms** — the system is far from chaotic even without a ruler.
+
+<a id="ir1-levels"></a>
+#### Levels of analysis — the "zoom level" of an explanation
+
+***Core:*** a **level of analysis** is the *scale* at which you look for causes. The same "why" question can be answered at several levels at once — none is *the* correct one.
+
+| Level | You explain events by… | *In plain terms* | Example causes |
+|---|---|---|---|
+| **Individual** | particular people's choices/psychology | *the person* | great/"crazy" leaders, crisis decisions, assassinations |
+| **Domestic** | groups *inside* a state | *the country's insides* | democracy vs dictatorship, public opinion, ethnic conflict, bureaucracies |
+| **Interstate / systemic** | states interacting; the **distribution of power** | *states vs states* | balance of power, alliances, polarity, trade |
+| **Global** | worldwide forces | *the whole planet* | technology, the environment, the legacy of imperialism |
+
+  *Tip:* higher levels change **more slowly** (individuals rotate through office often; the system's structure rarely shifts). **Realism lives mostly at the interstate/systemic level.**
+
+---
+
+## B. Realism — the main theory *(PG ch. 2 + the deck)*
+
+<a id="ir1-realism"></a>
+#### What realism is — its assumptions
+
+***Core:*** **realism** = *"a broad tradition that explains IR mainly in terms of **power**."* It's a **family** of theories, not one theory, but they share a few assumptions.
+- **The core assumptions:** ① states are the key actors; ② each is a **unitary** actor (speaks with one voice — domestic politics is a "black box"); ③ each is a **rational** actor (defines its interests and picks the option that maximises them); ④ the system is **anarchic**; ⑤ **power politics** trumps morality, ideology and economics.
+- **Rational ≠ good or moral.** A rational choice is just the best cost–benefit bet given the incentives. *If a state calculates the expected costs of **not** fighting exceed those of fighting, **war can be rational.***
+- **Realism vs idealism/liberalism:** where idealists see human nature as basically good and the system as a *community* that can cooperate, realists see it as **selfish** and the system as **anarchy** — and accuse idealists of studying the world as it *ought* to be, not as it *is*.
+- **The lineage:** **Thucydides** (*"the strong do what they can, the weak suffer what they must"*) · **Machiavelli** (expedient power) · **Hobbes** (the anarchic "state of nature" — cf. Hobbes in *PET Module 2*) · **Morgenthau** (modern classical realism: *national interest defined as power*).
+
+<a id="ir1-chain"></a>
+#### ★ The realist causal chain — the argument in one line
+
+***Core:*** this is the spine of the whole lecture. **Anarchy → uncertainty → self-help → attention to relative power → competition.**
+
+![Diagram: the realist causal chain — five linked boxes, ANARCHY → UNCERTAINTY → SELF-HELP → RELATIVE POWER → COMPETITION, each with a plain-language gloss beneath](figures/ir1-realist-chain.png)
+
+**How to read it (the causal chain).** Walk it one link at a time: **anarchy** (no world sovereign) means a state **can't trust** others to keep promises → **uncertainty**; if no one guarantees your survival you must **self-help** (arm, ally); self-help means constantly judging your **capabilities relative to others**; and everyone doing this at once produces **competition.** *A worked link (deck):* "Anarchy creates uncertainty because a state can't trust another to keep its word — e.g. **Denmark–US** under Trump's Greenland threats, which pushed DK to boost conscription and Nordic military ties even though both are NATO allies."
+- **Self-help ≠ 'never cooperate'.** States *do* cooperate — but always with one eye on how the deal shifts the balance.
+
+<a id="ir1-power"></a>
+#### Power — the currency of realism
+
+***Core:*** **power** = *"the ability to influence others' behaviour."* For realists it's mostly **material / hard power** (Lukes' **1st face** — [see PS Lecture 1](#c1-power)), and it's **relational**: *how capable am I **relative to you**?*
+- **Two ways to think about power:**
+  - **Power as influence** = getting another to do what it *wouldn't otherwise* do (but this is circular — we rarely know the "otherwise").
+  - **Power as capability** = the *resources* behind influence — easier to measure. **Best single yardstick = total GDP** (bundles size, wealth, technology).
+- **Elements of power:** *material* — military, economic, technological, natural resources, population, geography (**geopolitics**); *non-material* — national will, diplomacy, legitimacy, **soft power** (getting others to *want* what you want). **Money is the most *fungible*** (convertible) capability.
+- **★ Relative vs absolute gains (the exam favourite).** A liberal asks *"do I gain?"* (**absolute**). A realist asks *"do I gain **more than my rival**?"* (**relative**) — because today's cooperation can fund tomorrow's threat. *(Deck exercise: if a deal gives you +10 but your rival +20, a realist may **refuse** — the rival's larger gain shifts the future balance.)* Examples: US–USSR nuclear parity; US–China tech race.
+
+![Textbook Fig 2.3 — horizontal bar chart of the seven great powers' shares of world GDP (2017) and military expenditure (2016): the US dwarfs the rest, China second, then a gap to Russia/Japan/France/Britain/Germany, with "Rest of World" for comparison](figures/ir1-greatpower-shares.png)
+
+**How to read it (great-power capabilities).** Two bars per country — **GDP share** (blue) and **military-spending share** (magenta). The realist reads it as the **distribution of material power**: the **US** leads on *both*, **China** is a clear second, and the other five trail — a snapshot of who can bring what to bear. (This is "power as capability" made concrete.)
+
+<a id="ir1-securitydilemma"></a>
+#### The security dilemma — why arming backfires
+
+***Core:*** **security dilemma** = *when a state arms to feel safer, it makes others feel **less** safe, so they arm too — and everyone ends up less secure.* A direct product of anarchy, and the engine of **arms races**.
+- *In plain terms:* you buy a gun for self-defence; your neighbour sees it, feels threatened, buys two; now you're both more armed and **no safer**. Realists think it's **unsolvable** under anarchy; liberals think institutions can ease it.
+
+<a id="ir1-polarity-sec"></a>
+#### Balance of power, balancing & polarity
+
+***Core:*** **balance of power** = a distribution in which **no single state can dominate** — because when power concentrates, others have an incentive to **counter** it. It can be an **outcome**, a **process** (balancing), or a **strategy**.
+- **How states balance:** **internal balancing** (build up *your own* capabilities) vs **external balancing** (form **alliances**). A **balancer** throws its weight against whoever is strongest (Britain in Europe for centuries).
+- **Balancing vs bandwagoning:** instead of balancing the strongest, small states sometimes **jump on the bandwagon** of the winner (after WWII most joined the US bloc rather than balancing it) — and states often **balance *threats*, not raw power** (US power was greater but less threatening than the USSR's).
+- **Polarity = how many "poles" (great-power centres) the system has** — and structure shapes the choices available to states:
+
+![Textbook Fig 2.4 — Power Distribution in the International System: three diagrams — Multipolar (many nodes cross-linked, "flat hierarchy, more reciprocity, less stable?"), Bipolar (two clusters, "split hierarchies, dominance within blocs, stable"), and Unipolar/Hegemony (one central node, "steep hierarchy, more dominance, more stable?")](figures/ir1-polarity.png)
+
+**How to read it (polarity).** **Multipolar** (5–6 independent powers): a *flat* hierarchy of shifting alliances — the classic balance of power, but war-prone. **Bipolar** (two blocs, e.g. Cold War): dominance *within* each bloc, reciprocity *between* them — often judged **stable**. **Unipolar / hegemony** (one dominant state): the *steepest* hierarchy. Empirically the book reports peace is best preserved by **hegemony**, next by **bipolarity** — *not* by multipolar equality. *(Link: **power-transition theory** says the biggest wars come when a **rising** power threatens to overtake the top state — the "Thucydides Trap," e.g. US–China.)*
+
+<a id="ir1-hegemony"></a>
+#### Hegemony & hegemonic stability
+
+***Core:*** a **hegemon** holds such a **preponderance of power** that it can **single-handedly set the rules** of the system (Britain in the 1800s; the US after 1945). **Hegemonic stability theory:** the system is most orderly when power is most **concentrated** — the hegemon supplies order like a stand-in government (deterring aggression, underwriting free trade, providing a reserve currency).
+- *Why would the strongest enforce rules that help everyone?* Because as the **biggest trader/producer** it gains most from an open, stable system it dominates. *(Downside: weaker states may see hegemony as **infringing their sovereignty** — China uses "hegemony" as an insult.)*
+
+<a id="ir1-family"></a>
+#### The realism family — four versions
+
+***Core:*** realism is a **family**; the versions differ on *where* the drive for power comes from and *how much* domestic politics matters.
+
+| Version | Key theorist | Where the power-drive comes from | States are… |
+|---|---|---|---|
+| **Classical** | **Morgenthau (1948)** | **human nature** + ambition; a timeless "struggle for power" | interest-maximisers |
+| **Structural / Neorealism** | **Waltz (1979)** | the **anarchic structure** itself forces self-help (not human nature) | — |
+| **Defensive** (structural) | **Waltz** | enough power to be **safe** | **security maximisers** → balance of power forms |
+| **Offensive** (structural) | **Mearsheimer (2001)** | *more* is always safer → seek to **dominate** | **power maximisers**, never satisfied with the BoP |
+| **Neoclassical** | **Zakaria, Rose (1998)** | structure **+ domestic factors** (leaders, perceptions, state–society relations) as an **intervening variable** | — |
+
+  *In plain terms:* **classical** = "it's in our nature"; **structural** = "it's the situation (anarchy), not our nature"; **defensive** = "grab enough to be safe"; **offensive** = "the only safe amount is *all* of it"; **neoclassical** = "structure pushes, but domestic politics filters the push."
+
+<a id="ir1-alliances"></a>
+#### Alliances & NATO
+
+***Core:*** an **alliance** = a coalition of states coordinating (usually by treaty) against a **common threat.** Realists stress **fluidity** — alliances are *"marriages of convenience, not love,"* made and broken on **national interest** (*Palmerston: "no eternal allies… only perpetual interests"*). No element of power shifts as **fast** as an alliance.
+- **NATO** (1949) = a US-led alliance built to **deter the USSR**; its Cold War rival was the **Warsaw Pact**. Its collective-defence heart, **Article V**, was first invoked *after 9/11* — **Europe defending the US**, the reverse of its original design. Post-Cold-War it **expanded east**:
+
+![Textbook Fig 2.7 — map of NATO expansion in Europe: members shaded by accession wave (pre-1999, 1999, 2004, 2009, 2017), with the boundaries of the former USSR and former Warsaw Pact marked, and Russia to the east](figures/ir1-nato-expansion.png)
+
+**How to read it (NATO expansion).** The shading shows NATO creeping **eastward** toward Russia in waves (Poland/Czech/Hungary 1999 → the Baltics + others 2004 → …). Realists read this as classic **security-dilemma** material: the West sees it as **securing democracies**; **Russia** sees encroachment on its borders — each side's "defensive" move looks **threatening** to the other. (**Burden-sharing** — who pays — is the recurring intra-alliance fight, e.g. Trump vs NATO.)
+
+<a id="ir1-pd"></a>
+#### The Prisoner's Dilemma — why rational states fail to cooperate
+
+***Core:*** the **Prisoner's Dilemma (PD)** models why **rational actors, each pursuing self-interest, all end up worse off** than if they'd cooperated. It's realism's pessimism in a 2×2 box.
+- *The story:* two prisoners are questioned separately. Each reasons *"whatever the other does, I'm better off **confessing** (defecting)"* — so both defect and get long sentences, when **mutual silence** (cooperation) would have been better.
+
+![Textbook Fig 2.9 — payoff matrix for an India–Pakistan nuclear PD: rows = India (Cooperate/Defect), columns = Pakistan (Cooperate/Defect); payoffs (India, Pakistan) = (3,3), (1,4), (4,1), (2,2); 4 = best, 1 = worst](figures/ir1-prisoners-dilemma.png)
+
+**How to read it (the PD matrix).** Each cell = *(India's payoff, Pakistan's payoff)*; **4 = best, 1 = worst.** "Cooperate" = *don't* build the bomb; "Defect" = build it. Read India's logic: *if Pakistan builds (right column), 2 > 1 so India should build; if Pakistan doesn't (left column), 4 > 3 so India should still build.* **Defecting dominates** — so both build (2, 2), even though **mutual cooperation (3, 3) is better for both.** That's the tragedy: individually rational → collectively worse. *(Real world: India tested 1998, Pakistan followed within weeks.)* **Deterrence** (threaten punishment so an attack never happens) and **compellence** (force someone to *act*) are the strategies states use to escape or manage it.
+
+#### The cooperation puzzle — the bridge to next lecture
+
+***Core:*** if the system is anarchic, **why is cooperation sometimes deep and durable** (EU, WTO, NATO)? **Realist answer:** institutions ultimately just **reflect the interests and power of the strongest states.** **Liberal answer** (next lecture): institutions can **change the incentives** and make cooperation easier.
+
+### Cases & examples
+- <a id="ir1-case-greenland"></a>**Denmark–US / Greenland (Trump)** → **anarchy → uncertainty**: even between NATO allies, DK couldn't fully trust US respect for its sovereignty → boosted conscription & Nordic defence ties.
+- **India–Pakistan nuclear race** → the **Prisoner's Dilemma** in the flesh (both defect → both nuclear, 1998).
+- **US–China** → **power-transition / relative gains** — a rising power unsettling the top spot; balancing in tech, trade, the South China Sea.
+- **Rise of China / balancing** → as China's capabilities grow, *others* balance it (Japan's deals with South Korea & the Philippines) — not everyone balances the US.
+- **NATO expansion east** → **security dilemma** (Western "securing democracies" vs Russian "encroachment").
+- **Libya 2011** → power-as-capability (NATO's ~300:1 GDP edge) *and* **unintended consequences** (weapons spilling into Mali).
+- **Nuclear non-proliferation** → the **three solutions** (dominance/reciprocity/identity) working together.
+
+### Key terms
+| Term | Meaning |
+|---|---|
+| International relations (IR) | Relations among governments + their links to other actors/forces |
+| Collective-goods problem | Serving the group interest when members are tempted to free-ride |
+| Dominance / reciprocity / identity | The three ways to get cooperation without a world government |
+| Sovereignty | A state's right to rule inside its own borders (non-interference) |
+| Anarchy | No central authority above states ("no world police") — *not* chaos |
+| Levels of analysis | The scale of explanation: individual / domestic / interstate / global |
+| Realism | Explains IR mainly through **power** |
+| Unitary / rational actor | State acts as one voice, maximising its interests (rational ≠ moral) |
+| National interest | The state's overall interest — for realists, defined as **power** |
+| Self-help | Each state must provide its own security |
+| Power (capability vs influence) | Resources behind influence vs getting others to act differently |
+| Relative vs absolute gains | Do I gain *more than my rival* vs do I gain at all |
+| Security dilemma | My arming makes you insecure → you arm → both less safe |
+| Balance of power | A distribution where no state can dominate; balancing counters the strong |
+| Polarity | Number of great-power centres: unipolar / bipolar / multipolar |
+| Hegemony | One state preponderant enough to set the system's rules |
+| Alliance / NATO | Coalition vs a common threat; NATO = US-led, anti-Soviet, now expanded |
+| Prisoner's Dilemma | Rational self-interest → both defect → both worse off than cooperating |
+| Deterrence / compellence | Threat to stop an action vs threat to force an action |
+
+### Exam pointers
+- Define **anarchy** correctly (**not chaos** — no enforcer) and run the **[realist causal chain](#ir1-chain)** cold: anarchy → uncertainty → self-help → relative power → competition.
+- List realism's **assumptions** (unitary + rational actor, states, anarchy, power > morality) and stress **rational ≠ good** (war can be rational).
+- Explain **power as capability vs influence**, and nail **relative vs absolute gains** (the realist refuses a deal a liberal would take).
+- Explain the **[security dilemma](#ir1-securitydilemma)** and use **[NATO expansion](#ir1-alliances)** as the case.
+- Compare **[polarity](#ir1-polarity-sec)** types and state the finding that **hegemony/bipolarity** preserve peace better than multipolarity; add **power-transition theory**.
+- Place the **[four realisms](#ir1-family)** (classical/defensive/offensive/neoclassical) and their theorists.
+- Work the **[Prisoner's Dilemma](#ir1-pd)** matrix (why *defect* dominates → both worse off) and connect it to arms races & deterrence.
+- Use the **collective-goods problem** + **dominance/reciprocity/identity** to frame *why* cooperation is hard under anarchy.
+
+---
+
+<a id="ff-ir1"></a>
+## ★ Fun facts & memorable details (IR I: Realism)
+
+> Sticky bits from the realism lecture.
+
+- **Thucydides**, ~2,400 years ago: *"the strong do what they have the power to do and the weak accept what they have to accept"* — realism's oldest one-liner.
+- **Anarchy ≠ chaos.** It just means **no world police** — the system actually runs on remarkably stable **norms** (an embassy is treated as home soil; borders are respected).
+- **Rational ≠ right:** for a realist, if the expected cost of *not* fighting beats the cost of fighting, **war is the rational choice** — morality doesn't enter the calculation.
+- **NATO's Article V** (an attack on one is an attack on all) has been invoked **exactly once** — after **9/11**, with **Europe** coming to the defence of the **US**, the mirror image of why NATO was built.
+- **The relative-gains trap:** a realist may **turn down** a deal that makes them richer (+10) if it makes a rival richer still (+20) — because the *gap* is what shapes tomorrow's balance of power.
+- **Peace by inequality:** the book's counterintuitive finding — a lopsided **hegemony** (one dominant power) keeps the peace *better* than a balanced, equal, multipolar world.
+- **Bandwagoning beats balancing (sometimes):** after WWII most states didn't gang up on the US — they **joined** it, puzzling pure balance-of-power theory.
+- **Palmerston (1848):** *"We have no eternal allies and we have no perpetual enemies. Our interests are perpetual"* — the realist view of alliances as marriages of convenience.
