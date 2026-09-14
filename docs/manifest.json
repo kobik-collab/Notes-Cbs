@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T18:41:55.552Z",
+  "generatedAt": "2026-09-14T16:56:56.406Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -7,7 +7,7 @@
       "full": {
         "title": "Applied Microeconomics — Full notes",
         "pdf": "pdfs/applied-micro/Applied-Micro-Notes.pdf",
-        "sizeKB": 10274
+        "sizeKB": 11218
       },
       "parts": [
         {
@@ -21,6 +21,12 @@
           "title": "Lecture 2: Supply and Demand (Chapter 2)",
           "pdf": "pdfs/applied-micro/lecture-2.pdf",
           "sizeKB": 1230
+        },
+        {
+          "slug": "lecture-3",
+          "title": "Lecture 3: Elasticities & Taxes — the Supply & Demand model II (Ch. 2 recap · §6.4)",
+          "pdf": "pdfs/applied-micro/lecture-3.pdf",
+          "sizeKB": 1157
         }
       ]
     },
@@ -30,7 +36,7 @@
       "full": {
         "title": "Political & Economic Thought — Full notes",
         "pdf": "pdfs/political-economic-thought/Political-Economic-Thought-Notes.pdf",
-        "sizeKB": 2517
+        "sizeKB": 4060
       },
       "parts": [
         {
@@ -44,6 +50,24 @@
           "title": "Module 2: Renaissance and Early-Modern Political Theory — from Cosmopolis to *Stato* to the Social Contract",
           "pdf": "pdfs/political-economic-thought/module-2-renaissance-and-early-modern-political-theory-from-.pdf",
           "sizeKB": 1967
+        },
+        {
+          "slug": "exercise-class-1-the-pros-and-cons-of-a-central-political-au",
+          "title": "Exercise Class 1: The Pros and Cons of a Central Political Authority",
+          "pdf": "pdfs/political-economic-thought/exercise-class-1-the-pros-and-cons-of-a-central-political-au.pdf",
+          "sizeKB": 609
+        },
+        {
+          "slug": "module-3-the-roots-of-modern-economics-mercantilism-to-econo",
+          "title": "Module 3: The Roots of Modern Economics — Mercantilism to Economic Liberalism (1500–1790)",
+          "pdf": "pdfs/political-economic-thought/module-3-the-roots-of-modern-economics-mercantilism-to-econo.pdf",
+          "sizeKB": 693
+        },
+        {
+          "slug": "module-4-enlightenment-and-political-liberalism-1660-1790",
+          "title": "Module 4: Enlightenment and Political Liberalism (1660–1790)",
+          "pdf": "pdfs/political-economic-thought/module-4-enlightenment-and-political-liberalism-1660-1790.pdf",
+          "sizeKB": 762
         }
       ]
     },
@@ -53,7 +77,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 8534
+        "sizeKB": 8894
       },
       "parts": [
         {
@@ -93,10 +117,16 @@
           "sizeKB": 1086
         },
         {
-          "slug": "lecture-1",
-          "title": "Lecture 1: IR I — Realism (AUW)",
-          "pdf": "pdfs/political-science/lecture-1.pdf",
-          "sizeKB": 1129
+          "slug": "ir-i-realism-auw",
+          "title": "IR I: Realism (AUW)",
+          "pdf": "pdfs/political-science/ir-i-realism-auw.pdf",
+          "sizeKB": 1128
+        },
+        {
+          "slug": "ir-ii-liberalism-auw",
+          "title": "IR II: Liberalism (AUW)",
+          "pdf": "pdfs/political-science/ir-ii-liberalism-auw.pdf",
+          "sizeKB": 498
         }
       ]
     }

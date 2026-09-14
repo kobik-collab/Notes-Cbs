@@ -17,7 +17,8 @@
 - **[Lecture 6: Institutions and Institutionalisms (AUW)](#lecture-6)** — [Hall & Taylor: the 3 institutionalisms](#l6-ht) · [RCI / HI / SI compared](#l6-comparison) · [Busemeyer & Thelen (HI example)](#l6-bt) · [★ Fun facts](#ff-lecture6)
 
 **Part II · International Relations**
-- **[Lecture 1: IR I — Realism (AUW)](#ir-lecture-1)** — [what is IR + collective-goods problem](#ir1-field) · [levels of analysis](#ir1-levels) · [what realism is](#ir1-realism) · [★ the realist causal chain](#ir1-chain) · [power & the security dilemma](#ir1-power) · [balance of power & polarity](#ir1-polarity-sec) · [the realism family](#ir1-family) · [Prisoner's Dilemma](#ir1-pd) · [★ Fun facts](#ff-ir1)
+- **[IR I: Realism (AUW)](#ir-lecture-1)** — [what is IR + collective-goods problem](#ir1-field) · [levels of analysis](#ir1-levels) · [what realism is](#ir1-realism) · [★ the realist causal chain](#ir1-chain) · [power & the security dilemma](#ir1-power) · [balance of power & polarity](#ir1-polarity-sec) · [the realism family](#ir1-family) · [Prisoner's Dilemma](#ir1-pd) · [★ Fun facts](#ff-ir1)
+- **[IR II: Liberalism (AUW)](#ir-lecture-2)** — [how liberalism sees the world](#ir2-worldview) · [the two branches](#ir2-branches) · [★ liberal institutionalism & its mechanisms](#ir2-institutionalism) · [regimes & collective security](#ir2-regimes) · [★ liberal internationalism & the Kantian triangle](#ir2-internationalism) · [the democratic peace](#ir2-dempeace) · [ch.7: IOs, the UN, international law & human rights](#ir2-ch7) · [realism vs liberalism](#ir2-compare) · [★ Fun facts](#ff-ir2)
 
 ---
 
@@ -1620,7 +1621,7 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 <div class="part" id="part-2">Part II · International Relations</div>
 
 <a id="ir-lecture-1"></a>
-# Lecture 1: IR I — Realism (AUW)
+# IR I: Realism (AUW)
 
 **Required reading:** PG = **Goldstein & Pevehouse, *International Relations*** — **ch. 1** (*The Globalization of International Relations*) + **ch. 2** (*Realist Theories*). · Lecturer: **Ayça Uygur Wessel.**
 
@@ -1859,3 +1860,180 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 - **Peace by inequality:** the book's counterintuitive finding — a lopsided **hegemony** (one dominant power) keeps the peace *better* than a balanced, equal, multipolar world.
 - **Bandwagoning beats balancing (sometimes):** after WWII most states didn't gang up on the US — they **joined** it, puzzling pure balance-of-power theory.
 - **Palmerston (1848):** *"We have no eternal allies and we have no perpetual enemies. Our interests are perpetual"* — the realist view of alliances as marriages of convenience.
+
+---
+
+<a id="ir-lecture-2"></a>
+# IR II: Liberalism (AUW)
+
+**Required reading:** PG = **Goldstein & Pevehouse, *International Relations*** — **ch. 3, §3.1 (*The Waning of War*) & §3.2 (*Liberal Theories*)** + **ch. 7 (*International Organizations, Law, and Human Rights*)**. · Lecturer: **Ayça Uygur Wessel.**
+
+**Theme of the lecture (AUW — deck).** Liberalism as the **theoretical response to realism.** Realism explains rivalry, competition, security dilemmas and arms races — *but what about* European integration, IOs, international trade, arms-control agreements, and the democratic peace? **Liberalism's puzzle:** *if the international system is anarchic, why do states cooperate at all — and under what conditions is cooperation more or less likely?*
+
+<div class="heart">★ <strong>The heart of the lecture:</strong> liberalism keeps realism's starting point — <strong>states are rational, self-interested actors under anarchy</strong> — but reaches the opposite conclusion: <strong>self-interest does not necessarily produce conflict.</strong> Because some interests <strong>overlap</strong>, cooperation is often the rational choice: <strong>self-interest → mutual benefits → reasoned cooperation → stable cooperation.</strong> Two branches say how: <strong>liberal institutionalism</strong> — <em>institutions</em> make cooperation easier (information, reciprocity, monitoring, enforcement, the shadow of the future); and <strong>liberal internationalism</strong> — <em>domestic politics</em> shape what states want (the Kantian triangle: democracy + interdependence + IOs). <em>Liberalism ≠ being nice or naïve — it's "under what conditions is cooperation in states' own interest?"</em></div>
+
+**The red thread.** For any case ask: *cooperation looks impossible under anarchy — so what makes it happen here?* Either the answer is **institutional** (rules/monitoring/reciprocity change the incentives) or it is **domestic** (regime type, interests, public opinion shape state preferences). Both keep the realist assumption of self-interested rational states.
+
+**Three things liberalism is NOT (deck).** Liberalism *in IR* ≠ **economic liberalism** (free markets) ≠ **liberalism in domestic politics** (a left–right ideology). In IR it is a **theory of cooperation under anarchy.**
+
+### Key concepts / "modes" to use
+- **The cooperation puzzle** — why cooperate under anarchy? (the question realism can't answer well).
+- **Two branches:** **liberal institutionalism** (Keohane, Nye — international level) vs **liberal internationalism** (Kant — domestic/unit level).
+- **Neoliberal institutionalism** — concedes realism's assumptions (unitary, rational, anarchy) but shows cooperation still pays.
+- **Reciprocity** & the **shadow of the future** · **information/monitoring/transparency** · **enforcement** · **issue linkage**.
+- **International regime** (Krasner) — "principles, norms, rules, and decision-making procedures around which actor expectations converge." *(An international institution ≠ an IO.)*
+- **Complex interdependence** (Keohane & Nye) — multiple channels; disruption is costly for both sides (sensitivity vs vulnerability).
+- **The Kantian triangle** — democracy + economic interdependence + international organizations.
+- **Democratic peace** — democracies almost never fight *each other*.
+- **Collective security · IGOs/NGOs · the UN · international law · just war · human rights (ch.7).**
+
+### Section-by-section main points
+
+<a id="ir2-worldview"></a>
+#### A. How liberalism sees the world *(deck + §3.1–3.2 intro)*
+
+***Core:*** liberalism is **more optimistic** than realism about peace and progress, but it is **not** starry-eyed: states are still **rational actors pursuing self-interest** — the liberal twist is that **self-interest often points to cooperation, not conflict.**
+- **The chain (deck):** **self-interest → mutual benefits → reasoned cooperation → stable cooperation.** Cooperation is possible **without** becoming altruistic.
+- **Realism vs liberalism on the "rules of IR":** realists see power politics as **timeless**; liberals see the rules as **slowly, incrementally evolving toward peace** — through the buildup of **international organizations + reciprocity** (and secondarily changing **norms/public opinion**). Liberalism draws on the **reciprocity and identity** principles, where realism draws on **dominance**.
+- **§3.1 The Waning of War (the empirical backdrop):** contrary to the media impression, this is **one of the least warlike periods ever.** Battle-deaths have fallen sharply since WWII (tens of millions → millions → hundreds of thousands); the **last great-power war ended 60+ years ago**; today's conflicts (Syria, Yemen, Ukraine) are, by historical standards, **small wars.** → *This trend is what liberalism claims to explain and realism struggles to.*
+
+<a id="ir2-branches"></a>
+#### B. The two branches of liberalism *(deck)*
+
+***Core:*** liberalism gives **two** answers to realism — one at the **international** level, one at the **domestic** level.
+| | **Liberal Institutionalism** | **Liberal Internationalism** |
+|---|---|---|
+| **Key names** | **Keohane & Nye** | **Kant** |
+| **Main question** | How can states cooperate despite anarchy? | Why do states *want* different things? |
+| **Level of analysis** | **International** (systemic) | **Domestic / unit** level |
+| **Core mechanisms** | Information · reciprocity · monitoring · enforcement | Regime type · institutions · interests · public opinion |
+| **Simple claim** | **Institutions make cooperation easier** | **Domestic politics shape state preferences** |
+
+*(Deck aside: liberal internationalism's focus on the domestic level mirrors what **neoclassical realism** does on the realist side — both "open up" the state rather than treating it as a black box.)*
+
+<a id="ir2-institutionalism"></a>
+#### C. ★ Liberal institutionalism — what makes cooperation possible *(§3.2.2 + deck)*
+
+***Core:*** **neoliberal (institutionalist)** thinking says to realists: *"Even granting your assumptions — unitary, rational states under anarchy — your pessimism doesn't follow."* States cooperate often because it's in their interest, and **institutions** help them do it by **changing the incentives.** The engine is **reciprocity**, which enforces rules **without a world government.**
+- **International institution ≠ IO (Krasner 1983).** An **international regime/institution** = *"principles, norms, rules, and decision-making procedures around which actor expectations converge"* — not just the UN or EU, but **monitoring arrangements, agreements, and platforms.** Institutions **structure repeated interaction.**
+- **The four mechanisms (the deck's core — how institutions enable cooperation):**
+  1. <a id="ir2-shadow"></a>**The shadow of the future.** In a **one-shot** game, cheating pays; in **repeated** interaction, cheating invites **future retaliation.** A **longer time horizon + more future interaction → higher cost of defection → cooperation more attractive.** *(This is the repeated **Prisoner's Dilemma** — see [IR I](#ir1-pd) — solved by **tit-for-tat**: cooperate first, then mirror.)*
+  2. **Information changes the game.** **Reporting** (what parties *say*) + **monitoring** (what they *actually do*) → **transparency** → easier detection of violations → **less uncertainty, less fear of cheating.** *(Ex: the **European Semester** — the EU monitors member states' budgets to deter "excessive deficits.")*
+  3. **Reciprocity & enforcement.** **Cooperation ≠ harmony** — it requires bargaining and adjustment, and it persists only when **defection has consequences.** Institutions **detect** (monitoring) → **respond** (reciprocity) → **raise the cost** (enforcement) → and use **issue linkage** (cooperate across issues to make compromise possible). *(Ex: **rule-of-law sanctions** — the EU froze **Hungary's** funds.)*
+  4. **Interdependence makes conflict costly.** **Complex interdependence** (≠ friendship, ≠ one-way dependence): states are tied through **trade, investment, finance, supply chains, people, and communication** across *multiple channels.* Disrupting the relationship is **costly for both sides → stronger incentives to negotiate.** *(But interdependence is often **asymmetric** — the textbook's **sensitivity** [you can find another supplier] vs **vulnerability** [you can't].)*
+- **The neoliberal PD argument:** each actor can gain by defecting, but both lose if both defect; in **repeated** play, **strict reciprocity (tit-for-tat)** brings mutual cooperation. **Danger:** reciprocity can also produce **runaway hostility** — a nasty tit-for-tat of punishments (**Israel–Palestine**).
+- **The EU — "a liberal-institutionalism masterpiece" (deck):** European states have **shared interests** *and* **incentives to defect**; the institutional solution — **permanent forums, common rules, monitoring, courts/enforcement, issue linkage, repeated interaction** — makes cooperation **easier and more predictable.** After centuries of war, Europe now enjoys a **stable peace.** *(Yet members still "cheat" over the years — cooperation is managed, not automatic.)*
+
+<a id="ir2-regimes"></a>
+#### D. International regimes & collective security *(§3.2.3–3.2.4)*
+
+***Core:*** **regimes** are how liberalism operationalises cooperation in an issue area; **collective security** is the security-side application (all against any aggressor).
+- **International regime** = rules/norms/procedures where expectations **converge** in an issue area (arms control, trade, oceans). Regimes **increase transparency** (cheating is riskier) and **facilitate/empower** states rather than constrain them — they "open up new possibilities with more favorable cost–benefit ratios."
+- **Hegemonic stability (a realist–liberal blend):** regimes are often most effective when power is **concentrated** (a **hegemon** to enforce them) — but once expectations converge, regimes can **outlive the hegemon** ("take on a life of their own"; US economic regimes survived US relative decline in the 1970s). Regimes often **embed** in permanent institutions (**UN, NATO, IMF**).
+- **Collective security** (grows out of liberal institutionalism; Kant's federation): a **broad alliance of most major actors** jointly opposing **aggression by any actor.** Success needs **(1)** members to **keep commitments** (no free-riding) and **(2)** agreement on **what counts as aggression.** It **fails against great-power aggression** (the veto).
+  - **League of Nations** — failed (no US; members unwilling to bear costs → Japan, Italy in the 1930s). **UN** = its successor.
+  - **[Gulf War 1990–91](#case-gulfwar)** — collective security *worked* (Iraq's blatant conquest of Kuwait united the great powers). **[Iraq 2003](#case-iraq2003)** — it *split* the great powers (France threatened a veto; US/UK/Australia acted anyway).
+
+<a id="ir2-internationalism"></a>
+#### E. ★ Liberal internationalism & the Kantian triangle *(§3.2.1 + deck)*
+
+***Core:*** liberal internationalism opens the **domestic "black box"**: what a state *wants* (its **preferences**) depends on **who has a say inside it.** **Kant's three answers** to "how is peace possible?" form the **Kantian triangle.**
+
+![Kantian triangle: three vertices — Democracy (top), Economic Interdependence (bottom-left), International Organisations (bottom-right) — joined by double-headed arrows, labelled "three reinforcing mechanisms of peace."](figures/ir2-kantian-triangle.png)
+
+**How to read it (the Kantian triangle).** Kant gave **three** routes to peace, and they **reinforce** each other:
+- **Democracy** — republics with **legislatures that check the leader** are constrained from going to war lightly (representation, leadership turnover, accountability). *(→ the [democratic peace](#ir2-dempeace).)*
+- **Economic interdependence** — **trade increases wealth and mutual dependence**, so war becomes **costly** and less attractive. *(Kant's "trade promotes peace"; realists are skeptical — interdependence was high before WWI, yet war came.)*
+- **International organisations** — a **federation of states** (Kant's proposal → today's **UN**) provides **information, bargaining, and enforcement**, letting states forgo short-term gains for long-term cooperation. *(→ [liberal institutionalism](#ir2-institutionalism).)*
+- **The point:** each corner makes the others more effective; together they explain why, despite anarchy, the world has grown **more peaceful.**
+
+- **The causal chain of liberal internationalism (deck):** **domestic institutions + interests + incentives** (who benefits? who has influence?) → **state preferences** (what does the government *want*?) → **foreign policy** (which international choice follows) → **international outcome** (cooperation, conflict, or variation across states).
+- **Who's in the black box:** president/PM/monarch, parliament, courts, bureaucracies, business & labour, elections, interest groups, media & public opinion. → *This is why liberalism sits at the **domestic level of analysis** (contra realism's systemic focus).*
+
+<a id="ir2-dempeace"></a>
+#### F. The democratic peace *(§3.2.5 + deck)*
+
+***Core:*** the **democratic peace** = the strongly-supported empirical finding that **democracies almost never fight *each other*** — though they fight authoritarian states as much as anyone. *(Democratic peace ≠ "democracies are peaceful.")*
+- **Not true:** that democracies are *generally* more peaceful — they fight as many wars as autocracies (the most war-prone states of the past two centuries were **France, Russia, Britain**).
+- **True:** no major historical case of two democracies going to war with each other.
+- **Why (candidate mechanisms — the deck's exercise):** ① **public opinion & representation** (the public, whose support wars need, resists); ② **peaceful leadership turnover** (no need to fight to change rulers); ③ **transparency & mutual understanding** (democracies read each other's intentions); ④ **institutional constraints** (checks and balances slow the war decision). Also: democracies are usually **capitalist** with strong **trade interdependence**, and citizens **don't see other democracies as enemies.**
+- **Why it matters theoretically:** the democratic peace is rooted in the **domestic** level → it **contradicts realism's** claim that the systemic level explains the most.
+- **Caveats (don't oversell it):** **democratization/transition** may be *more* war-prone than stable regimes (e.g. Hamas elected 2006); and **democratic institutions can make cooperation harder** — legislatures raise **tariffs**, publics block IOs (US & the League of Nations; **Brexit**).
+
+<a id="ir2-ch7"></a>
+#### G. The institutions themselves — IOs, the UN, international law & human rights *(ch. 7)*
+
+***Core:*** ch. 7 is the **empirical "flesh"** on liberal institutionalism — the actual institutions through which states cooperate under anarchy. All of them are **limited by state sovereignty** (there is **no world government**), yet they **structure order** through norms, reciprocity, and legitimacy.
+- **IGOs vs NGOs (§7.1):** **IGOs** = members are **states** (UN, OPEC, WTO, EU); **NGOs** = private/specialised (Amnesty, Greenpeace, Red Cross, religious bodies). The web of IOs has grown steadily → rising **interdependence.**
+- **The UN (§7.2)** — *"the closest thing to a world government that has ever existed, but it is not a world government."* It exists because **states created it to serve their needs** (membership = **indirect leverage**). Key organs:
+  - **Security Council** — maintains peace; decisions **binding**; **5 permanent members (US, UK, France, Russia, China)** with the **veto** + 10 rotating members. A single permanent-member **veto** kills a resolution → **paralysis when great powers are involved** (Russia shielding **Syria**).
+  - **Peacekeeping** ("**Chapter 6½**"; **blue helmets**) — serve at the **host's invitation**, neutral between combatants (Nobel Peace Prize 1988).
+  - **General Assembly** — all **193 members, one vote each** — a "global town hall" (declarations are **not** binding law).
+  - **Secretariat / Secretary-General** — administration + **neutral mediator** ("good offices").
+  - **Specialised agencies** — WHO, ITU, ICAO; and the economic ones (**World Bank, IMF, WTO**).
+- **International law (§7.3)** — derives **not** from a world legislature but from **tradition and agreement.** **Four sources:** **treaties** (most important; *pacta sunt servanda* — treaties must be kept), **custom**, **general principles**, **legal scholarship.** **Enforcement** has no world police → rests on **reciprocity + collective response** (sanctions, reprisals) → therefore **depends on power** (easy to cheat on small issues / if you're strong). The **World Court (ICJ, The Hague)** hears only **state-vs-state** cases (limited jurisdiction).
+- **Law & sovereignty (§7.4):** **diplomatic law** (immunity; sanctity of embassies — the **Iran hostage crisis 1979**) is the bedrock. **Just-war doctrine:** **laws *of* war (*jus ad bellum*)** — when war is legal (**only in response to aggression**; intent must be just) — vs **laws *in* war (*jus in bello*)** — how it may be fought.
+- **Human rights (§7.5):** the idea of universal human rights **clashes with sovereignty** (**universalism vs relativism**; China/Russia call criticism "interference in internal affairs"). Sources: **religion, natural-law philosophy (Locke, Kant, Rousseau), the 18th-c. revolutions.** **Civil-political ("negative") vs economic-social ("positive") rights.** The **UDHR (1948)** sets norms (not binding law). **R2P (responsibility to protect, 2005)** — states must protect civilians from genocide/crimes against humanity (invoked for **Libya 2011**; *failed* in **Syria**). **War crimes → the ICC** (from **Nuremberg**'s "crimes against humanity" → Yugoslavia/Rwanda tribunals → the International Criminal Court).
+
+### Cases & examples
+- <a id="case-nixon-china"></a>**Nixon–China rapprochement (1969–72).** The US relaxed its trade embargo; three days later China released detained US citizens, then reciprocated further, culminating in Nixon's 1972 visit. → *Illustrates: **reciprocity** eliciting cooperation between rivals with no world government to enforce it.*
+- <a id="case-israel-palestine"></a>**Israel–Palestinian tit-for-tat.** Reciprocity works both ways — sustained mutual punishment instead of cooperation. → *Illustrates: reciprocity's **runaway-hostility** danger (cooperation ≠ automatic).*
+- <a id="case-eu-li"></a>**The European Union.** Shared interests + incentives to defect → an institutional solution (forums, rules, monitoring, courts, issue linkage, repeated interaction). → *Illustrates: **liberal institutionalism** at full strength — a stable peace built from institutions.*
+- <a id="case-gulfwar"></a>**Gulf War (1990–91).** Iraq's blatant annexation of Kuwait united all the great powers behind a UN-authorised response. → *Illustrates: **collective security working** — clear aggression + willingness to bear costs.*
+- <a id="case-iraq2003"></a>**Iraq War (2003).** The Security Council split (France's veto threat); the US/UK acted without UN authorisation. → *Illustrates: collective security's **limits** when the great powers disagree.*
+- <a id="case-r2p"></a>**R2P: Libya (2011) vs Syria (2011–).** A UN-authorised NATO campaign protected Libyan civilians; Syria's civilians got no such protection (Russian vetoes). → *Illustrates: the **norm shift** toward protecting civilians — and how **sovereignty + the veto** still block it.*
+
+### Key terms
+| Term | Meaning |
+|---|---|
+| Cooperation puzzle | Why do states cooperate under anarchy? (liberalism's central question) |
+| Liberal institutionalism | Institutions make cooperation easier (Keohane & Nye; international level) |
+| Liberal internationalism | Domestic politics shape state preferences (Kant; domestic level) |
+| Neoliberalism | Concedes realist assumptions (unitary/rational/anarchy) but shows cooperation pays |
+| Reciprocity / shadow of the future | Repeated interaction makes cheating costly → cooperation rational (tit-for-tat) |
+| International regime | Rules/norms/procedures where actor expectations converge (Krasner) |
+| Complex interdependence | Multiple cross-border channels; disruption costly for both (sensitivity vs vulnerability) |
+| Kantian triangle | Democracy + economic interdependence + international organizations → peace |
+| Democratic peace | Democracies almost never fight *each other* |
+| Collective security | Broad alliance opposing aggression by any actor (League → UN) |
+| UN Security Council / veto | 5 permanent members can each block any resolution |
+| International law (sources) | Treaties · custom · general principles · scholarship (enforced by reciprocity) |
+| Just war | *jus ad bellum* (when war is legal — response to aggression) vs *jus in bello* (how fought) |
+| R2P | Responsibility to protect civilians from genocide/crimes against humanity (2005) |
+
+### Exam pointers
+- State **liberalism's puzzle** and its answer: keep the **[realist assumptions](#ir2-worldview)** (rational self-interested states under anarchy) but show **cooperation is often rational** — and that liberalism is **not** "being nice/naïve."
+- Distinguish the **[two branches](#ir2-branches)** (institutionalism = international/institutions; internationalism = domestic/preferences) and name their theorists (Keohane & Nye; Kant).
+- Explain the **[four institutionalist mechanisms](#ir2-institutionalism)** (shadow of the future, information/monitoring, reciprocity/enforcement, interdependence) — and define an **[international regime](#ir2-regimes)** (Krasner) with the institution ≠ IO distinction.
+- Draw the **[Kantian triangle](#ir2-internationalism)** and explain the **[democratic peace](#ir2-dempeace)** precisely (democracies rarely fight *each other*; the mechanisms; the caveats).
+- Use **[ch.7 institutions](#ir2-ch7)** as evidence: the **UN/Security Council + veto**, **collective security** ([Gulf War](#case-gulfwar) vs [Iraq 2003](#case-iraq2003)), **international law** (4 sources, reciprocity enforcement), **just war**, **human rights/R2P**.
+- **Contrast with [realism](#ir-lecture-1):** same actors, opposite conclusion — see the table below.
+
+<a id="ir2-compare"></a>
+### ★ Realism vs Liberalism — the payoff
+| | **Realism (IR I)** | **Liberalism (IR II)** |
+|---|---|---|
+| **Core principle** | **Dominance** (power) | **Reciprocity** (+ identity) |
+| **View of anarchy** | Forces self-help & competition | Doesn't make conflict inevitable |
+| **Human nature / progress** | Pessimistic, timeless | More optimistic; rules evolve toward peace |
+| **Key actors & level** | Unitary states; **systemic** level | States **+ domestic** actors; institutions |
+| **Cooperation** | Hard; fear of **relative gains** & cheating | Achievable via **institutions & absolute gains** |
+| **Central concepts** | Power, security dilemma, balance of power, polarity | Institutions, regimes, interdependence, democratic peace |
+| **Both agree on** | States are **rational actors** pursuing self-interest under anarchy | |
+
+*The one-line contrast:* realism asks *"who has the power?"*; liberalism asks *"under what conditions is cooperation in states' own interest?"*
+
+<a id="ff-ir2"></a>
+## ★ Fun facts & memorable details (IR II: Liberalism)
+
+> Sticky bits from Liberalism.
+
+- **Liberalism ≠ nice.** It keeps realism's rational, self-interested states — it just asks **"when does cooperation pay?"** The optimism is about **incentives**, not about human goodness.
+- **We live in one of the least warlike periods ever** — the last **great-power war ended 60+ years ago**, and battle-deaths have fallen from *tens of millions* to *hundreds of thousands* since WWII (the "waning of war").
+- **Tit-for-tat** — cooperate first, then simply mirror the other side — is enough to sustain cooperation in a **repeated** Prisoner's Dilemma. No world government required.
+- **Kant distrusted democracy** (he feared "mob rule" after watching the French Revolution) — yet his *republics* argument became the **democratic peace**, liberalism's favourite finding.
+- **Democracies fight plenty of wars** — just not against *each other.* The three most war-prone states of the last 200 years were **France, Russia, and Britain.**
+- **The UN can't heat its own building:** in the 1990s members owed so much in back dues that the UN couldn't afford to heat its NYC headquarters — the campaign slogan became **"Great nations pay their bills."**
+- **UN peacekeeping isn't in the UN Charter** — Dag Hammarskjöld joked the **blue helmets** were authorised under "**Chapter Six and a Half**."
+- **Diplomats' parking tickets:** immunity means NYC is owed ~**$16 million** in unpaid diplomatic parking fines — a tiny, vivid example of **sovereignty vs. law.**
+- **Grotius returns:** the "**free seas**" principle became law when the **Dutch** (then the **British**) dominated trade and benefited from it — international law often codifies the **hegemon's** interest (cf. *Grotius, PET Module 2*).
