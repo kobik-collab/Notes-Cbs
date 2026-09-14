@@ -12,6 +12,7 @@
 
 - **[Lecture 1: Principles of Economics (Ch. 1)](#lecture-1-micro)** — [what is economics?](#micro-what) · [the three principles](#micro-principles) · [opportunity cost & marginal thinking](#micro-optimization) · [models: positive vs normative](#micro-empiricism) · [★ Fun facts](#ff-micro1)
 - **[Lecture 2: Supply and Demand (Ch. 2)](#lecture-2-micro)** — [demand & the demand function](#micro2-demand) · [supply & the supply function](#micro2-supply) · [★ solving market equilibrium](#micro2-equilibrium) · [shifts & comparative statics](#micro2-shifts) · [price ceilings & floors](#micro2-controls) · [★ Fun facts](#ff-micro2)
+- **[Lecture 3: Elasticities & Taxes (Ch. 2 recap · §6.4)](#lecture-3-micro)** — [why elasticity?](#micro3-why) · [★ price elasticity of demand](#micro3-ped) · [computing & the point-elasticity trick](#micro3-computing) · [elastic / inelastic / unit-elastic](#micro3-naming) · [cross-price](#micro3-cross) · [income elasticity & Engel curves](#micro3-income) · [supply elasticity](#micro3-supply) · [elasticity over time](#micro3-time) · [★ taxes: the wedge, incidence & equivalence](#micro3-taxes) · [formula sheet](#micro3-formulas) · [★ Fun facts](#ff-micro3)
 
 ---
 
@@ -388,3 +389,203 @@ Each: *the example → the concept it teaches.*
 - **Vernon Smith** won a Nobel (2002) for showing that real people in a lab **converge on the equilibrium price** startlingly fast — the "Walrasian auctioneer" made flesh.
 - Rent control's dirty secret: it can be **regressive** and spawn black-market "key money" — a "tale of good intentions" (cf. Venezuela's empty shelves).
 - Minimum wage as a price floor nudges firms toward **capital over labour** — the **self-checkout at Føtex** is a supply-and-demand diagram in the wild.
+
+---
+
+<a id="lecture-3-micro"></a>
+# Lecture 3: Elasticities & Taxes — the Supply & Demand model II (Ch. 2 recap · §6.4)
+
+**Required reading:** Friberg, **§6.4 Elasticities** (own-price, cross-price, income; supply elasticity) — building on the **Chapter 2** supply-and-demand model (see [Lecture 2](#lecture-2-micro)). *The lecture deck also teaches **taxes on goods & services** — that part draws on the textbook's **§7.5** (unit tax, tax incidence), covered here because the deck foregrounds it.*
+
+**Theme of the lecture (Butera — from the deck, titled *"Supply and Demand model"*).** Chapter 2 taught us to **move the curves around**; this lecture adds **precision**. The **"shape" of a demand or supply curve — its elasticity — decides how much a shock (or a tax) shows up as a change in *price* versus a change in *quantity*.* The deck's three goals: **(1)** understand what demand & supply **elasticities** mean, **(2)** **derive** them from demand/supply curves, and **(3)** use them to analyse the **effects of taxes**.
+
+<div class="heart">★ <strong>The heart of the lecture:</strong> <strong>elasticity = % responsiveness</strong> — "by what % does quantity change when price rises 1%." It's a <strong>unit-free</strong> number that summarises a curve's <strong>shape</strong>, so it's comparable across markets and time. The <strong>shape decides how a shock splits into price vs quantity</strong>: with <strong>inelastic</strong> demand a shock/tax hits <strong>price</strong>; with <strong>elastic</strong> demand it hits <strong>quantity</strong>. And a <strong>tax</strong> drives a <strong>wedge</strong> between the price buyers pay and sellers receive — <strong>who bears it depends on the relative elasticities</strong>, and (in perfect competition) <strong>it doesn't matter who is legally taxed.</strong></div>
+
+**The red thread.** For any market ask: *how responsive is quantity to price (elastic or inelastic)?* — because that single question answers **how a supply shock moves the market**, **how a firm should price**, and **who really pays a tax.** Elasticity is the "shape" number that ties all three together.
+
+### Key concepts / "modes" to use
+- **Elasticity** — the **% change in one variable ÷ % change in another** (a unit-free number).
+- **Price elasticity of demand (E_D)** — % change in quantity demanded ÷ % change in own price (**negative**).
+- **Elastic / inelastic / unit-elastic** — |E| > 1 / |E| < 1 / |E| = 1.
+- **Point-elasticity trick** — `E_D = (dQ/dp)·(p/Q)`; on a linear curve elasticity **changes along the curve** (constant-elastic curves don't).
+- **Cross-price elasticity** — substitutes (+) vs complements (−).
+- **Income elasticity** — normal (+) vs inferior (−); **Engel curves / Engel's law**.
+- **Supply elasticity** — % change in quantity supplied ÷ % change in price (positive).
+- **Tax wedge & tax incidence** — `p_b = p_s + t`; who bears the burden depends on **relative elasticities**; **legal ≠ economic** incidence; unit vs ad-valorem tax; **deadweight loss**.
+
+### Section-by-section main points
+
+<a id="micro3-why"></a>
+#### Why do we care about elasticity? (deck)
+
+***Core:*** the **shape** of demand/supply curves determines **how much a shift in one moves the equilibrium** — and "shape" is summarised by **elasticity.** A steep (inelastic) curve and a flat (elastic) curve respond to the *same* shock very differently.
+- **The motivating questions (deck):** Do **"sin taxes"** (cigarettes, sugar) hurt the poor? Why do firms **raise prices** even when it looks crazy (Netflix, Amazon Prime)? To what extent are **taxes on producers "passed on"** to consumers? Every answer runs through elasticity.
+- **The visual intuition:** how far a **supply shift** moves price vs quantity depends entirely on the **slope/elasticity of demand** — see the figure below (perfectly inelastic demand → only price moves; perfectly elastic demand → only quantity moves).
+
+![Three panels showing how the shape of the demand curve changes the effect of an identical supply shift (S¹→S²) in the pork market: (a) a normal downward-sloping demand D¹ — both price (3.30→3.55) and quantity move; (b) a perfectly inelastic (vertical) demand D² — only price moves (3.30→3.675), quantity stays at 220; (c) a perfectly elastic (horizontal) demand D³ — only quantity moves (220→205), price stays at 3.30.](figures/l3-elasticity-shapes.png)
+
+**How to read it (why elasticity matters).** All three panels apply the **same supply shift** `S¹→S²`. The **only** thing that differs is the **demand curve's shape**:
+- **(a) Ordinary downward-sloping demand:** the shock splits into **both** a higher price *and* a lower quantity.
+- **(b) Perfectly inelastic demand (vertical):** quantity can't respond, so the shock lands **entirely on price** (3.30→3.675). *This is the "necessity with no substitutes" case.*
+- **(c) Perfectly elastic demand (horizontal):** price can't move, so the shock lands **entirely on quantity** (220→205).
+- **Take-away:** the **more inelastic** the demand, the more a shock (or tax) shows up as **price**; the **more elastic**, the more it shows up as **quantity.** *This one picture is the whole reason we measure elasticity.*
+
+<a id="micro3-ped"></a>
+#### ★ Price elasticity of demand — definition
+
+***Core:*** the **price elasticity of demand** measures how sensitive quantity demanded is to the good's own price — the **% change in quantity ÷ % change in price.** It is a **pure (unit-free) number** and is **negative** (demand slopes down: price up → quantity down).
+
+<div class="formula"><span class="flabel">Price elasticity of demand</span><em>E<sub>D</sub></em> = ( Δ<em>Q</em>/<em>Q</em> × 100 ) ÷ ( Δ<em>p</em>/<em>p</em> × 100 ) = <strong>%ΔQ ÷ %Δp</strong></div>
+
+*Reads:* **how responsive quantity demanded is to a price change** — "a **1% rise in price** *p* leads to an **E_D % change in quantity** *q*." — **Δ*Q*/*Q*×100** = the **percentage change in quantity demanded** · **Δ*p*/*p*×100** = the **percentage change in price** · **E_D** = the ratio (a **unit-free** number, **negative** for a normal good). The ×100s cancel, so it's just **%ΔQ over %Δp**.
+
+- **Why unit-free matters (the point of the whole concept):** raw slopes aren't comparable — "1,000 tons less rice" means something different in **Vietnam** vs **Bhutan**, and depends on the currency. A **percentage** measure is **comparable across markets, currencies and time.**
+- **Why negative:** demand curves slope **down**, so Δ*Q* and Δ*p* have opposite signs → the ratio is negative. *(When people say a "higher" elasticity they usually mean a bigger **absolute value** |E_D|.)*
+
+<a id="micro3-computing"></a>
+#### Computing elasticity — and the point-elasticity trick
+
+***Core:*** plug the two percentage changes into the formula. **On a linear demand curve the elasticity is *not* constant** — it depends on *where* you evaluate it, via `E_D = (dQ/dp)·(p/Q)`.
+- **Simple example (textbook Table 6.2):** quantity falls **6 → 4** while price rises **1 → 2**. Then
+
+<div class="formula"><span class="flabel">Worked — simple example</span><em>E<sub>D</sub></em> = ( (4−6)/6 ) ÷ ( (2−1)/1 ) = ( −2/6 ) ÷ ( 1 ) = <strong>−1/3</strong></div>
+
+*Reads:* a demand that is **inelastic** — **(4−6)/6 = −0.33** = the **% fall in quantity** (−33%) · **(2−1)/1 = 1** = the **% rise in price** (+100%) · **−1/3** = quantity falls **only ⅓ as fast** as price rises → **inelastic** demand.
+
+- **A policy-style example (soda, Allcott et al. 2019):** own-price elasticity of sugary soda ≈ **−1.37.** *If price rises 5%*, quantity changes by `E_D × 5% = −1.37 × 5 = −6.85%` (a ~7% fall). *To cut demand 15%*, price must rise `−15 ÷ −1.37 ≈ 11%`. → *this is exactly the sum a policymaker designing a **soda tax** needs.*
+- **The point-elasticity trick (linear demand):** rewrite the formula as
+
+<div class="formula"><span class="flabel">Point elasticity</span><em>E<sub>D</sub></em> = (Δ<em>Q</em>/Δ<em>p</em>) · (<em>p</em>/<em>Q</em>) = (d<em>Q</em>/d<em>p</em>) · (<em>p</em>/<em>Q</em>)</div>
+
+*Reads:* elasticity = **slope of the demand function × the price-to-quantity ratio at your chosen point** — **dQ/dp** = the **slope** (how many units Q changes per €1 of price; constant for a straight line) · **p/Q** = the **price-to-quantity ratio** where you evaluate it (this is what varies along the curve).
+
+- **Worked (Q = 10 − 2p):** here `dQ/dp = −2` (always). But the **elasticity varies**:
+  - at **p = 2.5** (so Q = 5): `E_D = −2 × 2.5/5 = −1` (**unit elastic**).
+  - at **p = 4** (so Q = 2): `E_D = −2 × (p/Q) = −2 × 4/2 = −4` → **elastic.** *(⚠ The textbook misprints this as `−2 × 2/2 = −2` — it accidentally puts Q=2 in the numerator instead of p=4; the correct p/Q is **4/2 = 2**, so **E_D = −4**.)*
+  - **The pattern:** **demand is more elastic at higher prices** — at p=2.5 it's unit-elastic (−1), at p=4 it's elastic (−4). A fixed unit change is a bigger *percentage* change when Q is small and p is large.
+- **Constant-elasticity demand (contrast):** the form `Q = a·p^ϵ` has the **same** elasticity **ϵ** at *every* price (used in empirical estimation via `ln Q = ln a + ϵ·ln p + error`). *So: **linear → elasticity changes along the curve; constant-elastic → it doesn't.***
+
+<a id="micro3-naming"></a>
+#### Elastic, inelastic, unit-elastic — and why it matters
+
+***Core:*** we **name** the ranges of elasticity, and each has a sharp economic meaning for **how supply shocks split into price vs quantity.**
+| Name | Level (of E_D) | Meaning | Curve looks… |
+|---|---|---|---|
+| **Inelastic** | −1 < E_D < 0 (|E| < 1) | %ΔQ **smaller** than %Δp | relatively **steep** |
+| **Unit elastic** | E_D = −1 | %ΔQ **equals** %Δp | — |
+| **Elastic** | E_D < −1 (|E| > 1) | %ΔQ **bigger** than %Δp | relatively **flat** |
+
+- **Why it matters (the punchline):** with **inelastic** demand, **supply shocks translate into big *price* changes** (little quantity response) — critical for e.g. **cocoa** growers in Ghana/Côte d'Ivoire (world cocoa elasticity ≈ −0.19 to −0.96; policy point estimate −0.34). With **elastic** demand, shocks translate into **quantity** changes.
+- **What makes demand elastic — substitutes.** The single biggest driver is **availability of close substitutes**: pharmaceuticals with few substitutes are **inelastic** (people pay whatever for a needed medicine); goods with many substitutes are **elastic**.
+- **Aggregation level matters:** a *specific brand* is more **elastic** than the *category* (more substitutes for one brand). US beer: **product-level** median elasticity ≈ **−4.74**, but beer **overall** ≈ **−0.60.**
+
+<a id="micro3-cross"></a>
+#### Cross-price elasticity — substitutes vs complements
+
+***Core:*** the **cross-price elasticity** measures how demand for good **A** responds to the price of a *different* good **B** — and its **sign** tells you the relationship.
+
+<div class="formula"><span class="flabel">Cross-price elasticity</span><em>E<sub>cross</sub></em> = %Δ<em>Q<sub>A</sub></em> ÷ %Δ<em>p<sub>B</sub></em> &nbsp;&nbsp;→&nbsp;&nbsp; <strong>&gt; 0 = substitutes</strong> · <strong>&lt; 0 = complements</strong></div>
+
+*Reads:* how the quantity of **A** responds to a price change in **B** — **%ΔQ_A** = percentage change in demand for good A · **%Δp_B** = percentage change in the price of good B · **sign**: **positive → substitutes** (Heineken dearer → more Carlsberg bought), **negative → complements** (phones dearer → fewer phone cases). *The larger the positive value, the closer the substitutes.*
+- **Why it's used:** gauging **competitive pressure** and evaluating **mergers** (competition authorities ask how closely two products substitute). *(Deck aside: cross-price elasticity of cigarettes & alcohol ≈ −1 — strong complements, Krauss et al. 2014.)*
+
+<a id="micro3-income"></a>
+#### Income elasticity — normal vs inferior goods, Engel curves
+
+***Core:*** the **income elasticity** measures how demand responds to **income** — its **sign** distinguishes **normal** from **inferior** goods.
+
+<div class="formula"><span class="flabel">Income elasticity</span><em>E<sub>income</sub></em> = %Δ<em>Q</em> ÷ %Δ<em>I</em> &nbsp;&nbsp;→&nbsp;&nbsp; <strong>&gt; 0 = normal good</strong> · <strong>&lt; 0 = inferior good</strong></div>
+
+*Reads:* how quantity demanded responds to an income change — **%ΔQ** = percentage change in quantity · **%ΔI** = percentage change in income · **sign**: **positive → normal** (demand rises with income), **negative → inferior** (demand falls as income rises — e.g. instant noodles, store-brand goods).
+- **Nuance:** a good can be **normal at low incomes and inferior at higher** ones (hostels for a student: more nights as income rises, then switch to hotels). Tastes vary by person.
+- **Uses:** long-term **projections** (healthcare, appliances in low-income countries) and predicting the **business cycle** (pharma is income-insensitive → "**defensive stock**").
+- **Engel curves / Engel's law (Ernst Engel, 1800s Prussian statistician):** plot demand (vertical) against income (horizontal) — **positive slope for normal goods, negative for inferior.** **Engel's law:** the **share of income spent on food *falls* as income rises** → the income elasticity of food is **less than 1.**
+
+<a id="micro3-supply"></a>
+#### Supply elasticity — same principle
+
+***Core:*** the **price elasticity of supply** measures how sensitive quantity *supplied* is to price — same formula, but **positive** (supply slopes up).
+
+<div class="formula"><span class="flabel">Price elasticity of supply</span><em>E<sub>S</sub></em> = %Δ<em>Q<sub>S</sub></em> ÷ %Δ<em>p</em> &nbsp;&nbsp;(<strong>positive</strong>)</div>
+
+*Reads:* how responsive quantity supplied is to a price change — **%ΔQ_S** = percentage change in quantity supplied · **%Δp** = percentage change in price · **E_S** = the ratio (**positive**: higher price → more supplied). A **steep** supply curve is **inelastic** (hard to expand output quickly); a **flat** one is **elastic**.
+
+<a id="micro3-time"></a>
+#### Elasticity over time — short run vs long run
+
+***Core:*** demand (and supply) are usually **more elastic in the long run** than the short run, because people have **more time to adjust / find substitutes.**
+- **Electricity (Labandeira et al. 2017):** ≈ **−0.24 short-run** vs **−0.6 long-run** — over time consumers buy more efficient equipment, change habits.
+- **The deck's cases:** a drop in **gas** prices does little in the short run but more in the long run; likewise **computers**. *Exam framing: "in the short run demand is inelastic (people are locked in); given time they substitute, so long-run demand is more elastic."*
+
+<a id="micro3-taxes"></a>
+#### ★ Taxes on goods & services — the wedge, incidence & equivalence (deck; textbook §7.5)
+
+***Core:*** a tax **drives a wedge** between the price **buyers pay** (`p_b`) and the price **sellers receive** (`p_s`): **`p_b = p_s + t`.** It raises the buyer price, lowers the seller price, cuts the quantity traded, and creates a **deadweight loss.** The split of the burden — **tax incidence** — depends on the **relative elasticities**, and (under perfect competition) **not** on who is legally taxed.
+- **Two types of tax (deck):**
+  - **Unit (specific) tax** — a fixed **amount *t* per unit** (per litre of petrol, per cigarette).
+  - **Ad valorem tax** ("sales tax"/VAT) — a **fraction α of the price/spend** (government keeps a share of each euro spent).
+- **The wedge (worked unit-tax example, t = €3):** with `Q_D = 23 − p_b`, `Q_S = −1 + p_s/2`, and `p_b = p_s + 3`, solving gives **p_s = 14, p_b = 17, Q = 6.** Buyers pay **€3 more** than sellers receive; quantity falls from the no-tax equilibrium.
+  - **Tax revenue** = `t × Q` = `3 × 6 = €18`. The rest of the surplus lost is **deadweight loss** (here `3 × (7−6)/2 = €1.5`) — trades that *would* have happened but now don't.
+- **Legal incidence ≠ economic incidence (the key result).** It **doesn't matter** whether the tax is collected from **firms** (supply shifts up by *t*) or **consumers** (demand shifts down by *t*) — the quantity, the prices actually paid/received, and the DWL are **identical.** *All that matters is that the tax drives a wedge.* (Perfect-competition assumptions make this exact: no transaction costs, perfect information.)
+
+![Two panels showing that it makes no difference whether a $0.55 tax on avocados is collected from firms or from consumers. (a) Tax on firms: supply shifts up S¹→S², new equilibrium e₂ at Q=74, buyers pay p₂=2.15, sellers receive p₂−t=1.60. (b) Tax on consumers: demand shifts down D¹→D², new equilibrium e₂ at Q=74, buyers pay p₂+t=2.15, sellers receive p₂=1.60. Same outcome either way.](figures/l3-tax-equivalence.png)
+
+**How to read it (tax equivalence).** Both panels impose the **same $0.55 tax** on avocados. **(a)** collects it from **firms** → the supply curve shifts **up** by *t*; **(b)** collects it from **consumers** → the demand curve shifts **down** by *t*. In **both** cases the result is identical: **Q falls to 74**, **buyers pay 2.15**, **sellers receive 1.60**, and the wedge between them is exactly **$0.55.** → *The economics doesn't care who writes the cheque.*
+
+- **What *does* decide the split: relative elasticities.** The **more inelastic** side of the market bears **more** of the tax (it can't escape by changing quantity). The **more price-sensitive (elastic)** side is affected **less** on price, **more** on quantity.
+
+![Two supply-demand diagrams contrasting who bears an indirect tax depending on the price elasticity of demand (PED). Left: elastic demand (PED>1) — the supplier absorbs most of the tax (large "paid by supplier" area). Right: inelastic demand (PED<1) — most of the tax is passed on to the consumer (large "paid by consumer" area).](figures/l3-tax-incidence-ped.png)
+
+**How to read it (incidence & elasticity).** The tax raises the supply curve to `S + tax`. The **new higher price P2** is what **consumers** pay; **P3** is what **suppliers** keep. The split of the rectangle between them is the **incidence**:
+- **Left — elastic demand (PED > 1):** consumers easily cut back, so firms **can't raise the price much** → the **supplier absorbs most** of the tax.
+- **Right — inelastic demand (PED < 1):** consumers keep buying regardless, so the firm **passes most of the tax through** → the **consumer bears most** of it.
+- **Policy take-aways:** (1) **"sin taxes"** on inelastic goods (cigarettes, alcohol) fall mostly on **consumers** and raise a lot of revenue with **little DWL** (quantity barely moves) — which is *why* governments like them, and why they can be **regressive** (hit the poor). (2) We **prefer taxes on inelastic bases** — they distort choices least.
+- **Subsidies are the mirror image:** `p_s = p_b + s` — a subsidy lowers the buyer price, raises the seller price, **expands** quantity above the efficient level, and also creates a **deadweight loss** (units produced that cost more than consumers value them). Its incidence, too, depends on elasticities (inelastic demand — e.g. emergency care, primary education — → small DWL).
+
+### Cases & examples
+*Read each as a worked use of an elasticity number (or a tax result).*
+- <a id="case-soda-tax"></a>**Sugary-soda tax (Allcott et al. 2019).** Own-price elasticity ≈ **−1.37** (elastic). A 5% price rise → ~**7% fall** in quantity; to cut demand 15% you'd raise price ~11%. → *Illustrates: elasticity as the **design tool for a corrective ("sin") tax**.*
+- <a id="case-cocoa"></a>**World cocoa demand.** Inelastic (≈ −0.19 to −0.96; policy estimate −0.34). → *Illustrates: **inelastic demand → supply shocks hit price**, so bad harvests swing incomes for growers in Ghana / Côte d'Ivoire.*
+- <a id="case-beer-aggregation"></a>**US beer — brand vs category (Miller et al. 2021).** Product-level elasticity ≈ **−4.74**, category ≈ **−0.60.** → *Illustrates: **aggregation** — a single brand has close substitutes (elastic), the category doesn't (inelastic).*
+- <a id="case-sweden-alcohol"></a>**Sweden–Denmark cross-border alcohol (Asplund et al. 2007).** Swedes drive to Denmark for cheaper drink. Estimated for spirits: **own-price −1.3** (elastic), **cross-price (Danish price) +0.3** (substitute), **income +1.4** (normal good). → *Illustrates: **all three elasticities at once** — own, cross, income — from real data.*
+- <a id="case-electricity-time"></a>**Electricity demand (Labandeira et al. 2017).** ≈ −0.24 short-run vs −0.6 long-run. → *Illustrates: demand is **more elastic in the long run** (time to adjust equipment/habits).*
+
+<a id="micro3-formulas"></a>
+### Formula sheet — quick reference
+| Quantity | Formula | Sign / meaning |
+|---|---|---|
+| **Price elasticity of demand** | `E_D = %ΔQ_D ÷ %Δp` | **negative**; |E|>1 elastic, |E|<1 inelastic |
+| **Point elasticity (linear)** | `E_D = (dQ/dp)·(p/Q)` | varies along the curve; more elastic at higher p |
+| **Constant-elastic demand** | `Q = a·p^ϵ` → `ln Q = ln a + ϵ ln p` | elasticity = **ϵ** everywhere |
+| **Cross-price elasticity** | `E_cross = %ΔQ_A ÷ %Δp_B` | **+ substitutes**, **− complements** |
+| **Income elasticity** | `E_income = %ΔQ ÷ %ΔI` | **+ normal**, **− inferior**; food < 1 (Engel) |
+| **Supply elasticity** | `E_S = %ΔQ_S ÷ %Δp` | **positive** |
+| **Tax wedge** | `p_b = p_s + t` | buyers pay more, sellers get less; DWL |
+| **Tax revenue** | `t × Q_taxed` | rectangle; rest of loss = deadweight loss |
+| **Subsidy wedge** | `p_s = p_b + s` | expands Q above efficient; also a DWL |
+
+### Exam pointers
+- **Compute an elasticity** from two (p, Q) points and **name** it (elastic/inelastic/unit) — the **[−1/3 example](#micro3-computing)**.
+- Use the **[point-elasticity trick](#micro3-computing)** `E_D=(dQ/dp)(p/Q)` on a **linear demand** and show elasticity **changes along the curve** (more elastic at higher price).
+- Give the **sign rules** for **[cross-price](#micro3-cross)** (substitutes/complements) and **[income](#micro3-income)** (normal/inferior) elasticities, with an example each.
+- **Solve a unit-tax** market (`p_b = p_s + t`) for `p_b, p_s, Q`, compute **revenue** and **deadweight loss** — the **[t=€3 example](#micro3-taxes)**.
+- State and **explain** the two big tax results: **legal ≠ economic incidence** (doesn't matter who's taxed) and **incidence depends on relative elasticities** ([inelastic side pays more](#micro3-taxes)); use the **[sin-tax](#case-soda-tax)** application.
+- Explain **why elasticity is unit-free** and why demand is **more elastic in the [long run](#micro3-time)** and for **[narrower product categories](#case-beer-aggregation)**.
+
+**Bridge.** Lecture 3 turns the [Chapter 2 model](#lecture-2-micro) from *qualitative* ("the curve shifts left") into *quantitative* ("by how much, and split how between price and quantity"). Elasticity is also the hinge to later chapters: **firm pricing** (a monopolist's markup depends on E_D), **tax policy & deadweight loss** (Ch. 7), and **who gains from trade.**
+
+---
+
+<a id="ff-micro3"></a>
+## ★ Fun facts & memorable details (Lecture 3)
+
+> Sticky bits from Elasticities & Taxes.
+
+- **It doesn't matter who you tax.** In a competitive market the burden of a tax is **identical** whether the government bills the shop or the shopper — "all that matters is that the tax drives a wedge." (This is why arguing about *who* a tax is "on" often misses the point.)
+- **Why cigarette & alcohol taxes raise so much money:** demand is **inelastic**, so people keep buying — the tax is **passed to consumers** with little drop in quantity (and is often **regressive**).
+- **The soda-tax number:** the own-price elasticity of sugary drinks (≈ **−1.37**) is a real input to real policy — a 5% price rise cuts consumption ~7%.
+- **Engel's law (1857):** the **richer** you get, the **smaller** the share of income you spend on **food** — one of the oldest empirical regularities in economics, and still used to gauge living standards.
+- **Pharma = "defensive stock":** demand for medicine barely moves with income (income-inelastic), so drug companies hold up in recessions.
+- **Elasticity has a time dimension:** when petrol jumps, you can't do much *this week* (inelastic), but over years you buy a smaller car and move closer to work (elastic) — the "short-run vs long-run" split.
+- **Brand vs category:** demand for *a* beer is wildly elastic (≈ −4.7 — switch brands!), but demand for *beer* is inelastic (≈ −0.6) — same drink, opposite elasticity, just different zoom level.
+- **Swedes really do drive to Denmark for cheap booze** — enough that economists measured the cross-border **cross-price elasticity** of spirits (+0.3) from the data (Asplund et al. 2007).
