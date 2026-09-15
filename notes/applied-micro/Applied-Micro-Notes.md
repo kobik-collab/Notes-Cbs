@@ -471,9 +471,9 @@ Each: *the example → the concept it teaches.*
 ***Core:*** we **name** the ranges of elasticity, and each has a sharp economic meaning for **how supply shocks split into price vs quantity.**
 | Name | Level (of E_D) | Meaning | Curve looks… |
 |---|---|---|---|
-| **Inelastic** | −1 < E_D < 0 (|E| < 1) | %ΔQ **smaller** than %Δp | relatively **steep** |
+| **Inelastic** | −1 < E_D < 0 (\|E\| < 1) | %ΔQ **smaller** than %Δp | relatively **steep** |
 | **Unit elastic** | E_D = −1 | %ΔQ **equals** %Δp | — |
-| **Elastic** | E_D < −1 (|E| > 1) | %ΔQ **bigger** than %Δp | relatively **flat** |
+| **Elastic** | E_D < −1 (\|E\| > 1) | %ΔQ **bigger** than %Δp | relatively **flat** |
 
 - **Why it matters (the punchline):** with **inelastic** demand, **supply shocks translate into big *price* changes** (little quantity response) — critical for e.g. **cocoa** growers in Ghana/Côte d'Ivoire (world cocoa elasticity ≈ −0.19 to −0.96; policy point estimate −0.34). With **elastic** demand, shocks translate into **quantity** changes.
 - **What makes demand elastic — substitutes.** The single biggest driver is **availability of close substitutes**: pharmaceuticals with few substitutes are **inelastic** (people pay whatever for a needed medicine); goods with many substitutes are **elastic**.
