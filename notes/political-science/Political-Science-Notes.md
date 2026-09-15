@@ -2086,6 +2086,10 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 #### ★ "Anarchy is what states make of it" (Wendt 1992)
 ***Core:*** the signature constructivist claim — **anarchy has no fixed logic.** It doesn't *tell* a state whether another is friend or enemy; that meaning is built through **interaction and shared understandings.**
 
+![Diagram: the same "ANARCHY" (no world government) branches into two chains. The realist chain runs anarchy → self-help → power/insecurity → COMPETITION, asking "What will happen if I do this?" The constructivist chain runs anarchy → interaction + shared meanings → friendship/rivalry/enmity → DIFFERENT interests & behaviour, asking "Is what I do legitimate, given who I am?" Caption: "Anarchy is what states make of it" — Wendt (1992).](figures/ir3-anarchy-wendt.png)
+
+**How to read it (the deck's slide 9).** Both chains start from the **identical material fact** — anarchy. The **realist** (red) reads anarchy as forcing **self-help → insecurity → competition**; the **constructivist** (blue) says anarchy is filled in by **interaction + shared meanings**, which can produce **friendship, rivalry, *or* enmity**. Same structure, opposite outcomes — because the meaning is **made**, not given. The bottom-line question flips from *"what will happen to me?"* (consequences) to *"is this legitimate, given who I am?"* (appropriateness).
+
 | | **Realist chain** | **Constructivist chain** |
 |---|---|---|
 | Start | **anarchy** | **anarchy** |
@@ -2142,6 +2146,11 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 | **Periphery** | non-democratic | **exports raw materials**, imports manufactures | low wages, no welfare |
 
   → *dependency theory's claim: the periphery isn't "not yet developed" — it is **kept** poor by its structural position, which channels surplus to the core (cf. **Lenin**).*
+
+![Concentric-ellipse diagram of Wallerstein's world-system: an inner CORE (exports manufactures; high wages, welfare), a middle SEMI-PERIPHERY (raw materials + mature manufactures), and an outer PERIPHERY (exports raw materials; low wages, no welfare). Red arrows point inward from periphery to core. Caption: surplus flows inward → the periphery is KEPT peripheral.](figures/ir3-world-systems.png)
+
+**How to read it (Wallerstein).** The world economy is **one hierarchy**, not a ladder every country climbs. The **core** (rich democracies) exports high-value **manufactures**; the **periphery** exports **raw materials** at low wages; the **semi-periphery** sits between. The red arrows are the key claim: **surplus flows inward**, so the periphery is not "behind" — it is **structurally kept** peripheral (the dependency/Lenin point).
+
 - **Postcolonial theory — colonialism created *enduring* hierarchies (deck):** **material** (wealth, trade, borders, institutions), **knowledge** (whose history/concepts count?), and **social** (civilised/backward · developed/underdeveloped · modern/traditional · **"West / Rest"**). **Core question:** *how does the colonial past keep structuring the international present?*
 - <a id="ir3-said"></a>**Said — *Orientalism* & "othering."** Power works by **representation**: the West constructs "the Other" through recurring **binaries** — **Self** (modern, rational, civilised, orderly) vs **Other** (backward, irrational, uncivilised, chaotic). The mechanism: **represent difference → essentialise groups → produce hierarchy → make unequal treatment seem reasonable.** *"Representation constitutes the subjects we then act upon."*
 
