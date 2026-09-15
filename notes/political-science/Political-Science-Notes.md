@@ -19,6 +19,7 @@
 **Part II · International Relations**
 - **[IR I: Realism (AUW)](#ir-lecture-1)** — [what is IR + collective-goods problem](#ir1-field) · [levels of analysis](#ir1-levels) · [what realism is](#ir1-realism) · [★ the realist causal chain](#ir1-chain) · [power & the security dilemma](#ir1-power) · [balance of power & polarity](#ir1-polarity-sec) · [the realism family](#ir1-family) · [Prisoner's Dilemma](#ir1-pd) · [★ Fun facts](#ff-ir1)
 - **[IR II: Liberalism (AUW)](#ir-lecture-2)** — [how liberalism sees the world](#ir2-worldview) · [the two branches](#ir2-branches) · [★ liberal institutionalism & its mechanisms](#ir2-institutionalism) · [regimes & collective security](#ir2-regimes) · [★ liberal internationalism & the Kantian triangle](#ir2-internationalism) · [the democratic peace](#ir2-dempeace) · [ch.7: IOs, the UN, international law & human rights](#ir2-ch7) · [realism vs liberalism](#ir2-compare) · [★ Fun facts](#ff-ir2)
+- **[IR III: Constructivism / Other Approaches (AUW)](#ir-lecture-3)** — [the puzzle: material fact → social meaning](#ir3-puzzle) · [★ what constructivism is](#ir3-constructivism) · ["anarchy is what states make of it"](#ir3-anarchy) · [norms & the apartheid case](#ir3-norms) · [postmodernism](#ir3-postmodern) · [★ critical theory: power & hierarchy](#ir3-critical) · [Marxism (Marx vs Lenin)](#ir3-marxism) · [Gramsci · Wallerstein · postcolonialism/Said](#ir3-critical-strands) · [feminist & queer IR](#ir3-gender) · [peace studies](#ir3-peace) · [★ the four theories compared](#ir3-compare) · [★ Fun facts](#ff-ir3)
 
 ---
 
@@ -2038,3 +2039,197 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 - **UN peacekeeping isn't in the UN Charter** — Dag Hammarskjöld joked the **blue helmets** were authorised under "**Chapter Six and a Half**."
 - **Diplomats' parking tickets:** immunity means NYC is owed ~**$16 million** in unpaid diplomatic parking fines — a tiny, vivid example of **sovereignty vs. law.**
 - **Grotius returns:** the "**free seas**" principle became law when the **Dutch** (then the **British**) dominated trade and benefited from it — international law often codifies the **hegemon's** interest (cf. *Grotius, PET Module 2*).
+
+---
+
+<a id="ir-lecture-3"></a>
+# IR III: Constructivism / Other Approaches (AUW)
+
+**Required reading:** PG = **Goldstein & Pevehouse, *International Relations*** — **ch. 3, §3.3–3.6** (*Social Theories* [constructivism + postmodernism] · *Marxism* · *Peace Studies* · *Gender Theories*). · Lecturer: **Ayça Uygur Wessel.** Deck: *"Social constructivism & critical IR."*
+
+**Theme of the lecture (deck).** After realism (power) and liberalism (cooperation), a third family shifts the question from **material facts to social meaning.** The deck's two questions: **(A) social constructivism** — *how do ideas, identities, norms and interaction construct interests and behaviour?* and **(B) critical IR theory** — *how do power and hierarchy shape those ideas and the international order itself?*
+
+<div class="heart">★ <strong>The heart of the lecture:</strong> for realism and (most) liberalism, states arrive with <strong>interests already formed</strong> and just pursue them. Constructivism denies this: <strong>interests are not given — they are socially constructed</strong> through <strong>identities, norms and interaction</strong> (social context → identity → interests → behaviour). Its slogan: <strong>"anarchy is what states make of it"</strong> (Wendt). <strong>Critical theories</strong> then add the question of <strong>power</strong>: they ask how a particular order comes to look <strong>"natural"</strong> — and <strong>who benefits and who is silenced</strong> (Marxism, Gramsci, world-systems, postcolonialism, feminist/queer IR).</div>
+
+**The red thread.** *Where do interests and "the way things are" come from?* Realism/liberalism take them as given; **constructivism** says they're **made through meaning**; **critical theory** says that meaning is **made through power and hierarchy.** For any event ask: *what identities and norms make this action thinkable — and whose interests does the "normal" order serve?*
+
+### Key concepts / "modes" to use
+- **Constructivism** — interests/identities are **socially constructed**, not given; draws on the **identity principle**.
+- **Social facts vs material facts** — a tank/border/nuke is *material*; its **meaning** (threatening? legitimate?) is a **social fact**.
+- **"Anarchy is what states make of it"** (Wendt 1992) — anarchy doesn't dictate friend-or-enemy.
+- **Norms** + **logic of appropriateness** (vs realism's **logic of consequences**); **norm entrepreneurs**, NGOs, IOs.
+- **Postmodernism** — texts/**discourse**, **deconstruction**, **subtext**; states as "fictions."
+- **Critical theory** — denaturalise the order; **hierarchy** not just anarchy; **power over ideas/knowledge.**
+- **Marxism** — class struggle; **Marx (domestic) vs Lenin (imperialism)**; **Gramsci** (hegemony = consent); **Wallerstein** (core/periphery); **postcolonialism / Said** (Orientalism).
+- **Feminist & queer IR** — difference · liberal · postmodern feminism; the **masculinity of realism.**
+- **Peace studies** — conflict resolution/**mediation**, **positive peace**, **structural violence**, **nonviolence**, **militarism**.
+
+---
+
+## A. Social constructivism *(PG §3.3 + deck)*
+
+<a id="ir3-puzzle"></a>
+#### The puzzle — why does the same world produce different "realities"? (deck)
+***Core:*** the system contains **material facts** (armies, territory, no world government) — but **material facts don't tell us what they mean.** Meaning is **socially constructed.**
+- **The deck's puzzle:** why does the US treat **British** nuclear weapons utterly differently from **North Korean** ones? By raw military power **Britain is far stronger** than North Korea — yet no one calls British nukes a threat. Realism (capabilities) can't explain it; **shared history, alliance and identity** can. → *The **identity** of the other, not just its capabilities, decides whether it's a threat.*
+- **A second puzzle:** why do practices once seen as **normal** (colonialism, racial hierarchy, conquest, piracy) later become **illegitimate**? Because the **norms** that give them meaning change.
+
+<a id="ir3-constructivism"></a>
+#### ★ What constructivism is — interests are socially constructed
+***Core:*** **constructivism** asks *how states come to understand what their interests are.* Where realism/liberalism take interests **as given**, constructivism says interests are **constituted** by **social context + interaction → identities → interests → behaviour.** It's best called an **approach** (not a theory) built on the **identity principle.**
+- **Material facts ≠ political meaning (deck):** a **tank, a border, a nuclear weapon** are material; **money, sovereignty, borders, diplomatic status, alliances, rights** are **social facts** — they exist only because actors **collectively recognise and act on them.** The question is never just "is there a tank?" but *"is the tank threatening? is the border legitimate?"*
+- **Identity → interests (deck):** an **identity** is an actor's social understanding of **who it is in relation to others** (friend / ally / rival / enemy / neutral / **"rogue state"**). **Interests change when identities and relationships change**, and identities are **(re)shaped through interaction.** *(Chain: Who am I? → Who are you? → Are you one of us/them? → What kind of relationship? → What should I want/fear/do?)*
+- **Logic of appropriateness vs logic of consequences:** realists/neoliberals assume a **logic of consequences** ("what will happen to me if I act this way?"); constructivists add a **logic of appropriateness** ("how *should* I behave, given who I am?"). *Example (PG):* the US intervened in **Somalia (1992)** — of minimal strategic value — because **norms about who deserves protection** had widened (from "Christians" in the 19th c. to a universal human-rights frame).
+- **Identities change over time (PG):** **Europe** went from the continent of two world wars to a place where war became **"unthinkable"** (identities now tied to the EU); **pirates** went from the scourge of the seas to theme-park **mascots**; **Switzerland/Canada** value a *social* status (neutrality, peacekeeping), not just material power. *(What counts as "threatening" is neither universal nor timeless.)*
+
+<a id="ir3-anarchy"></a>
+#### ★ "Anarchy is what states make of it" (Wendt 1992)
+***Core:*** the signature constructivist claim — **anarchy has no fixed logic.** It doesn't *tell* a state whether another is friend or enemy; that meaning is built through **interaction and shared understandings.**
+
+| | **Realist chain** | **Constructivist chain** |
+|---|---|---|
+| Start | **anarchy** | **anarchy** |
+| →  | self-help | **interaction + shared meanings** |
+| →  | power / insecurity | friendship / rivalry / enmity |
+| →  | competition | **different** interests & behaviour |
+| Question asked | *"What will happen if I do this?"* | *"Is what I do legitimate, given who I am?"* |
+- **Take-away:** for realists anarchy **forces** competition; for constructivists the **same anarchy** can produce a security community (allies who'd never fight) *or* a rivalry — depending on the meanings states build. *(This is the direct answer to [realism's structural claim](#ir1-realism).)*
+
+<a id="ir3-norms"></a>
+#### Norms — and how they change (the apartheid case)
+***Core:*** a **norm** is a **shared expectation of appropriate behaviour** for an actor with a given identity (e.g. "states should not use certain weapons"; "respect sovereignty"; "governments should not openly defend racial supremacy"). Norms **shape legitimacy, identities, interests and behaviour** — and actors in turn **reproduce, contest and change** them.
+- **How norms spread (PG):** **norm entrepreneurs** (individuals who travel, write, lobby elites); **social movements & NGOs** (e.g. the anti-apartheid movement building a global norm of racial equality); **IOs** (UN, NATO) diffusing standards of appropriate conduct.
+- <a id="case-apartheid"></a>**★ South African apartheid (deck's worked case).** Racial hierarchy was once embedded in domestic *and* international order → **norm entrepreneurs/movements** challenged it → a **global norm of racial equality** strengthened → racially discriminatory rule became **hard to justify** → NGOs + IOs + states mobilised **boycotts, sanctions, diplomatic isolation.** **Constructivist claim:** *changing ideas about legitimate rule changed the political environment in which states calculated their interests* — power politics alone can't explain the fall of apartheid.
+- **A "natural experiment" (PG):** Britain barely funded the Yugoslavia war-crimes tribunal — realists said "Britain sides with Serbia"; liberals said "free-riding." Then **Blair** replaced **Major (1997)** with *no change* in Britain's strategic interests — yet policy **flipped** (arrests, funding). → the change in **identity/leadership ideas** drove the outcome, supporting constructivism.
+
+<a id="ir3-postmodern"></a>
+#### Postmodernism *(PG §3.3.2)*
+***Core:*** postmodernism denies a **single objective reality** and studies **texts and discourse** — how we *talk and write* about IR. It **deconstructs** realism's key move (the **unitary state actor**) and hunts for the **subtext** (hidden meanings, omissions).
+- **States as "fictions":** postmodernists say states have no tangible reality — they're **stories** we tell to organise the actions of millions. Realists were **amazed** when the "unitary" **Soviet Union split into 15 pieces** — the label had masked divergent internal experiences.
+- **Deconstruction & subtext:** to *deconstruct* a text is to tease apart its words to reveal what's **omitted or implicit.** Realism's subtext **omits** women/gender, classes, poor countries, non-military power — a "narrow, one-sided story" that (postmodernists say) serves **powerful actors.** *(Postmodernism set the stage for, and was largely absorbed into, constructivism.)*
+
+> **★ Exercise (deck) — build a constructivist explanation of Putin's war on Ukraine.** *Don't* ask whether Putin's claims are **true**; ask how Russia's leadership **constructs the meaning** of the situation, using the chain **IDENTITY → THREAT PERCEPTION → LEGITIMACY → BEHAVIOUR.** *Who is "Russia" in the narrative? Who are Ukraine / NATO / "the West"? What is presented as the threat? Which norms are invoked to make force look legitimate? How does this construction make invasion representable as **defence/protection** rather than aggression?* → *the point: identities and norms make some actions **thinkable and legitimate** and others not.*
+
+- **Critics (PG):** realists say norms are just **covers for interests**; liberals say constructivists neglect **formal institutions**; both note it's hard to tell a **genuine** identity from one **adopted strategically** for material gain (aid, trade, membership).
+
+---
+
+<a id="ir3-critical"></a>
+## B. Critical IR theory — adding power & hierarchy *(deck + PG §3.4)*
+
+***Core (deck):*** constructivism asks *how* realities are constructed; **critical approaches add the question of power** — *how are particular realities made to appear **natural**, and **who benefits**?* Critical theory refuses to take existing institutions, categories and power relations **for granted**: it aims to **expose domination → denaturalise the order → open possibilities for change.**
+- **The major shifts (deck):** anarchy → also examine **hierarchy** · state interests → ask **how interests are produced** · power-as-capabilities → also **power over ideas & knowledge** · "who acts?" → **who is marginalised/silenced?** · "how does order work?" → **"whose order is it?"**
+
+<a id="ir3-marxism"></a>
+#### Marxism & global capitalism *(PG §3.4)*
+***Core:*** Marxist approaches see **both** IR and domestic politics as arising from **unequal relations between economic classes** — shifting the unit of analysis from **state ↔ state** to **class, capital, labour, production, the global economy.** Key question (deck): **who produces value, and who captures it?**
+- **Class struggle:** more powerful classes **exploit** the less powerful by denying them their fair share of the **surplus** they create; ultimately this scales up to **richer vs poorer world regions** (North–South).
+- **★ Marx vs Lenin (the exam distinction — LO 3.4):**
+  - **Marx = a *domestic* theory of class struggle.** In industrialising Europe, labour creates the surplus; workers (the **proletariat**) should recapture it through struggle. Marx expected revolution in the **advanced** capitalist countries.
+  - **Lenin = a theory of *imperialism* (the international extension).** European capitalists invest in **colonies** for big profits, then use part of those profits to **"buy off" the working class at home** (so no revolution there). Once the world was carved up, imperial expansion could only come at rivals' expense → **inter-imperialist war (WWI).** So revolution comes in the **poor/"backward"** periphery (Russia 1917, China 1949), not the rich core.
+- **Peasants (not just proletariat):** contrary to Marx, the great 20th-c. revolutions were **peasant** rebellions (China the largest). **Trotsky** (spread revolution worldwide) lost to **Stalin** ("socialism in one country").
+
+<a id="ir3-critical-strands"></a>
+#### The critical-theory strands the deck adds — Gramsci · Wallerstein · postcolonialism/Said
+***Core:*** the deck bundles several **critical** approaches that extend the Marxist insight from *material* class to **ideas, structure and identity.**
+- **Gramsci — hegemony as *consent*, not just coercion.** **Hegemonic power** is bigger than force: it rests on **consent** — dominant ideas and institutions make a particular order look **"normal, legitimate, universal, common sense"** ("this is simply how the world works"). **Critical question:** when the "rules of the game" go unchallenged, ask **"who got to write the rules?"**
+- <a id="ir3-worldsystems"></a>**Wallerstein — world-systems / dependency.** The global economy is a **single hierarchy** of three zones (the deck's diagram):
+
+| Zone | Government | Production role | Wages / welfare |
+|---|---|---|---|
+| **Core** | democratic | imports raw materials, **exports manufactures**; high investment | high wages, welfare services |
+| **Semi-periphery** | authoritarian | exports raw materials **& mature manufactures**; imports advanced manufactures | low wages, little welfare |
+| **Periphery** | non-democratic | **exports raw materials**, imports manufactures | low wages, no welfare |
+
+  → *dependency theory's claim: the periphery isn't "not yet developed" — it is **kept** poor by its structural position, which channels surplus to the core (cf. **Lenin**).*
+- **Postcolonial theory — colonialism created *enduring* hierarchies (deck):** **material** (wealth, trade, borders, institutions), **knowledge** (whose history/concepts count?), and **social** (civilised/backward · developed/underdeveloped · modern/traditional · **"West / Rest"**). **Core question:** *how does the colonial past keep structuring the international present?*
+- <a id="ir3-said"></a>**Said — *Orientalism* & "othering."** Power works by **representation**: the West constructs "the Other" through recurring **binaries** — **Self** (modern, rational, civilised, orderly) vs **Other** (backward, irrational, uncivilised, chaotic). The mechanism: **represent difference → essentialise groups → produce hierarchy → make unequal treatment seem reasonable.** *"Representation constitutes the subjects we then act upon."*
+
+<a id="ir3-gender"></a>
+#### Feminist & queer IR *(PG §3.6 + deck)*
+***Core:*** **gender and sexuality aren't just traits of individuals — they structure the ideas, roles and hierarchies of IR.** Feminists ask what becomes **visible** once we stop treating *the state, war, security* as gender-neutral: **whose** security, **whose** labour, **whose** experiences, **whose** voices? All strands agree **gender matters**; they split on **how.**
+
+| Strand | Core claim | On women in IR |
+|---|---|---|
+| **Difference feminism** | Realism reflects a **masculine** worldview (autonomy, separation, force = "manly"); women, on average, are **less warlike** / better at connection & peacemaking | Real change needs **many** women → would **transform** ("feminise") the system |
+| **Liberal feminism** | Men and women are **equal**; "essential" differences are trivial/nonexistent | Include women in male preserves (leaders, soldiers) — they **play the game the same way**; exclusion just **wastes talent** |
+| **Postmodern feminism** | Gender is **real but arbitrary & flexible** (not fixed); deconstruct the **subtext** of realist language | Reject both: don't glorify "feminine virtue" *or* just add women to war |
+- **The masculinity of realism (difference feminism):** realism's **autonomy/sovereignty/anarchy** mirror a "masculine psyche" (separation over connection); the public(masculine)/private(feminine) split maps onto the international(anarchic)/domestic(ordered) split → *realism constructs IR as "a man's world."*
+- **Evidence both ways:** the **overlapping bell curves** — genders differ *on average* but overlap hugely (liberal feminists stress the **overlap**: individual women perform like men; difference feminists stress the **shift**: women *as a group* differ, e.g. the ~10-point **gender gap** in support for military action). **Women state leaders** (Thatcher, Gandhi, Meir, Merkel…) were **not** more peaceful — supporting liberal feminism. **Postmodern feminists** deconstruct the sexual **subtext** of weapons talk ("It's a boy" for the H-bomb; "power/potency").
+
+<a id="ir3-peace"></a>
+#### Peace studies *(PG §3.5)*
+***Core:*** **peace studies** shifts IR from the **systemic** level to **individual/domestic/transnational** social relations, and openly **rejects "objectivity"** (knowledge through **action/participation**). It reconceives both peace and war.
+- **Conflict resolution — the mediation toolkit (LO 3.5):** **mediation** = a **third party** helps two sides settle short of violence (the **UN** is the biggest mediator). Forms: **good offices** (a neutral channel — e.g. Pakistan passing messages between the US & China, 1971); **arbitration** (both sides agree in advance to accept a third party's binding decision — e.g. the city of **Brčko** in the Dayton process); **confidence-building measures** (gradually build trust); **linkage** (bundle issues so a concession on one trades for another — Yalta 1945).
+- **Positive vs negative peace:** realism recognises only **negative peace** (the temporary **absence of war**); **positive peace** removes the **underlying causes** — including **structural violence** (poverty, hunger, oppression *built into* social structures, which kill more than direct violence).
+- **Militarism** = the **glorification** of war (through films, toys, sport, speeches) and the **structuring of society around war** (the military-industrial complex). Less-militarised cultures (Costa Rica — **no army for 70 years**; post-war Japan) show realism's stress on force isn't **universal**.
+- **Nonviolence:** a unilateral refusal of violent leverage — **Gandhi** (Indian independence), **MLK** (US civil rights), and **Gene Sharp**'s strategies (taught to **Arab Spring** activists). Practical as well as moral — often the **cost-effective** tool of the powerless.
+
+---
+
+<a id="ir3-compare"></a>
+## ★ The four theories compared — "theory changes what we see" (deck capstone)
+
+***Core:*** each theory is a different **pair of glasses** — it makes different things visible and asks a different core question.
+
+| Theory | Core question | Interests are… | Key concepts |
+|---|---|---|---|
+| **[Realism](#ir-lecture-1)** | *Where is the **power**?* | **given** (survival, power) | anarchy, self-help, balance of power, security dilemma |
+| **[Liberalism](#ir-lecture-2)** | *What enables **cooperation** / shapes preferences?* | **given** (peace, prosperity) | institutions, reciprocity, interdependence, democratic peace |
+| **Constructivism** | *How did actors come to **understand** their interests this way?* | **socially constructed** | identity, norms, social facts, "anarchy is what states make of it" |
+| **Critical theory** | *How did this order become **normal** — who benefits, who is marginalised?* | **produced by power/hierarchy** | hegemony, class, core/periphery, colonial & gendered hierarchies |
+
+*The move across the row:* realism & liberalism take the world's **actors and interests as given** and ask how they behave; **constructivism** asks where those interests **come from** (meaning); **critical theory** asks whose **power** made that meaning look natural. *(This is the deck's — and the exam's — payoff: pick an event and show what each lens sees and misses.)*
+
+### Cases & examples
+- <a id="case-uk-nk-nukes"></a>**British vs North Korean nukes.** The US fears NK's bomb, not Britain's far larger arsenal → **identity/alliance**, not capabilities, defines the threat. → *Illustrates: **constructivism** vs realism — the meaning of a material fact.*
+- **[South African apartheid](#case-apartheid).** Norm change (racial equality) → delegitimation → sanctions. → *Illustrates: **norms & norm entrepreneurs** reshaping states' interests.*
+- <a id="case-blair-bosnia"></a>**Blair's Bosnia U-turn (1997).** Same interests, new leadership/identity → opposite policy. → *Illustrates: a "natural experiment" favouring **constructivism** over realism/liberalism.*
+- <a id="case-somalia-1992"></a>**US in Somalia (1992).** Intervention with no strategic payoff → the **logic of appropriateness** + widened norms of who deserves protection. → *Illustrates: **norms over cost-benefit.***
+- <a id="case-lysistrata"></a>**Lysistrata / women's peace movements.** From Aristophanes to WILPF to UNSC **Res. 1325** — the long "women as peacemakers" thread (and its limits: female leaders weren't more peaceful). → *Illustrates: the **difference-vs-liberal-feminist** debate.*
+
+### Key terms
+| Term | Meaning |
+|---|---|
+| Constructivism | Interests/identities are **socially constructed** through norms & interaction (identity principle) |
+| Social fact vs material fact | Meaning collectively recognised (sovereignty, alliance) vs brute matter (a tank) |
+| "Anarchy is what states make of it" | Wendt — anarchy has no fixed logic; friend/enemy is constructed |
+| Norm / norm entrepreneur | Shared expectation of appropriate behaviour; actor who spreads it |
+| Logic of appropriateness vs consequences | "How *should* I act?" vs "what will happen to me?" |
+| Postmodernism / subtext | Denies single reality; studies discourse; hidden meanings/omissions |
+| Marxism (Marx vs Lenin) | Domestic class struggle vs imperialism (buying off the core's workers) |
+| Hegemony (Gramsci) | Rule by **consent** — dominant ideas made to seem common sense |
+| World-systems (Wallerstein) | Core / semi-periphery / periphery hierarchy |
+| Orientalism (Said) | Power through **representation** — Self/Other binaries → hierarchy |
+| Difference / liberal / postmodern feminism | Women differ & would transform IR / women are equal, just include them / gender is real but arbitrary |
+| Positive peace / structural violence | Removing the causes of war / violence built into social structures |
+| Mediation / arbitration | Third party assists a settlement / third party's binding decision |
+
+### Exam pointers
+- Explain what **[constructivism](#ir3-constructivism)** adds to realism/liberalism: **interests are constructed** (social context → identity → interests → behaviour), with the **[UK-vs-NK-nukes](#case-uk-nk-nukes)** puzzle.
+- State and use **["anarchy is what states make of it"](#ir3-anarchy)** — contrast the realist and constructivist chains.
+- Show how **[norms change](#ir3-norms)** via norm entrepreneurs/NGOs/IOs — the **[apartheid](#case-apartheid)** case, and the **logic of appropriateness** ([Somalia](#case-somalia-1992)).
+- **Distinguish Marx from Lenin** ([domestic class struggle vs imperialism](#ir3-marxism)) — the LO 3.4 distinction.
+- Lay out the **[critical shift](#ir3-critical)** (anarchy→hierarchy, "whose order?") and one strand in depth — **Gramsci**, **[Wallerstein's core/periphery](#ir3-worldsystems)**, or **[Said's Orientalism](#ir3-said)**.
+- Compare the **[three feminisms](#ir3-gender)** and the **masculinity-of-realism** critique.
+- Describe the **[mediation toolkit](#ir3-peace)** (good offices, arbitration, confidence-building, linkage) and **positive vs negative peace** (LO 3.5).
+- **Run all four lenses** on one event using the **[comparison table](#ir3-compare)**.
+
+**Bridge.** IR III completes the theory arc: **realism** (power) → **liberalism** (cooperation) → **constructivism** (meaning) → **critical theory** (power *behind* meaning). Realism and liberalism debate *how given actors behave*; constructivism and critical theory ask *where the actors, interests and "normal" order came from* — and who they serve.
+
+<a id="ff-ir3"></a>
+## ★ Fun facts & memorable details (IR III: Constructivism & Critical Theory)
+
+> Sticky bits from constructivism & critical IR.
+
+- **"Anarchy is what states make of it"** — Alexander **Wendt's** 1992 line is the single most-quoted sentence in constructivism: the *same* anarchy can produce NATO or a knife-fight.
+- **Britain's nukes don't scare Washington, North Korea's do** — even though Britain's arsenal is far bigger. Proof that in IR, **identity beats capability.**
+- **Pirates went from the terrorists of their day to theme-park mascots** — the textbook's vivid reminder that "what counts as a threat" is **not timeless.** (Imagine your great-grandkids on a *terrorist*-themed ride.)
+- **A natural experiment:** Tony **Blair** replacing John Major flipped Britain's Bosnia policy with **no change in national interest** — a rare "clean test" that favoured constructivism.
+- **Marx vs Lenin in one line:** Marx expected revolution in the **rich** countries; **Lenin** explained why it came in the **poor** ones — the rich bought off their workers with **colonial** profits.
+- **Gramsci's hegemony** = getting people to say *"this is just how the world works"* — power that never has to draw its sword.
+- **Wallerstein's world-system:** you're not "**not yet** developed" — the periphery is **kept** peripheral so surplus flows to the **core.**
+- **Said's *Orientalism*:** the West "knows" the East by inventing it — **representation** becomes a tool of domination.
+- **Lysistrata (411 BC)** — Aristophanes had the women withhold sex to end the Peloponnesian War; it was **read aloud in 1,000 venues in 56 countries** in 2003 to protest the Iraq War.
+- **"It's a boy":** the coded cable confirming the first **H-bomb** worked — postmodern feminists' favourite example of the **gendered subtext** of weapons.
+- **Costa Rica has had no army since 1948** — a living rebuttal to realism's claim that military force is universal and necessary.
