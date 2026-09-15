@@ -485,13 +485,21 @@ Each: *the example → the concept it teaches.*
 <a id="micro3-cross"></a>
 #### Cross-price elasticity — substitutes vs complements
 
-***Core:*** the **cross-price elasticity** measures how demand for good **A** responds to the price of a *different* good **B** — and its **sign** tells you the relationship.
+***Core:*** the **cross-price elasticity** measures how demand for good **A** responds to a change in the price of a *different* good **B**. Its **sign** tells you the *relationship* between the two goods; its **size** tells you *how strong* that relationship is.
 
-<div class="formula"><span class="flabel">Cross-price elasticity</span><em>E<sub>cross</sub></em> = %Δ<em>Q<sub>A</sub></em> ÷ %Δ<em>p<sub>B</sub></em> &nbsp;&nbsp;→&nbsp;&nbsp; <strong>&gt; 0 = substitutes</strong> · <strong>&lt; 0 = complements</strong></div>
+<div class="formula"><span class="flabel">Cross-price elasticity</span><em>E<sub>cross</sub></em> = %Δ<em>Q<sub>A</sub></em> ÷ %Δ<em>p<sub>B</sub></em> &nbsp;&nbsp;→&nbsp;&nbsp; <strong>&gt; 0 = substitutes</strong> · <strong>&lt; 0 = complements</strong> · <strong>≈ 0 = unrelated</strong></div>
 
-*Reads:* how the quantity of **A** responds to a price change in **B** — **%ΔQ_A** = percentage change in demand for good A · **%Δp_B** = percentage change in the price of good B · **sign**: **positive → substitutes** (Heineken dearer → more Carlsberg bought), **negative → complements** (phones dearer → fewer phone cases). *The larger the positive value, the closer the substitutes.*
+*Reads:* how the quantity of **A** responds to a price change in **B** — **%ΔQ_A** = percentage change in demand for good A · **%Δp_B** = percentage change in the price of good B · **E_cross** = the ratio (**can be + or −**, unlike own-price which is always −).
+
+- **The sign = the *relationship*:**
+  - **Positive → substitutes.** B gets dearer → buyers switch *to* A → A's demand **rises** (butter ↑ → margarine demand ↑; Heineken ↑ → Carlsberg ↑).
+  - **Negative → complements.** B gets dearer → buyers use less B *and* less of its partner A → A's demand **falls** (petrol ↑ → big-car demand ↓; smartphones ↑ → phone-case demand ↓).
+  - **≈ 0 → unrelated** goods (the price of bread barely touches demand for haircuts).
+- **The size = the *strength*:** the larger the **absolute value** |E_cross|, the **closer** the substitutes (or the stronger the complementarity). Two brands of the *same* soda have a **big** positive cross-price elasticity; soda and bottled water a **small** one; soda and umbrellas ≈ 0.
 - **Worked example:** **Danish** spirits get **10% dearer** → Swedish demand for spirits changes by `E_cross × 10% = +0.3 × 10 = +3%` (Swedes buy **more at home** instead of driving to Denmark) → **positive → substitutes** ([Asplund 2007](#case-sweden-alcohol)). *Flip it: if smartphones get **10% dearer** and phone-case demand falls **6%**, `E_cross = −6 ÷ 10 = −0.6` → **negative → complements**.*
-- **Why it's used:** gauging **competitive pressure** and evaluating **mergers** (competition authorities ask how closely two products substitute). *(Deck aside: cross-price elasticity of cigarettes & alcohol ≈ −1 — strong complements, Krauss et al. 2014.)*
+- **★ Its killer application — defining markets & judging mergers.** This is *the* reason cross-price elasticity matters in practice. Competition authorities use it to decide **whether two products are in the same market**: a **high positive** cross-price elasticity means A and B are **close substitutes**, so a firm selling both has real market power (a merger between them removes a competitor). This is the logic of the **SSNIP / "hypothetical monopolist" test** — *would a **S**mall but **S**ignificant **N**on-transitory **I**ncrease in **P**rice (say 5%) be profitable, or would enough buyers flee to substitutes to make it a loss?* If they flee, the substitute is in the same market.
+- **Asymmetry (watch out):** cross-price elasticity is **not symmetric** — A's response to B's price ≠ B's response to A's price. A cheap **complement** (phone case) reacts strongly to the price of the expensive main good (phone), but the phone barely reacts to the case's price.
+- **Real numbers (Asplund et al. 2007):** Swedish **spirits +0.3**, **beer +0.5**, **wine +0.2** with respect to their **Danish** prices — all **positive**, i.e. all **substitutes** for cross-border shopping (beer the closest). *(Deck aside: cigarettes & alcohol ≈ −1 — strong **complements**, Krauss et al. 2014.)*
 
 <a id="micro3-income"></a>
 #### Income elasticity — normal vs inferior goods, Engel curves
