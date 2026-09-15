@@ -877,6 +877,7 @@ This is the **constructive half** of *Leviathan*: having shown (chs 13–15) tha
 #### Why men are not like bees and ants — six reasons a *coercive* power is needed
 
 ***Core:*** Aristotle called bees and ants "political creatures" that cooperate **naturally**; Hobbes lists **six reasons humans can't** — so human agreement must be **artificial** (a covenant) and backed by **coercion.**
+
 | # | Bees & ants… | …but men |
 |---|---|---|
 | 1 | don't **compete for honour/dignity** | men do → **envy, hatred, war** |
@@ -900,6 +901,7 @@ This is the **constructive half** of *Leviathan*: having shown (chs 13–15) tha
 #### ★ The rights of the sovereign — the ~12 "marks," indivisible and inalienable (ch. 18)
 
 ***Core:*** from the covenant Hobbes *deduces* the powers of the sovereign. They are **incommunicable and inseparable** — you cannot split them off without dissolving the state. The subject is **author** of everything the sovereign does, which is why the sovereign can never wrong him.
+
 | # | Right of the sovereign | Why (deduced from the covenant) |
 |---|---|---|
 | 1 | **Subjects can't change the form of government** | They already covenanted to own the sovereign's acts; to depose him is to break faith → injustice; there is "**no covenant with God**" except through the sovereign (God's "lieutenant"). |

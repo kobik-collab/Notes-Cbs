@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T07:13:57.060Z",
+  "generatedAt": "2026-09-15T07:53:43.850Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -7,7 +7,7 @@
       "full": {
         "title": "Applied Microeconomics — Full notes",
         "pdf": "pdfs/applied-micro/Applied-Micro-Notes.pdf",
-        "sizeKB": 11218
+        "sizeKB": 11259
       },
       "parts": [
         {
@@ -26,7 +26,7 @@
           "slug": "lecture-3",
           "title": "Lecture 3: Elasticities & Taxes — the Supply & Demand model II (Ch. 2 recap · §6.4)",
           "pdf": "pdfs/applied-micro/lecture-3.pdf",
-          "sizeKB": 1157
+          "sizeKB": 1199
         }
       ]
     },
@@ -36,7 +36,7 @@
       "full": {
         "title": "Political & Economic Thought — Full notes",
         "pdf": "pdfs/political-economic-thought/Political-Economic-Thought-Notes.pdf",
-        "sizeKB": 4060
+        "sizeKB": 4083
       },
       "parts": [
         {
@@ -55,7 +55,7 @@
           "slug": "exercise-class-1-the-pros-and-cons-of-a-central-political-au",
           "title": "Exercise Class 1: The Pros and Cons of a Central Political Authority",
           "pdf": "pdfs/political-economic-thought/exercise-class-1-the-pros-and-cons-of-a-central-political-au.pdf",
-          "sizeKB": 609
+          "sizeKB": 634
         },
         {
           "slug": "module-3-the-roots-of-modern-economics-mercantilism-to-econo",
@@ -77,7 +77,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 8894
+        "sizeKB": 8899
       },
       "parts": [
         {
@@ -126,7 +126,7 @@
           "slug": "ir-ii-liberalism-auw",
           "title": "IR II: Liberalism (AUW)",
           "pdf": "pdfs/political-science/ir-ii-liberalism-auw.pdf",
-          "sizeKB": 498
+          "sizeKB": 504
         }
       ]
     }

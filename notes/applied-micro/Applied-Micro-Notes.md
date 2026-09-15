@@ -441,6 +441,7 @@ Each: *the example → the concept it teaches.*
 
 - **Why unit-free matters (the point of the whole concept):** raw slopes aren't comparable — "1,000 tons less rice" means something different in **Vietnam** vs **Bhutan**, and depends on the currency. A **percentage** measure is **comparable across markets, currencies and time.**
 - **Why negative:** demand curves slope **down**, so Δ*Q* and Δ*p* have opposite signs → the ratio is negative. *(When people say a "higher" elasticity they usually mean a bigger **absolute value** |E_D|.)*
+- **Worked example:** a café raises its coffee price **10%** and sells **8% fewer** cups → `E_D = −8% ÷ +10% = −0.8`. Since |−0.8| < 1, demand is **inelastic** — revenue actually *rises* (price up 10%, quantity down only 8%). *(Full step-by-step computations are in the next section.)*
 
 <a id="micro3-computing"></a>
 #### Computing elasticity — and the point-elasticity trick
@@ -464,11 +465,13 @@ Each: *the example → the concept it teaches.*
   - at **p = 4** (so Q = 2): `E_D = −2 × (p/Q) = −2 × 4/2 = −4` → **elastic.** *(⚠ The textbook misprints this as `−2 × 2/2 = −2` — it accidentally puts Q=2 in the numerator instead of p=4; the correct p/Q is **4/2 = 2**, so **E_D = −4**.)*
   - **The pattern:** **demand is more elastic at higher prices** — at p=2.5 it's unit-elastic (−1), at p=4 it's elastic (−4). A fixed unit change is a bigger *percentage* change when Q is small and p is large.
 - **Constant-elasticity demand (contrast):** the form `Q = a·p^ϵ` has the **same** elasticity **ϵ** at *every* price (used in empirical estimation via `ln Q = ln a + ϵ·ln p + error`). *So: **linear → elasticity changes along the curve; constant-elastic → it doesn't.***
+  - **Worked example:** with `Q = 100·p^(−1.2)`, the elasticity is **−1.2** whether you evaluate at **p = €1** (Q = 100), **p = €5** (Q ≈ 15), or **p = €50** — it never changes. *(Contrast the linear `Q = 10 − 2p` above, where it swung from −1 to −4.)*
 
 <a id="micro3-naming"></a>
 #### Elastic, inelastic, unit-elastic — and why it matters
 
 ***Core:*** we **name** the ranges of elasticity, and each has a sharp economic meaning for **how supply shocks split into price vs quantity.**
+
 | Name | Level (of E_D) | Meaning | Curve looks… |
 |---|---|---|---|
 | **Inelastic** | −1 < E_D < 0 (\|E\| < 1) | %ΔQ **smaller** than %Δp | relatively **steep** |
@@ -487,6 +490,7 @@ Each: *the example → the concept it teaches.*
 <div class="formula"><span class="flabel">Cross-price elasticity</span><em>E<sub>cross</sub></em> = %Δ<em>Q<sub>A</sub></em> ÷ %Δ<em>p<sub>B</sub></em> &nbsp;&nbsp;→&nbsp;&nbsp; <strong>&gt; 0 = substitutes</strong> · <strong>&lt; 0 = complements</strong></div>
 
 *Reads:* how the quantity of **A** responds to a price change in **B** — **%ΔQ_A** = percentage change in demand for good A · **%Δp_B** = percentage change in the price of good B · **sign**: **positive → substitutes** (Heineken dearer → more Carlsberg bought), **negative → complements** (phones dearer → fewer phone cases). *The larger the positive value, the closer the substitutes.*
+- **Worked example:** **Danish** spirits get **10% dearer** → Swedish demand for spirits changes by `E_cross × 10% = +0.3 × 10 = +3%` (Swedes buy **more at home** instead of driving to Denmark) → **positive → substitutes** ([Asplund 2007](#case-sweden-alcohol)). *Flip it: if smartphones get **10% dearer** and phone-case demand falls **6%**, `E_cross = −6 ÷ 10 = −0.6` → **negative → complements**.*
 - **Why it's used:** gauging **competitive pressure** and evaluating **mergers** (competition authorities ask how closely two products substitute). *(Deck aside: cross-price elasticity of cigarettes & alcohol ≈ −1 — strong complements, Krauss et al. 2014.)*
 
 <a id="micro3-income"></a>
@@ -497,6 +501,7 @@ Each: *the example → the concept it teaches.*
 <div class="formula"><span class="flabel">Income elasticity</span><em>E<sub>income</sub></em> = %Δ<em>Q</em> ÷ %Δ<em>I</em> &nbsp;&nbsp;→&nbsp;&nbsp; <strong>&gt; 0 = normal good</strong> · <strong>&lt; 0 = inferior good</strong></div>
 
 *Reads:* how quantity demanded responds to an income change — **%ΔQ** = percentage change in quantity · **%ΔI** = percentage change in income · **sign**: **positive → normal** (demand rises with income), **negative → inferior** (demand falls as income rises — e.g. instant noodles, store-brand goods).
+- **Worked example:** a household's **income rises 10%** and its spirits purchases rise **14%** → `E_income = +14 ÷ +10 = +1.4` → **normal** *and* **income-elastic** (a "luxury," >1) ([Asplund 2007](#case-sweden-alcohol)). *Flip it: income **+10%** but instant-noodle demand **−5%** → `E_income = −5 ÷ 10 = −0.5` → **inferior**.*
 - **Nuance:** a good can be **normal at low incomes and inferior at higher** ones (hostels for a student: more nights as income rises, then switch to hotels). Tastes vary by person.
 - **Uses:** long-term **projections** (healthcare, appliances in low-income countries) and predicting the **business cycle** (pharma is income-insensitive → "**defensive stock**").
 - **Engel curves / Engel's law (Ernst Engel, 1800s Prussian statistician):** plot demand (vertical) against income (horizontal) — **positive slope for normal goods, negative for inferior.** **Engel's law:** the **share of income spent on food *falls* as income rises** → the income elasticity of food is **less than 1.**
@@ -509,6 +514,7 @@ Each: *the example → the concept it teaches.*
 <div class="formula"><span class="flabel">Price elasticity of supply</span><em>E<sub>S</sub></em> = %Δ<em>Q<sub>S</sub></em> ÷ %Δ<em>p</em> &nbsp;&nbsp;(<strong>positive</strong>)</div>
 
 *Reads:* how responsive quantity supplied is to a price change — **%ΔQ_S** = percentage change in quantity supplied · **%Δp** = percentage change in price · **E_S** = the ratio (**positive**: higher price → more supplied). A **steep** supply curve is **inelastic** (hard to expand output quickly); a **flat** one is **elastic**.
+- **Worked example:** the market price of new flats rises **20%**, but the quantity of new flats supplied rises only **4%** this year → `E_S = +4 ÷ +20 = +0.2` → **inelastic** supply (you can't build quickly). Give it several years and builders respond more → supply becomes **more elastic**.
 
 <a id="micro3-time"></a>
 #### Elasticity over time — short run vs long run
@@ -541,6 +547,7 @@ Each: *the example → the concept it teaches.*
 - **Right — inelastic demand (PED < 1):** consumers keep buying regardless, so the firm **passes most of the tax through** → the **consumer bears most** of it.
 - **Policy take-aways:** (1) **"sin taxes"** on inelastic goods (cigarettes, alcohol) fall mostly on **consumers** and raise a lot of revenue with **little DWL** (quantity barely moves) — which is *why* governments like them, and why they can be **regressive** (hit the poor). (2) We **prefer taxes on inelastic bases** — they distort choices least.
 - **Subsidies are the mirror image:** `p_s = p_b + s` — a subsidy lowers the buyer price, raises the seller price, **expands** quantity above the efficient level, and also creates a **deadweight loss** (units produced that cost more than consumers value them). Its incidence, too, depends on elasticities (inelastic demand — e.g. emergency care, primary education — → small DWL).
+  - **Worked example (subsidy s = €3):** same market (`Q_D = 23 − p_b`, `Q_S = −1 + p_s/2`) but now `p_s = p_b + 3` → solving gives **p_b = 15, p_s = 18, Q = 8** — buyers pay **less** and sellers get **more**, and quantity *rises* above the no-subsidy level (6 → 8). The subsidy costs the government `s × Q = 3 × 8 = €24`, part of which is **deadweight loss**.
 
 ### Cases & examples
 *Read each as a worked use of an elasticity number (or a tax result).*
@@ -554,7 +561,7 @@ Each: *the example → the concept it teaches.*
 ### Formula sheet — quick reference
 | Quantity | Formula | Sign / meaning |
 |---|---|---|
-| **Price elasticity of demand** | `E_D = %ΔQ_D ÷ %Δp` | **negative**; |E|>1 elastic, |E|<1 inelastic |
+| **Price elasticity of demand** | `E_D = %ΔQ_D ÷ %Δp` | **negative**; \|E\|>1 elastic, \|E\|<1 inelastic |
 | **Point elasticity (linear)** | `E_D = (dQ/dp)·(p/Q)` | varies along the curve; more elastic at higher p |
 | **Constant-elastic demand** | `Q = a·p^ϵ` → `ln Q = ln a + ϵ ln p` | elasticity = **ϵ** everywhere |
 | **Cross-price elasticity** | `E_cross = %ΔQ_A ÷ %Δp_B` | **+ substitutes**, **− complements** |

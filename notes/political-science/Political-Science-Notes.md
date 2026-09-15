@@ -1901,6 +1901,7 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 #### B. The two branches of liberalism *(deck)*
 
 ***Core:*** liberalism gives **two** answers to realism — one at the **international** level, one at the **domestic** level.
+
 | | **Liberal Institutionalism** | **Liberal Internationalism** |
 |---|---|---|
 | **Key names** | **Keohane & Nye** | **Kant** |
