@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T09:16:22.627Z",
+  "generatedAt": "2026-09-15T11:36:59.737Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -36,7 +36,7 @@
       "full": {
         "title": "Political & Economic Thought — Full notes",
         "pdf": "pdfs/political-economic-thought/Political-Economic-Thought-Notes.pdf",
-        "sizeKB": 4083
+        "sizeKB": 4142
       },
       "parts": [
         {
@@ -67,7 +67,7 @@
           "slug": "module-4-enlightenment-and-political-liberalism-1660-1790",
           "title": "Module 4: Enlightenment and Political Liberalism (1660–1790)",
           "pdf": "pdfs/political-economic-thought/module-4-enlightenment-and-political-liberalism-1660-1790.pdf",
-          "sizeKB": 762
+          "sizeKB": 823
         }
       ]
     },
