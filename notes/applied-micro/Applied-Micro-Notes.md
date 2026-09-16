@@ -12,7 +12,7 @@
 
 - **[Lecture 1: Principles of Economics (Ch. 1)](#lecture-1-micro)** — [what is economics?](#micro-what) · [the three principles](#micro-principles) · [opportunity cost & marginal thinking](#micro-optimization) · [models: positive vs normative](#micro-empiricism) · [★ Fun facts](#ff-micro1)
 - **[Lecture 2: Supply and Demand (Ch. 2)](#lecture-2-micro)** — [demand & the demand function](#micro2-demand) · [supply & the supply function](#micro2-supply) · [★ solving market equilibrium](#micro2-equilibrium) · [shifts & comparative statics](#micro2-shifts) · [price ceilings & floors](#micro2-controls) · [★ Fun facts](#ff-micro2)
-- **[Lecture 3: Elasticities & Taxes (Ch. 2 recap · §6.4)](#lecture-3-micro)** — [why elasticity?](#micro3-why) · [★ price elasticity of demand](#micro3-ped) · [computing & the point-elasticity trick](#micro3-computing) · [elastic / inelastic / unit-elastic](#micro3-naming) · [cross-price](#micro3-cross) · [income elasticity & Engel curves](#micro3-income) · [supply elasticity](#micro3-supply) · [elasticity over time](#micro3-time) · [★ taxes: the wedge, incidence & equivalence](#micro3-taxes) · [formula sheet](#micro3-formulas) · [★ Fun facts](#ff-micro3)
+- **[Lecture 3: Elasticities & Taxes (Ch. 2 recap · §6.4)](#lecture-3-micro)** — [why elasticity?](#micro3-why) · [★ price elasticity of demand](#micro3-ped) · [computing & the point-elasticity trick](#micro3-computing) · [elastic / inelastic / unit-elastic](#micro3-naming) · [cross-price](#micro3-cross) · [income elasticity & Engel curves](#micro3-income) · [supply elasticity](#micro3-supply) · [elasticity over time](#micro3-time) · [★ taxes: the wedge, incidence & equivalence](#micro3-taxes) · [formula sheet](#micro3-formulas) · [★ practice problems (with solutions)](#micro3-practice) · [★ Fun facts](#ff-micro3)
 
 ---
 
@@ -588,6 +588,98 @@ Each: *the example → the concept it teaches.*
 - Explain **why elasticity is unit-free** and why demand is **more elastic in the [long run](#micro3-time)** and for **[narrower product categories](#case-beer-aggregation)**.
 
 **Bridge.** Lecture 3 turns the [Chapter 2 model](#lecture-2-micro) from *qualitative* ("the curve shifts left") into *quantitative* ("by how much, and split how between price and quantity"). Elasticity is also the hinge to later chapters: **firm pricing** (a monopolist's markup depends on E_D), **tax policy & deadweight loss** (Ch. 7), and **who gains from trade.**
+
+<a id="micro3-practice"></a>
+## ★ Practice problems — the whole chapter (with worked solutions)
+
+> A set covering **every calculation** in this lecture. **Try each closed-book first**, then check against the worked solution. *(Exam is open-book, no AI — so the skill being tested is doing these fast and correctly, not memorising.)*
+
+**What you must be able to calculate (each maps to a problem below):**
+
+| Skill | Formula | Problem |
+|---|---|---|
+| Own-price elasticity from two points + name it | `E_D = %ΔQ ÷ %Δp` | **1** |
+| Predict %ΔQ from %Δp (and reverse) | `%ΔQ = E_D · %Δp` | **2** |
+| Point elasticity on a linear curve (+ find the unit-elastic point) | `E_D = (dQ/dp)·(p/Q)` | **3** |
+| Elasticity → total revenue (raise or cut price?) | `TR = p·Q` | **4** |
+| Constant-elastic demand | `Q = a·p^ϵ` | **5** |
+| Cross-price elasticity + classify | `E_cross = %ΔQ_A ÷ %Δp_B` | **6** |
+| Income elasticity + classify | `E_income = %ΔQ ÷ %ΔI` | **7** |
+| Supply elasticity | `E_S = %ΔQ_S ÷ %Δp` | **8** |
+| Unit tax: solve `p_b, p_s, Q`, revenue, DWL, incidence | `p_b = p_s + t` | **9** |
+| Subsidy: solve `p_b, p_s, Q`, cost, DWL | `p_s = p_b + s` | **10** |
+| Incidence from elasticities (pass-through) | `consumer share = E_S ÷ (E_S + \|E_D\|)` | **11** |
+| Equilibrium + a price control *(Ch. 2 recap)* | set `Q_D = Q_S` | **12** |
+
+### Problems
+
+**1.** A bakery raises bread from **€4 → €5**; weekly sales fall from **100 → 80** loaves. Find the price elasticity of demand and say whether demand is elastic, inelastic, or unit-elastic.
+
+**2.** (a) The own-price elasticity of petrol is **−0.3**. If the price rises **10%**, by how much does quantity demanded change? (b) A cinema wants ticket sales to rise **9%**; demand elasticity is **−1.5**. What price change is needed?
+
+**3.** Demand is `Q = 120 − 4p`. (a) Find E_D at **p = 10**. (b) Find E_D at **p = 20**. (c) At what price is demand **unit-elastic**?
+
+**4.** Using the same demand `Q = 120 − 4p`: at **p = 10** and at **p = 20**, should the firm **raise or cut** price to increase **total revenue**? At what price is revenue **maximised**?
+
+**5.** Demand is `Q = 500·p^(−2)`. (a) What is the elasticity of demand? (b) Find quantity at **p = 5** and **p = 10**. (c) If price rises **1%** from €5, roughly what is %ΔQ?
+
+**6.** Classify each pair as substitutes, complements, or unrelated, and give E_cross: (a) price of **tea +8%** → demand for **coffee +4%**; (b) price of **printers +10%** → demand for **ink +6% fall**; (c) price of **umbrellas +10%** → demand for **coffee 0%**.
+
+**7.** Classify the good and give E_income: (a) income **+5%** → **restaurant meals +15%**; (b) income **+10%** → **bus tickets −4%**; (c) income **+8%** → **bread +2%**.
+
+**8.** When the price rises from **€8 → €10**, quantity supplied rises from **60 → 69**. Find the price elasticity of supply and classify it.
+
+**9.** A market has `Q_D = 100 − 4p` and `Q_S = −20 + 2p`. (a) Find the pre-tax equilibrium. (b) A **unit tax t = €6** is imposed. Solve for **p_b, p_s, and Q**. (c) Find **tax revenue** and the **deadweight loss**. (d) How is the burden split between buyers and sellers, and **why**?
+
+**10.** Same market (`Q_D = 100 − 4p`, `Q_S = −20 + 2p`). Now the government pays a **subsidy s = €6** per unit. Solve for **p_b, p_s, Q**, the **cost to government**, and the **deadweight loss**.
+
+**11.** At the pre-tax equilibrium of problem 9, the elasticities are **E_D = −4** and **E_S = +2**. Use the pass-through formula to find the **share of the tax borne by consumers vs producers**, and check it against your answer to 9(d).
+
+**12.** *(Ch. 2 recap.)* `Q_D = 80 − 2p`, `Q_S = −10 + p`. (a) Find equilibrium **p\*** and **q\***. (b) The government sets a **price ceiling at €25**. Compute the resulting **shortage**.
+
+---
+
+### Solutions
+
+**1.** %ΔQ = (80−100)/100 = **−20%**; %Δp = (5−4)/4 = **+25%**.
+<div class="formula"><em>E<sub>D</sub></em> = −20% ÷ +25% = <strong>−0.8</strong></div>
+|−0.8| < 1 → **inelastic** (quantity moves less than price). *(Note: revenue actually rises — see problem 4's logic.)*
+
+**2.** (a) `%ΔQ = E_D · %Δp = −0.3 × 10% =` **−3%** (quantity falls 3%). (b) rearrange: `%Δp = %ΔQ ÷ E_D = 9% ÷ (−1.5) =` **−6%** → the cinema must **cut** price 6%.
+
+**3.** Slope `dQ/dp = −4` (constant). Use `E_D = (dQ/dp)·(p/Q)`.
+- (a) p = 10 → Q = 120 − 40 = 80 → `E_D = −4 × 10/80 =` **−0.5** (inelastic).
+- (b) p = 20 → Q = 120 − 80 = 40 → `E_D = −4 × 20/40 =` **−2** (elastic).
+- (c) unit-elastic: set `−4·(p/Q) = −1` → `Q = 4p` → `120 − 4p = 4p` → `8p = 120` → **p = 15** (Q = 60). *(On any straight-line demand, the unit-elastic point is the **midpoint**.)*
+
+**4.** Revenue `TR = p·Q`.
+- At **p = 10** (inelastic, |E|<1): raising price **raises** revenue. Check: p=10 → TR = 10×80 = 800; p=11 → Q = 76, TR = **836**. → **raise price.**
+- At **p = 20** (elastic, |E|>1): cutting price **raises** revenue. Check: p=20 → TR = 800; p=19 → Q = 44, TR = **836**. → **cut price.**
+- **Revenue is maximised at the unit-elastic point** p = 15: TR = 15 × 60 = **900**. *(Rule: |E|<1 → raise price; |E|>1 → cut price; max TR where |E| = 1.)*
+
+**5.** (a) For `Q = a·p^ϵ`, the elasticity **is the exponent**: `E_D =` **−2** (constant at every price). (b) p = 5 → Q = 500/25 = **20**; p = 10 → Q = 500/100 = **5**. (c) `%ΔQ ≈ E_D · %Δp = −2 × 1% =` **−2%**.
+
+**6.** `E_cross = %ΔQ_A ÷ %Δp_B`. (a) `+4 ÷ +8 =` **+0.5 → substitutes** (tea dearer → more coffee). (b) `−6 ÷ +10 =` **−0.6 → complements** (printers dearer → less ink). (c) `0 ÷ +10 =` **0 → unrelated.**
+
+**7.** `E_income = %ΔQ ÷ %ΔI`. (a) `+15 ÷ +5 =` **+3 → normal, and a luxury** (E>1). (b) `−4 ÷ +10 =` **−0.4 → inferior.** (c) `+2 ÷ +8 =` **+0.25 → normal necessity** (0<E<1; cf. Engel's law for food).
+
+**8.** %ΔQ_S = (69−60)/60 = **+15%**; %Δp = (10−8)/8 = **+25%**.
+<div class="formula"><em>E<sub>S</sub></em> = +15% ÷ +25% = <strong>+0.6</strong></div>
+0 < E_S < 1 → **inelastic supply** (output hard to expand quickly).
+
+**9.** (a) **Pre-tax:** set `Q_D = Q_S`: `100 − 4p = −20 + 2p` → `120 = 6p` → **p\* = 20, Q\* = 20**.
+- (b) **With t = 6**, use `p_b = p_s + 6`, `Q_D = 100 − 4p_b`, `Q_S = −20 + 2p_s`. Set equal:
+`100 − 4(p_s + 6) = −20 + 2p_s` → `76 − 4p_s = −20 + 2p_s` → `96 = 6p_s` → **p_s = 16**, **p_b = 22**, **Q = 100 − 4(22) = 12**. *(check Q_S = −20 + 32 = 12 ✓)*
+- (c) **Tax revenue** = `t × Q = 6 × 12 =` **€72**. **DWL** = `½ × t × (Q\* − Q_tax) = ½ × 6 × (20 − 12) =` **€24**.
+- (d) Buyers bear `p_b − p\* = 22 − 20 =` **€2**; sellers bear `p\* − p_s = 20 − 16 =` **€4** (they sum to t = 6). **Sellers bear more because supply is the *more inelastic* side** (slope 2 vs demand's 4 → demand is more elastic, so it escapes more of the tax onto quantity).
+
+**10.** **With s = 6**, use `p_s = p_b + 6`: `100 − 4p_b = −20 + 2(p_b + 6)` → `100 − 4p_b = −8 + 2p_b` → `108 = 6p_b` → **p_b = 18**, **p_s = 24**, **Q = 100 − 4(18) = 28**. *(check Q_S = −20 + 48 = 28 ✓)* — buyers pay **less** (18<20), sellers get **more** (24>20), and **Q rises** (20→28). **Cost to government** = `s × Q = 6 × 28 =` **€168**. **DWL** = `½ × s × (Q_sub − Q\*) = ½ × 6 × (28 − 20) =` **€24** (over-production: units that cost more than they're worth).
+
+**11.** Pass-through shares:
+<div class="formula"><span class="flabel">Incidence from elasticities</span>consumer share = <em>E<sub>S</sub></em> ÷ ( <em>E<sub>S</sub></em> + |<em>E<sub>D</sub></em>| ) &nbsp;·&nbsp; producer share = |<em>E<sub>D</sub></em>| ÷ ( <em>E<sub>S</sub></em> + |<em>E<sub>D</sub></em>| )</div>
+With E_S = 2 and |E_D| = 4: **consumer share = 2 ÷ (2+4) = 1/3**, **producer share = 4 ÷ 6 = 2/3.** Of the €6 tax that's **€2 on buyers, €4 on sellers** — exactly matching 9(d). ✔ *(Rule: the **more inelastic** side pays the bigger share.)*
+
+**12.** (a) `80 − 2p = −10 + p` → `90 = 3p` → **p\* = 30, q\* = 20**. (b) At the ceiling **p = 25**: `Q_D = 80 − 50 = 30`, `Q_S = −10 + 25 = 15` → **shortage = Q_D − Q_S = 30 − 15 = 15 units.**
 
 ---
 
