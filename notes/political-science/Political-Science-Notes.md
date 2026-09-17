@@ -1735,7 +1735,17 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 - **Two ways to think about power:**
   - **Power as influence** = getting another to do what it *wouldn't otherwise* do (but this is circular — we rarely know the "otherwise").
   - **Power as capability** = the *resources* behind influence — easier to measure. **Best single yardstick = total GDP** (bundles size, wealth, technology).
-- **Elements of power:** *material* — military, economic, technological, natural resources, population, geography (**geopolitics**); *non-material* — national will, diplomacy, legitimacy, **soft power** (getting others to *want* what you want). **Money is the most *fungible*** (convertible) capability.
+- **★ Elements of power (capabilities) — the sub-concepts.** Power-as-capability is a **bundle of resources**, and the textbook sorts them two ways: by **time horizon** (long- vs short-term) and by **tangibility** (material vs non-material).
+
+| Time horizon | Tangible (material) | Intangible (non-material) |
+|---|---|---|
+| **Long-term** — change slowly; *who **will** be powerful* | total **GDP** · **population** · **territory** · **geography** · **natural resources** | **political culture** · **patriotism** · **education** of the population · **science/technology base** · **credibility / reputation** (keeping its word) · **power of ideas / soft power** |
+| **Short-term** — influence *now* | **military forces** (size, composition, preparedness — the realist's #1) · **military-industrial capacity** (make weapons fast) · **quality of the bureaucracy** | **legitimacy & support** from constituents/allies · **loyalty** of the army & politicians to the leader |
+
+  - **Best single yardstick = total GDP** (bundles size + wealth + technology) — but only a *rough* estimator.
+  - **Fungibility** = how far one element **converts into** another. **Money is the most fungible** (it buys the rest); realists treat **military force** as the most important short-term element and rate the others by how fungible they are **into** military power.
+  - **Geopolitics** = using **geography** as power — *"location, location, location"*: bases near a rival, control of **trade routes** & **key resources** (oil pipelines in Central Asia; new **Arctic** shipping routes as the ice melts).
+  - **★ Long-term beats short-term (worked example):** **Pearl Harbor (1941)** — Japan had the short-term **military** edge and overran the Pacific, but the US's greater **long-term** power resources (economic potential) let it build up and **overwhelm** Japan. *(Capabilities aren't just what you have now, but what you can **generate**.)*
 - **★ Relative vs absolute gains (the exam favourite).** A liberal asks *"do I gain?"* (**absolute**). A realist asks *"do I gain **more than my rival**?"* (**relative**) — because today's cooperation can fund tomorrow's threat. *(Deck exercise: if a deal gives you +10 but your rival +20, a realist may **refuse** — the rival's larger gain shifts the future balance.)* Examples: US–USSR nuclear parity; US–China tech race.
 
 ![Textbook Fig 2.3 — horizontal bar chart of the seven great powers' shares of world GDP (2017) and military expenditure (2016): the US dwarfs the rest, China second, then a gap to Russia/Japan/France/Britain/Germany, with "Rest of World" for comparison](figures/ir1-greatpower-shares.png)
