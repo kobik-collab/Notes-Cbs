@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T10:15:14.949Z",
+  "generatedAt": "2026-09-17T10:23:10.965Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -77,7 +77,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 9873
+        "sizeKB": 9891
       },
       "parts": [
         {
@@ -120,13 +120,13 @@
           "slug": "ir-i-realism-auw",
           "title": "IR I: Realism (AUW)",
           "pdf": "pdfs/political-science/ir-i-realism-auw.pdf",
-          "sizeKB": 1150
+          "sizeKB": 1162
         },
         {
           "slug": "ir-ii-liberalism-auw",
           "title": "IR II: Liberalism (AUW)",
           "pdf": "pdfs/political-science/ir-ii-liberalism-auw.pdf",
-          "sizeKB": 504
+          "sizeKB": 509
         },
         {
           "slug": "ir-iii-constructivism-other-approaches-auw",
