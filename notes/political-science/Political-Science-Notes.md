@@ -20,6 +20,7 @@
 - **[IR I: Realism (AUW)](#ir-lecture-1)** — [what is IR + collective-goods problem](#ir1-field) · [levels of analysis](#ir1-levels) · [what realism is](#ir1-realism) · [★ the realist causal chain](#ir1-chain) · [power & the security dilemma](#ir1-power) · [balance of power & polarity](#ir1-polarity-sec) · [the realism family](#ir1-family) · [Prisoner's Dilemma](#ir1-pd) · [★ Fun facts](#ff-ir1)
 - **[IR II: Liberalism (AUW)](#ir-lecture-2)** — [how liberalism sees the world](#ir2-worldview) · [the two branches](#ir2-branches) · [★ liberal institutionalism & its mechanisms](#ir2-institutionalism) · [regimes & collective security](#ir2-regimes) · [★ liberal internationalism & the Kantian triangle](#ir2-internationalism) · [the democratic peace](#ir2-dempeace) · [ch.7: IOs, the UN, international law & human rights](#ir2-ch7) · [realism vs liberalism](#ir2-compare) · [★ Fun facts](#ff-ir2)
 - **[IR III: Constructivism / Other Approaches (AUW)](#ir-lecture-3)** — [the puzzle: material fact → social meaning](#ir3-puzzle) · [★ what constructivism is](#ir3-constructivism) · ["anarchy is what states make of it"](#ir3-anarchy) · [norms & the apartheid case](#ir3-norms) · [postmodernism](#ir3-postmodern) · [★ critical theory: power & hierarchy](#ir3-critical) · [Marxism (Marx vs Lenin)](#ir3-marxism) · [Gramsci · Wallerstein · postcolonialism/Said](#ir3-critical-strands) · [feminist & queer IR](#ir3-gender) · [peace studies](#ir3-peace) · [★ the four theories compared](#ir3-compare) · [★ Fun facts](#ff-ir3)
+- **[IR IV: International Security (AUW)](#ir-lecture-4)** — [★ security is a contested concept](#ir4-contested) · [whose security? the referent object](#ir4-referent) · [types of threat](#ir4-threats) · [the state: protector or war-maker?](#ir4-state) · [national → international → human security](#ir4-history) · [IR theories & security](#ir4-theories) · [★ securitisation](#ir4-securitisation) · [critical security studies](#ir4-critical) · [★ causes of war: levels of analysis](#ir4-causes) · [types of war](#ir4-typesofwar) · [conflicts of ideas & interest](#ir4-conflicts) · [★ Fun facts](#ff-ir4)
 
 ---
 
@@ -2242,3 +2243,201 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 - **Lysistrata (411 BC)** — Aristophanes had the women withhold sex to end the Peloponnesian War; it was **read aloud in 1,000 venues in 56 countries** in 2003 to protest the Iraq War.
 - **"It's a boy":** the coded cable confirming the first **H-bomb** worked — postmodern feminists' favourite example of the **gendered subtext** of weapons.
 - **Costa Rica has had no army since 1948** — a living rebuttal to realism's claim that military force is universal and necessary.
+
+---
+
+<a id="ir-lecture-4"></a>
+# IR IV: International Security (AUW)
+
+**Required reading:** **PG = Goldstein & Pevehouse, *International Relations*, ch. 5** (*International Conflict*) · **Bilgin, Pinar, "Security," in Berenskötter (ed.), *Concepts in International Relations* (2025), ch. 14.** · Lecturer: **Ayça Uygur Wessel.** Deck: *"International security."*
+
+**Theme of the lecture (deck).** Two moves. First, **unpack the concept of "security"** — it is *contested* and its real-world use is *political* (who gets to call something a "security" issue, and why). Then turn to **conflict and war** — how and why international (and internationalised) conflicts occur, read through the **levels of analysis.**
+
+<div class="heart">★ <strong>The heart of the lecture:</strong> "security" is not a neutral fact about the world but a <strong>contested, political concept.</strong> Three questions are always in play — <strong>whose security?</strong> (the <em>referent</em>: state · society · individual · humanity), <strong>which threats?</strong> (military vs non-military), and <strong>is the state the protector or the threat?</strong> Calling something a "security issue" is itself a <strong>political act</strong> (<strong>securitisation</strong>) that moves it out of normal politics. The different <strong>IR theories</strong> each answer "what is security?" differently, and <strong>war</strong> has causes at three <strong>levels</strong> — the individual, the state/domestic, and the anarchic system.</div>
+
+**The red thread.** *Security for whom, from what, and provided by whom — and who decides?* Hold those questions through the concept (Bilgin), the theories, and the causes of war (PG ch.5).
+
+### Key concepts / "modes" to use
+- **Security = a contested concept** — thin agreement ("freedom from threats to core values"), deep disagreement on referent, threats, the state's role.
+- **Referent object** ("whose security?") — **national/traditional** (state) · **societal** (community/identity) · **human** (individual) · **global** (humanity).
+- **The state: protector (Hobbes) vs war-maker (Tilly)** — the four activities: war-making, state-making, protection, extraction ("protection racket").
+- **Securitisation** (Wæver) — security as a **speech act**; framing an issue as an existential threat moves it beyond normal politics.
+- **The security dilemma** (Herz) — self-help defence can be self-defeating.
+- **IR theories & security** — realism (power under anarchy) · liberalism (cooperation/institutions) · constructivism (threats are constructed) · critical (security is political).
+- **Causes of war — levels of analysis** (Waltz's *three images*): individual · domestic · systemic.
+- **Types of war** (hegemonic/total/limited/civil/guerrilla) and **types of conflict** (ideas: ethnic/religious/ideological · interests: territorial/governmental/economic).
+
+---
+
+## A. Unpacking "security" *(Bilgin ch.14 + deck)*
+
+<a id="ir4-contested"></a>
+#### ★ Security is a contested — and political — concept
+***Core:*** there is **thin agreement** (security = *freedom from threats to core values*, for individuals and groups) but **deep disagreement** on almost everything else. And crucially, **defining something *as* a security issue is a *political* act.**
+- **What's contested (deck):** the **focus of inquiry** (whose security — individual, national, international, global?); the **types of threat** (military vs non-military); the **role of the state** (security *provider*, or a *threat* to security?).
+- <a id="case-kilis"></a>**★ The Kilis example (Bilgin's opener).** In 2016, rockets from IS-held northern Syria hit **Kilis, Türkiye**, killing 20+ over five months — yet the government did **not** officially call it a security threat (it portrayed the rockets as merely "falling from the sky"). This changed only in August 2016, when the government prepared a **ground incursion** into Syria and *then* declared the rockets **acts of terrorism threatening national security**. Why the change? **Politics** — initially it didn't want to be seen fighting a group with "Islamic" in its name; once ready to act, it named the enemy "DAESH." → *Politics is key to how — and *whether* — governments use the concept of security.*
+- **Etymology:** "security" ← Latin ***securus*** ("without worry/concern"). Ironically, early usage saw feeling *too* secure as **bad** (breeds carelessness). **Hobbes** gave it its modern political shape (a strong authority as the condition for security).
+
+<a id="ir4-referent"></a>
+#### Whose security? — the referent object
+***Core:*** the biggest disagreement is over the **referent object** — *who or what is to be secured?* The answer is **not fixed**; it changes with which threats which actors prioritise, and **the same event looks different depending on whose security you centre.**
+
+| Referent | "Security" asks… | Threat = |
+|---|---|---|
+| **National / traditional** (the **STATE**) | Is the state safe from **external** threats? | invasion, rival great powers |
+| **Societal** (the **COMMUNITY**) | Can the group keep its **identity & way of life**? | migration, cultural erosion |
+| **Human** (the **INDIVIDUAL**) | Are people safe in their **survival, well-being & rights**? | poverty, disease, their *own* government |
+| **Global** (**HUMANITY**) | Are threats addressed at the level of **humanity/the planet**? | climate change, pandemics, nuclear war |
+- **Worked example (deck): global warming** looks like an economic issue to one actor, an existential threat to a low-lying island state, a human-security issue to the displaced. *Whose security you centre changes what you see.*
+
+<a id="ir4-threats"></a>
+#### Types of threat — military vs non-military (and how they overlap)
+***Core:*** the traditional focus is **military** threats (invasion/territorial aggression, conventional war, nuclear escalation, interstate & civil conflict, coercion/shows of force, armed rebel groups) — but real-world threats are increasingly **non-military** (health, climate, migration), and the categories **overlap.**
+- <a id="case-scs"></a>**South China Sea (deck's overlap case).** A **territorial** dispute (sovereignty, Spratly Islands, Exclusive Economic Zones) is *also* **economic** (oil, gas, fisheries), **strategic** (sea lanes — **~⅓ of global shipping** passes through), and **military** (bases, radar, missile shelters — e.g. China's runways on **Fiery Cross Reef**; "show-of-force" behaviour to assert dominance **without declaring war**). → *Analytical distinctions (military/economic/strategic) are tightly knotted in the real world.*
+
+<a id="ir4-state"></a>
+#### The state — security *provider* or *war-maker*?
+***Core:*** two opposed readings of the state's relation to security.
+- **Provider (Hobbesian tradition):** the individual **gives up freedom** to be more secure, handing the **monopoly of violence** to the state, which embodies **national sovereignty.** A "security threat" = something posing an **existential threat to the state** (handled by defence, intelligence, law enforcement). *(This is the classic-realist starting point.)*
+- **War-maker (Charles Tilly, 1985/1992):** states **earned their statehood through war-making** — *"war made the state and the state made war"* ([cf. PET/PS on Tilly](#c2-strength)); war is the state's *modus operandi*; **"no war = no modern state."** Tilly's **four activities** (he likens the early state to a **protection racket** — the deck's "Don Corleone" joke):
+
+| Activity | = eliminating / neutralising… |
+|---|---|
+| **War-making** | rivals **outside** the territory |
+| **State-making** | rivals **inside** the territory |
+| **Protection** | the enemies of its **clients** |
+| **Extraction** | acquiring the **means** (tax, men) to do the first three |
+
+<a id="ir4-history"></a>
+#### The concept's real-world history — from national → international → human security *(Bilgin)*
+***Core:*** the meaning of security was **never fixed**; different uses served different **political agendas**, and the "myth of origin" (US national security) is only one strand.
+- **The "myth of origin" — US national security (post-1945).** "National security" rose to prominence in US debates over the post-war role of the US (rivalry with the USSR). Policymakers found it **flexible and catchy** — useful against isolationist/small-government opponents, to keep the US globally engaged and investing in the military. **Arnold Wolfers (1952):** national security as a form of **national interest.** Embedded institutionally via the **National Security Council** and **NSC-68 (1950)** → Truman's massive military build-up (peacetime military spending, newly justified by "national security"). *Contrary to realist assumptions,* US national security was **never only** about external military threats — **"making the world safe for US economic interests"** was central (the World Bank, IMF, GATT as "part and parcel of the security project") → a **creative repackaging** of economic interest as national security.
+- **National vs international vs collective security.** The **referent** distinguishes them: US "national security" → the **state** is referent (threat = the USSR); UN "international security" → the **society of states** is referent (threat = another world war). **Collective security** = aggression against one is aggression against all (global in scope; regulates relations *between* members) — *not* the same as an **alliance** like NATO (which defends *against* external threats). The League of Nations' collective security was paralysed by the **unanimity** rule; the UN fixed it with **majority** voting — but protected great powers with the **P5 veto** (so the US never has to act against its will — but any P5 can also block it). First real test: **North Korea's 1950 invasion** (the USSR was boycotting the Council, so it couldn't veto). → the **"Uniting for Peace"** mechanism lets the General Assembly recommend when the Council is deadlocked.
+- **Human security — the alternative from *outside* the US.** Newly independent states, wary of superpower pacts (Nehru: *"every pact has brought insecurity"*), sought a **"third way"** focused on **sovereignty and development**, *not* a security frame (**Bandung Conference 1955**; Non-Aligned Movement; **New International Economic Order**). <a id="case-iran53"></a>*(Box: **Iran 1953** — PM **Mosaddegh**, who nationalised the oil industry, was toppled by a **CIA-MI6** coup: the UK/US defended their **economic interests in the name of international security** against Iran's search for development.)* When the NIEO stalled, **non-state actors** took up the cause and made **human beings the referent** → **"human security,"** coined by **Mahbub ul Haq** ("secure human development"), embraced by the **UNDP in 1994.** Landmark: the **International Campaign to Ban Landmines (ICBL)** framed landmines as a human-security harm → the **1997 Mine Ban Treaty** + a Nobel Peace Prize (the **agency of non-state actors**).
+- **The military-state frame returns (21st c.):** after **9/11**, NATO's collective-defence clause + the UN's collective-security mechanism let US national security be framed as *international* security → the **Global War on Terror.** Its flexibility let many governments re-label domestic opponents as "terrorists" (e.g. China and **Xinjiang**). And the **privatisation of security** — **Private Military Companies** like the **Wagner Group** (Russia in Ukraine) — sell security as a marketable good ("we sell a *concept* of security").
+
+<a id="ir4-theories"></a>
+## B. IR theories & security *(deck)*
+
+***Core:*** each theory family answers *"what is security, and how do states pursue it?"* differently — and in a crisis, each **looks for different things.**
+
+| Theory | Security is… | The chain | In a crisis, it asks… |
+|---|---|---|---|
+| **[Realism](#ir-lecture-1)** | surviving under **anarchy** | anarchy → self-help → power/capabilities → **security competition** | military capabilities, alliances, relative power, strategic incentives |
+| **[Liberalism](#ir-lecture-2)** | achieved through **cooperation** | self-interest → interdependence → **institutions** (info, monitoring, reciprocity) → cooperation | what **blocked** the mutual gains from cooperation? (+ domestic politics → preferences) |
+| **[Constructivism](#ir-lecture-3)** | **what states make of it** | material capabilities → *(interaction + shared meanings)* → identity → threat perception → behaviour | **how did actors come to understand something as a threat?** |
+| **Critical IR** | **political** | power shapes which threats/referents count | **whose** security? **who** defines the threat, and with what power? who is **protected vs marginalised**? |
+- *(Deck exercise: how would each theory explain **the USA's threats against Greenland**? Realism → strategic/Arctic position & relative power; liberalism → institutional/allied damage; constructivism → identity & how "threat" is framed; critical → whose security, whose Arctic, what hierarchy.)*
+
+<a id="ir4-securitisation"></a>
+#### ★ Securitisation — security as a "speech act" (Wæver / Copenhagen School)
+***Core:*** critics argue security **does not exist outside discourse** — an issue becomes a "security" issue only because an actor **frames** it as one. **Ole Wæver** calls this **securitisation**: *saying* something is an existential threat is also *doing* something. It is **not politically innocent** — it **removes the issue from normal political deliberation** ("beyond closed doors where experts decide"), lets governments claim **more resources** and **silence critics** in the name of unity against an "existential threat," creates an **"us vs them"** mindset, and often **militarises** the problem.
+
+![Five-step flow diagram of securitisation: (1) a problem exists (e.g. rising irregular migration) → (2) a political actor frames it as an EXISTENTIAL THREAT (the 'securitising move', a speech act) → (3) the AUDIENCE accepts the framing → (4) the issue becomes a 'SECURITY' issue ('migration' → 'immigration crisis') → (5) EXCEPTIONAL/intensified measures become legitimate (beyond normal politics, 'us vs them', militarised). Caption: Securitisation (Wæver) — 'security' as a speech act.](figures/ir4-securitisation.png)
+
+**How to read it.** The move that matters is **step 2 → 3**: a **securitising actor** *claims* existential threat, and the **audience** must **accept** it. Only then does the issue "become" security — and the payoff (step 5) is **exceptional powers** outside normal debate. Example (deck): *"increased irregular migration"* (a policy problem) vs *"immigration crisis"* (a securitised threat). **Climate change** is the live debate: securitising it could mobilise resources — but critics warn it creates a false "us vs them" (there is no "them" — *we* are the problem) and risks **militarising** a non-military issue.
+
+<a id="ir4-critical"></a>
+#### Critical Security Studies — the academic critique of realism *(Bilgin)*
+***Core:*** IR's understanding of security was long dominated by a **realist** outlook (military threats *to states* from *outside*, met by military means; the state is both **referent** and **agent**). Critics — drawing on **Feminism, Frankfurt-School critical theory, post-structuralism, postcolonialism** — showed security is **socially constructed** and **political**, and re-opened *whose* security counts.
+- **Wolfers' warning (1952):** national security is an **"ambiguous symbol"** — used without specification it "leaves room for more confusion than sound political counsel can afford." He split **objective** security (absence of threats to acquired values) from **subjective** (absence of *fear*) — both require judgement.
+- **Common security** (Palme Commission, 1982): since there's **nowhere to hide from nuclear catastrophe**, the referent should be **"us all"** — pursue security *with* others, not against them. Rests on the **[security dilemma](#ir1-power)** (Herz 1950): self-serving defence can be **self-defeating** (your build-up scares the other side → arms race → everyone less safe).
+- **Gusterson:** realist security scholars not only **failed to predict the fall of the Berlin Wall (1989)** but "were unable to even entertain the possibility" — a blow to realism's authority (too much focus on military capabilities, too little on socio-political context).
+- **Eurocentrism** (Barkawi & Laffey): security studied in Euro/Anglo-centric ways — **normative** (privileging EU/Western security — e.g. studying the 2015–16 Mediterranean "refugee crisis" only from Europe's side), **analytical** (Europe at the centre of the framework), **epistemological** (drawing only on the "European experience" as knowledge).
+- **Feminist IR — Carol Cohn:** nuclear experts coded attention to the human costs of weapons as "**feminine**" and military might as "**strength**"; **"nuke-speak"** is abstract, gendered language that lets experts discuss weapons **without** confronting their human consequences. Realist security assessments are **not objective** but shaped by ideas of masculinity/femininity ([cf. IR III](#ir3-gender)).
+- **Ontological security** (Mitzen, Rumelili): people/groups need a **stable identity**; a protracted conflict that threatens your *body* can **stabilise your identity** → actors whose identity is tied to fighting may **block peace** to preserve their "ontological security."
+- **Relational approaches** (Bilgin): a state's "failure" to provide security is often a product of **international relations** (esp. the **colonial** legacy and the differential recognition of European vs African sovereignty), not just internal traits — so study security **relationally.**
+
+*(Bilgin's concept web: **security** sits between its **contrast** — violence, war, insecurity, instability; its **cognate** — peace, stability; and its **supporting** concepts — threats, power, deterrence, development, and the physical/material/identity dimensions.)*
+
+<a id="ir4-causes"></a>
+## C. Causes of war *(PG ch.5 + deck)*
+
+<a id="ir4-typesofwar"></a>
+#### Types of war
+***Core:*** "war" (usually defined as ≥1,000 battle deaths) covers very different things:
+
+| Type | What it is |
+|---|---|
+| **Hegemonic war** | for control of the **entire world order** (a.k.a. world/global/systemic war) — last one was **WWII**; now probably impossible without destroying civilisation |
+| **Total war** | to **conquer & occupy** another state (reach the capital, replace the government) — born with the **Napoleonic Wars**; the whole enemy society becomes a legitimate target |
+| **Limited war** | objectives **short of** surrender/occupation (e.g. 1991 Gulf War retook Kuwait, didn't take Baghdad); **raids** = single-action limited wars |
+| **Civil war** | factions **within a state** fighting to create/prevent a government or **secede** — often the most brutal |
+| **Guerrilla war** | warfare **without front lines**; irregular forces hidden among civilians — harass rather than confront; civilians suffer most |
+
+<a id="ir4-levels"></a>
+#### ★ Why does war break out? — the levels of analysis (Waltz's *three images*)
+***Core:*** most wars have **multiple causes at different levels.** The deck uses **Waltz's *Man, the State, and War* (1959)** "three images" — the **individual**, the **state/domestic**, and the **international system** — with **anarchy** as the *necessary* condition.
+
+| Level | The explanation | Key names |
+|---|---|---|
+| **Individual** | **human nature** (power-seeking) *and* **rational cost-benefit** calculation — war can be a *reasoned* choice (leaders may not bear its full cost); "**bad decision ≠ irrational decision**"; also **deviations from rationality** (bias, groupthink) | Thucydides, Machiavelli, Hobbes; **Fearon** (rationalist explanations) |
+| **Domestic** | **regime type** & decision-making structures; powerful domestic actors, norms & **ideologies** (nationalism, religion); support for **irredentism/secession**; leaders playing to two audiences at once | **Putnam** (*two-level games*); democratic peace |
+| **Systemic** | not human nature but the **anarchic system** that breeds fear & suspicion: *"wars occur because there is nothing to stop them from occurring"*; power-transition; deterrence vs arms races; long cycles | **Waltz** (1959); power-transition theory |
+- **Descriptive vs theoretical (PG):** a historian says *"the assassination of Franz Ferdinand caused WWI"*; a political scientist says the assassination was only the **catalyst** — the cause was **shifts in the balance of power.** The levels-of-analysis frame reminds us both (and more) operate at once.
+
+<a id="ir4-conflicts"></a>
+#### What states fight *about* — conflicts of ideas & of interest *(PG §5.2–5.3)*
+***Core:*** PG sorts conflicts into six overlapping types — three over **ideas** (intangible: *who someone is*) and three over **interests** (tangible: *what someone has*).
+- **Conflicts of IDEAS:**
+  - **Nationalism** — devotion to one's nation over others; the link between **identity** and statehood. **Self-determination** (a nation should have its own state) constantly collides with **sovereignty/territorial integrity**.
+  - **Ethnic conflict** — hatred between **ethnic groups**; based not on what someone *does* but **who they are.** Driven by **ethnocentrism** (in-group bias) and, at its worst, **dehumanisation** of the out-group (the step that removes the restraints on violence — e.g. animal names, WWII propaganda).
+  - **Genocide** — the systematic extermination of a group; the extreme of dehumanisation.
+  - **Religious conflict** — sharpest where **fundamentalist** movements reject **secular** rules (of the state and the international system) as subordinate to divine law.
+  - **Ideological conflict** — often **less durable** than it looks (interests frequently drive the "ideological" clash).
+- **Conflicts of INTEREST:**
+  - **Territorial disputes** — over where **borders** run; especially intractable (states value home territory "fanatically"). **Irredentism** = regaining lost territory; **secession** = drawing a border around a *new* state (Kosovo 2008; South Sudan 2011).
+  - **Control of governments** — over who runs an existing state.
+  - **Economic conflict** — over trade, resources, money (often underlies the others — e.g. "conflict diamonds," the **Kimberley Process**).
+  - *(PG's **Russia–Ukraine** example shows all of these at once: ethnic, religious, territorial (Crimea), and economic — combining rather than separate.)*
+
+---
+
+## ★ Synthesis — the two halves in one line
+***Core:*** the lecture's arc: **security is a political construction** (whose? from what? decided by whom — and *securitised* by whom), and **war has layered causes** (individual · domestic · systemic). The theories connect the halves: how you define **security** shapes what you count as a **cause of war** — a realist sees anarchy & power; a liberal sees failed cooperation; a constructivist sees threat-perceptions built through identity; a critical scholar asks whose security the whole conversation serves.
+
+### Cases & examples
+- **[Kilis, Türkiye (2016)](#case-kilis)** — a lethal cross-border military attack **not** called a "security" issue until it was politically useful. → *Illustrates: **securitisation** is political; naming a threat is a choice.*
+- **[South China Sea](#case-scs)** — territorial + economic + strategic + military threats knotted together. → *Illustrates: **threats overlap**; the referent/threat you pick shapes the analysis.*
+- **[Iran 1953 (Mosaddegh)](#case-iran53)** — a coup to defend Western oil interests **framed as international security.** → *Illustrates: security as a **creative repackaging** of economic interest; the case for **human security**.*
+- <a id="case-icbl"></a>**ICBL / landmines** — non-state actors reframed landmines as a **human-security** harm → treaty + Nobel. → *Illustrates: the **agency of non-state actors** and the shift of referent from state to individual.*
+- <a id="case-berlinwall"></a>**The fall of the Berlin Wall (1989)** — realist security scholars couldn't even imagine it. → *Illustrates: the **limits of a purely military, state-centric** security lens (Gusterson).*
+
+### Key terms
+| Term | Meaning |
+|---|---|
+| Security (contested) | "Freedom from threats to core values" — but referent, threats & the state's role are all disputed |
+| Referent object | *Whose* security: national/state · societal · human/individual · global |
+| Securitisation (Wæver) | Framing an issue as an existential threat (a **speech act**) → moves it beyond normal politics |
+| Security dilemma (Herz) | Self-help defence can be self-defeating (your build-up frightens others → arms race) |
+| Human / common security | Referent = the individual / "us all" (vs the state) |
+| Collective security vs alliance | Aggression against one = aggression against all (global) vs defence against an external enemy (NATO) |
+| Tilly's four activities | War-making · state-making · protection · extraction ("the state as protection racket") |
+| Levels of analysis / three images | Individual · domestic · systemic causes of war (Waltz 1959) |
+| Irredentism / secession | Regaining lost territory / drawing a border around a new state |
+| Ethnocentrism / dehumanisation | In-group bias / stripping the out-group of humanity (removes restraints on violence) |
+
+### Exam pointers
+- Explain why **[security is "contested"](#ir4-contested)** and **political** — use **[Kilis](#case-kilis)** to show that *calling* something security is a choice.
+- Lay out the **[referent-object table](#ir4-referent)** (national/societal/human/global) and show the **same event** looks different by referent.
+- Define **[securitisation](#ir4-securitisation)** as a **speech act** and run the 5-step chain; give the **migration** or **climate** example and the *dangers* (beyond normal politics, "us vs them", militarisation).
+- Contrast the **state as [protector (Hobbes) vs war-maker (Tilly](#ir4-state))** — reproduce Tilly's four activities.
+- Run the **[four IR theories on security](#ir4-theories)** (realism/liberalism/constructivism/critical) on one crisis.
+- Use the **[levels of analysis / three images](#ir4-levels)** to explain the outbreak of a war (individual **Fearon** · domestic **Putnam** · systemic **Waltz/anarchy**), and the **descriptive-vs-theoretical** (Franz Ferdinand = catalyst, not cause).
+- Distinguish the **[types of war](#ir4-typesofwar)** and the **[six conflict types](#ir4-conflicts)** (ideas vs interests) — with **Russia–Ukraine** as the "all at once" case.
+
+**Bridge.** IR IV pulls the theory lectures ([I–III](#ir-lecture-1)) onto a single problem — **security & war** — and shows the payoff of theory choice: your theory decides *whose* security matters, *what* counts as a threat, and *why* war happens. It also links back to **Tilly** (the war-made state, [PS Lecture 2](#c2-strength)) and forward to the **use of force** (PG ch.6).
+
+<a id="ff-ir4"></a>
+## ★ Fun facts & memorable details (IR IV: International Security)
+
+> Sticky bits from international security.
+
+- **"Security" once meant *carelessness*** — from Latin *securus* ("without worry"), and feeling **too** secure was considered a **flaw** (it made you drop your guard).
+- **The rockets that "fell from the sky":** Türkiye refused to call a 5-month rocket barrage on **Kilis** a security threat — until it wanted to invade Syria. Same rockets, opposite label. Politics decides.
+- **Tilly's one-liner:** *"war made the state, and the state made war"* — and his image of the early state as a **protection racket** (the deck jokes: not so different from **Don Corleone**).
+- **The P5 veto exists because the US wanted one** — so the UN could never force it into an action it hadn't approved (the catch: any P5 can also block the US).
+- **Collective security's first run was an accident:** the UN could act on **Korea (1950)** only because the **USSR was boycotting** the Security Council and wasn't there to veto.
+- **"It's a boy"** and **"nuke-speak"** — Carol Cohn's evidence that even nuclear strategy is written in a **gendered** language that hides the human cost.
+- **Realists didn't just miss the Berlin Wall — they couldn't imagine it** (Gusterson), which cracked realism's claim to "objective" security knowledge.
+- **Climate change is "hard to securitise"** on purpose: there's **no "them"** — *we* are the threat, so the "us vs them" security reflex backfires.

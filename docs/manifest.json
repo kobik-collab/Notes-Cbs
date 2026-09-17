@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T04:27:48.887Z",
+  "generatedAt": "2026-09-17T09:07:03.345Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -77,7 +77,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 9442
+        "sizeKB": 9853
       },
       "parts": [
         {
@@ -133,6 +133,12 @@
           "title": "IR III: Constructivism / Other Approaches (AUW)",
           "pdf": "pdfs/political-science/ir-iii-constructivism-other-approaches-auw.pdf",
           "sizeKB": 721
+        },
+        {
+          "slug": "ir-iv-international-security-auw",
+          "title": "IR IV: International Security (AUW)",
+          "pdf": "pdfs/political-science/ir-iv-international-security-auw.pdf",
+          "sizeKB": 563
         }
       ]
     }
