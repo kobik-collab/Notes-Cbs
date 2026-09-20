@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T10:23:10.965Z",
+  "generatedAt": "2026-09-20T10:57:26.765Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -77,7 +77,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 9891
+        "sizeKB": 10213
       },
       "parts": [
         {
@@ -138,7 +138,13 @@
           "slug": "ir-iv-international-security-auw",
           "title": "IR IV: International Security (AUW)",
           "pdf": "pdfs/political-science/ir-iv-international-security-auw.pdf",
-          "sizeKB": 563
+          "sizeKB": 564
+        },
+        {
+          "slug": "foreign-policymaking-ea",
+          "title": "Foreign Policymaking (EA)",
+          "pdf": "pdfs/political-science/foreign-policymaking-ea.pdf",
+          "sizeKB": 468
         }
       ]
     }
