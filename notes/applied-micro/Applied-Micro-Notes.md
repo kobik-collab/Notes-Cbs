@@ -13,6 +13,7 @@
 - **[Lecture 1: Principles of Economics (Ch. 1)](#lecture-1-micro)** — [what is economics?](#micro-what) · [the three principles](#micro-principles) · [opportunity cost & marginal thinking](#micro-optimization) · [models: positive vs normative](#micro-empiricism) · [★ Fun facts](#ff-micro1)
 - **[Lecture 2: Supply and Demand (Ch. 2)](#lecture-2-micro)** — [demand & the demand function](#micro2-demand) · [supply & the supply function](#micro2-supply) · [★ solving market equilibrium](#micro2-equilibrium) · [shifts & comparative statics](#micro2-shifts) · [price ceilings & floors](#micro2-controls) · [★ Fun facts](#ff-micro2)
 - **[Lecture 3: Elasticities & Taxes (Ch. 2 recap · §6.4)](#lecture-3-micro)** — [why elasticity?](#micro3-why) · [★ price elasticity of demand](#micro3-ped) · [computing & the point-elasticity trick](#micro3-computing) · [elastic / inelastic / unit-elastic](#micro3-naming) · [cross-price](#micro3-cross) · [income elasticity & Engel curves](#micro3-income) · [supply elasticity](#micro3-supply) · [elasticity over time](#micro3-time) · [★ taxes: the wedge, incidence & equivalence](#micro3-taxes) · [formula sheet](#micro3-formulas) · [★ practice problems (with solutions)](#micro3-practice) · [★ Fun facts](#ff-micro3)
+- **[Lecture 4: Consumer Choice (Ch. 5)](#lecture-4-micro)** — [modelling choice: the 3 ingredients](#micro4-why) · [preferences & rationality axioms](#micro4-preferences) · [utility & utility functions](#micro4-utility) · [★ marginal utility](#micro4-mu) · [indifference curves & their 3 types](#micro4-indiff) · [★ marginal rate of substitution (MRS)](#micro4-mrs) · [budget constraint & MRT](#micro4-budget) · [★ the optimum: MRS = MRT](#micro4-optimum) · [comparative statics · interior vs corner · Cobb-Douglas shortcut](#micro4-comparative) · [behavioral economics](#micro4-behavioral) · [cases](#micro4-cases) · [formula sheet](#micro4-formulas) · [★ practice problems (with solutions)](#micro4-practice) · [★ Fun facts](#ff-micro4)
 
 ---
 
@@ -696,3 +697,329 @@ With E_S = 2 and |E_D| = 4: **consumer share = 2 ÷ (2+4) = 1/3**, **producer sh
 - **Elasticity has a time dimension:** when petrol jumps, you can't do much *this week* (inelastic), but over years you buy a smaller car and move closer to work (elastic) — the "short-run vs long-run" split.
 - **Brand vs category:** demand for *a* beer is wildly elastic (≈ −4.7 — switch brands!), but demand for *beer* is inelastic (≈ −0.6) — same drink, opposite elasticity, just different zoom level.
 - **Swedes really do drive to Denmark for cheap booze** — enough that economists measured the cross-border **cross-price elasticity** of spirits (+0.3) from the data (Asplund et al. 2007).
+
+---
+
+<a id="lecture-4-micro"></a>
+# Lecture 4: Consumer Choice (Chapter 5)
+
+**Required reading:** Friberg, **Chapter 5 — Consumer choice** (§5.1 modelling choice · §5.2 preferences & utility · §5.3 budget constraints · §5.4 utility maximization · §5.5 discussion of the framework · §5.6 behavioral economics · §5.7 appendix: solving for the optimal basket with Lagrange). *Lecturer: Luigi Butera — deck **"Lecture 4: Consumer choice."*** *(Numbering note: this is the course's **4th lecture** but the textbook's **Chapter 5**; the deck's own "4.1–4.5" roadmap just re-numbers the chapter's sections.)*
+
+**Theme of the lecture (Butera — from the deck).** So far (Lectures 2–3) we took **demand curves as given** and pushed them around. Now we **build demand from the ground up**: *where do preferences come from, and how does a rational consumer choose under scarcity?* The deck's answer is a **three-stage machine** — **preferences → utility → budget constraint → constrained optimization** — that will (next chapter) *generate* the demand curve. The deck's five stops: **4.1 preferences · 4.2 utility · 4.3 budget constraints · 4.4 constrained choice · 4.5 behavioral economics.**
+
+<div class="heart">★ <strong>The heart of the lecture:</strong> a consumer <strong>maximizes utility subject to a budget constraint.</strong> We (1) describe what she <strong>likes</strong> with well-behaved <strong>preferences</strong> (complete + transitive), (2) quantify them with a <strong>utility function</strong> whose slope-of-indifference-curve is the <strong>MRS</strong> = how much of one good she'll trade for the other <em>and stay equally happy</em>, (3) describe what she <strong>can afford</strong> with a <strong>budget line</strong> whose slope is the <strong>MRT</strong> = <em>p<sub>F</sub>/p<sub>E</sub></em> = how the market lets her trade the goods. The <strong>optimum</strong> is where the highest reachable indifference curve is <strong>tangent</strong> to the budget line — i.e. where <strong>MRS = MRT</strong> (<em>MU<sub>F</sub>/MU<sub>E</sub> = p<sub>F</sub>/p<sub>E</sub></em>): the rate she's <em>willing</em> to trade equals the rate the market <em>lets</em> her trade.</div>
+
+**The red thread.** Every piece answers one of three questions: *what do I want?* (preferences → utility → MRS), *what can I afford?* (budget line → MRT), and *so what do I pick?* (tangency: MRS = MRT). Get those three and you can predict how choices shift when **prices** or **income** change — which is exactly a **demand curve** (next chapter). §5.6 then asks: *when does this rational machine break down?* (behavioral economics).
+
+### Key concepts / "modes" to use
+- **Bundle** — a list of quantities of each good (e.g. "4 Entertainment, 2 Food"). Choice = ranking bundles.
+- **Preferences & the rationality axioms** — **completeness** (can rank any two bundles) · **transitivity** (rankings "hold in transit") · **monotonicity / "more is better"** (convenient add-on).
+- **Utility function** `U(F,E)` — assigns a number to each bundle so that **higher = preferred**. **Ordinal**, not cardinal (only the *ranking* means anything).
+- **Marginal utility (MU)** — extra utility from one more unit of a good, holding the other fixed = the **partial derivative**; typically **diminishing**.
+- **Indifference curve** — all bundles giving the *same* utility; **5 properties**; three shapes (**perfect substitutes**, **imperfect substitutes**, **perfect complements**).
+- **Marginal rate of substitution (MRS)** — slope of the indifference curve = **MU_F / MU_E** = how much E you'll give up for one more F at equal utility.
+- **Budget constraint / line** — `I = p_F·F + p_E·E`; the **opportunity set** is everything on or under it.
+- **Marginal rate of transformation (MRT)** — slope of the budget line = **p_F / p_E** = how the *market* lets you swap the goods.
+- **Consumer optimum** — highest indifference curve tangent to the budget line: **MRS = MRT**, i.e. `MU_F/MU_E = p_F/p_E` (equivalently, equal marginal utility *per euro*: `MU_F/p_F = MU_E/p_E`).
+- **Interior vs corner solution** — tangency inside the axes vs "spend everything on one good" (perfect substitutes).
+- **Behavioral economics** — systematic deviations: **social preferences**, **lack of self-control**, **cognitive biases** (loss aversion, endowment effect, framing, overconfidence).
+
+### Section-by-section main points
+
+<a id="micro4-why"></a>
+#### §5.1 How can we model choice? — the three ingredients (deck)
+
+***Core:*** we model an individual who **faces constraints** (income, time) and **does as well as possible** given them. Sounds almost tautological — the whole chapter is about *putting structure* on "does as well as possible." The deck lists the **ingredients we need**:
+- **A language** to say "I like this more than that" → **preferences** (§5.2).
+- **Assumptions** that make those preferences *rational* → the **axioms** (completeness, transitivity).
+- **A tool to quantify wellbeing** → the **utility function** (§5.2.1).
+- **A tool to quantify "you can't have it all"** → the **budget constraint** (§5.3).
+- **Bringing it together** → **constrained optimization** (§5.4).
+- **Three premises of the whole build (deck + §5.1):** *(1)* we **know and have stable preferences**, *(2)* we **face constraints** (time, money), *(3)* we **try to do as well as possible** given them.
+
+<a id="micro4-preferences"></a>
+#### §5.2 Preferences and the rationality axioms (deck slides 6–7)
+
+***Core:*** choice is modelled as **ranking bundles.** For the ranking to give a consistent model we assume it obeys two **essential** axioms (plus one convenient one). The deck's notation for the ranking:
+
+| Symbol | Reads | Meaning |
+|---|---|---|
+| **a ≻ b** | "a is **strictly preferred** to b" | a is *better* than b |
+| **a ⪰ b** | "a is **weakly preferred** to b" | a is *at least as good* as b |
+| **a ∼ b** | "**indifferent** between a and b" | a and b are *equally good* |
+
+- **Completeness (essential):** the consumer can **rank any two bundles** — for any A, B she can say A≻B, B≻A, or A∼B. *(No "I can't compare these.")*
+- **Transitivity (essential):** rankings **"hold in transit"** — if **A≻B** and **B≻C**, then **A≻C**. This is what lets us predict choice in a *chain* of comparisons (and stops preferences from cycling).
+- **Monotonicity / "more is better" (convenient, not essential):** all else equal, **more of a good is better.** This is what makes bundles *farther from the origin* preferred. *(Things you want **less** of — pollution, noise — are relabelled "bads," and we redefine the good as their **absence**.)*
+- **Why the axioms matter:** completeness + transitivity are *exactly* the conditions under which preferences can be represented by a **utility function** (next section). No axioms → no utility function → no model.
+
+<a id="micro4-utility"></a>
+#### §5.2.1 Utility & utility functions (deck slides 8–9)
+
+***Core:*** if preferences are **complete and transitive**, we can represent them with a **utility function** `U(·)` that assigns each bundle a **number**, higher for more-preferred bundles. Neoclassical economics inherits this from the **utilitarian** tradition (J.S. Mill: *"actions are right in proportion as they tend to promote happiness"*).
+
+<div class="formula"><span class="flabel">Utility represents preferences</span>a ≻ b &nbsp;&nbsp;⟺&nbsp;&nbsp; <em>U</em>(a) &gt; <em>U</em>(b)</div>
+
+*Reads:* the utility function just **translates the ranking into real numbers** — bundle *a* is preferred to *b* **if and only if** *a* scores a higher utility number. (This is the **von Neumann–Morgenstern** representation the deck cites.) The function *orders* preferences; it does not measure "happiness" in any absolute unit.
+
+- **Ordinal, not cardinal (the crucial caveat):** only the **ranking** matters, **not** the size of the gap. `U = 8` vs `U = 4` means the first is **preferred** — it does **not** mean "twice as good." *(Deck: "9 > 1, but do '1' and '9' mean something meaningful?" — no. Utility is unobservable.)*
+- **General vs specific form:** general `U = U(F,E)`; a specific example the textbook uses is `U = √(EF)`. **Worked:** at **E=2, F=8**, `U = √(2·8) = √16 = 4`. Bundles with the **same** product `E·F = 16` (e.g. E=4,F=4 or E=8,F=2) sit on the **same** indifference curve; `E=5,F=5` gives `U = 5` → a **higher** curve.
+- **Common functional forms (deck slide 12):**
+  - **Cobb-Douglas:** `U = F^a · E^b` — the workhorse; convex, imperfect substitutes.
+  - **Perfect substitutes:** `U = a·F + b·E` — straight-line indifference curves.
+  - *(Perfect complements: `U = min(F, E)` — L-shaped.)*
+
+<a id="micro4-mu"></a>
+#### ★ Marginal utility & diminishing marginal utility (deck slides 10, 16)
+
+***Core:*** **marginal utility (MU)** is the extra utility from **one more (infinitesimal) unit** of a good, holding the others fixed — i.e. the **partial derivative** of `U`. It is usually **diminishing** (the 1st slice of pizza beats the 7th).
+
+<div class="formula"><span class="flabel">Marginal utility</span><em>MU<sub>F</sub></em> = ∂<em>U</em>(F,E)/∂<em>F</em> &nbsp;&nbsp;·&nbsp;&nbsp; <em>MU<sub>E</sub></em> = ∂<em>U</em>(F,E)/∂<em>E</em></div>
+
+*Reads:* **how much total utility rises per extra unit of one good, other goods held constant** — **∂U/∂F** = the partial derivative w.r.t. Food · **diminishing MU** = this derivative *shrinks* as you get more of the good.
+
+- **The deck's three consumers (utility over one good):** for each extra apple —
+  - **Bob:** each apple adds the **same** utility → **constant** MU (linear U).
+  - **Linda:** each apple adds a bit **more** → **increasing** MU (convex U). *(unusual)*
+  - **Mike:** each apple adds a bit **less** → **diminishing** MU (concave U). *(the normal case)*
+- **Worked example (`U = √(EF) = E^{0.5}F^{0.5}`):** `MU_F = ∂U/∂F = 0.5·E^{0.5}·F^{-0.5} = 0.5·√(E/F)`. At **E=2, F=8**: `MU_F = 0.5·√(2/8) = 0.5·0.5 = 0.25`. As **F rises** (holding E), `√(E/F)` falls → **MU_F falls** → diminishing marginal utility. ✓
+- **Why it matters:** diminishing MU is *why* indifference curves are **bowed toward the origin** (convex) and *why* the **MRS falls** as you move down a curve — the next two ideas.
+
+<a id="micro4-indiff"></a>
+#### Indifference curves — 5 properties & the 3 types (deck slides 13–14)
+
+***Core:*** an **indifference curve** connects **all bundles the consumer views as equally desirable.** It's the level-set of the utility function (fix `U` at one number). The deck's **five properties**:
+
+| # | Property | Why |
+|---|---|---|
+| 1 | Curves **farther from the origin** are preferred | "more is better" (monotonicity) |
+| 2 | **Every** bundle lies on some indifference curve | completeness |
+| 3 | Indifference curves **cannot cross** | transitivity (crossing → contradiction) |
+| 4 | They **slope downward** | to keep utility fixed, more of one good ⇒ less of the other |
+| 5 | They **cannot be "thick"** | a thick band would contain a strictly-better bundle (monotonicity) |
+
+- *(Utility is read **ordinally**: the *labels* on the curves rank them; the *gaps* between labels are meaningless.)*
+- **Three shapes of preference (textbook §5.2):**
+
+![Three panels of indifference curves. Left: perfect substitutes — parallel straight lines with slope −1. Middle: imperfect substitutes — convex curves bowed toward the origin, with the MRS steep (willing to give up a lot of Food) when Food is scarce and flat when Food is abundant. Right: perfect complements — L-shaped curves with a fixed consumption ratio at the corner.](figures/l4-preference-types.png)
+
+- **Perfect substitutes** — tradeable at a **constant rate** → **straight-line** curves (constant slope). *Example: one €20 note ∼ four €5 notes, always.* `U = aF + bE`.
+- **Imperfect substitutes (the normal case)** — willing to trade, but the **rate depends on how much of each you already have** → **convex** curves, "bowed toward the origin" (**strictly convex** preferences). *When you have lots of chips and no drink, you'll give up many chips for one drink; when you have few chips, you won't.* `U = √(EF)`, Cobb-Douglas.
+- **Perfect complements** — consumed in a **fixed ratio** → **L-shaped** curves. *Left & right shoes: a 2nd right shoe alone adds nothing.* `U = min(F,E)`.
+
+![An indifference map of convex (imperfect-substitute) curves U₁ < U₂ < U₃, with a dashed tangent line at one bundle whose slope equals −MRS = −MU_F/MU_E, and an arrow pointing northeast labelled "more preferred."](figures/l4-indifference-map.png)
+
+**How to read it (indifference map).** Each green curve is one utility level; **northeast = more preferred** (property 1). The dashed tangent at the marked bundle has slope **−MRS**: it gets **flatter** as you move right (more Food, less willing to give up Food) — that's diminishing MRS, the topic below.
+
+<a id="micro4-mrs"></a>
+#### ★ Marginal rate of substitution (MRS) (deck slides 17–19)
+
+***Core:*** the **MRS** is the **slope of the indifference curve** — the **maximum amount of one good the consumer will give up to get one more unit of the other, staying equally happy.** Because utility is constant along the curve (`dU = 0`), it equals the **ratio of marginal utilities.**
+
+<div class="formula"><span class="flabel">Marginal rate of substitution</span><em>MRS</em> = −d<em>E</em>/d<em>F</em> = <em>MU<sub>F</sub></em> / <em>MU<sub>E</sub></em> &nbsp;&nbsp;<span style="color:#6b7280">(good on the x-axis over good on the y-axis)</span></div>
+
+*Reads:* **how much E you'll trade for one more F and stay on the same curve** — derive it by **totally differentiating** `U` and setting `dU = 0`: `0 = MU_F·dF + MU_E·dE` → `−dE/dF = MU_F/MU_E`. **MU_F** = marginal utility of the x-axis good (Food) · **MU_E** = marginal utility of the y-axis good (Entertainment) · the ratio = the curve's steepness at that point.
+- **Diminishing MRS (why the curve bows):** as you move **down-right** along the curve (more F, less E), `MU_F` **falls** and `MU_E` **rises**, so the ratio `MU_F/MU_E` **shrinks** — the curve **flattens.** *"When I have relatively less pizza I'll give up more burritos for a slice than when I already have lots of pizza."*
+- **Worked example (`U = √(EF)`):** `MU_F = 0.5√(E/F)`, `MU_E = 0.5√(F/E)`, so `MRS = MU_F/MU_E = (0.5√(E/F))/(0.5√(F/E)) = E/F`. At bundle **E=2, F=8**: `MRS = 2/8 = 0.25` → she'll give up only **0.25 units of E** for one more F (she already has lots of F). At **E=8, F=2**: `MRS = 8/2 = 4` → now she'll give up **4 units of E** for one more F. *Same curve, opposite ends → diminishing MRS.* ✓
+
+<a id="micro4-budget"></a>
+#### §5.3 Budget constraint & the MRT (deck slides 21–22)
+
+***Core:*** the **budget constraint** operationalizes "you can't have it all": given prices and income `I`, total spending can't exceed income. With two goods it's a **straight line** (the **budget line**); everything on or below it is the **opportunity set.**
+
+<div class="formula"><span class="flabel">Budget constraint & line</span><em>I</em> = <em>p<sub>F</sub></em>·<em>F</em> + <em>p<sub>E</sub></em>·<em>E</em> &nbsp;&nbsp;⟹&nbsp;&nbsp; <em>E</em> = <em>I</em>/<em>p<sub>E</sub></em> − (<em>p<sub>F</sub></em>/<em>p<sub>E</sub></em>)·<em>F</em></div>
+
+*Reads:* **income = spending on Food + spending on Entertainment**; rearranged for graphing, **E-intercept = I/p_E** (all income on E), **slope = −p_F/p_E**, **F-intercept = I/p_F** (all income on F).
+
+![A budget line for I=22, p_F=3, p_E=2: E-intercept at 11, F-intercept at 7.33, slope −3/2, with two affordable bundles (4,5) and (6,2) marked on the line. A red dashed line shows the pivot inward when p_F rises to 4.4 (steeper), keeping the E-intercept fixed.](figures/l4-budget-constraint.png)
+
+- **Worked example (deck: I=22, p_F=3, p_E=2):** E-intercept `= 22/2 = 11`; slope `= −3/2`; F-intercept `= 22/3 ≈ 7.33`. Bundle **(F=4, E=5)** is affordable: `3·4 + 2·5 = 22` ✓. So is **(F=6, E=2)**: `3·6 + 2·2 = 22` ✓.
+- **MRT — marginal rate of transformation** = the **slope of the budget line** = how the **market** lets you swap goods:
+
+<div class="formula"><span class="flabel">Marginal rate of transformation</span><em>MRT</em> = <em>p<sub>F</sub></em> / <em>p<sub>E</sub></em> &nbsp;&nbsp;<span style="color:#6b7280">(the relative price = the market "exchange rate" between the goods)</span></div>
+
+*Reads:* **give up one F, the market gives you p_F/p_E units of E.** With p_F=3, p_E=2, `MRT = 1.5`: one less Food frees €3, which buys **1.5** Entertainment. *(MRS = what you're **willing** to trade; MRT = what the market **lets** you trade.)*
+- **Comparative statics of the line (deck):**
+  - **Income change** → **parallel shift** (slope unchanged; both intercepts move).
+  - **Price change** → **pivot** (steepness changes). A **higher p_F** ⇒ **steeper**, pivoting **inward** around the E-intercept (see red dashed line); a **lower p_F** ⇒ flatter.
+
+<a id="micro4-optimum"></a>
+#### ★ §5.4 The optimum: maximize utility subject to the budget (deck slide 23)
+
+***Core:*** the consumer solves **`max U(F,E) subject to p_F·F + p_E·E ≤ I`.** Graphically: find the **highest indifference curve** that still touches the budget line — that's the **tangency point.** At the tangency, the slope of the indifference curve (**MRS**) equals the slope of the budget line (**MRT**).
+
+<div class="formula"><span class="flabel">Consumer optimum (tangency)</span><em>MRS</em> = <em>MRT</em> &nbsp;&nbsp;⟺&nbsp;&nbsp; <em>MU<sub>F</sub></em>/<em>MU<sub>E</sub></em> = <em>p<sub>F</sub></em>/<em>p<sub>E</sub></em> &nbsp;&nbsp;⟺&nbsp;&nbsp; <em>MU<sub>F</sub></em>/<em>p<sub>F</sub></em> = <em>MU<sub>E</sub></em>/<em>p<sub>E</sub></em></div>
+
+*Reads:* at the optimum, **the rate you're willing to trade = the rate the market lets you trade.** The last form is the **"equal marginal utility per euro"** (bang-for-the-buck) rule: **the last euro spent on Food yields the same extra utility as the last euro spent on Entertainment** — otherwise you'd reallocate toward the higher-MU-per-euro good.
+
+![Utility maximization: the blue budget line I=22, p_F=3, p_E=2, with three convex indifference curves. The lowest (green) crosses the budget line at point A (affordable but not optimal); the middle (black) is tangent to the budget line at the red optimum (E*≈5.5, F*≈3.67) where MRS = p_F/p_E; the highest (grey dotted) is out of reach.](figures/l4-utility-max.png)
+
+**How to read it (utility maximization).** Point **A** is *affordable* (on the budget line) but **not optimal**: the curve through A is steeper than the line (MRS > MRT), so she values Food more than the market charges → she should **buy more Food, less Entertainment**, sliding down to the tangency. The **red optimum** is the best reachable bundle; the dotted curve U₃ would be better but her income can't reach it.
+- **Why A isn't optimal (the deck's logic):** at A, `MU_F/MU_E > p_F/p_E` — food is "cheap relative to how much you value it." Reallocate toward food until the two ratios are equal.
+- **Worked example (`U = √(EF)`, I=22, p_F=3, p_E=2):** MRS `= E/F`. Set `MRS = MRT`: `E/F = 3/2` → `E = 1.5F`. Plug into the budget `3F + 2E = 22`: `3F + 2(1.5F) = 22` → `6F = 22` → **F\* = 3.67, E\* = 5.5.** *(Check: `3·3.67 + 2·5.5 = 11 + 11 = 22` ✓ — matches the red dot in the figure.)*
+
+<a id="micro4-comparative"></a>
+#### Comparative statics · interior vs corner · the Cobb-Douglas shortcut (deck slide 24, §5.7)
+
+***Core:*** once you can find the optimum, you can ask **how it moves** when a price or income changes — and that movement, traced out, **is the demand curve** (Ch. 6). Watch for **corner solutions.**
+- **Interior vs corner solution (deck):**
+  - **Interior solution** — the tangency lies **strictly inside** the axes (buy *some* of both goods). Requires **convex** (imperfect-substitute) preferences.
+  - **Corner solution** — the optimum is **on an axis** (buy *only one* good). Happens with **perfect substitutes**: if `MRS ≠ MRT` everywhere, you spend **everything** on whichever good gives more **utility per euro** (`MU/p`). *Example: if `U = 2F + E` and `p_F = p_E`, Food gives twice the bang per euro → buy only Food.*
+  - **Perfect complements** — always a corner-of-the-L: buy the goods in their **fixed ratio** regardless of the price ratio (solve the ratio + the budget line together).
+- **The Cobb-Douglas shortcut (worth memorising for exams):** for `U = F^a · E^b`, the tangency condition solves in closed form — the consumer **spends a *constant share* of income on each good**:
+
+<div class="formula"><span class="flabel">Cobb-Douglas optimal demands</span><em>F\*</em> = [ <em>a</em>/(<em>a+b</em>) ] · <em>I</em>/<em>p<sub>F</sub></em> &nbsp;&nbsp;·&nbsp;&nbsp; <em>E\*</em> = [ <em>b</em>/(<em>a+b</em>) ] · <em>I</em>/<em>p<sub>E</sub></em></div>
+
+*Reads:* **spend the fraction a/(a+b) of income on Food and b/(a+b) on Entertainment**, then divide by each price to get quantities. The **exponents are the expenditure shares.** **Worked (`U = F^{0.5}E^{0.5}`, so a=b=0.5, I=22, p_F=3, p_E=2):** `F* = 0.5·22/3 = 3.67`, `E* = 0.5·22/2 = 5.5` — same answer as the tangency method above, in one line. *(Notice each good's demand **doesn't depend on the other good's price** — a special Cobb-Douglas feature.)*
+- **The appendix method (§5.7) — Lagrange:** for a general `U`, combine objective + constraint into `ℒ = U(F,E) + λ(I − p_F F − p_E E)`, set the three partials to zero, and the first two give back **`MU_F/MU_E = p_F/p_E`** — the same tangency condition. `λ` = the **marginal utility of income** ("how much extra utility one more euro of income buys"). *You won't need Lagrange for the exam, but know that it reproduces MRS = MRT.*
+- **The payoff (Ch. 6 foreshadow):** change `p_F`, re-solve the optimum, and record the new `F*` — repeat, and the `(p_F, F*)` pairs **trace out the demand curve.** *This is why we built all this machinery: choice → demand.*
+
+<a id="micro4-behavioral"></a>
+#### §5.5–5.6 Discussion of the framework & behavioral economics
+
+***Core:*** the rational-choice model is powerful (Becker: *"maximizing behavior, market equilibrium, and stable preferences, used relentlessly and unflinchingly"*) — but it's a **model.** Two clarifications, then the **deviations.**
+- **Two common misconceptions (§5.5):**
+  - *"Economics says be a selfish materialist."* **No** — the framework maximizes **utility**, not *goods*. Giving to charity, choosing a low-paid academic job you love, buying organic — all perfectly rational if that's your preference.
+  - *"It only works for apples-vs-oranges."* Actually **Gary Becker** extended it to fertility, marriage, crime, discrimination: assume **stable preferences** and let **costs/benefits differ** across contexts (e.g. why fertility differs across countries — Table 5.2 — need not be different *tastes*).
+- **Behavioral economics (§5.6) — three deviations from the simple model:**
+
+| Deviation | What it is | Signature examples |
+|---|---|---|
+| **Social preferences** | We care about **others** — fairness, status, altruism, spite. *Not irrational* — just richer preferences. | **Ultimatum game**: proposers offer ~40% (not ~0%), responders reject ~16% of low offers to punish unfairness. |
+| **Lack of self-control** | We over-weight the **present** — a myopic *"doer"* vs a *"planner"* (Thaler–Shefrin). | Smoking, over-spending, under-saving; the marshmallow test; policy responses = mandatory pensions, alcohol limits. |
+| **Cognitive limitations & biases** | Systematic (not random) errors; **bounded rationality**, heuristics. | **Loss aversion / status-quo bias / endowment effect** (Cornell coffee-mug study: owners value the mug 2–4× more); **framing** (600-lives problem); **overconfidence** (68% of entrepreneurs think they'll beat the odds). |
+
+- **Random error vs bias (deck's dartboard):** *random* misses scatter around the bull's-eye (people are right *on average*); a **behavioral bias** is a **systematic** skew off-centre (Kahneman & Tversky, *Thinking, Fast and Slow*).
+- **Final word (§5.6.5):** the rational model stays the **benchmark** — you need it *even to define* a "deviation." Behavioral economics tells you **when** the benchmark will mislead (e.g. demand for addictive painkillers vs baking soda).
+
+<a id="micro4-cases"></a>
+### Cases & examples
+
+- <a id="case-shrimp"></a>**Why did shrimp consumption triple? (Freakonomics / Levitt) — §5.4.1.** Non-economists guessed **demand shifts** (health fads, movies, trendy chefs). The choice framework points first to **prices and income**: the **relative price of shrimp fell** — that alone moves the optimum along/across the budget line. *Lesson: shifts in the budget constraint, not just tastes, drive choices.*
+- <a id="case-pizza-confit"></a>**Same preferences, different choices: US pizza vs French duck confit (Dubois et al. 2014) — Fig 5.8.** Give an American and a French consumer the **identical** indifference map. Pizza is **cheaper in the US**, confit **cheaper in France** → different **budget-line slopes** → the American picks more pizza, the French more confit. *Different choices need not mean different tastes — just different **relative prices.***
+- <a id="case-ultimatum"></a>**The ultimatum game — fairness is real (Güth 1982; Henrich 2001).** Split €10; responder can veto (then both get €0). Pure self-interest predicts "offer €0.10, accept." Instead proposers offer **~40%**, and low offers get **rejected** — even across 15 small-scale societies worldwide (offers never below ~25%). *Evidence for **social preferences**.*
+- <a id="case-mugs"></a>**The Cornell coffee-mug experiment — the endowment effect (Kahneman et al. 1990).** Mugs handed out at random; owners then valued them **2–4× higher** than non-owners would pay. Ownership shouldn't matter to a rational valuation — but a **reference point** does. *Loss aversion / status-quo bias in one image.*
+- <a id="case-foodstamps"></a>**Food stamps or cash? (deck slide 25).** ~50% of US kids use food stamps before age 20. In the standard model, **cash is weakly better** (it relaxes the budget line *more* — you can buy food *or* anything else), so an in-kind transfer can only tie or lose. *Yet* food stamps persist — because of **paternalism / self-control** concerns and political constraints. *A perfect budget-constraint application with a behavioral twist.*
+- <a id="case-fertility"></a>**Fertility rates: tastes or costs? (Becker; Table 5.2).** South Korea 0.97 kids/woman vs Mali 6.14. A Becker-style reading: **same preferences**, different **costs/benefits** of children (childcare compatibility with careers, old-age support, child mortality, pensions). *Rational choice reaches far beyond "goods."*
+
+<a id="micro4-formulas"></a>
+### Formula sheet (Consumer Choice)
+
+| Concept | Formula | In words |
+|---|---|---|
+| **Utility represents preferences** | `a ≻ b ⟺ U(a) > U(b)` | numbers rank bundles (**ordinal**) |
+| **Marginal utility** | `MU_F = ∂U/∂F` | extra utility per extra unit; usually **diminishing** |
+| **MRS (slope of indifference curve)** | `MRS = MU_F / MU_E` | how much E you'll trade for one more F, same utility |
+| **Budget line** | `I = p_F·F + p_E·E` → `E = I/p_E − (p_F/p_E)F` | what you can afford; slope `−p_F/p_E` |
+| **MRT (slope of budget line)** | `MRT = p_F / p_E` | how the **market** lets you trade F for E |
+| **Consumer optimum** | `MRS = MRT` ⟺ `MU_F/MU_E = p_F/p_E` ⟺ `MU_F/p_F = MU_E/p_E` | tangency = equal MU per euro |
+| **Cobb-Douglas demands** (`U=F^a E^b`) | `F* = a/(a+b) · I/p_F`,  `E* = b/(a+b) · I/p_E` | spend constant income shares |
+
+### Key terms
+
+| Term | One-line meaning |
+|---|---|
+| **Bundle** | a specific quantity of each good |
+| **Completeness** | can rank *any* two bundles |
+| **Transitivity** | A≻B, B≻C ⟹ A≻C (rankings "hold in transit") |
+| **Monotonicity** | "more is better" — farther-out curves preferred |
+| **Utility function** | numbers on bundles preserving the ranking (**ordinal**) |
+| **Marginal utility (MU)** | ∂U/∂(good); extra utility from one more unit |
+| **Indifference curve** | all bundles of equal utility |
+| **MRS** | slope of indifference curve = MU_F/MU_E |
+| **Budget constraint / line** | `I = p_F F + p_E E`; the opportunity set |
+| **MRT** | slope of budget line = p_F/p_E |
+| **Consumer optimum** | highest reachable curve tangent to the budget line |
+| **Interior / corner solution** | some of both goods / all of one good |
+| **Behavioral economics** | systematic deviations from the rational model |
+| **Loss aversion / endowment effect** | losses hurt more than equal gains; owning raises valuation |
+
+### Exam pointers
+- **Draw the machine, then solve it.** For "find the optimal bundle": (1) write `MRS = MU_F/MU_E`, (2) set `MRS = p_F/p_E`, (3) combine with the **budget line** `I = p_F F + p_E E`, (4) solve the two equations. *Two equations, two unknowns — always.*
+- **Cobb-Douglas → use the shortcut.** If `U = F^a E^b`, jump straight to `F* = a/(a+b)·I/p_F`. Saves time; derive it once so you trust it.
+- **Check the second good.** After finding one quantity, plug back into the budget line for the other, and **verify it satisfies the constraint** (`p_F F* + p_E E* = I`).
+- **MRS = MU of the x-axis good over MU of the y-axis good.** Getting the ratio upside-down is the #1 error. If Food is on the x-axis, `MRS = MU_F/MU_E` and the tangency is `MU_F/MU_E = p_F/p_E`.
+- **Corner solutions:** perfect substitutes → compare `MU_F/p_F` vs `MU_E/p_E` and spend everything on the winner. Perfect complements → ignore the price ratio, use the **fixed ratio + budget line.**
+- **Comparative statics language:** income change = **parallel shift**; own-price change = **pivot**. Re-solving the optimum after a price change is how you **derive a demand curve** (Ch. 6).
+- **Ordinal, not cardinal:** never say "twice as happy." Utility numbers only **rank.**
+- **Behavioral:** be able to name the bias from a scenario (endowment effect, loss aversion, framing, self-control, overconfidence) and say it's a **systematic** (not random) deviation.
+
+**Bridge to Lecture 5 (Ch. 6 — Demand curves & elasticities).** We now have a consumer who picks the tangency bundle for *given* prices and income. **Change one price and re-solve**, over and over, and the optimal quantities trace out a **demand curve** — closing the loop back to the demand we assumed in Lecture 2, and connecting to the **elasticities** of Lecture 3.
+
+<a id="micro4-practice"></a>
+### ★ Practice problems (with solutions)
+
+> A full-chapter set: preferences & axioms → utility & MU → MRS → budget line & MRT → the optimum → Cobb-Douglas shortcut → corner solutions → comparative statics → behavioral. Try each before opening the solution. Use **Food (F)** on the x-axis, **Entertainment (E)** on the y-axis throughout.
+
+**1.** A consumer has bundles **A = (E 4, F 2)**, **B = (E 8, F 2)**, **C = (E 3, F 3)**, **D = (E 6, F 5)**. Using only **"more is better,"** which rankings can you establish for certain, and which need the indifference map? (Compare A–B, C–D, and A–C.)
+
+**2.** Preferences satisfy completeness, transitivity, monotonicity. A student says: *"I prefer coffee to tea, tea to cocoa, but cocoa to coffee."* Which **axiom** does this violate, and why is it a problem for building a utility function?
+
+**3.** `U = √(EF)`. (a) Find the utility of **(E 2, F 8)**, **(E 4, F 4)**, **(E 8, F 2)**, **(E 5, F 5)**. (b) Which lie on the **same** indifference curve? (c) Rank all four bundles.
+
+**4.** `U = F^{0.5} E^{0.5}`. (a) Derive `MU_F` and `MU_E`. (b) Evaluate both at **(F 4, E 9)**. (c) Does `MU_F` rise or fall as F increases (E fixed)? Name the principle.
+
+**5.** For `U = √(EF)`, show that **MRS = E/F**. Then compute the MRS at **(E 2, F 8)** and at **(E 8, F 2)** and interpret the difference in one sentence.
+
+**6.** Income **I = 40**, `p_F = 4`, `p_E = 2`. (a) Write the budget line as `E = …`. (b) Give both intercepts and the slope. (c) Is **(F 6, E 8)** affordable? (d) What is the **MRT**, and what does it mean?
+
+**7.** Same as 6 (`I = 40`, `p_F = 4`, `p_E = 2`). (a) The government gives a **€20 income top-up**. What happens to the budget line? (b) Instead, `p_F` **falls to 2**. What happens? (c) Sketch the difference in words (shift vs pivot).
+
+**8.** `U = √(EF)`, **I = 40**, `p_F = 4`, `p_E = 2`. Find the **optimal bundle** using `MRS = MRT` + the budget line. Verify it satisfies the constraint.
+
+**9.** `U = F^{0.25} E^{0.75}` (Cobb-Douglas), **I = 60**, `p_F = 3`, `p_E = 6`. Use the **expenditure-share shortcut** to find `F*` and `E*`. What share of income goes to each good?
+
+**10.** *(Perfect substitutes.)* `U = 2F + E`, **I = 24**, `p_F = 3`, `p_E = 2`. (a) Compute `MU_F/p_F` and `MU_E/p_E`. (b) What is the optimal bundle, and why is it a **corner solution**?
+
+**11.** *(Perfect complements.)* `U = min(F, E)`, **I = 30**, `p_F = 2`, `p_E = 3`. Find the optimal bundle. *(Hint: the optimum sits at the corner where `F = E`; combine with the budget line.)*
+
+**12.** *(Comparative statics.)* Start from problem 8's optimum (`U = √(EF)`, I=40, p_F=4, p_E=2). Now `p_F` **falls to €2**. (a) Find the new optimum. (b) Did the quantity of Food rise or fall? (c) You now have **two `(p_F, F*)` points** — what curve are you tracing out?
+
+**13.** *(Behavioral.)* Name the bias in each: (a) You keep a concert ticket you'd never pay today's resale price for. (b) "1 in 3 patients survive" feels better than "2 in 3 die." (c) You put your alarm clock across the room so you can't hit snooze. (d) 80% of new founders rate their success odds ≥ 7/10.
+
+---
+
+### Solutions
+
+**1.** **A vs B:** B has more E (8 vs 4), same F → **B ≻ A** (more is better). **C vs D:** D has more of *both* (E 6>3, F 5>3) → **D ≻ C.** **A vs C:** A has more E (4>3) but less F (2<3) → **cannot rank** by "more is better" alone; you need the **indifference map** (depends on the MRS).
+
+**2.** Violates **transitivity.** coffee ≻ tea and tea ≻ cocoa should imply coffee ≻ cocoa, but she says cocoa ≻ coffee — the preferences **cycle.** A cycling ranking **can't be represented by a utility function** (no set of numbers can have coffee > tea > cocoa > coffee), so the whole model of choice breaks down.
+
+**3.** (a) `U = √(EF)`: (E2,F8) → `√16 = 4`; (E4,F4) → `√16 = 4`; (E8,F2) → `√16 = 4`; (E5,F5) → `√25 = 5`. (b) The **first three** (all `E·F = 16`) lie on the **same** indifference curve (U=4). (c) **(E5,F5) ≻ {the other three, which are indifferent to each other}** — i.e. `(5,5) ≻ (2,8) ∼ (4,4) ∼ (8,2)`.
+
+**4.** (a) `MU_F = ∂U/∂F = 0.5 F^{-0.5} E^{0.5} = 0.5√(E/F)`; `MU_E = 0.5 F^{0.5} E^{-0.5} = 0.5√(F/E)`. (b) At (F4,E9): `MU_F = 0.5√(9/4) = 0.5·1.5 = 0.75`; `MU_E = 0.5√(4/9) = 0.5·0.667 = 0.333`. (c) As **F rises**, `√(E/F)` falls → `MU_F` **falls** = **diminishing marginal utility.**
+
+**5.** `MRS = MU_F/MU_E = [0.5√(E/F)] / [0.5√(F/E)] = √(E/F)·√(E/F) = E/F`. At **(E2,F8):** `MRS = 2/8 = 0.25`; at **(E8,F2):** `MRS = 8/2 = 4`. **Interpretation:** with lots of F she'll give up only 0.25 E for one more F; with little F she'll give up 4 E — the MRS **falls** as F rises (diminishing MRS / convex curve).
+
+**6.** (a) `40 = 4F + 2E` → **`E = 20 − 2F`.** (b) **E-intercept = 20**, **F-intercept = 10**, **slope = −2**. (c) (F6,E8): `4·6 + 2·8 = 24 + 16 = 40` → **exactly affordable** (on the line). (d) **MRT = p_F/p_E = 4/2 = 2** → giving up **1 Food** frees €4, which buys **2 Entertainment.**
+
+**7.** (a) **Income +€20** (`I = 60`): **parallel outward shift** — new intercepts E `= 60/2 = 30`, F `= 60/4 = 15`; **slope unchanged (−2).** (b) **`p_F` falls to 2:** budget **pivots** — E-intercept **unchanged at 20**, F-intercept rises to `40/2 = 20`, slope flattens to `−p_F/p_E = −1`. (c) Income change = **parallel shift** (same slope, more of everything); own-price change = **pivot** (one intercept fixed, slope changes).
+
+**8.** `MRS = E/F` (from problem 5). Set `MRS = MRT`: `E/F = 4/2 = 2` → **`E = 2F`.** Budget: `4F + 2E = 40` → `4F + 2(2F) = 40` → `8F = 40` → **F\* = 5, E\* = 10.** *(Check: `4·5 + 2·10 = 20 + 20 = 40` ✓.)*
+
+**9.** Shortcut for `U = F^{0.25}E^{0.75}` (a=0.25, b=0.75, a+b=1): `F* = 0.25 · 60/3 = 0.25·20 = **5**`; `E* = 0.75 · 60/6 = 0.75·10 = **7.5**`. **Shares:** **25%** of income (€15) on Food, **75%** (€45) on Entertainment. *(Check: `3·5 + 6·7.5 = 15 + 45 = 60` ✓.)*
+
+**10.** `U = 2F + E`: `MU_F = 2`, `MU_E = 1`. (a) **`MU_F/p_F = 2/3 ≈ 0.67`**; **`MU_E/p_E = 1/2 = 0.5`.** (b) Food gives **more utility per euro** (0.67 > 0.5) and the rate is **constant** (perfect substitutes), so spend **everything on Food**: `F* = I/p_F = 24/3 = **8**, E* = 0`. **Corner solution** because `MU_F/p_F ≠ MU_E/p_E` *everywhere* — there's no interior tangency; the highest indifference (straight) line touches the budget line **on the F-axis.**
+
+**11.** `U = min(F,E)`: no point in having more of one than the other, so the optimum has **`F = E`.** Budget: `2F + 3E = 30` with `E = F` → `2F + 3F = 30` → `5F = 30` → **F\* = E\* = 6.** *(Check: `2·6 + 3·6 = 12 + 18 = 30` ✓.)* *(Note: the price ratio is irrelevant to the ratio of goods — only to how much of the fixed bundle you can afford.)*
+
+**12.** Now `p_F = 2`, `p_E = 2`, I = 40. `MRS = E/F = p_F/p_E = 2/2 = 1` → **`E = F`.** Budget: `2F + 2E = 40` with `E = F` → `4F = 40` → **F\* = 10, E\* = 10.** (b) Food **rose from 5 to 10** as its price fell 4→2 (a downward-sloping demand response). (c) The two points **(p_F=4, F=5)** and **(p_F=2, F=10)** are two points on the consumer's **demand curve for Food.**
+
+**13.** (a) **Endowment effect / sunk-cost + status-quo bias** (you value it more because you own it). (b) **Framing effect** (same facts, "survive" vs "die"). (c) **Lack of self-control** — a commitment device (planner constrains the future doer). (d) **Overconfidence.**
+
+---
+
+<a id="ff-micro4"></a>
+## ★ Fun facts & memorable details (Lecture 4)
+
+> Sticky bits from Consumer Choice.
+
+- **"More is better" has a loophole:** economists just **redefine bads as the absence of the bad** — you don't demand pollution, you demand *clean air.* A neat trick that keeps monotonicity intact.
+- **Utility is unobservable — so numbers lie.** `U = 8` is not "twice as good" as `U = 4`; utility is purely **ordinal.** Early economists agonised over this; the modern answer is "we only ever need the ranking."
+- **The bang-for-your-buck rule is the whole optimum.** `MU_F/p_F = MU_E/p_E` — at the best bundle, the **last euro** spent on each good buys the **same** extra utility. If it didn't, you'd move money to the better-value good. That's *all* tangency means.
+- **Cobb-Douglas people are creatures of habit:** with `U = F^a E^b` you always spend the **same share** of income on each good — no matter how rich you get or how prices move. That's why it's the field's favourite functional form.
+- **Left shoes are worthless alone.** Perfect complements (L-shaped curves) are why a single earring, one glove, or a lone right shoe adds **zero** utility — you need the matching unit.
+- **The ultimatum game breaks "Homo economicus."** Offered a lopsided split, people **pay real money to punish unfairness** — and this holds from Pittsburgh to Papua New Guinea. Fairness is not a Western quirk.
+- **You'd sell your coffee mug for far more than you'd pay for it.** The **endowment effect**: Cornell students valued a randomly-given mug **2–4× higher** than students who didn't get one. Ownership rewires valuation.
+- **The paradox of voting:** a strict cost-benefit reading says *don't vote* (your vote almost never decides the election). That people vote anyway is a clue that **narrow self-interest is too small a theory of us.**
+- **Ulysses tied himself to the mast** to resist the Sirens — a 3,000-year-old **commitment device**, the same logic as not keeping cigarettes in the house. Self-control problems are ancient.

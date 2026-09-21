@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T10:57:26.765Z",
+  "generatedAt": "2026-09-21T12:28:55.676Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -7,7 +7,7 @@
       "full": {
         "title": "Applied Microeconomics — Full notes",
         "pdf": "pdfs/applied-micro/Applied-Micro-Notes.pdf",
-        "sizeKB": 11434
+        "sizeKB": 12270
       },
       "parts": [
         {
@@ -27,6 +27,12 @@
           "title": "Lecture 3: Elasticities & Taxes — the Supply & Demand model II (Ch. 2 recap · §6.4)",
           "pdf": "pdfs/applied-micro/lecture-3.pdf",
           "sizeKB": 1413
+        },
+        {
+          "slug": "lecture-4",
+          "title": "Lecture 4: Consumer Choice (Chapter 5)",
+          "pdf": "pdfs/applied-micro/lecture-4.pdf",
+          "sizeKB": 1044
         }
       ]
     },
