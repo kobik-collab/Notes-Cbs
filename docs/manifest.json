@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T12:28:55.676Z",
+  "generatedAt": "2026-09-23T06:00:56.221Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -7,7 +7,7 @@
       "full": {
         "title": "Applied Microeconomics — Full notes",
         "pdf": "pdfs/applied-micro/Applied-Micro-Notes.pdf",
-        "sizeKB": 12270
+        "sizeKB": 12272
       },
       "parts": [
         {
@@ -26,7 +26,7 @@
           "slug": "lecture-3",
           "title": "Lecture 3: Elasticities & Taxes — the Supply & Demand model II (Ch. 2 recap · §6.4)",
           "pdf": "pdfs/applied-micro/lecture-3.pdf",
-          "sizeKB": 1413
+          "sizeKB": 1416
         },
         {
           "slug": "lecture-4",
@@ -42,7 +42,7 @@
       "full": {
         "title": "Political & Economic Thought — Full notes",
         "pdf": "pdfs/political-economic-thought/Political-Economic-Thought-Notes.pdf",
-        "sizeKB": 4142
+        "sizeKB": 5286
       },
       "parts": [
         {
@@ -73,7 +73,19 @@
           "slug": "module-4-enlightenment-and-political-liberalism-1660-1790",
           "title": "Module 4: Enlightenment and Political Liberalism (1660–1790)",
           "pdf": "pdfs/political-economic-thought/module-4-enlightenment-and-political-liberalism-1660-1790.pdf",
-          "sizeKB": 823
+          "sizeKB": 820
+        },
+        {
+          "slug": "module-5-american-and-french-experiments-social-liberalism-a",
+          "title": "Module 5: American and French Experiments — Social Liberalism and Liberal Democracy (1830–1873)",
+          "pdf": "pdfs/political-economic-thought/module-5-american-and-french-experiments-social-liberalism-a.pdf",
+          "sizeKB": 1050
+        },
+        {
+          "slug": "exercise-class-3-the-pros-and-cons-of-democracy",
+          "title": "Exercise Class 3: The Pros and Cons of Democracy",
+          "pdf": "pdfs/political-economic-thought/exercise-class-3-the-pros-and-cons-of-democracy.pdf",
+          "sizeKB": 388
         }
       ]
     },
@@ -83,7 +95,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 10213
+        "sizeKB": 10686
       },
       "parts": [
         {
@@ -150,7 +162,13 @@
           "slug": "foreign-policymaking-ea",
           "title": "Foreign Policymaking (EA)",
           "pdf": "pdfs/political-science/foreign-policymaking-ea.pdf",
-          "sizeKB": 468
+          "sizeKB": 471
+        },
+        {
+          "slug": "eu-i-the-evolution-of-the-eu-auw",
+          "title": "EU I: The Evolution of the EU (AUW)",
+          "pdf": "pdfs/political-science/eu-i-the-evolution-of-the-eu-auw.pdf",
+          "sizeKB": 614
         }
       ]
     }
