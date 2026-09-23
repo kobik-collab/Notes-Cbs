@@ -555,6 +555,10 @@ Each: *the example → the concept it teaches.*
 - **Left — elastic demand (PED > 1):** consumers easily cut back, so firms **can't raise the price much** → the **supplier absorbs most** of the tax.
 - **Right — inelastic demand (PED < 1):** consumers keep buying regardless, so the firm **passes most of the tax through** → the **consumer bears most** of it.
 - **Policy take-aways:** (1) **"sin taxes"** on inelastic goods (cigarettes, alcohol) fall mostly on **consumers** and raise a lot of revenue with **little DWL** (quantity barely moves) — which is *why* governments like them, and why they can be **regressive** (hit the poor). (2) We **prefer taxes on inelastic bases** — they distort choices least.
+- **Putting a number on the split — the pass-through formula.** The diagrams say *which* side pays more; this formula says *how much*. Each side's share of the tax is the **other side's** elasticity over the total:
+<div class="formula"><span class="flabel">Tax incidence (pass-through)</span>consumer share = <em>E<sub>S</sub></em> ÷ ( <em>E<sub>S</sub></em> + |<em>E<sub>D</sub></em>| ) &nbsp;·&nbsp; producer share = |<em>E<sub>D</sub></em>| ÷ ( <em>E<sub>S</sub></em> + |<em>E<sub>D</sub></em>| )</div>
+  - **Read it as "the other side's elasticity on top":** the **consumer** share carries **E_S** (supply's elasticity); the **producer** share carries **|E_D|** (demand's elasticity). Same denominator; the two shares **add to 1** (they split the whole tax — a handy check).
+  - **Why the *other* side's elasticity?** A side pays a big share when it **can't escape** — i.e. when it's inelastic *and the other side is elastic*. If supply is very elastic (big E_S), sellers walk away rather than absorb the tax, so it lands on **consumers** → E_S on top of the consumer share. This is the same "inelastic side bears more" rule from the diagrams, now as an equation. *(Worked in [practice problem 11](#micro3-practice).)*
 - **Subsidies are the mirror image:** `p_s = p_b + s` — a subsidy lowers the buyer price, raises the seller price, **expands** quantity above the efficient level, and also creates a **deadweight loss** (units produced that cost more than consumers value them). Its incidence, too, depends on elasticities (inelastic demand — e.g. emergency care, primary education — → small DWL).
   - **Worked example (subsidy s = €3):** same market (`Q_D = 23 − p_b`, `Q_S = −1 + p_s/2`) but now `p_s = p_b + 3` → solving gives **p_b = 15, p_s = 18, Q = 8** — buyers pay **less** and sellers get **more**, and quantity *rises* above the no-subsidy level (6 → 8). The subsidy costs the government `s × Q = 3 × 8 = €24`, part of which is **deadweight loss**.
 
@@ -609,7 +613,7 @@ Each: *the example → the concept it teaches.*
 | Supply elasticity | `E_S = %ΔQ_S ÷ %Δp` | **8** |
 | Unit tax: solve `p_b, p_s, Q`, revenue, DWL, incidence | `p_b = p_s + t` | **9** |
 | Subsidy: solve `p_b, p_s, Q`, cost, DWL | `p_s = p_b + s` | **10** |
-| Incidence from elasticities (pass-through) | `consumer share = E_S ÷ (E_S + \|E_D\|)` | **11** |
+| Incidence from elasticities (pass-through) | `consumer share = E_S ÷ (E_S + \|E_D\|)` · `producer share = \|E_D\| ÷ (E_S + \|E_D\|)` | **11** |
 | Equilibrium + a price control *(Ch. 2 recap)* | set `Q_D = Q_S` | **12** |
 
 ### Problems
