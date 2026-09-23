@@ -23,6 +23,9 @@
 - **[IR IV: International Security (AUW)](#ir-lecture-4)** — [★ security is a contested concept](#ir4-contested) · [whose security? the referent object](#ir4-referent) · [types of threat](#ir4-threats) · [the state: protector or war-maker?](#ir4-state) · [national → international → human security](#ir4-history) · [IR theories & security](#ir4-theories) · [★ securitisation](#ir4-securitisation) · [critical security studies](#ir4-critical) · [★ causes of war: levels of analysis](#ir4-causes) · [types of war](#ir4-typesofwar) · [conflicts of ideas & interest](#ir4-conflicts) · [★ Fun facts](#ff-ir4)
 - **[Foreign Policymaking (EA)](#ir-lecture-5)** — [opening the "black box" (FPA)](#fp-blackbox) · [★ domestic variables](#fp-domestic) · [neoclassical realism](#fp-neoclassical) · [★ US foreign policy since 2017 (Trump)](#fp-trump) · [transformational change (Ashbee & Hurst)](#fp-transformational) · [embeddedness](#fp-embeddedness) · [★ two-level games (Putnam)](#fp-twolevel) · [does the balance vary?](#fp-vary) · [★ Fun facts](#ff-fp)
 
+**Part III · The European Union as a Political System**
+- **[EU I: The Evolution of the EU (AUW)](#eu-lecture-1)** — [what is European integration?](#eu1-what) · [the EU: neither IO nor state](#eu1-suigeneris) · [★ deepening & widening](#eu1-deepwiden) · [why integration began (post-WWII)](#eu1-origins) · [★ the evolution timeline](#eu1-timeline) · [ECSC → Rome](#eu1-ecsc) · [the enlargements](#eu1-enlargement) · [Maastricht & the euro](#eu1-maastricht) · [politicization & the era of crisis](#eu1-crises) · [Brexit: integration in reverse](#eu1-brexit) · [★ why integration? two theories](#eu1-theories) · [neofunctionalism & spillover](#eu1-neofunc) · [liberal intergovernmentalism](#eu1-li) · [★ the eurozone-crisis case](#eu1-eurocase) · [theories compared](#eu1-compare) · [★ Fun facts](#ff-eu1)
+
 ---
 
 <div class="part" id="part-1">Part I · Political Systems &amp; Institutions</div>
@@ -2610,3 +2613,274 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 - **A "hostile takeover":** a departing senior diplomat described Trump's first-year State Department — *"you decapitate the leadership, you compartmentalize the power centers, you engender fear and suspicion."*
 - **Populism is a "thin" ideology** (Mudde) — a **crust** on top of other ideologies, which is why Ashbee & Hurst call Trump-I only **"proto-transformational."**
 - **Japan revived the TPP *without* the US** after Trump pulled out — a real "changed logic": the world starts building around, not through, Washington.
+
+---
+
+<div class="part" id="part-3">Part III · The European Union as a Political System</div>
+
+<a id="eu-lecture-1"></a>
+# EU I: The Evolution of the EU (AUW)
+
+**Required reading:** McCormick, J. (2021), *Understanding the European Union: A Concise Introduction*, Palgrave Macmillan (**pp. 45–66**) · Wiener, A., Börzel, T. & Risse, T. (eds) (2019), *European Integration Theory*, 3rd ed., OUP (**pp. 44–49** = neofunctionalism; **pp. 64–70** = liberal intergovernmentalism).
+
+**Theme of the lecture.** How did **six states cooperating after WWII** become a **deeply integrated regional political system** of (up to) 28? The lecture does two things: **(1)** tells the **story** — the twin processes of **deepening** (more policy areas, more shared authority) and **widening** (more member states), through treaties, bargains and crises; and **(2)** asks the **why** — explaining that story through the two great rival theories of integration, **neofunctionalism** (integration is driven by *spillover*) and **liberal intergovernmentalism** (integration is what *states bargain for*). It opens a new Part: the EU as a **political system** in its own right — neither an ordinary international organisation nor a state.
+
+<div class="heart">★ <strong>The heart of the lecture:</strong> European integration has advanced along <strong>two dimensions — DEEPENING</strong> (authority moves to the European level in more and more policy areas) and <strong>WIDENING</strong> (more states join). The <strong>central question</strong> is <em>why it developed this way</em>, and there are two rival answers: <strong>neofunctionalism</strong> — integration has an <strong>autonomous, expansive logic</strong> (<em>spillover</em>: integrating one area creates pressure to integrate the next); vs <strong>liberal intergovernmentalism</strong> — integration is a <strong>controlled series of rational state bargains</strong> (states form domestic preferences, bargain over the gains, and build institutions to lock in the deal). <br><strong>Red thread:</strong> is integration a runaway process that outgrows what states intended (NF), or exactly what powerful states chose (LI)?</div>
+
+**Key concepts to apply:** *European integration* (Haas's definition) · *supranational vs intergovernmental* · *deepening vs widening* · *the Community method* · *the four freedoms / common market* · *spillover* (functional · political · cultivated) · *permissive consensus → politicization* · *national preferences · asymmetrical interdependence · credible commitments* · *pooling vs delegating sovereignty*.
+
+<a id="eu1-what"></a>
+## What is European integration?
+
+***Core:*** integration is a **process** by which states **increasingly cooperate, create common rules and institutions, and exercise some authority *jointly*** — changing **where decisions are made, what states can do alone, and what they do together.** It is at once an **institutional** process (building common bodies) and a **political** one (contested, driven by interests and bargaining).
+
+- **The classic definition — Haas (1958):** integration is *"a process whereby political actors in several distinct national settings are persuaded to shift their **loyalties, expectations and political activities toward a new centre**, whose institutions possess or demand jurisdiction over the pre-existing national states."* → Note the three things that move to the "new centre": **loyalties, expectations, activities.** (This definition is itself *neofunctionalist* — hold that thought for the theory section.)
+- **Two faces of the process:** it is **institutional** (creating shared bodies with real authority) *and* **political** (about who wants what, and who bargains hardest). The EU is "the most developed example of this process in Europe."
+
+<a id="eu1-suigeneris"></a>
+#### The EU: neither a typical international organization nor a state (*sui generis*)
+
+***Core:*** the EU is a **new kind of political animal** — it combines **supranational** and **intergovernmental** governance, so it fits neither box.
+
+| | Like this… | …but unlike this |
+|---|---|---|
+| **vs an international organization** | member states **remain sovereign**; national governments keep major areas of authority | EU institutions **exercise real authority** where states have **transferred or pooled** it — ordinary IOs can't bind members this way |
+| **vs a state** | it makes binding rules across a territory | there is **no single European sovereign government** replacing the member states |
+
+- **The two logics it combines** (the whole Part III in one distinction):
+  - **Supranational** = authority **above** the states: common institutions (Commission, Court, Parliament, ECB) can make and enforce rules that bind members, sometimes by **majority** (so a state can be **outvoted**).
+  - **Intergovernmental** = authority **between** the states: decisions taken by governments bargaining as sovereign equals, each keeping a **veto**.
+  - *In plain terms:* in some policy areas Europe acts like a would-be federation (supranational); in others it's a club of sovereign states (intergovernmental). The EU is the **mix** — which is exactly why the two theories fight over how to read it.
+
+<a id="eu1-deepwiden"></a>
+## ★ Deepening & widening — the two dimensions of integration
+
+***Core:*** integration grows in **two directions at once**, and keeping them apart is the key analytical tool of the lecture (and the take-home exercise).
+
+| | **DEEPENING** | **WIDENING** |
+|---|---|---|
+| **What grows** | the **scope & depth** of integration — more policy areas become European; common institutions/rules gain more authority | the **territory** — more **states join**, so EU rules cover more ground |
+| **Direction** | "**vertical**" — authority moves *upward* to the European level | "**horizontal**" — the club gets *bigger* |
+| **Examples** | ECSC → EEC → single market → euro; each treaty pooling more | 6 → 9 → 12 → 15 → 25 → 27 → 28 members |
+
+- **They often happen together** — e.g. the **Single European Act** (deepening: the single-market push) coincided with **Southern enlargement** (widening). And they can pull against each other: a **wider** EU of very diverse members is harder to **deepen** (more vetoes, more varied interests) — which is why treaties like **Nice (2001)** had to *reform the institutions* so a larger Union could still function.
+- **Integration can also go *backwards*** — **Brexit** is **widening in reverse** (a member leaves). So the full set of possibilities is: **deepening · widening · both · contestation · disintegration.**
+
+![A deepening × widening map of European integration: the horizontal axis is widening (6 → 28 member states), the vertical axis is deepening (more policy areas and shared authority). A path connects the milestones from the 1952 ECSC up to 2013 Croatia, with a red dashed arrow marking the 2016–20 Brexit reversal.](figures/eu1-deepening-widening.png)
+
+**How to read it.** Each dot is a milestone plotted by **how many members** the club had (→ right = wider) and **how much authority** had moved to the European level (↑ up = deeper). The path climbs **up-and-to-the-right**: the EU got **both deeper and wider** over 60 years — but not smoothly. Long **horizontal** stretches (e.g. **2004** "big-bang" enlargement) are *pure widening* — lots of new members, no new depth that year. **Vertical** jumps (**Maastricht 1992**, the **euro**) are *pure deepening* — same members, much more shared authority. The **red arrow** is **Brexit**: for the first time the path moves **left** — integration reversed. *Use this map to answer the take-home exercise: classify each event as deepening, widening, both, or reversal.*
+
+---
+
+<a id="eu1-origins"></a>
+## Why did integration begin after WWII? (McCormick, ch. 3)
+
+**Reading:** McCormick, *Understanding the European Union*, ch. 3 "The Evolution of the EU" (**pp. 45–66**).
+
+***Core:*** the EU was **"born out of the ruins of the Second World War."** Three post-war needs drove it — **economic reconstruction, security in the Cold War, and stopping European nationalism from causing a third war** — and the linchpin of the whole project was **Franco-German reconciliation.**
+
+- **The three needs** (McCormick's frame): **(1)** rebuild shattered economies (agricultural output had **halved**); **(2)** provide **security** as the USSR loomed and the Cold War set in; **(3)** **tame nationalism** — the nation-state was "discredited by the war."
+- **Franco-German reconciliation = the master key.** The belief: if the two historic enemies could be bound together, broader integration could follow. This is why the first step was **coal and steel** — "the building blocks of industry" and the base of German (Ruhr) power: pooling them made West Germany **reliant on trade with its neighbours** *and* eased **French fear** of German industrial revival.
+- **The American scaffolding** (integration was "underwritten by the US"):
+  - **Marshall Plan (1948–51):** ~**$12.5 bn** (~$132 bn in 2020 money) of US aid via the **OEEC (Paris)** — it "**encouraged European governments to work together**" and highlighted their economic **interdependence**.
+  - **NATO (1949):** the security shield ("an attack on one = an attack on all") under which integration could safely proceed.
+- **The false start — defence first (and why it failed).** An ambitious **European Defence Community (EDC)** + political community was proposed (1950) but **the French National Assembly rejected the EDC in 1954** (no British support; French fear of German rearmament; national humiliation at **Dien Bien Phu**). → *Lesson the founders learned:* integrate through **low-politics economics first** (Monnet's "step by step through concrete achievements"), not high-politics defence. *(This is exactly the sequence neofunctionalism theorises.)*
+- **Suez (1956)** hammered the point home: Britain and France discovered they were **no longer world powers**, and Britain began to "look to Europe."
+
+<a id="eu1-timeline"></a>
+## ★ The evolution timeline — deepening & widening in action
+
+***Core:*** the whole story on one page. Read each row as **deepening** (authority moves up) or **widening** (members join) — the diagram above plots it.
+
+| Year | Milestone | D/W |
+|---|---|---|
+| **1950** | **Schuman Declaration** (9 May; now *Europe Day*) — pool Franco-German coal & steel | — |
+| **1951/52** | **Treaty of Paris → ECSC** (the Six); first **supranational** transfer of powers | **Deepen** |
+| **1957/58** | **Treaties of Rome → EEC + Euratom**; goal of a **common market** in 12 yrs | **Deepen** |
+| **1968** | **Customs union** declared; **Common Agricultural Policy (CAP)** | **Deepen** |
+| **1965–66** | **Empty-chair crisis** (de Gaulle) → **Luxembourg Compromise** affirms the **national veto** | *(stall)* |
+| **1973** | **First enlargement:** UK, Ireland, Denmark (Norway says no) | **Widen** |
+| **1979** | Direct elections to the **European Parliament** | Deepen |
+| **1981 / 1986** | **Southern enlargement:** Greece (1981); Spain & Portugal (1986) | **Widen** |
+| **1986/87** | **Single European Act** — complete the **single market** by 1992 | **Deepen** |
+| **1992/93** | **Maastricht Treaty → the "European Union"** (pillars, EMU, citizenship) | **Deepen** |
+| **1995** | Austria, Finland, Sweden join | **Widen** |
+| **1999 / 2002** | **The euro** — electronic 1999, notes & coins 2002 | **Deepen** |
+| **1997 / 2001** | Treaties of **Amsterdam** (Schengen into EU law) & **Nice** (institutional prep) | Deepen |
+| **1993 / 2004 / 07 / 13** | **Copenhagen criteria** (1993); **"big-bang" East** (2004, 10 states); Bulgaria/Romania (2007); Croatia (2013 → **28**) | **Widen** |
+| **2005 → 2009** | **Constitutional Treaty rejected** (France, NL) → salvaged as the **Treaty of Lisbon** (2009) | Deepen |
+| **2016 / 2020** | **Brexit** referendum (2016) → UK leaves (2020) | **Reverse** |
+
+<a id="eu1-ecsc"></a>
+#### From coal & steel to a common market (1950–68)
+
+***Core:*** integration began **narrow and sectoral** (coal + steel) and **expanded outward** into a general common market — the pattern neofunctionalists call spillover.
+
+- **The Schuman Declaration (9 May 1950)** — drafted with **Jean Monnet**, announced by foreign minister **Robert Schuman**: place French & German coal and steel under a **common High Authority**, "a first step in the federation of Europe," making war between them "not merely unthinkable, but **materially impossible.**"
+- **ECSC (Treaty of Paris 1951; began 1952).** The **Six** — **France, West Germany, Italy, Belgium, the Netherlands, Luxembourg** — created the **first supranational** body (High Authority under Monnet, + Council, Assembly, Court). Modest powers, but it "**proved a point about the feasibility of integration.**"
+- **Treaties of Rome (1957) → EEC + Euratom (1958).** The same Six commit to a **common market** within 12 years (free movement of **people, money, services** + common external tariff), plus common **agriculture, trade, transport** policy. The Assembly becomes the **European Parliament** (1962).
+- **The customs union (1968)** formed *ahead* of schedule, and the **CAP** created a single agricultural market with guaranteed farm prices. → *This early momentum looked like a vindication of neofunctionalism.*
+- **But the state struck back:** the **1965–66 empty-chair crisis** — **de Gaulle** boycotted the Council over Commission power, voting and the budget — was resolved by the **Luxembourg Compromise**, which **affirmed the national veto.** → *The first big evidence for the intergovernmental side.*
+
+<a id="eu1-enlargement"></a>
+#### The enlargements — widening from 6 to 28
+
+***Core:*** the club grew in **waves**, each changing the EU's character; from the East it came with **conditionality** (the Copenhagen criteria).
+
+- **1973 — first enlargement: UK, Ireland, Denmark.** Britain had stayed out (championing the looser **EFTA**, 1960), applied late, and was **vetoed twice by de Gaulle** (1963, 1967) — who feared British membership meant **US influence** — before finally joining after he resigned. **Norway's** electorate said no (as it would again in 1994).
+- **1981/86 — Southern enlargement: Greece, then Spain & Portugal**, anchoring their **new democracies** after dictatorship. Doubling to **12** members **reduced Franco-German dominance** and shifted the internal economic balance.
+- **1995 — Austria, Finland, Sweden** (rich EFTA states).
+- **The Copenhagen criteria (1993)** — the conditions for (mainly Eastern) applicants: **(a)** stable **democracy**, human rights, rule of law; **(b)** a functioning **market economy**; **(c)** capacity to adopt the **acquis communautaire** (the whole existing body of EU law). → *Enlargement wasn't just adding territory; it drove **domestic change** in applicants — "conditionality."*
+- **2004 "big-bang" — 10 states** (Cyprus, Malta + 8 post-communist: Czechia, Estonia, Hungary, Latvia, Lithuania, Poland, Slovenia, Slovakia); **2007** Bulgaria & Romania; **2013** Croatia → **28 members, ~500 m people.** Symbolically, the **end of the Cold War division of Europe.** (Candidates today: Albania, Montenegro, North Macedonia, Serbia, Turkey.)
+
+<a id="eu1-maastricht"></a>
+#### Deepening: the single market, Maastricht & the euro
+
+***Core:*** from the mid-1980s integration went **political**, not just economic — the single market, then a genuine **Union** with a **single currency.**
+
+- **Single European Act (1986/87)** — the first big treaty change since Rome: complete the **single market by 31 Dec 1992** (scrap customs/passport controls, harmonise standards, mutual recognition of qualifications), new powers on **environment, R&D, regional** policy, and made **EMU an objective.** *(Related but separate: the **Schengen Agreement (1985)** abolished internal border controls — folded into EU law by Amsterdam.)*
+- **Maastricht Treaty (1992/93) → "the European Union."** The turning point from *Community* to *Union*:
+  - a **three-pillar** structure — (1) the European Community; (2) **Common Foreign & Security Policy**; (3) **Justice & Home Affairs** *(pillars 2–3 = intergovernmental; abolished by Lisbon)*;
+  - the **Delors plan for Economic & Monetary Union** confirmed;
+  - **EU citizenship** created; new EP powers (**codecision**).
+  - Integration was now "**increasingly political as well as economic.**"
+- **The euro** — electronic **1999**, notes & coins **2002**; adopted by all but **Denmark, Sweden, the UK**. Members give up **national monetary policy** and become deeply interdependent — "a clear example of **deepening.**"
+- **Amsterdam (1997/99)** brought Schengen into EU law and expanded EP powers; **Nice (2001/03)** resized the institutions to **prepare for a much larger membership** — because the EU was becoming **both deeper and wider** while its institutions "had been designed for a smaller, less integrated system."
+- **Constitutional Treaty → Lisbon.** A 2004 **Constitution** was **killed by referendums in France & the Netherlands (2005)** — founding members. Most of it was salvaged in the **Treaty of Lisbon (2009):** a permanent **European Council President**, a **High Representative** for foreign affairs (+ diplomatic service), **pillars abolished**, more **QMV** (but the **veto kept** for foreign/defence policy & tax), a single EU legal personality, and — for the first time — an explicit **right to leave** (Article 50). → *The 2005 rejection shows integration "depends on **domestic political agreement** and can encounter resistance."*
+
+<a id="eu1-crises"></a>
+#### From "permissive consensus" to politicization — and the era of crisis
+
+***Core:*** early integration was quietly **elite-driven**; from the 1990s it became **loudly contested** — and from the late 2000s the EU hit a cascade of overlapping crises.
+
+- **The shift** (a key exam concept): the old **"permissive consensus"** — publics barely noticed, elites decided (recall neofunctionalism's assumption) — broke down after the **Danish "no" to Maastricht (1992)**. Integration became **politicized**, tied to hot issues: **economic distribution, national sovereignty, migration & borders, identity.** Enter **Euroscepticism.**
+- **The "polycrisis"** (Juncker's word) / McCormick's **Seven Crises**, roughly in order:
+  1. the **Constitutional Treaty** failure (2005);
+  2. the **global financial crisis** (from 2007, imported from the US housing crash);
+  3. the **euro / sovereign-debt crisis** (from 2009 — Greece's deficit at ~**13%** vs the 3% limit; bailouts by the EU/**ECB**/**IMF** conditional on **austerity**; riots in Athens; "Grexit" fears);
+  4. the **rule-of-law crisis** (**Hungary & Poland** — judicial capture, Orbán's authoritarian turn);
+  5. the **refugee crisis** (from the **Syrian war**; 2014–15 surge; west–east splits; the EU–**Turkey** deal);
+  6. **Brexit** (below);
+  7. the **Covid-19 pandemic** (2020) — the only crisis with no EU-internal cause, yet a severe test of united action.
+- These crises "became **moments in which the scope, limits and distribution** of European cooperation were **contested**." *(Great material for the theories: each crisis can be read as spillover pressure **or** as an interstate distributional bargain.)*
+
+<a id="eu1-brexit"></a>
+#### Brexit — integration in reverse
+
+***Core:*** in **June 2016** UK voters chose to **leave** (**52%–48%**, 72% turnout); the UK formally left in **January 2020.** Brexit proves European integration is **not one-directional** — the possibilities include **deepening, widening, contestation, *and* disintegration.**
+
+- **What it revealed** (McCormick): Leave support was **highest among older, less-educated voters**; it rode **low public knowledge of the EU** ("verifiably false claims" in the campaign) and broader forces — declining faith in government, people "left out" of integration's gains, and a **rejection of globalization.** It cost two PMs (Cameron, May) and triggered a constitutional crisis; Scotland, NI and London voted Remain.
+- **Two readings:** either a **warning** of the costs of abandoning the EU (Britain "weaker outside than in") and a chance for the remaining 27 to **deepen** (e.g. defence) — *or*, more darkly (Bellamy & Castiglione), a sign of "**fragmentation and political disintegration.**"
+
+---
+
+<a id="eu1-theories"></a>
+## ★ Why does European integration happen? — two rival theories
+
+***Core:*** the lecture's *explanatory* half. There are **two families** of explanation, and they disagree fundamentally about **what drives integration and who is in control.**
+
+| | **Neofunctionalism** (Haas) | **Liberal Intergovernmentalism** (Moravcsik) |
+|---|---|---|
+| **One-line claim** | integration is the result of **spillover** | integration is the result of **member-state governments pursuing the national interest** |
+| **Who's in charge?** | elites, interest groups, firms, **supranational institutions** | **states** — "masters of the treaty" |
+| **Is it automatic?** | **semi-automatic & expansive** — one step forces the next | **deliberate & controlled** — states choose each step |
+
+*The sharpest contrast:* neofunctionalism says integration develops an **autonomous logic that pulls sovereignty upward beyond what states intended**; LI says integration is **exactly what powerful states intended** — a controlled sequence of bargains. Everything below fills in these two pictures. *(Readings: neofunctionalism ch. by Niemann, Lefkofridi & Schmitter; LI ch. by Moravcsik & Schimmelfennig — each theory presented by its own proponents.)*
+
+<a id="eu1-neofunc"></a>
+## Neofunctionalism — integration through spillover (Haas 1958)
+
+**Reading:** Wiener et al., ch. on Neofunctionalism (**pp. 44–49**). Founder: **Ernst B. Haas**, *The Uniting of Europe* (1958), written to explain the **ECSC**; revised by **Leon Lindberg**, **Philippe Schmitter**, Scheingold. Intellectual root: **functionalism (David Mitrany)**.
+
+**Résumé.** Neofunctionalism is an **"approach"** (Haas's own word) that explains the **dynamics of integration once it has started** — deliberately *not* why it began or who joins. Its big idea: integration is **driven forward by its own consequences.** Cooperating in one sector creates problems, interests and institutions that generate **pressure to integrate further** — the process **"spills over"** from sector to sector, semi-automatically, carried by **elites and supranational bureaucrats** rather than mass publics. It is **transformative**: it changes actors' very **loyalties and expectations**, pulling them toward the "new centre."
+
+***Core:*** integration is **incremental, elite-driven, positive-sum, and self-expanding.** Actors "**stumble**" from one decision to the next — often "under the pressure of crises and impending deadlines" — and each step creates the conditions for the next.
+
+- **Main actors:** national **and** supranational **elites**, interest associations, firms, political parties — and crucially the **"Eurocrats"** (Commission / the ECSC's High Authority) who can become **agents of further integration.** *Not* just governments.
+- **Core assumptions** (the driving forces):
+  - actors are **self-interested but can *learn* and *change* their preferences** as they experience the benefits of cooperation;
+  - integration is **incremental** → produces **unintended consequences** that require more integration to fix;
+  - regional institutions, once created, **acquire autonomy** and push for more integration (they "**seek more autonomy**");
+  - integration is **positive-sum** — the "supranational style" means no unconditional vetoes; instead an **"upgrading of common interests"** (package deals that expand the common ground);
+  - growing **economic interdependence** means functional problems can't be solved within national borders.
+
+<a id="eu1-spillover"></a>
+#### SPILLOVER — the master concept, in three types
+
+***Core:*** **spillover** = the tendency for integration in one area to **create pressures to integrate in others**. Haas's "**expansive logic of sector integration**": integrating one sector "begets its own impetus toward extension of the entire economy." It comes in **three forms** — learn to name and distinguish them:
+
+| Type | Who/what drives it | Mechanism (how the pressure is created) |
+|---|---|---|
+| **Functional spillover** | the **technical interdependence** of sectors | integrating one sector creates **practical problems** solvable only by integrating the **adjacent** sector — integration expands almost mechanically outward |
+| **Political spillover** | **national elites & interest groups** | actors affected by integration **shift their expectations, lobbying and loyalties** to the European level; repeated contact breeds **"bureaucratic interpenetration"** and **socialization** |
+| **Cultivated spillover** | **supranational institutions** (Commission / High Authority) | the "Eurocrats" **actively broker** more integrative deals — "**splitting the difference**" and **"upgrading common interests"** — cultivating further integration |
+
+- **Common logic:** *existing* integration generates pressures — functional, political, and cultivated — that **push the process further.** (Deck discussion: **free movement of workers** is already integrated → what new problems does it create? An Austrian professional living, working, paying taxes and retiring in **Portugal** needs integrated **social security, tax, pension, healthcare and qualification-recognition** rules → integration spills into all of those.)
+- **Where it went wrong (be able to say this).** Neofunctionalism looked **vindicated** into the mid-1960s (ECSC → EEC/Euratom; the customs union formed *ahead* of schedule; the CAP). Then the **"empty chair" crisis (1965–66)**: French President **de Gaulle** paralysed the Community and the **Luxembourg Compromise (1966)** restored the **national veto** — directly contradicting the assumption of **automaticity.** Haas himself later called the theory **"obsolescent" (1976).** It **revived in the mid-1980s** with the single-market push (and is used again to explain the euro crisis — see below).
+
+<a id="eu1-li"></a>
+## Liberal Intergovernmentalism — states bargain (Moravcsik 1998)
+
+**Reading:** Wiener et al., ch. on Liberal Intergovernmentalism (**pp. 64–70**). Founder: **Andrew Moravcsik**, *The Choice for Europe* (1998); roots in **Stanley Hoffmann's** intergovernmentalism (1966). Today LI is the field's **"baseline" theory** — the standard everyone tests against.
+
+**Résumé.** LI is the great **state-centric** rival. Its blunt claim: integration is **"a series of rational choices made by national leaders."** States remain **"masters of the treaty"**; the EU is best seen as **"an international regime for policy coordination."** But LI is **not realism** — it takes **domestic economic interests** seriously and treats institutions as useful. Its power is a clean **three-stage model** of how any integration decision is made.
+
+***Core:*** two assumptions — **(1)** states are the **critical, unitary actors** (bargaining as sovereign equals, no central authority above them); **(2)** they are **boundedly rational** (they calculate costs/benefits and pick the option that maximises utility). From these follows the three-stage sequence, **each stage explained by a separate theory:**
+
+| Stage | The question | The theory / mechanism |
+|---|---|---|
+| **1 · National preferences** | *what does each state want?* | a **liberal** theory: preferences are **issue-specific**, set by **domestic economic & societal interests** (producers vs taxpayers), *not* a single goal like "security" |
+| **2 · Interstate bargaining** | *what deal gets struck, and who gains?* | an **intergovernmental** theory: **hard bargaining** over the distribution of gains; power comes from **asymmetrical interdependence** |
+| **3 · Institutional choice** | *why build/empower institutions?* | a **regime** theory: institutions **lock in credible commitments** and cut transaction costs |
+
+- **Stage 1 — national preferences (the "liberal" bit).** What a government wants is **built from the bottom up** out of domestic interests — and it's **issue-specific** (agriculture ≠ environment ≠ defence). Empirically, Moravcsik found state preferences on integration reflected **concrete economic interests** (esp. the post-war shift to intra-industry trade) far more than Cold-War security or "European ideals."
+- **Stage 2 — interstate bargaining & asymmetrical interdependence (the key mechanism).** Preferences rarely match, so states **bargain hard** over how to split the gains — with **credible veto threats, side-payments, and threats of exclusion.** Bargaining power comes from **asymmetrical interdependence**: *In plain terms* — **the state that needs the deal *least* is the most powerful**, because it can most credibly walk away (its **"outside option"** is better). Big, less-dependent states dominate; outcomes tend toward the **lowest common denominator.** *(Direct shot at neofunctionalism:* LI says supranational "ideational entrepreneurs" like Monnet or Delors are **not** a fundamental cause — Commission mediation is a mere convenience, "no more than… airplanes, email, texts, or telephones.")*
+- **Stage 3 — why create institutions? credible commitments.** States **pool** sovereignty (e.g. **qualified-majority voting**) or **delegate** it (to the **Commission, ECB, ECJ**) not because they lose control but to make their **commitments credible** — to stop each other **defecting** from the deal later (a **prisoner's-dilemma** fix). Institutions cut transaction costs, share information, monitor compliance. **The twist:** for LI the EU's supranational bodies are **weak and endogenous** (tiny budget, no coercion, rules enforced by *national* officials); the *real* guarantee of commitment is **domestic** — empowering national executives, courts and pro-deal groups.
+- **Critiques of LI (be able to say this):** it explains the **grand treaty bargains** (Rome, SEA, Maastricht) well but is weak on **day-to-day EU politics**; it treats **institutions too thinly** (as mere instruments), underplaying how they feed back and reshape interests; and the **unitary-state** assumption flattens messy domestic pluralism.
+
+<a id="eu1-eurocase"></a>
+## ★ Worked case — the eurozone / sovereign-debt crisis, explained twice
+
+***Core:*** the deck's payoff: take **one event** — the crisis producing new European-level coordination — and show how **each theory explains the same facts differently.** This is the exam template (claim → mechanism → evidence → how the *other* theory would explain it).
+
+| | **Neofunctionalist reading** | **Liberal-intergovernmentalist reading** |
+|---|---|---|
+| **What drove the response** | a **functional gap** in EMU's design created **spillover pressure** | **member states** bargained over who pays |
+| **The mechanism** | monetary policy was pooled at the **supranational** level while **fiscal** policy stayed **national** — this discrepancy generated integrative pressure to close the gap | states calculated costs/benefits and did **hard bargaining** over bailouts, rescue funds and the Fiscal Compact |
+| **Key actors** | **BusinessEurope** lobbied for more integration; financial markets signalled the same; the **Commission, Parliament and even the ECB** pushed for more (the ECB "breached the impartiality rule" to demand a **Banking Union**) | a **Northern vs Southern** coalition, each answering to its own citizens; the **Northern** bloc had more bargaining power |
+| **The outcome** | crisis + deadlines → **incremental** deepening (Banking Union), institutions seeking **more autonomy** | the North **delayed support** to force the South to accept the **Fiscal Compact** (more monitoring) → EMU deepened via **budget control / European Semester** |
+
+- **Why the case is powerful:** the **same deepening** (tighter EMU) is read by NF as **spillover** (the logic of EMU forced the next step) and by LI as a **distributional bargain** (the powerful creditor states extracted austerity in exchange for rescue). Neither is obviously "wrong" — which is the point of having **two theories.** *(Take-home: run the same four-step analysis on **EU defence integration**.)*
+
+<a id="eu1-compare"></a>
+## ★ Neofunctionalism vs Liberal Intergovernmentalism — compared
+
+| Dimension | **Neofunctionalism** | **Liberal Intergovernmentalism** |
+|---|---|---|
+| **Founder / key work** | Haas, *The Uniting of Europe* (1958) | Moravcsik, *The Choice for Europe* (1998) |
+| **Key actors** | elites, interest groups, firms, **supranational institutions** | **states** (unitary, boundedly rational) — "masters of the treaty" |
+| **What drives integration** | **spillover** (functional + political + cultivated) — incremental, semi-automatic | **rational state choices**: domestic preferences → bargaining → institutions |
+| **Supranational institutions** | **autonomous engines** that reshape national interests | **endogenous instruments** to make commitments credible |
+| **Logic of bargaining** | **positive-sum**, "upgrading common interests" | **distributive hard bargaining**, lowest common denominator |
+| **Loyalties shift upward?** | **yes** — toward a "new centre" | **no** — states keep preeminence & legitimacy |
+| **Explains well** | the **expansive early phase** (ECSC → EEC), day-to-day "creep," arguably the **euro crisis** | the **grand treaty bargains** (Rome, SEA, Maastricht) |
+| **Explains badly** | the **empty-chair crisis / de Gaulle**, stagnation, the return of the veto | **everyday politics**, autonomous supranational agency, institutional feedback |
+
+- **The takeaway for essays:** don't treat them as right/wrong but as **two lenses.** Neofunctionalism is strongest where integration seems to **outrun** what governments planned (spillover, unintended consequences, the Commission's creep); LI is strongest at the **big set-piece treaty moments** where you can see governments **bargaining hard over the terms.** A good answer names **which phenomenon** each explains best — and uses the **[eurozone case](#eu1-eurocase)** to show the same event through both.
+
+---
+
+<a id="ff-eu1"></a>
+## ★ Fun facts & memorable details (EU I: Evolution)
+
+> Sticky bits from the first EU lecture.
+
+- **The EU began with *coal and steel* on purpose.** Placing the raw materials of war under a common authority (Schuman, 1950) was meant to make another Franco-German war "**materially impossible**" — peace engineered through economics.
+- **Spillover means the EU "stumbles" forward.** Haas's actors don't march to a master plan — they "**stumble from one decision to another**," often "under the pressure of **crises and impending deadlines**." Integration by muddling through.
+- **Haas fired his own theory.** After de Gaulle's empty chair broke the spell, the founder of neofunctionalism pronounced it **"obsolescent" (1976)** — only for it to stage a comeback in the 1980s.
+- **Moravcsik's great put-down of the Commission:** supranational mediators are no more a *cause* of EU bargains than "**airplanes, email, texts, or telephones**" — useful logistics, not the driving force.
+- **The EU is astonishingly *small* as a state-like thing:** an administration "**barely the size of a European city of a million people**," ~**2%** of European public spending, and **no coercive capacity** — most EU law is enforced by **national** officials. (LI's proof that states stay in charge.)
+- **"Masters of the treaty"** — LI's memorable label for the member states: whatever Brussels does, the governments still hold the pen (they wrote the treaties and can rewrite them).
+- **Brexit made a theoretical point real:** integration is **not one-directional.** The arrow can point **left.**
+
+---
