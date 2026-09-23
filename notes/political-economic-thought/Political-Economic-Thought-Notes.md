@@ -13,6 +13,8 @@
 - **[Exercise Class 1: The Pros & Cons of a Central Political Authority](#ex1-pet)** — [Cicero: *On the Commonwealth*](#ex1-cicero) · [the cycle of constitutions](#cic-anacyclosis) · [the mixed constitution](#cic-mixed) · [Hobbes: *Leviathan* Part 2 (chs 17–20)](#ex1-hobbes) · [the generation of the commonwealth](#hob2-generation) · [rights of the sovereign](#hob2-rights) · [Machiavelli (supplementary)](#ex1-machiavelli) · [Cicero vs Hobbes](#ex1-compare) · [★ Reading-question answers](#ex1-questions) · [★ Fun facts](#ff-ex1)
 - **[Module 3: The Roots of Modern Economics — Mercantilism to Economic Liberalism (1500–1790)](#module-3-pet)** — [Mercantilism](#m3-mercantilism) · [quantity theory of money (Salamanca/Bodin)](#m3-salamanca) · [The Physiocrats & the *Tableau économique*](#m3-physiocracy) · [laissez-faire (Gournay/Turgot)](#m3-laissezfaire) · [Adam Smith](#m3-smith) · [division of labour & the invisible hand](#m3-invisiblehand) · [Smith & laissez-faire](#m3-smith-laissezfaire) · [*Is Mercantilism Back?*](#m3-article) · [★ Fun facts](#ff-module3-pet)
 - **[Module 4: Enlightenment and Political Liberalism (1660–1790)](#module-4-pet)** — [the Enlightenment frame](#m4-frame) · [Locke (Waldron)](#m4-locke) · [social contract & consent](#loc-contract) · [equality & natural law](#loc-natural) · [property](#loc-property) · [rule of law & revolution](#loc-revolution) · [Montesquieu (McClelland)](#m4-montesquieu) · [spirit of the laws / *esprit général*](#mon-spirit) · [types & principles of government](#mon-types) · [separation of powers](#mon-separation) · [Wollstonecraft](#m4-wollstonecraft) · [Rousseau (optional)](#m4-rousseau) · [general will](#rou-generalwill) · [who are "the people"?](#m4-compare) · [★ Reading-question answers](#m4-questions) · [★ Fun facts](#ff-module4-pet)
+- **[Module 5: American & French Experiments — Social Liberalism & Liberal Democracy (1830–1873)](#module-5-pet)** — [★ Lecture 5 frame (BAP)](#m5-lecture) · [historical context: the modern revolutions](#m5-context) · [thought after the revolutions](#m5-after) · [ancients vs moderns (Constant)](#m5-constant) · [**Tocqueville** (Welch)](#m5-tocqueville) · [democracy = equality of conditions](#toc-equality) · [method: political sociology](#toc-method) · [individualism](#toc-individualism) · [tyranny of the majority](#toc-tyranny) · [soft despotism](#toc-despotism) · [the antidote: participation & associations](#toc-antidote) · [**Mill**](#m5-mill) · [utilitarianism](#mill-util) · [the argument for representative democracy](#mill-repgov) · [the harm principle](#mill-harm) · [self- vs other-regarding](#mill-actions) · [liberalism vs utilitarianism tension](#mill-tension) · [The Subjection of Women](#mill-women) · [Mill the economist (Backhouse)](#mill-economics) · [Cassidy: *Is America an Oligarchy?*](#m5-cassidy) · [★ Reading-question answers](#m5-questions) · [★ Fun facts](#ff-module5-pet)
+- **[Exercise Class 3: The Pros & Cons of Democracy](#ex3-pet)** — [Montesquieu: *The Spirit of the Laws* (Bks II·III·VIII)](#ex3-montesquieu) · [nature vs principle of government](#ex3-nature-principle) · [the three governments](#ex3-types) · [virtue as democracy's principle](#ex3-virtue) · [corruption of democracy](#ex3-corruption) · [Tocqueville: *Democracy in America*](#ex3-tocqueville) · [sovereignty of the people](#ex3-sovereignty) · [what maintains the republic](#ex3-maintains) · [the tutelary despotism](#ex3-tutelary) · [Montesquieu vs Tocqueville](#ex3-compare) · [CNN: the second impeachment](#ex3-cnn) · [★ Prep-question answers](#ex3-questions) · [★ Fun facts](#ff-ex3)
 
 ---
 
@@ -1832,5 +1834,580 @@ Rousseau makes **the people sovereign** and freedom **collective** — but leave
 **Rousseau** *(optional)*
 - **"Man is born free, and everywhere he is in chains"** — nine words that "sum up the entire history of the human race."
 - The man who wrote *Émile* (on education) deposited **all five of his own children** in the **Foundling Hospital.**
-- **Burke blamed Rousseau (almost single-handedly) for the French Revolution** — Rousseau is "the first of the terrifying simplifiers."
-- **"Forced to be free"** — the paradox at the root of the whole modern debate about **positive liberty** and **totalitarianism.**
+
+---
+
+<a id="module-5-pet"></a>
+# Module 5: American and French Experiments — Social Liberalism and Liberal Democracy (1830–1873)
+
+**Readings:** Welch, **'Tocqueville'** (*Political Thinkers*, ch. 17, pp. 288–306) · Tocqueville, ***Democracy in America*** (1835) · J. S. Mill — ***On Liberty*** (1859), ***Considerations on Representative Government*** (1861), ***The Subjection of Women*** (1869) · Backhouse, *Penguin History of Economics* (**pp. 157–59, 165–69**) · Cassidy, **'Is America an Oligarchy?'** (*New Yorker*, 2014).
+
+**Theme of the module.** Modules 1–4 asked *how do we justify and constrain political authority?* Now the **age of democratic revolutions** (America 1776, France 1789) has actually **built** popular government — so the question shifts from *whether* the people should rule to **how a society of equals can rule itself without destroying liberty.** Both thinkers are **liberals writing after the revolutions**, worried that **democratic equality** and **majority rule** could crush the individual. **Tocqueville** answers *sociologically* (democracy is a **social condition**; its dangers are cultural — conformity, individualism, "soft despotism"; the antidote is **participation**). **Mill** answers *philosophically* (protect a fenced-off zone of individual liberty with the **harm principle**, and design **representative government** so no interest is left out). Together they define **"social liberalism" / liberal democracy**: democracy is accepted as inevitable and good, *but* it must be **civilised by liberty**.
+
+<div class="heart">★ <strong>The red thread — the two thinkers in ONE idea each</strong> (everything below hangs off these):
+<br>• <strong>Tocqueville → </strong> democracy is <strong>equality of social conditions</strong>, not a set of institutions — an <strong>irresistible</strong> historical tide. Its <em>political</em> danger is new: not a tyrant but the <strong>tyranny of the majority</strong> and a mild, tutelary <strong>"soft despotism"</strong> bred by <strong>individualism</strong>. The antidote is <strong>political participation</strong> — local self-government, juries, associations, religion — which pulls atomised individuals back into public life.
+<br>• <strong>Mill → </strong> the individual must be <strong>sovereign over the self-regarding sphere</strong>: society may coerce a person <strong>only to prevent harm to others</strong> (the <strong>harm principle</strong>). <strong>Representative government</strong> is the ideally best polity because participation both <strong>protects</strong> every interest ("no guaranty" for the excluded) and <strong>improves</strong> citizens' character — and its logic <strong>"knows no gender difference"</strong> (<em>The Subjection of Women</em>).
+<br>• <strong>The shared problem:</strong> how to reconcile <strong>liberty</strong> with <strong>democratic equality / majority rule</strong> — "<em>under what conditions could a society of equals also be a free people?</em>"</div>
+
+---
+
+<a id="m5-lecture"></a>
+## ★ Lecture 5 (BAP) — After the Revolutions: reconciling freedom with democratic equality
+
+> The lecture (**Benjamin Ask Popp-Madsen**) sets the 19th-century stage — the aftermath of the American and French revolutions — then reads **Tocqueville** and **Mill** as the two great attempts to make the new democratic age **safe for liberty.** This section carries the deck's **framing** (historical context; the birth of Left/Right; ancients-vs-moderns); the Tocqueville and Mill readings follow.
+
+<a id="m5-context"></a>
+#### Historical context: the modern revolutions and their aftermath
+
+***Core:*** Tocqueville and Mill write in the **long wake of two revolutions** that turned "popular sovereignty" from theory into fact — but where **America stabilised** into a working constitutional democracy, **France lurched** through republic, empire, monarchy and back for 60 years. That contrast *is* the lecture's puzzle: why did one democratic experiment hold and the other keep collapsing?
+
+| **American Revolution** | **French Revolution & aftermath** |
+|---|---|
+| **1775–83** Revolutionary War | **1789** Revolution; *Declaration of the Rights of Man* |
+| **1776** Declaration of Independence | **1792** monarchy abolished (First Republic) |
+| **1787–88** state constitutional conventions | **1804** Napoleon crowned **emperor** |
+| **1789** Constitution ratified | **1815** monarchy **restored** |
+| **1791** Bill of Rights / First Amendment | **1830** July Revolution → **July Monarchy** |
+| **1861–65** Civil War | **1848** Revolution → **Second Republic**; **1851** coup → Second Empire (Napoleon III) |
+
+*Read the two columns side by side:* America builds **one** durable constitution (1789) with entrenched rights; France cycles through **five-plus** regimes. Tocqueville — a French aristocrat — crosses the Atlantic (1831) precisely to learn from the stable case what France keeps getting wrong.
+
+![Eugène Delacroix, *Liberty Leading the People* (1830) — the allegory of Liberty, tricolour in hand, leading citizens over the barricades of the July Revolution.](figures/m5-liberty-delacroix.jpg)
+
+**How to read it (why this painting, here).** Delacroix painted this to commemorate the **July Revolution of 1830** — the exact event on the French timeline that produced the "July Monarchy." It is the emblem of the **democratic tide** the module is about: "the people," of all classes (top hat beside street boy), pouring into the streets to claim sovereignty. Tocqueville's whole project is to ask what happens *after* the barricades — once "the people" actually rule, how do you keep that energy from curdling into either **anarchy** or a new **despotism**?
+
+<a id="m5-after"></a>
+#### Political thought after the revolutions: the birth of Left, Right & the modern ideologies
+
+***Core:*** the revolutions **reorganised political thought itself.** The very words **"Left" and "Right"** come from where deputies sat in the French National Assembly (1789); out of the rubble come the three **modern ideologies** — **liberalism, conservatism, socialism** — each a different answer to the new master-question: *now that "the people" are sovereign, **how** should they govern, and **which institutions** express "the will of the people"?*
+
+- **The new master-question — popular sovereignty.** Everyone post-1789 accepts, at least rhetorically, that legitimacy flows **from the people**. The fight is no longer *king vs people* but *how* the people rule: directly or through **representation**? Majority rule *unlimited*, or **checked** by rights? Who even counts as "the people"? (Recall Module 4's unfinished business — Wollstonecraft's question of *who is included*.)
+- **The three ideologies as reactions** (deck; developed next module):
+  - **Liberalism** — protect the **individual** and their liberty *from* the state and *from* the majority (Tocqueville, Mill).
+  - **Conservatism** — distrust abstract revolutionary reason; defend tradition, gradual change (Burke — next module).
+  - **Socialism** — equality must be **social and economic**, not merely political/legal.
+
+<a id="m5-constant"></a>
+#### Ancients vs moderns: how the revolutions redefined "liberty" and "the people"
+
+***Core:*** the reading that frames both thinkers is **Benjamin Constant's** *The Liberty of the Ancients Compared with that of the Moderns* (1819): **ancient liberty = collective self-rule** (directly sharing in sovereignty), **modern liberty = private independence** (security to enjoy your own life, protected by rights). Modern, large, commercial societies **cannot** run on direct participation — so they need **representation** — but Constant warns that if moderns forget public life entirely, they will let despotism return while they mind their private pleasures. *This is the exact hinge Tocqueville and Mill work on.*
+
+- **Constant's two liberties** (deck quotes):
+  - *Ancient liberty* "consisted of the active and constant participation in the collective power" — "exercising, collectively, but directly, several parts of the whole sovereignty."
+  - *Modern liberty:* "The aim of the moderns is the enjoyment of security in private pleasures; and they call liberty the guarantees accorded by institutions to these pleasures."
+- **The scale problem (why moderns must represent, not assemble).** *The Federalist* no. 63 (1788) makes the same move: what really distinguishes modern America from ancient democracy is **"the total exclusion of the people, in their collective capacity"** from *directly* governing — the people rule **only through representatives.** Representation is not a betrayal of democracy; for a large state it is the **only** feasible form.
+- **The danger built into modern liberty (the bridge to Tocqueville & Mill).** If citizens cash in public participation for private comfort, they hand the field to power. Constant's worry becomes **Tocqueville's "soft despotism"** (individuals retreat into private life; a mild state manages them) and shapes **Mill's** insistence that representative government must keep citizens **actively** participating, not passive. → *Both thinkers try to graft a dose of **ancient** participatory liberty back onto a **modern** society of private individuals.*
+
+---
+
+<a id="m5-tocqueville"></a>
+## Alexis de Tocqueville — *Democracy in America* (Welch, *Political Thinkers*, ch. 21)
+
+**Reading:** Cheryl **Welch**, 'Tocqueville', in D. Boucher & P. Kelly (eds), *Political Thinkers* (2003), **ch. 21, pp. 388–407.** *(The syllabus lists this as "Cheryl French, ch. 17, pp. 288–306" — that is a slip; the chapter is by **Welch** and paginates 388–407.)* Primary source discussed: Tocqueville, ***Democracy in America*** (vol. i **1835**, vol. ii **1840**), with his later *The Old Regime and the Revolution* (**1856**).
+
+**Résumé.** Tocqueville — a young French aristocrat — spent **nine months in America** (1831) and came back with a thesis that reframed the whole debate: **democracy is not a set of institutions but a *social condition* — "equality of conditions" — and it is an irresistible, providential tide** sweeping Europe. His life's question: *"under what conditions could a society of equals also be a free people?"* America is his laboratory and Europe's **"mirror of the future."** He is at once **hopeful** (Americans really have built a free society of equals) and **afraid** (equality breeds new, distinctively democratic dangers — the **tyranny of the majority**, **individualism**, and a mild **"soft despotism"**). His answer is sociological: **political participation** — local self-government, juries, and above all **civil associations** — is the "art of being free" that pulls atomised individuals back into public life. Welch reads him not as a system-builder but as a **philosophical historian** of democracy's *culture*, and is sharply critical of his views on **religion and women**.
+
+<div class="heart">★ <strong>Tocqueville's red thread:</strong> equality is the "<strong>providential fact</strong>" of the modern age — unstoppable, and to be <strong>guided, not resisted</strong>. Its gift is prosperity and self-government; its curse is a new, gentle servitude that grows out of <strong>equality → individualism → withdrawal from public life → soft despotism</strong>. The <strong>antidote is participation</strong>: associations turn "self-interest well understood" into public spirit. <em>"A new science of politics is indispensable to a new world."</em></div>
+
+**Key concepts to apply:** *equality of conditions* · *democracy as a social state* · *political sociology / mœurs* · *tyranny of the majority* (conformity of opinion) · *individualism* (vs egoism) · *soft / tutelary despotism* · *centralization* · *associations & local liberty* · *self-interest well understood (intérêt bien entendu)* · the *comparative method* (democracy vs aristocracy).
+
+<a id="toc-equality"></a>
+#### What is "democracy"? — equality of social conditions, not a form of government
+
+***Core:*** Tocqueville uses **"democracy" as a *social*, not a political, word.** It means **equality of conditions** — a society with **no hereditary aristocracy, careers open to all** — and *all the passions and habits that equality breeds.* Institutions (elections, assemblies) are downstream; the **social state** is the cause.
+
+- **The "fundamental fact."** On arriving in America "nothing struck me more forcibly than the **general equality of conditions**" — "the fundamental fact from which all others seem to be derived." Equality "creates opinions, engenders sentiments, suggests the ordinary practices of life, and modifies whatever it does not produce." *In plain terms:* flatten the social hierarchy and you change **how people think, feel and live**, not just how they vote.
+- **Democracy vs aristocracy (his master contrast).** Democracy's opposite is **aristocracy** — a **caste society** of hierarchy, inequality and mutual dependence between ranks. Tocqueville always thinks by **comparing the two ideal-types** (his method). *(Aristocracy "made a chain of all the members of the community, from the peasant to the king; democracy breaks that chain.")*
+- **A "providential fact" — irresistible.** Surveying 700 years of French history, every event — Crusades, communes, gunpowder, printing, Protestantism, commerce — turned "to the advantage of equality." So: **"The gradual development of the equality of conditions is a providential fact… it is universal, it is durable, it constantly eludes all human interference."** To resist democracy is "to resist the will of God." → The question is therefore **never *whether* democracy, only *how*** to make it free instead of despotic.
+- **The two intentions of the book** (deck): one **descriptive** — study America as democracy's "mirror of the future" for a Europe heading the same way; one **normative** — build "an institutional theory of how to combine **individual freedom with democratic equality.**" The book is written under "a kind of **religious dread**," and issues its famous mandate: **"A new science of politics is indispensable to a new world"** — democracy "cannot be stopped, but it is not yet so rapid that it cannot be **guided.**"
+
+<a id="toc-method"></a>
+#### Method: political sociology — society *beneath* institutions (and how it differs from Hobbes)
+
+***Core:*** Tocqueville's method is **empirical political sociology**: he studies the **culture** of democracy — its "inclinations, character, prejudices and passions" — the **mœurs (mores)** that lie *beneath* formal institutions and make them actually work. This is the sharp contrast with the **social-contract tradition (Hobbes)**.
+
+- **Politics rests on the social.** For Tocqueville, the **social, civil society, and culture are the foundation of the political.** "The social norms, relations and 'life-forms' of civil society" are what make formal institutions function. *In plain terms:* a constitution is only paper; whether it produces freedom depends on the **habits and beliefs of the people underneath it.**
+- **Three causes of a society's character** (echoing Montesquieu): **circumstances (geography), laws, and mœurs (mores)** — and he ranks **mœurs the most important.** (Recall Module 4: Montesquieu's *esprit général.*)
+- **Vs Hobbes (the reading-question contrast).** Hobbes builds politics from an **abstract thought-experiment** — imagine a "state of nature," deduce the social contract. Tocqueville does the **opposite**: **no thought-experiments**, just **empirical observation and comparison** of really-existing societies (democratic America vs aristocratic Europe). Where Hobbes reasons *deductively* from human nature to the sovereign, Tocqueville reasons *inductively* from **social conditions to political culture.** *(Welch: he is less a political scientist than a "philosophical historian" of democracy's culture — closer to later histories of* mentalités *and even to Weber's "ideal-types.")*
+- **Welch's caution.** His ideal-types ("mother ideas," *idées mères*) sometimes **"seduced him"** — he occasionally "spun out deductions" from them and confused the deduction with reality. Useful exam nuance: *a method that reads culture is powerful but can slide into projecting the model onto the facts.*
+
+<a id="toc-individualism"></a>
+#### Individualism — the disease equality breeds
+
+***Core:*** Tocqueville **coins "individualism"** as a technical term — and it is **not** the same as selfishness. It is the **calm, considered withdrawal** of each citizen into private life, cutting the social bonds that collective self-government needs.
+
+- **Definition** (2nd *Democracy*): "the habit of thinking of oneself in isolation and imagining that one controls one's own destiny," which "disposes each citizen to **cut himself off from the mass of his fellow men and withdraw into the circle of family and friends.**" It is a **"reflective and tranquil sentiment"** — not a hot vice like egoism, but a cool shrug.
+- **Individualism vs egoism.** *Egoism* = passionate, exaggerated **self-love** (an old vice, found everywhere). *Individualism* = a **new, democratic** disposition to **quietly disengage** from public life. Egoism is a sin of the heart; individualism is a **mistaken judgement** that you don't need anyone else.
+- **Why equality causes it.** In an aristocracy everyone is **linked in a chain** of duties up and down the ranks. Equality **snaps the chain**: "Those who went before are soon forgotten; of those who will come after no one has any idea… democracy breaks that chain, and severs every link of it." Each person, owing nothing to anyone, retreats into a small circle — and **public life empties out.**
+- **The slide to atomisation.** Tocqueville is an early prophet of the sociology of **modernity**: individualisation → **atomisation** → **indifference**. Welch links it forward to **Durkheim's *anomie*** and even suicide — the psychic vacuum left when there is "no common core of truth at the centre of collective life." (Difference from Durkheim: Tocqueville does **not** trust that modern industry will spontaneously produce a new social bond.)
+
+<a id="toc-tyranny"></a>
+#### The first danger: tyranny of the majority (and the conformity of opinion)
+
+***Core:*** universal (male) suffrage makes **the majority** an **unbounded power** — and its most insidious form is not force but **the tyranny of *opinion*:** in a society where the majority is the highest court of appeal, everyone falls silent and conforms.
+
+- **A reinvented concept of tyranny.** Classic tyranny = one despot crushing bodies. Democratic tyranny = **the majority crushing minds.** With nothing above majority will — no king, no aristocracy, no higher appeal — the majority's opinions, interests and passions meet "no durable obstacles."
+- **Conformity — the killer quote:** **"I know of no country in which, generally speaking, there is less independence of mind and true freedom of discussion than in America."** Once the majority "makes up its mind once and for all, everyone falls silent." People **abdicate their own judgement** and hitch themselves to the majority "chariot." *In plain terms:* you are legally free to speak, but social pressure makes dissent almost unthinkable — a **soft, psychological** censorship.
+- **Not just America.** Welch stresses this is a **fault line of democracy as such**, not a quirk of the U.S. Equality itself generates the pressure to conform.
+- **Tyranny of the majority vs despotism (reading-question distinction).** *Tyranny of the majority* = an **active, present** majority imposing its will/opinion on minorities (a danger of the **1835** volume). *Soft despotism* (next) = a **centralised state** managing passive, private individuals — the majority isn't even ruling anymore (the danger of the **1840** volume). One is **too much collective power over minorities**; the other is **too little collective life at all.**
+
+<a id="toc-despotism"></a>
+#### The deeper danger: "soft" / tutelary despotism
+
+***Core:*** the truly new threat is a **mild, all-providing central power** that treats grown citizens like children — not a tyrant but a **guardian.** It doesn't smash you; it **manages** you, until you forget how to act for yourself. And it can wear the mask of **popular sovereignty.**
+
+- **A genuinely new thing.** Ancient tyranny was "violent, but its range was limited" — it hit a few hard. The new despotism "would be **more extensive and more mild; it would degrade men without tormenting them.**" Tocqueville says the old words *despotism* and *tyranny* don't fit: "the thing itself is new; and since I cannot name it, I must attempt to define it."
+- **The famous portrait** (Bk 4 ch 6 — the single most quotable passage):
+  - *the people:* "an innumerable multitude of men all equal and alike, incessantly endeavouring to procure the petty and paltry pleasures with which they glut their lives," each "a stranger to the fate of all the rest" — a portrait of **individualism** realised.
+  - *the power above them:* **"an immense and tutelary power"** — "absolute, minute, regular, provident, and mild" — like a parent, except it "seeks… to **keep them in perpetual childhood**," sparing them "all the care of thinking and all the trouble of living."
+  - *the mechanism:* it "covers the surface of society with a **network of small complicated rules**"; it "does not tyrannise, but it **compresses, enervates, extinguishes, and stupefies** a people, till each nation is reduced to be nothing better than **a flock of timid and industrious animals, of which the government is the shepherd.**"
+- **It coexists with democracy (the crucial twist).** People "want to be led, and they wish to remain free," so they "combine the principle of **centralization** and that of **popular sovereignty**": one all-powerful state, **but elected.** "They console themselves for being in tutelage by the reflection that they have chosen their own guardians." Tocqueville's retort: **"the nature of him I am to obey signifies less to me than the fact of extorted obedience"** — an elected shepherd is still a shepherd. A people "shake off their state of dependence just long enough to select their master, and then relapse into it."
+- **The root cause is apathy.** In a footnote he names the real enemy: not anarchy or tyranny as such but the **"general apathy which is the consequence of… individualism"** — apathy "may almost indifferently beget either the one or the other." → *This is exactly Constant's warning: moderns who cash in public life for private comfort invite despotism.*
+
+<a id="toc-antidote"></a>
+#### The antidote: participation, associations & "self-interest well understood"
+
+***Core:*** the cure for democracy's ills is found **inside democracy itself.** You cannot un-equalise society; but you can **turn its energies toward public life.** The engine is **political participation** — local self-government and, above all, **freely-formed associations** — which teaches individuals that their **private interest is bound up with the public good** ("self-interest well understood").
+
+- **Local liberty = the primary school of freedom.** Deck quote: **"Local institutions are to liberty what primary schools are to science; they put it within the people's reach."** Township, county, jury: small arenas where ordinary people **actually govern** and learn the "art of being free." (America's strength "resides in the local community.")
+- **Why participation works — it breaks the individualist spell.** "When the members of a community are forced to attend to public affairs, they are necessarily drawn from the circle of their own interests… As soon as a man begins to treat of public affairs in public, he begins to perceive that **he is not so independent of his fellow-men** as he had at first imagined." *In plain terms:* doing politics together **re-weaves** the social bonds that equality had cut.
+- **Self-interest well understood (*intérêt bien entendu*)** — Tocqueville's key mechanism (Welch calls it his most influential argument). Americans don't become public-spirited by heroic virtue; they discover that **cooperating serves their own long-run interest.** "What was calculation becomes instinct… by dint of working for the good of one's fellow citizens, one ultimately acquires the habit of serving them along with a **taste** for doing so." → The **poison becomes the cure:** the very self-interest that breeds individualism, *properly channelled through associations*, produces citizens.
+  - **His innovation** (Welch): unlike the Utilitarians, who took individual wants as simply *given*, Tocqueville treats this fusion of private and public interest as a **social and psychological *artefact*** — something built by institutions, not automatic. Interest has to be **restructured** by civil and political life before it does its good work.
+- **Associations as the transmission belt.** Free associations (permanent ones like townships; temporary civic and political ones) "**link self-interest… to the interest of the whole.**" Habits learned in one sphere **spill over** into the other: "Americans take habits formed in trade and carry them over into the world of politics," and political agitation "spreads to civil society." Over time these habits become **new mœurs** — a democratic culture that **stabilises** freedom and shrinks the need for a central state. *(Reception: this is why Tocqueville is claimed by both pluralists and by "Bowling Alone"–style laments about lost community — his phrase "habits of the heart" titles one such book.)*
+- **The conclusion (deck).** *Democracy in America* is "an antidote to the atomisation of modernity and its inherent 'soft despotic' nature, by constructing a political space where 'thick' communities and social relations are placed in a **democratic, participatory context**" — the way to **combine freedom and equality**, and the answer to the Federalists' and Constant's worry.
+
+<a id="toc-france"></a>
+#### French lessons: *The Old Regime and the Revolution* (1856) — why France kept failing
+
+***Core:*** Welch's second big section. Where America shows democracy *done right*, France shows it *done wrong.* Tocqueville's thesis: the Revolution's apparent rupture **masks a deep continuity** — the centralising **absolute monarchy** had *already* made France a society of equals-in-servility, and the Revolution simply **inherited the state machine** it destroyed.
+
+- **The hidden continuity.** The changes that define modern France were made "during the final 150 years of the French monarchy" — by the **Bourbon kings' relentless centralization.** They hollowed out the aristocracy's real social functions (leaving only its hated privileges) and **"regulated everything themselves."** After the Revolution the same centralised state re-emerged: its foundations "remained in the very souls of its destroyers." The **"river"** of the French administrative mentality "went underground… but re-emerged afterwards, ready to carry all before it."
+- **"Group individualism" — France as the *inversion* of America.** The *ancien régime* had lots of associations, but each group "narrowly minds its 'own' business, but not the public's." Nobles, bourgeois and peasants all "associate civil status with **freedom from public demands**" (a noble even objects to being taxed "as a father of common rank would be"). Welch's label: **"self-interest *ill* understood"** — the exact mirror of American *intérêt bien entendu.* Centralisation had "actively deprived the people of the only possible antidote to democratic individualism: **self-government.**"
+- **Why it still resonates.** *The Old Regime* is "a classic study of **how one political culture dies and another is born**" — hence its revival among post-Marxist and post-communist thinkers assessing whether liberal democracy can be **built** where the soil is hostile. Method note: Tocqueville restores a sense of **contingency and agency** — his history always "provokes the question 'What if?'" (Welch's best example: the **French peasant**, whose blocked hopes for dignity become "a revolutionary time bomb.")
+
+<a id="toc-beliefs"></a>
+#### Democracy's need for "stabilizing beliefs" — religion & women (and Welch's critique)
+
+***Core:*** Welch's third section — and where she is most **critical.** Tocqueville argues democracy needs **moral ballast** — shared, unquestioned beliefs — to keep atomised individuals from spinning into nihilism; he locates it in **religion** and in **strictly ordered family life.** Welch shows how his own **anxieties** distort these arguments, especially on women.
+
+- **Religion as ballast.** Democracy unsettles all inherited belief, leaving a dangerous **psychic vacuum.** Religion refills it — not because it fits commercial life but because it **"tethers the imagination,"** giving individuals a minimum of fixed dogma so they can exercise free will "safely." (Counter-intuitive twist Welch flags: this logic actually **favours Catholicism** over Protestantism, which "does not adequately police the vulnerable borders of faith" — hence his "strange conclusion" that Americans will drift back "to Rome.") **Contrast with Burke:** Tocqueville says democracy is *"naturally" religious* — religion is democracy's own fruit, not a pre-democratic relic it erodes.
+- **"Purity of morals" and the seclusion of women.** Tocqueville claims democracy has an "unexpected affinity" with strict sexual morality and the **confinement of women to the domestic sphere** — women "buffer" men against the instability of democratic desire, and domestic absorption "crowds out" the adultery and disorder that would poison public life.
+- **Welch's critique (exam gold).** This argument, she says, **"reveals more about his own moral anxieties than about democracy's natural inclinations."** Uniquely, his discussion of women **"fails to enter into the woman's point of view"**; he projects onto women a "heroic," self-sacrificing renunciation of the very equality and independence democracy promises everyone else — a *parti pris* (pre-decided position) that slides "into the realm of rhetorical apologetic." When his own comparative intellect nudges toward awkward questions — *might democracy naturally mean public freedom for women too?* — "he smothers these questions" under counter-argument. → *Powerful move for an essay:* **Tocqueville the sceptical sociologist becomes a special pleader the moment the subject is religion or gender.**
+
+#### Cases & examples — Tocqueville
+
+Tocqueville reasons by **cases and comparisons** (America ↔ France; democracy ↔ aristocracy). Read each for the concept it carries:
+
+- <a id="case-toc-america"></a>**Jacksonian America (the master case).** Nine months' observation (1831) becomes the model of **a society of equals that is also free** — via townships, juries, associations, religion and "self-interest well understood." But he criticised it too: majority conformity, "lack of grandeur," and "the glaring injustices of **race slavery** and the elimination of native peoples." → *Illustrates:* both the promise (participation civilises equality) and the perils (majority tyranny) of democracy.
+- <a id="case-toc-township"></a>**The New England township / the jury.** Small units where ordinary citizens actually govern. "The idea of the jury turns up in games played in school, and parliamentary forms influence even banquet arrangements." → *Illustrates:* local liberty as the "primary school" of freedom; how public habits spill into private life.
+- <a id="case-toc-ancienregime"></a>**The French *ancien régime*.** The **counter-image** to America: centralised, servile, "group-individualist," its self-government stripped away by the kings. → *Illustrates:* what democracy looks like **without** the antidote — equality producing dependence, not freedom.
+- <a id="case-toc-peasant"></a>**The French peasant.** A small proprietor "simmering in an abyss of poverty and isolation," his hopes for dignity blocked at every turn by absentee lords and tax-collectors. → *Illustrates:* Tocqueville's empathetic-sociological method, and how frustrated equality becomes revolutionary fury.
+- <a id="case-toc-women"></a>**"The women of America."** Portrayed as bearing economic "revolutions" with "quiet, indomitable energy," their desires contracting and expanding with their fortunes. → *Illustrates:* Welch's gender critique — the case where Tocqueville stops observing and starts prescribing.
+
+#### Key terms — Tocqueville
+
+| Term | Meaning |
+|---|---|
+| **Equality of conditions** | the defining social fact of democracy: no hereditary hierarchy; the cause of all democratic passions |
+| **Democracy (as social state)** | a *society* of equals and its culture — not merely a set of political institutions |
+| **Providential fact** | the equalising trend: universal, durable, unstoppable — to be *guided*, not resisted |
+| **Mœurs (mores)** | a people's habits, beliefs and attitudes — the most important cause of a regime's character |
+| **Political sociology** | studying the **social/cultural foundations beneath institutions** (vs Hobbes's abstract contract) |
+| **Tyranny of the majority** | the unbounded rule of majority will/**opinion**; crushes independence of mind |
+| **Individualism** | the *coined* term: calm withdrawal into private life (≠ egoism/selfishness) |
+| **Soft / tutelary despotism** | a mild, all-providing central power keeping citizens in "perpetual childhood"; coexists with elected government |
+| **Centralization** | the state absorbing the independent functions of citizens/local bodies — democracy's fatal affinity |
+| **Associations** | freely-formed civil/political groups; the transmission belt linking self-interest to the public good |
+| **Self-interest well understood** (*intérêt bien entendu*) | the discovery that cooperating serves one's own long-run interest — calculation that becomes public-spirited habit |
+| **"A new science of politics"** | the reflective art needed to *guide* democracy toward freedom rather than despotism |
+
+---
+
+<a id="m5-mill"></a>
+## John Stuart Mill — *On Liberty*, *Representative Government* & *The Subjection of Women*
+
+**Readings (primary excerpts):** J. S. Mill, ***On Liberty*** (1859) · ***Considerations on Representative Government*** (1861, ch. 3) · ***The Subjection of Women*** (1869). Plus Backhouse on Mill's economics (below) and the deck's utilitarian framing.
+
+**Résumé.** Mill (1806–73) is the classic **liberal** answer to the same problem Tocqueville poses — how to keep the sovereign majority from crushing the individual — but he answers **philosophically**, not sociologically. He was raised by his father James Mill to be a strict **Benthamite utilitarian**, then broadened it. Two engines drive his thought and pull against each other: **utilitarianism** (judge everything by whether it maximises aggregate happiness) and **liberalism** (fence off a zone of individual freedom that the majority may *not* invade). *On Liberty* draws that fence with the **harm principle**; *Representative Government* argues that **participatory representative democracy** is the ideally best polity because it both **protects** every interest and **improves** citizens; *The Subjection of Women* applies the very same logic to sex — his liberalism and utilitarianism "know no gender difference."
+
+<div class="heart">★ <strong>Mill's red thread:</strong> the individual is <strong>sovereign over everything that concerns only themselves</strong>; society may coerce a person <strong>only to prevent harm to others</strong> (the <strong>harm principle</strong>). Democracy is the best government because <strong>participation</strong> both <strong>guards</strong> each person's interests ("no guaranty" for the excluded) and <strong>elevates their character</strong> — and there is <strong>no reason to stop the argument at sex.</strong> The permanent puzzle: does his <strong>utilitarianism</strong> (aggregate happiness, majority rule) actually secure his <strong>liberalism</strong> (individual rights), or does it threaten it?</div>
+
+**Key concepts to apply:** *utilitarianism* (act vs aggregate) · *the harm principle* · *self-regarding vs other-regarding actions* · *self-sovereignty* · *negative vs positive liberty* · *anti-paternalism / pluralism* · *liberty of thought & discussion* (dead dogma; "knows only his own side"; part-truth) · *the two criteria of good government* · *active vs passive character* · *the "no guaranty" argument* · *the utilitarianism–liberalism tension.*
+
+<a id="mill-util"></a>
+#### Utilitarianism — the moral yardstick
+
+***Core:*** utilitarianism judges actions **by their consequences** — specifically by their **utility**, i.e. how much **happiness (pleasure) they produce and pain they prevent.** As a *political* philosophy it aggregates: the right law/policy is the one that maximises **total** happiness across everyone.
+
+- **The principle** (from Bentham, via James Mill): actions are good insofar as they promote happiness, bad as they produce the reverse; "the greatest happiness of the greatest number." Individuals should act to **maximise happiness and minimise suffering.**
+- **From personal to political.** Aggregate the utilities and you get a **standard for judging government**: laws are good when they track the summed preferences/interests of all. This directly powers Mill's argument for democracy (below).
+- **Mill's crucial refinement** (*On Liberty*): he **grounds even liberty in utility, not in "abstract right."** "I regard utility as the ultimate appeal on all ethical questions; but it must be **utility in the largest sense, grounded on the permanent interests of man as a progressive being.**" *In plain terms:* Mill won't say "you have a natural right to be free"; he says "**letting people be free produces the best long-run results for humanity.**" (This is the move that sets up the tension with liberalism — hold onto it.)
+
+<a id="mill-repgov"></a>
+#### Why representative democracy is the best government (*Representative Government*, ch. 3)
+
+***Core:*** the ideally best form is one where sovereignty rests in the **whole community** and every citizen not only has a **vote** but is "**called on to take an actual part**" in public functions. Two tests prove it best; both favour popular, participatory government.
+
+- **The two criteria of good government** (memorise these):
+  1. **How well it manages present affairs** using the citizens' existing moral, intellectual and active qualities.
+  2. **What it does to those qualities** — whether it **improves or degrades** the people's character (the *educative* test).
+  Representative government is "pre-eminent in both."
+- **Criterion 1 — the protective / "no guaranty" argument** (this is the deck's *utilitarian argument for democracy*):
+  - Principle: "the rights and interests of every person are only secure from being disregarded **when the person interested is himself able, and habitually disposed to stand up for them.**"
+  - Even **benevolent** rulers cannot *represent* an interest they do not share: "Does Parliament, or almost any of the members composing it, ever for an instant look at any question with the eyes of a **working man**?" The excluded interest isn't deliberately sacrificed — it is simply **overlooked.**
+  - Hence the key line: **"In proportion as any, no matter who, are excluded from [government], the interests of the excluded are left without the guaranty accorded to the rest."** → Every exclusion (of the workers, of women) is a *defect*. This one sentence seeds *The Subjection of Women*.
+  - Against **benevolent despotism**: even a good dictator leaves people passive and stunted; historically, free communities (Greek cities vs Persian satrapies; the Italian and Flemish republics vs feudal monarchies) were more prosperous and less unjust. **You cannot safely let anyone else "tie up your hands."**
+- **Criterion 2 — the educative argument: active vs passive character.** The deepest case for democracy is what it *does to people.* Participation forms the **active, self-reliant, "uncontented" character** that "struggles against evils" — and "improvement in human affairs is **wholly the work of the uncontented characters.**" Despotism (however mild) breeds the **passive** character that merely endures. → *Tie to Tocqueville:* both make **participation the school of citizenship** — Tocqueville sociologically (associations), Mill morally (it improves the individual).
+- *(Excerpt scope: this is Mill's case for *why* representative government is ideal; his famous safeguards — plural voting for the educated, proportional representation, open voting — are elsewhere in the book, not in the excerpt.)*
+
+<a id="mill-harm"></a>
+#### Mill's liberalism & the harm principle
+
+***Core:*** *On Liberty* draws the boundary of legitimate coercion. The **one very simple principle**: society may exercise power over an individual against their will **only to prevent harm to others** — never merely for the person's *own* good.
+
+- **The harm principle (the sentence to know verbatim):** "The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is **to prevent harm to others.** His own good, either physical or moral, **is not a sufficient warrant.**"
+- **Self-sovereignty:** "Over himself, over his own body and mind, **the individual is sovereign.**"
+- **The only freedom worth the name:** "the only freedom which deserves the name, is that of **pursuing our own good in our own way,** so long as we do not attempt to deprive others of theirs." And the utilitarian justification: "**Mankind are greater gainers by suffering each other to live as seems good to themselves, than by compelling each to live as seems good to the rest.**"
+- **Anti-paternalism & pluralism.** The state (and public opinion — Mill fears **social** coercion as much as legal) may **argue, persuade, entreat** you, but **not compel** you, "even though they should think our conduct foolish, perverse, or wrong." There is **no patent on the good life**; freedom includes "liberty of tastes and pursuits… of framing the plan of our life to suit our own character." *In plain terms:* you may live wrongly by others' lights as long as you harm no one else.
+- **Negative vs positive liberty** (deck framing; Berlin's later labels). Mill is the great theorist of **negative liberty** — *freedom from* interference: a protected space where no one may meddle. This contrasts with **positive liberty** — *freedom to* achieve self-mastery/self-realisation (the tradition running through Rousseau's "forced to be free"). Mill's harm principle is negative liberty in its purest form: the state's job is to **leave you alone**, not to make you virtuous.
+- **The scope limits (an awkward caveat to flag).** The principle applies only to "human beings in the maturity of their faculties" — **not** to children, and (notoriously) not to "backward states of society," where Mill thought "despotism is a legitimate mode of government in dealing with barbarians, provided the end be their improvement." → A real tension in Mill's liberalism, tied to his career at the **East India Company**; worth naming critically.
+
+<a id="mill-actions"></a>
+#### Self-regarding vs other-regarding actions
+
+***Core:*** the harm principle works by sorting conduct into **two zones.** This distinction is the hinge of the whole theory.
+
+| Type of action | Definition | What the state may do |
+|---|---|---|
+| **Self-regarding** | affects **only the agent** (or others only with their free, informed consent) | **nothing** — "his independence is, of right, absolute"; total liberty |
+| **Other-regarding** | affects **other people** (harms or risks harming them) | **may be regulated or forbidden** by law or opinion |
+
+- The self-regarding sphere is "the appropriate region of human liberty": (1) **inward liberty of conscience, thought and feeling** + freedom to express opinion; (2) **liberty of tastes and life-plans**; (3) **liberty to combine** with others for any harmless purpose.
+- **Complication Mill himself notes:** harm can come by **inaction** too (failing to save a life, not bearing your share of common defence), and even self-regarding vice can *indirectly* touch others — so the line is contested. But the *point* of the distinction is to carve out an **inviolable core** the majority may never enter.
+- **Exam handle:** most political disagreements are about **where the line falls** — is drug use / seatbelt laws / hate speech "self-regarding" or "other-regarding"? Mill gives you the *framework* for the argument, not a mechanical answer. *(The deck's discussion question: name a case where the state regulates a purely self-regarding act — e.g. seatbelt/helmet laws, recreational drugs, assisted suicide — and ask whether that violates the harm principle.)*
+
+<a id="mill-thought"></a>
+#### Why liberty of thought & discussion? — the argument from truth (*On Liberty*, ch. 2)
+
+***Core:*** even a **true** opinion must be freely and fiercely contested, or it dies. Silencing discussion robs humanity whether the silenced view is true, false, or (usually) part-true. Three arguments:
+
+1. **It might be true** (the fallibility argument): to silence an opinion is to **assume your own infallibility.**
+2. **"Dead dogma."** Even if the received view *is* true, held without challenge it becomes "a **dead dogma, not a living truth**" — believed as prejudice, its grounds forgotten. **"He who knows only his own side of the case, knows little of that."** You must hear opponents "in their most plausible and persuasive form" (the origin of the **devil's-advocate**).
+3. **The part-truth argument** (Mill's favourite, "commoner than either"): conflicting doctrines usually **"share the truth between them"** — the heretical view supplies the piece the orthodoxy left out. "One-sidedness has always been the rule, and many-sidedness the exception." (Example: **Rousseau's paradoxes** "exploded like bombshells," carrying neglected truths back into a smug civilisation.)
+
+→ *This is Mill's direct answer to Tocqueville's **tyranny of majority opinion**:* the cure for stifling conformity is **institutionalised, protected dissent.**
+
+<a id="mill-tension"></a>
+#### The tension: liberalism vs utilitarianism
+
+***Core:*** Mill runs on **two engines** — individual liberty (rights-like) and aggregate happiness (majority-friendly) — and the deck's central question is whether they can both fire without colliding.
+
+- **The problem.** If everything reduces to **maximising total happiness**, what stops a majority from calculating that **overriding one person's self-regarding liberty** increases the sum? A pure utilitarian *could* license exactly the majority tyranny liberalism forbids.
+- **Mill's device.** He makes the self-regarding sphere **near-absolute** ("his independence is, of right, absolute") — it functions **like a right** — yet insists it is justified by **utility "in the largest sense… of man as a progressive being."** The bet: **protecting liberty always maximises long-run utility** (progress, truth, character), so the two engines pull the same way.
+- **The exam question.** Is that bet stable? Critics say Mill **smuggles rights back in** under a utilitarian label; defenders say his "utility in the largest sense" genuinely does the work. Either way, **"are rights pre-political, or can the majority dissolve them for some group?"** is the knife-edge — and it's exactly the question *The Subjection of Women* answers by refusing to let the majority disqualify **women.**
+- **Where it bites:** *rights vs aggregate utility · individual freedom vs society's happiness · minority protection as a basic principle vs majority rule.* This is the hinge between **liberalism and democracy** for the whole module.
+
+<a id="mill-women"></a>
+#### *The Subjection of Women* (1869) — Mill the "first male feminist"
+
+***Core:*** Mill argues the **legal subordination of women is "wrong in itself" AND a drag on human progress**, and should be replaced by "a principle of **perfect equality.**" It is the cleanest case of him running **both engines at once** — a justice argument *and* two utilitarian arguments.
+
+- **The thesis (verbatim):** "the legal subordination of one sex to the other… **is wrong in itself, and now one of the chief hindrances to human improvement;** and… ought to be replaced by a principle of perfect equality, admitting no power or privilege on the one side, nor disability on the other." (Note the twin claim: **wrong** *and* **inefficient**.)
+- **The burden-of-proof move.** The presumption should be **for freedom and equality**; those who defend a **disability/restriction** must prove it. The subjection of women is "a single relic of an old world of thought… exploded in everything else." And the appeal to "experience" fails: **"Experience cannot possibly have decided between two courses, so long as there has only been experience of one."** (We've never *tried* equality, so tradition proves nothing.)
+- **Three benefits of equality** (ch. 4 — the payoff):
+  1. **Justice.** Ordering "the most universal of all human relations" by justice instead of force. The family is otherwise a **school of injustice**: "all the selfish propensities… derive their principal nourishment from the present constitution of the relation between men and women."
+  2. **Doubling the talent pool** (utilitarian): freeing women would mean "**doubling the mass of mental faculties available for the higher service of humanity**" — plus the stimulus of competition. "The loss to the world, by refusing to make use of **one half of the whole quantity of talent** it possesses, is extremely serious."
+  3. **"The unspeakable gain in private happiness"** (utilitarian): the difference to women "between a life of subjection to the will of others, and a life of rational freedom." "After… food and raiment, **freedom is the first and strongest want of human nature.**"
+- **His liberalism & utilitarianism "know no gender difference."** The **harm principle** applies to all human beings; **utility** counts everyone's happiness equally. So there is **no principled place to stop** the argument at sex — the same logic that frees men frees women. **Self-proving competence:** "any woman who succeeds in an open profession **proves by that very fact that she is qualified for it**"; a law shutting the door on the exceptions "cannot be justified by any opinion respecting the capacities of women in general." *(cf. Mill & Harriet Taylor Mill, *Enfranchisement of Women*, 1851: "**Let every occupation be open to all**… employments will fall into the hands of those… found by experience to be most capable.")*
+- **The ideal: marriage of equals.** Not obedience but a partnership of "**reciprocal superiority**," each "leading and being led in the path of development." "The moral regeneration of mankind will only really commence when the most fundamental of the social relations is placed under the rule of **equal justice.**"
+- **The limit of Mill's feminism (flag it).** He still calls it "the most suitable division of labour" for the husband to earn and the wife to run the household — often cited as the **conservative ceiling** on his feminism, in tension with his own proviso that faculties "exceptionally adapted to any other pursuit" should be free to follow their vocation. → *Neat contrast with Tocqueville & Welch's critique:* where **Tocqueville** prescribes women's domestic seclusion as democracy's stabiliser, **Mill** attacks that subjection as democracy's unfinished business — the two thinkers are **mirror images on the "woman question."**
+
+#### Cases & examples — Mill
+
+- <a id="case-mill-worker"></a>**The excluded working man** (*Representative Government*). Even a benevolent Parliament never looks at a question "with the eyes of a working man." → *Illustrates:* the "no guaranty" argument — why every interest needs its *own* vote.
+- <a id="case-mill-devils-advocate"></a>**Rousseau's "bombshells"** (*On Liberty* ch. 2). Rousseau's error-laden paradoxes still carried neglected truths that jolted a complacent 18th century. → *Illustrates:* the **part-truth** argument for free discussion.
+- <a id="case-mill-professions"></a>**Women in the professions & arts** (*Subjection*). Women excel where they go **professional** (acting), lag only where they remain **amateurs** (the fine arts) — a structural, not natural, gap; and they have "no time" because society monopolises it. → *Illustrates:* apparent female "inferiority" is an artefact of exclusion, not nature.
+
+#### Key terms — Mill
+
+| Term | Meaning |
+|---|---|
+| **Utilitarianism** | judge actions by consequences → **maximise aggregate happiness** (pleasure minus pain) |
+| **Harm principle** | coerce a person against their will **only to prevent harm to others**; not for their own good |
+| **Self-sovereignty** | "over his own body and mind, the individual is sovereign" |
+| **Self-regarding action** | affects only the agent → **absolute** liberty |
+| **Other-regarding action** | affects others → **may be regulated/forbidden** |
+| **Negative liberty** | *freedom from* interference (Mill's core) vs **positive liberty** = *freedom to* self-realise |
+| **Anti-paternalism / pluralism** | no "patent on the good life"; the state may persuade, not compel |
+| **Dead dogma** | an uncontested truth held as lifeless prejudice; hence free discussion |
+| **Two criteria of good government** | (1) uses existing qualities well; (2) **improves** citizens' character |
+| **"No guaranty" argument** | any excluded interest is left unprotected → extend the franchise |
+| **Active vs passive character** | democracy breeds the striving, improving citizen; despotism the enduring one |
+| **Perfect equality (of the sexes)** | "no power or privilege on the one side, nor disability on the other" |
+
+<a id="mill-economics"></a>
+#### Mill the economist — Backhouse, *Penguin History of Economics* (pp. 157–59, 165–69)
+
+***Core:*** Mill was also the era's dominant **economist.** His *Principles of Political Economy* (1848) kept the **Ricardian** framework but bent it toward reform, via one decisive distinction — the **laws of production** are fixed by nature, but the **laws of distribution** are **made by human institutions**, and so can be changed.
+
+- **The pivotal distinction.** Production of wealth "has its necessary conditions" (physical facts, knowledge) — not up to us. But distribution "depends on the statutes or usages" of a society — **up to us.** → **Social reform = redesigning the institutions of capitalism**, without pretending to repeal economic law.
+- **A qualified move toward socialism.** Influenced by **Harriet Taylor** and the **Saint-Simonians**, Mill grew "much more sympathetic to socialism" — but a socialism that **preserves incentives** (his line between *socialism* and *communism*). He backed **peasant proprietorship, producers' co-operatives and profit-sharing** — institutions that give workers "control over their own lives" while keeping the spur to effort.
+- **Qualified laissez-faire.** A liberal who set a "general presumption in favour of laissez-faire" — then called the **exceptions "large."** He listed **five classes of action the state must perform** (from cases where individuals aren't the best judges of their interest — e.g. **education** — to actions needed for others' benefit — e.g. **poor relief**), and allowed that "there is scarcely anything… which it may not be desirable that the government should take upon itself." → *The same Mill:* individual liberty as the default, but pragmatic, reform-minded exceptions — the economics of **social liberalism.**
+- **Bridge (Backhouse pp. 165–69).** After Mill, economics **professionalises** and takes the **marginalist turn** — **Jevons** and **Walras** (1870s) rebuild value theory on **marginal utility** (value = utility of the *last* unit), displacing the Ricardian cost-of-production theory Mill had defended. *"Political economy" becomes "economics."* → where the story heads *after* this module.
+
+<a id="m5-cassidy"></a>
+#### Cassidy, 'Is America an Oligarchy?' (*New Yorker*, 18 Apr 2014) — a contemporary test
+
+***Core:*** a short application piece. It reports the **Gilens & Page (2014)** study, which asks empirically **whose preferences actually become US policy** — and finds the answer is **economic elites, not the median citizen.** It puts Tocqueville's and Mill's worries to a modern data test.
+
+- **The study.** Gilens (Princeton) & Page (Northwestern) built a statistical model with three drivers of policy: the views of the **rich (90th percentile)**, the **middle (50th)**, and **organised interest groups.** Result: **"the majority does not rule — at least not in the causal sense of actually determining policy outcomes. When a majority of citizens disagrees with economic elites… they generally lose."**
+- **The numbers.** When elites **back** a change it has ~**45%** chance of enactment; when they **oppose** it, **<18%.** And "the probability of policy change is nearly the same (**~0.3**) whether a **tiny minority or a large majority** of average citizens favour it." The rich effectively hold a **veto.** (The authors prefer "**economic-elite domination**" to the headline word "oligarchy.")
+- **Why it matters for the module (the twist).** **Tocqueville** feared the **tyranny of the *majority***; Cassidy's evidence suggests the modern danger may be the **opposite — rule by an elite *minority*** behind democratic forms (closer to Tocqueville's *soft despotism*, where the outward machinery of popular sovereignty masks a loss of real self-rule). And it directly challenges **Mill's** protective argument: if whole classes are effectively **"left without the guaranty,"** the utilitarian case for democracy is only as good as democracy's actual responsiveness. → *Great exam move:* use Gilens & Page to ask whether real democracies deliver the protection Mill promised, or the elite capture Tocqueville half-predicted.
+
+---
+
+<a id="m5-synthesis"></a>
+## ★ Synthesis — Tocqueville vs Mill on one page
+
+***Core:*** two liberals, one problem — **how to keep democratic equality / majority rule from crushing the individual** — but **different diagnoses and different cures.** Tocqueville works on the **culture**; Mill on the **principles and institutions.**
+
+| | **Tocqueville** | **Mill** |
+|---|---|---|
+| **What is democracy?** | a **social condition** — equality of conditions (a whole culture) | a **form of government** — representative self-rule to be designed well |
+| **Method** | empirical **political sociology** (mœurs *beneath* institutions) | philosophical **argument** from utility + liberty |
+| **Chief danger** | **soft despotism** grown from individualism + centralization; tyranny of majority **opinion** | the majority (or opinion) invading the **self-regarding** sphere |
+| **The cure** | **participation** — associations, local liberty, "self-interest well understood" | the **harm principle** + **representative government** that protects & educates |
+| **On women** | prescribes **domestic seclusion** as democracy's stabiliser *(Welch: his *parti pris*)* | attacks subjection; demands **perfect equality** ("no disability") |
+| **Shared ground** | *both* make **participation the school of the free citizen**; *both* fear an unchecked majority; *both* answer Constant's ancients-vs-moderns problem | |
+
+*The pairing:* Tocqueville tells you **why** a society of equals tends toward a gentle servitude and **what social habits** resist it; Mill tells you **which principle** fences off the individual and **which institutions** secure every interest. Read together, they define **liberal democracy** — democracy *civilised by liberty.*
+
+<a id="m5-questions"></a>
+## ★ Reading questions — worked answers
+
+> The module's assigned reading questions (Tocqueville & Mill). Each answer links to the developed passage.
+
+### Tocqueville
+
+**1 · What does Tocqueville mean by 'democracy', and why *social conditions* rather than constitutional form?**
+***Answer:*** democracy = **[equality of social conditions](#toc-equality)** — a society without hereditary hierarchy, careers open to all — *plus* the whole culture of passions and habits that equality breeds. He puts the **social state first** because it is the **cause**: it "creates opinions, engenders sentiments… and modifies whatever it does not produce." Institutions (elections, assemblies) are **downstream effects** of the social condition; change the constitution and you change little if the underlying *mœurs* stay aristocratic (his verdict on **[France](#toc-france)**). And because equality is a **"providential fact"** — universal and irresistible — the real question is never *whether* democracy but *how* to make it free.
+
+**2 · The major dangers — and tyranny of the majority vs despotism?**
+***Answer:*** three linked dangers: the **[tyranny of the majority](#toc-tyranny)**, **[individualism](#toc-individualism)**, and **[soft/tutelary despotism](#toc-despotism)**. The distinction the question wants:
+- **Tyranny of the majority** = an **active majority** imposing its **will and (worse) its opinion** on minorities — "less independence of mind… than in America." It is *too much collective power* wielded against dissenters (the danger of the 1835 volume).
+- **(Soft) despotism** = a **mild, centralised state** that manages **passive, private** individuals like children — here the majority isn't really ruling at all; people have **withdrawn** into private life and handed power to a "tutelary" state (the danger of the 1840 volume). It is *too little collective life*, and it can even be **elected.** → One is majority *over* minority; the other is state *over* an atomised, apathetic people.
+
+**3 · What does Tocqueville mean by individualism?**
+***Answer:*** see **[individualism](#toc-individualism)**. A **coined** term, *not* selfishness: the "reflective and tranquil" habit of **withdrawing into the small circle of family and friends** and abandoning public life. Equality snaps the aristocratic "chain" linking people across ranks, so each citizen, owing nothing to anyone, disengages — draining public life and preparing the ground for **soft despotism.** (Egoism = a hot vice of self-love; individualism = a cool *misjudgement* that you don't need your fellow citizens.)
+
+**4 · Tocqueville's method — and how it differs from Hobbes?**
+***Answer:*** see **[method](#toc-method)**. Empirical **political sociology**: observe and **compare** real societies (democratic America vs aristocratic Europe), reading the **mœurs beneath institutions.** The contrast with **Hobbes** is method itself: Hobbes reasons **deductively** from an **abstract thought-experiment** (imagine the state of nature → derive the sovereign); Tocqueville reasons **inductively** from **observed social facts** to political culture. Hobbes builds politics from a model of human nature; Tocqueville builds it from **how equal societies actually live.**
+
+### Mill
+
+**5 · What is the 'harm principle', and its relation to liberty?**
+***Answer:*** see **[the harm principle](#mill-harm)**. Society may coerce an individual against their will **only to prevent harm to others** — never for the person's own physical or moral good. Its relation to liberty: it **defines** the sphere of liberty. Over the **[self-regarding](#mill-actions)** zone (conduct affecting only oneself) "the individual is sovereign" and free absolutely; only **other-regarding** conduct is open to regulation. So liberty is **not** unlimited licence — it is precisely the space the harm principle fences off, justified (Mill insists) by **[utility](#mill-util)** "in the largest sense," not abstract right.
+
+**6 · Political disagreements protected by the harm principle?**
+***Answer:*** any dispute over conduct that is arguably **self-regarding**, i.e. where the state punishes a person "for their own good": **recreational drug use, assisted dying/suicide, seatbelt & helmet laws, gambling, consensual sexual conduct, refusing medical treatment.** Also, via the **[liberty of thought](#mill-thought)**, **free-speech** disputes (offensive or heretical opinions that harm no one). The Millian move in each: *is anyone else actually **harmed**, or merely offended / paternalistically "protected"?* If the latter, the harm principle **shields** the conduct. (The live argument is always **where the line falls** — e.g. is hate speech "harm" or mere offence?)
+
+**7 · Mill's argument for representative democracy as the best government?**
+***Answer:*** see **[representative government](#mill-repgov)**. Judge any government by **two tests** — (1) how well it manages affairs with the people's existing qualities, and (2) how far it **improves** those qualities. Representative democracy wins both. On (1), the **"no guaranty"** argument: interests are only safe when their holders can **defend them themselves** — even benevolent rulers **overlook** interests they don't share ("with the eyes of a working man"), so *every* exclusion is a defect. On (2), participation forms the **active, self-reliant character** that drives all human improvement, where despotism breeds passivity. (Underlying it is the **[utilitarian](#mill-util)** claim that wider participation → laws tracking more people's real interests → greater aggregate good.)
+
+**8 · Mill's position on the political position of women?**
+***Answer:*** see **[The Subjection of Women](#mill-women)**. Full political and civil **equality** — the vote, offices, professions all open to women — because the "legal subordination of one sex to the other… is **wrong in itself, and now one of the chief hindrances to human improvement.**" His **harm principle** and **utilitarianism** "know no gender difference," so there is no principled place to stop the argument at sex. Three grounds: **justice**; the utilitarian **doubling of society's talent pool**; and the **"unspeakable gain in private happiness"** to women. Any woman who succeeds in an open profession "proves by that very fact that she is qualified." (Flag the **limit:** he still treats the male-breadwinner household as the "suitable" default — the conservative ceiling on his feminism.)
+
+---
+
+<a id="ff-module5-pet"></a>
+## ★ Fun facts & memorable details
+
+> Sticky bits from Module 5 (Tocqueville · Mill).
+
+**Tocqueville**
+- He was sent to America (1831) on an official mission to study **prison reform** — *Democracy in America* was, in effect, a spectacular **side-project.** He travelled with his friend **Gustave de Beaumont.**
+- He coined a word we still use: **"individualism."** It didn't mean "self-reliance" (a compliment) — for him it was a **diagnosis of a disease**, the quiet death of public life.
+- He wrote the book under **"a kind of religious dread"** at democracy's unstoppable advance — and concluded you must **educate and guide** the tide, because "to attempt to check democracy would be to resist the will of God."
+- The "**flock of timid and industrious animals, of which the government is the shepherd**" line (soft despotism) is one of the most quoted passages in all political theory — and he admits he **can't even name the new thing:** "since I cannot name it, I must attempt to define it."
+- Welch's zinger: Tocqueville endures **"not because he delivers 'a new political science'… but because he does not"** — he's a **philosophical historian**, closer to **Foucault than to Marx.** His phrase **"habits of the heart"** later became a book title mourning the America he described.
+- His blind spots are as famous as his insights: on **race slavery**, **native peoples**, and above all **women** (whom he consigned, "heroically," to the household), the sceptical sociologist turns into a nervous **special pleader** (Welch).
+
+**Mill**
+- A staggering **forced-march education** by his father: **Greek at three, Latin at eight, political economy and logic at twelve.** He had a nervous breakdown at 20 — and credited **poetry (Wordsworth)** and **Harriet Taylor** with rebuilding him.
+- **Harriet Taylor** was his intellectual partner for decades (he married her in 1851, 21 years after they met); he credited her with much of *On Liberty* and his feminism. The line "**Let every occupation be open to all**" is from their joint 1851 essay.
+- He sat in the **House of Commons (1865–68)** and in **1866 introduced the first parliamentary motion to give women the vote** — proposing to replace "man" with "person" in the Reform Bill. It failed, but it was the **first time women's suffrage was ever debated in Parliament.**
+- He spent his career as an administrator at the **East India Company** — which sits awkwardly beside his own carve-out that "despotism is a legitimate mode of government in dealing with barbarians." A real stain/tension to name.
+- The **harm principle** is possibly the most-cited sentence in liberal political thought — the backbone of modern debates over drug laws, free speech, and "victimless crimes."
+- Mill's line between **socialism and communism** was simply **incentives**: socialism (peasant proprietors, co-ops, profit-sharing) keeps the spur to effort; communism, he thought, kills it.
+
+---
+
+<a id="ex3-pet"></a>
+# Exercise Class 3: The Pros and Cons of Democracy
+
+**Readings:** **Montesquieu**, *The Spirit of the Laws* (1748), Books **II, III, VIII** · **Tocqueville**, *Democracy in America* (1835), **Introduction & Book 1 chs 4, 8, 9 & Book 4 ch 6** · CNN, 'House votes to impeach' (13 Jan 2021).
+
+**The class's question** (from Joachim). Prepare three things: **(1)** the **views on democracy** in Montesquieu and Tocqueville — *is democracy feasible in their eyes, and what are its pros and cons?* **(2)** *How does Montesquieu build his argument* — the **structure** of his text and how he defines the **types of government?* **(3)** *What are Tocqueville's **threats** to democracy, and his arguments?* This class pairs the **18th-century typologist** (Montesquieu, whom we met in [Module 4](#m4-montesquieu)) with the **19th-century sociologist** (Tocqueville, [Module 5](#m5-tocqueville)) — two very different ways of asking whether a people can safely rule itself.
+
+<div class="heart">★ <strong>The red thread:</strong> both think democracy is <strong>possible but fragile</strong>, and that its survival depends less on <strong>institutions</strong> than on the <strong>moral condition of the people</strong>. For <strong>Montesquieu</strong>, democracy runs on <strong>virtue</strong> (love of country + equality) and dies of <strong>"extreme equality"</strong> — feasible only in a <strong>small state</strong>. For <strong>Tocqueville</strong>, democracy is an <strong>irresistible social condition</strong>, feasible in large modern nations <strong>only if guided</strong> — its threats are <strong>tyranny of the majority, individualism and soft despotism</strong>. The exam-usable convergence: <strong>democracy = feasible but fragile; it stands or falls on the people's mores (virtue / mœurs), not its constitution.</strong></div>
+
+<a id="ex3-montesquieu"></a>
+## Montesquieu — *The Spirit of the Laws* (Books II, III, VIII)
+
+**Résumé.** These three books are Montesquieu's **theory of regime types.** He classifies governments, then explains what makes each **run** and what makes each **rot.** Democracy appears here not as *the* ideal but as **one type among three**, admirable in some respects, structurally fragile in others. *(For his separation of powers and *esprit général*, see [Module 4](#mon-separation); this class is about the **nature / principle / corruption** framework.)*
+
+<a id="ex3-nature-principle"></a>
+#### How he builds the argument: nature → principle → corruption
+
+***Core:*** Montesquieu's method is **architectural** — **one Book per stage.** He defines each government (its **nature**), then finds the **passion** that drives it (its **principle**), then shows how it **decays** when that passion fails (its **corruption**). *This three-stage structure IS his answer to "how does he establish his arguments."*
+
+- **Book II — the *nature* of a government:** its **structure** — "that by which it is constituted": *who holds supreme power*, and the fundamental laws that follow.
+- **Book III — the *principle* of a government:** its **motor** — "the human passions which set it in motion." The **nature/principle distinction is his "master key"** ("the key of an infinite number of laws").
+- **Book VIII — the *corruption* of a government:** "the corruption of a government generally begins with that of its principles" — kill the passion and the regime rots.
+- **His style / how he persuades** (for the "how" question): **comparative and typological** (everything sorted into the same triad and cross-compared); **aphoristic/imagistic** ("monarchies lose themselves in despotic power" as "rivers hasten to mingle with the sea"); **historical-empirical** (Athens, Sparta, Rome, Carthage, China — "the unanimous testimony of historians"); **causal** (climate, geography, religion, the size of territory); and **prescriptive** — the principles state what a regime *ought* to run on, "otherwise the government is imperfect."
+
+<a id="ex3-types"></a>
+#### The types of government — nature & principle
+
+***Core:*** **three species** (democracy is a sub-type of the first), each defined by *who rules* (nature) and *what passion sustains it* (principle).
+
+| Government | **Nature** (who holds power) | **Principle** (its animating passion) |
+|---|---|---|
+| **Republic — Democracy** | the **whole body of the people** is sovereign, via **suffrage** | **Virtue** (political virtue) |
+| **Republic — Aristocracy** | **a part** of the people holds power | Virtue, esp. **moderation** |
+| **Monarchy** | **one** rules **by fixed, established laws** through *intermediate powers* (nobility, courts) | **Honour** |
+| **Despotism** | **one** rules by **will and caprice**, through a *vizir* | **Fear** |
+
+- **Democracy's nature in detail** (Bk II): "the people are in some respects the sovereign, and in others the subject." Sovereignty is exercised **only through suffrage**, so **"the laws which establish the right of suffrage are fundamental to this government."** The people **choose magistrates** but do not administer directly.
+- **The choose-vs-govern point** (the exam-critical passage): the people are **"extremely well qualified for choosing"** those they entrust with power — they judge by "facts obvious to sense" (a general's victories, a judge's record). **But** "are they capable of conducting an intricate affair… of seizing the critical moment of action? **No; this surpasses their abilities.**" → **Good at *electing*, bad at *administering*.** ("The people's motion is always either too remiss or too violent.")
+- **Monarchy needs nobility** (Bk II): "**no monarch, no nobility; no nobility, no monarch; but there may be a despotic prince.**" The **intermediate powers** are what keep a monarchy from collapsing into despotism — an idea echoing his [separation of powers](#mon-separation) and picked up by Tocqueville's fear of lost intermediate bodies.
+
+<a id="ex3-virtue"></a>
+#### Democracy's principle: VIRTUE
+
+***Core:*** democracy is the government that most **depends on the character of its citizens.** Its motor is **virtue** — and by "virtue" Montesquieu means something specific and *political*.
+
+- **Why democracy needs virtue most.** In a monarchy the **laws** and in a despotism the **prince's arm** are enough; but in a popular state, where the people are *both* rulers and ruled, "**one spring more is necessary, namely, virtue.**" When the executor of the laws is also subject to them, only an inner devotion keeps the system honest. "When… there is a suspension of the laws… the state is certainly undone."
+- **What "virtue" means** (his own footnote — crucial, so it isn't confused with Christian morality): "**political virtue**… **moral virtue as it is directed to the public good**" — i.e. **love of country, love of equality, love of frugality**, self-renunciation for the common good. *In plain terms:* citizens must **care more about the republic than about themselves.** *Not* private piety; *not* revealed religion.
+- **When virtue goes, democracy dies:** "ambition invades… and avarice possesses the whole community." Athens had the same *forces* (20,000 citizens) in her glory and her fall — the difference was **virtue**: "It was ever after as easy to triumph over the forces of Athens as it had been difficult to subdue her virtue."
+
+<a id="ex3-corruption"></a>
+#### Democracy's corruption: the "spirit of extreme equality"
+
+***Core:*** Book VIII. Democracy can rot in **two opposite ways** — by losing equality, or by pushing equality to a mad extreme. The second is the famous one, and it leads straight to **despotism.**
+
+- **The two excesses** (memorise this): democracy has "**two excesses to avoid — the spirit of *inequality*, which leads to aristocracy or monarchy, and the spirit of *extreme equality*, which leads to despotic power.**"
+- **What "extreme equality" is.** True equality means we "**obey and command our equals**" — everyone equal *as citizens*, under law. **Extreme** equality is when "each citizen would fain be upon a level with those whom he has chosen to command him" — the people, "incapable of bearing the very power they have delegated, want to manage everything themselves, to **debate for the senate, execute for the magistrate, and decide for the judges.**" *In plain terms:* when nobody will accept **any** authority — not magistrates, not elders, not parents — all order dissolves.
+- **The cascade & the demagogues.** Respect collapses "for magistrates… senators… old age… parents… masters," until "there is no such thing as manners, order, or virtue." Into this chaos step **demagogues** who "flatter the people's avarice," buy suffrages, and "**the greater the advantages they seem to derive from their liberty, the nearer they approach the critical moment of losing it.** Petty tyrants arise… a single tyrant starts up." → **Extreme democracy ends in despotism.**
+- **Principles trump laws:** "**When once the principles of government are corrupted, the very best laws become bad… but when the principles are sound, even bad laws have the same effect as good.**" → *The same lesson as Tocqueville's mœurs:* a democracy is only as good as the character of its people, not its paper constitution.
+
+<a id="ex3-size"></a>
+#### The feasibility verdict: democracy needs a *small* state
+
+***Core:*** Montesquieu's structural limit on democracy — and the deepest reason he doubts it for a large modern nation.
+
+- **"It is natural for a republic to have only a small territory; otherwise it cannot long subsist."** In a large republic there are "men of large fortunes, and consequently of less moderation"; the public good "is sacrificed to a thousand private views." In a small one "the interest of the public is more obvious, better understood, and more within the reach of every citizen."
+- **The scaling law:** **small states → republic; middling → monarchy; large empires → despotism.** ("Monarchies lose themselves in despotic power" as states grow.) → *This is exactly the problem Constant, the Federalists, and Tocqueville inherit:* if genuine democracy needs a **small, virtuous** city, how can a **vast, commercial, modern** nation be free? Their answer — **representation** — is what Montesquieu's small-republic pessimism sets up.
+
+**Montesquieu — pros & cons of democracy:**
+- **Pros:** the people are **excellent judges** of merit (good electors); sovereignty genuinely resides in them; they can hold rulers to account; when animated by **virtue** they produce heroic public spirit (Athens vs Persia).
+- **Cons / limits:** the people are **bad administrators**; democracy **requires virtue**, which is hard to sustain and fatal to lose; it faces **two opposite corruptions** (loss of equality → oligarchy; extreme equality → anarchy → despotism); and it is **feasible only in a small territory.**
+- **Verdict:** feasible but **fragile and small-scale**; Montesquieu's own preference tilts toward **moderate monarchy with intermediate powers** for large modern states.
+
+<a id="ex3-tocqueville"></a>
+## Tocqueville — *Democracy in America* (Intro, Bk 1 chs 4/8/9, Bk 4 ch 6)
+
+**Résumé.** The same primary text at the heart of [Module 5](#m5-tocqueville) — so the concepts (**[equality of conditions](#toc-equality)**, **[individualism](#toc-individualism)**, **[tyranny of the majority](#toc-tyranny)**, **[soft despotism](#toc-despotism)**, the **[antidote of participation](#toc-antidote)**) are developed there. Here we focus on the **specific extracts** this class assigns and the class's **"threats"** question.
+
+<a id="ex3-sovereignty"></a>
+#### Sovereignty of the people (Intro; Bk 1 ch 4)
+
+***Core:*** in America the **sovereignty of the people** is not a hidden fiction (as in Europe, where "the will of the nation" is "abused by the wily and the despotic") but an **open, working, all-pervading principle** — followed "without impediment… to its most remote consequences."
+
+- Democracy is grounded in the **"providential fact"** of **[equality of conditions](#toc-equality)** (Intro) — "universal, durable… it constantly eludes all human interference." To resist it "would be to resist the will of God."
+- In America "**society governs itself for itself**"; laws are made by the people directly ("as at Athens") or by representatives "chosen by universal suffrage."
+- **The universal-suffrage ratchet:** once you start extending the franchise, "no stop can be made short of universal suffrage" — each extension strengthens the demand for the next. → Democracy is **self-radicalising.**
+
+<a id="ex3-maintains"></a>
+#### What *maintains* a democratic republic (Bk 1 chs 8–9)
+
+***Core:*** ch. 8 is Tocqueville's admiring reading of the **Federal Constitution** — how good institutional design **channels** popular sovereignty; ch. 9 pivots toward its **danger.**
+
+- **Federalism as a brake** (ch. 8): "the government of the States remained the rule, and that of the Confederation the exception" — powers "carefully enumerated," the rest reserved. He praises America's calm, **bloodless self-correction**: when the first Union failed, a great people "patiently waited two whole years until a remedy was discovered… without having wrung a tear or a drop of blood." **"The Revolution of America terminated when that of France began."** (There's the whole [historical contrast](#m5-context) in one line.)
+- **The Senate/House compromise:** "the independence of the States prevailed in the Senate, and the sovereignty of the nation in the House."
+- **The pivot to danger** (ch. 9): "**In the United States the majority governs in the name of the people**" — "the people is… the real directing power." Above all institutions sits "a sovereign power… that of the people," and nothing checks its will → the doorway to the **[tyranny of the majority](#toc-tyranny).** *(These extracts introduce the theme; Tocqueville's full treatment of majority tyranny's effect on the mind is in chs 15–16, beyond the assigned pages.)*
+
+<a id="ex3-tutelary"></a>
+#### The tutelary despotism (Bk 4 ch 6)
+
+***Core:*** the class's other centrepiece — Tocqueville's portrait of the **new soft despotism**, fully developed in the [Module 5 notes](#toc-despotism). The one-paragraph version: a mild "**immense and tutelary power**" keeps an atomised, comfort-seeking people in "**perpetual childhood**," casting "a network of small complicated rules" until the nation is "a flock of timid and industrious animals, of which the government is the shepherd."
+
+- Its uniquely modern danger: it **coexists with popular sovereignty** — people "combine the principle of centralization and that of popular sovereignty," electing their own guardians and "consol[ing] themselves for being in tutelage." An elected shepherd is still a shepherd: "the nature of him I am to obey signifies less to me than the fact of extorted obedience."
+- Root cause: the **"general apathy which is the consequence of individualism"** — the real enemy, which "may almost indifferently beget either anarchy or despotism."
+
+<a id="ex3-threats"></a>
+#### The threats to democracy (the class's Tocqueville question)
+
+***Core:*** gather them into a ledger — Tocqueville's **arguments**, not just labels:
+
+| Threat | The argument |
+|---|---|
+| **Tyranny of the majority** | with nothing above majority will, minorities and independent minds are crushed — above all by the **conformity of opinion** ("less independence of mind… than in America") |
+| **Individualism** | equality snaps the social "chain"; citizens withdraw into private life, **draining the public sphere** |
+| **General apathy** | the consequence of individualism; the true enemy, which "may indifferently beget anarchy or despotism" |
+| **Soft / tutelary despotism** | a mild central power manages passive citizens into "perpetual childhood" — wearing the *forms* of freedom |
+| **Over-centralization** | democracy destroys the **intermediate bodies** that once resisted tyranny; the state inherits their power *(the point Montesquieu also makes about intermediate powers)* |
+| **Botched transition** | equality *without* the guiding mores/institutions (France) slides toward despotism, not freedom |
+
+- **His arguments' shape:** each threat is **sociological** — it grows from the **social condition of equality itself**, not from bad laws or bad men. That's why his cure is also social: **[participation, associations and local liberty](#toc-antidote)**, which re-weave the bonds equality dissolves.
+
+<a id="ex3-compare"></a>
+## ★ Montesquieu vs Tocqueville — the exercise class's payoff
+
+| | **Montesquieu (1748)** | **Tocqueville (1835)** |
+|---|---|---|
+| **What is democracy?** | **one regime type** among three (nature + principle) | an **irreversible social condition** (equality of conditions) |
+| **What sustains it?** | **virtue** (love of country, equality, frugality) | **mœurs** — associations, religion, local liberty, "self-interest well understood" |
+| **Its characteristic death** | **extreme equality** → anarchy → a "single tyrant" | **individualism → apathy → soft despotism** |
+| **Feasible where?** | only in a **small** state | in **large modern nations** — but only **if guided** |
+| **Method** | typological, comparative, historical | empirical political **sociology** |
+| **Shared conclusion** | *democracy is feasible but fragile; it depends on the **character of the people**, not the constitution* — "corrupt the principle and the best laws turn bad" (M) / mores matter more than institutions (T) | |
+
+- **The bridge between them:** both fear a **loss of intermediate bodies** and both make **the people's moral condition** the load-bearing wall. Montesquieu supplies the **static typology** and the **small-state pessimism**; Tocqueville supplies the **dynamic, sociological** update for the age of **mass** democracy — and the twist that democracy's gravest danger is not too much *turbulence* (Montesquieu's anarchy) but too much *comfort* (soft despotism).
+
+<a id="ex3-cnn"></a>
+## CNN — 'House votes to impeach' (13 Jan 2021) — a live test
+
+***Core:*** the contemporary anchor: one week after the **6 January 2021** attack on the US Capitol, the House voted **232–197** to impeach the President a **second time** on a single charge — **"incitement of insurrection."** **Ten Republicans** joined all Democrats, including the No. 3 House Republican, **Liz Cheney.**
+
+- **Why it's on this syllabus (link it to the theory).**
+  - **Montesquieu:** Book VIII warned that **demagogues** who flatter the people are how democracies slide toward a "single tyrant" — and that a republic's survival rests on **virtue** and on institutions holding their nerve. Impeachment is the constitutional machinery for a republic **defending its principle** against exactly that danger. It also stages his **choose-vs-govern** worry and the fragility of popular passions.
+  - **Tocqueville:** the episode dramatises both his **fear** (an inflamed majority/leader vs the rule of law; the vulnerability of self-government) and his **hope** (the "**intermediate**" institutions and constitutional forms that check power — Congress, courts, federalism — the very "barriers against despotism" he admired in America). The **peaceful transfer of power**, contested and then upheld, is the American self-correction he praised ("without a tear or a drop of blood") under stress.
+- **Exam use:** a ready case for *"is democracy fragile or resilient?"* — evidence **both** ways. Fragile (a mob storms the legislature; a majority of one party declines to convict) *and* resilient (institutions impeach, courts hold, power transfers). Pair it with **[Cassidy on oligarchy](#m5-cassidy)** for a rounded modern picture of democracy's health.
+
+<a id="ex3-questions"></a>
+## ★ Prep-question answers
+
+**1 · The views on democracy in Montesquieu & Tocqueville — is it feasible? Pros & cons?**
+***Answer:*** **both see democracy as feasible but fragile, resting on the people's moral condition.** **Montesquieu:** democracy is one regime type, running on **[virtue](#ex3-virtue)**; its pros are the people as **good electors** and genuine self-rule; its cons are their incompetence at **administration**, the difficulty of sustaining virtue, its **[two corruptions](#ex3-corruption)** (esp. **extreme equality → despotism**), and its feasibility **only in a small state** — so for large modern nations he leans to **moderate monarchy.** **Tocqueville:** democracy isn't a choice but an **[irresistible social condition](#toc-equality)**; feasibility is not the question — *guidance* is. Its pros are prosperity, self-government and equality-before-the-law; its cons are the **[tyranny of the majority](#toc-tyranny)**, **[individualism](#toc-individualism)** and **[soft despotism](#toc-despotism)**. **Both converge:** democracy survives on **mores/virtue**, not on its constitution.
+
+**2 · How does Montesquieu build his argument? Structure? Types of government?**
+***Answer:*** see **[structure](#ex3-nature-principle)** and **[types](#ex3-types)**. A **three-stage architecture, one Book each**: **nature** (Bk II — who holds power) → **principle** (Bk III — the animating passion) → **corruption** (Bk VIII — how the principle rots). He argues by **comparison, historical example, aphorism, and physical causes** (climate, size). The types: **republic** (democracy = the whole people, principle **virtue**; aristocracy = a part, principle **moderation**), **monarchy** (one under fixed laws via intermediate powers, principle **honour**), **despotism** (one by caprice via a vizir, principle **fear**). The **nature/principle distinction is his "master key."**
+
+**3 · Tocqueville's threats to democracy — and his arguments?**
+***Answer:*** see the **[threats ledger](#ex3-threats)**. The major threats are **tyranny of the majority** (esp. the **conformity of opinion**), **individualism**, **apathy**, and **soft/tutelary despotism**, compounded by **over-centralization** and **botched transition**. His **argument** is distinctive: these dangers grow **out of the social condition of equality itself** — not from bad laws or wicked rulers — which is why they are so insidious and why the remedy must also be **social**: **[participation, associations and local self-government](#toc-antidote)** that rebuild the civic bonds equality dissolves.
+
+<a id="ff-ex3"></a>
+## ★ Fun facts & memorable details
+
+> Sticky bits from Exercise Class 3 (Montesquieu · Tocqueville · the pros & cons of democracy).
+
+- **Montesquieu's democracy runs on "virtue" — but not the virtue you think.** He had to add a **footnote** insisting he meant **political** virtue (love of country and equality), "very little of **private moral virtue**, and not at all of that which relates to revealed truths." Generations misread him anyway.
+- **"The people are admirable at choosing, hopeless at governing."** Montesquieu's split verdict — great **electors**, bad **administrators** — is the ancestor of every modern argument for **representative** (not direct) democracy.
+- His **scaling law** is almost a formula: **small state → republic, middling → monarchy, large empire → despotism.** "Rivers hasten to mingle with the sea; and monarchies lose themselves in despotic power."
+- **Extreme equality kills democracy.** For Montesquieu the danger isn't too little equality but **too much** — when no one will obey *anyone*, "petty tyrants arise… a single tyrant starts up." Anarchy is the **antechamber of despotism.**
+- A translator's note in the class extracts warns that the standard **English Tocqueville** (Reeve's) "vividly coloured what was contrary to Democracy and almost erased what could do harm to Aristocracy" — a reminder that even the **translation** carries a politics.
+- **"The Revolution of America terminated when that of France began."** Tocqueville's whole comparative project in nine words — one revolution built a lasting order, the other opened 60 years of turmoil.
+- The class deliberately ends in **2021**: an insurrection, an impeachment, and a contested-but-completed transfer of power — proof that Montesquieu's and Tocqueville's questions about whether a free people can govern itself are **not** museum pieces.
+
+---
