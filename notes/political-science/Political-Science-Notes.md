@@ -25,6 +25,7 @@
 
 **Part III · The European Union as a Political System**
 - **[EU I: The Evolution of the EU (AUW)](#eu-lecture-1)** — [what is European integration?](#eu1-what) · [the EU: neither IO nor state](#eu1-suigeneris) · [★ deepening & widening](#eu1-deepwiden) · [why integration began (post-WWII)](#eu1-origins) · [★ the evolution timeline](#eu1-timeline) · [ECSC → Rome](#eu1-ecsc) · [the enlargements](#eu1-enlargement) · [Maastricht & the euro](#eu1-maastricht) · [politicization & the era of crisis](#eu1-crises) · [Brexit: integration in reverse](#eu1-brexit) · [★ why integration? two theories](#eu1-theories) · [neofunctionalism & spillover](#eu1-neofunc) · [liberal intergovernmentalism](#eu1-li) · [★ the eurozone-crisis case](#eu1-eurocase) · [theories compared](#eu1-compare) · [★ Fun facts](#ff-eu1)
+- **[EU II: Institutions of the EU (AUW)](#eu-lecture-2)** — [where is EU authority?](#eu2-authority) · [the five bodies & their interests](#eu2-bodies) · [★ the basic architecture](#eu2-architecture) · [European Council](#eu2-europeancouncil) · [Commission](#eu2-commission) · [Council of the EU](#eu2-council) · [Parliament](#eu2-parliament) · [CJEU](#eu2-cjeu) · [competences (exclusive/shared/supporting)](#eu2-competences) · [conferral · subsidiarity · proportionality](#eu2-limits) · [how a law is made / ★ OLP](#eu2-olp) · [★ QMV](#eu2-qmv) · [implementation](#eu2-implementation) · [regulations · directives · decisions](#eu2-instruments) · [positive/negative integration & Cassis](#eu2-integration) · [enforcement](#eu2-enforcement) · [why the architecture matters](#eu2-matters) · [differentiated integration](#eu2-differentiated) · [★ LI vs neofunctionalism](#eu2-theories) · [★ Fun facts](#ff-eu2)
 
 ---
 
@@ -2882,5 +2883,284 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 - **The EU is astonishingly *small* as a state-like thing:** an administration "**barely the size of a European city of a million people**," ~**2%** of European public spending, and **no coercive capacity** — most EU law is enforced by **national** officials. (LI's proof that states stay in charge.)
 - **"Masters of the treaty"** — LI's memorable label for the member states: whatever Brussels does, the governments still hold the pen (they wrote the treaties and can rewrite them).
 - **Brexit made a theoretical point real:** integration is **not one-directional.** The arrow can point **left.**
+
+---
+
+<a id="eu-lecture-2"></a>
+# EU II: Institutions of the EU (AUW)
+
+**Required reading:** Bulmer, Parker, Bache, George & Burns (2020), *Politics in the European Union*, OUP — **ch. 12, "The Institutional Architecture."** *(⚠ Built **deck-first**: the reading PDF was not in the upload, so the section-by-section rests on the lecture deck + standard institutional facts. Drop the Bulmer chapter into `Module 2/` and I'll do an enrichment pass — the reading adds detail on inter-institutional cooperation/conflict and the multi-level governance framing.)*
+
+**Theme of the lecture.** This lecture maps the **institutional and legal machinery** behind the EU's **multi-level governance**: *who does what* (propose, decide, implement, enforce), *how* a decision becomes binding EU law, and *why* the shape of the architecture matters — it varies by policy area and it is exactly where the two theories from [EU I](#eu1-theories) (liberal intergovernmentalism vs neofunctionalism) fight it out. Three questions structure it: **Where is EU authority? · How does the EU make & enforce decisions? · Why does the architecture matter?**
+
+<div class="heart">★ <strong>The heart of the lecture:</strong> EU authority is <strong>pooled, delegated and shared</strong> across <strong>levels</strong> (EU ↔ member state) and across <strong>bodies that each represent a different interest</strong>. The "<strong>typical</strong>" way a law is made: <strong>Commission proposes → Parliament + Council co-decide (the Ordinary Legislative Procedure, usually by Qualified Majority) → member states implement → Commission + CJEU enforce.</strong> But this model <strong>changes across policy areas</strong> (some stay intergovernmental, e.g. foreign policy) and membership is <strong>differentiated</strong> (euro, Schengen). <br><strong>Red thread:</strong> the split between <strong>supranational</strong> bodies (Commission · Parliament · CJEU) and <strong>intergovernmental</strong> bodies (European Council · Council) <em>is</em> the institutional form of the <strong>neofunctionalism-vs-LI</strong> debate.</div>
+
+**Key concepts to apply:** *pooled / delegated / shared authority* · *supranational vs intergovernmental bodies* · *the right of initiative* · *Ordinary Legislative Procedure (co-decision)* · *Qualified Majority Voting (55% / 65%)* · *conferral · subsidiarity · proportionality* · *exclusive / shared / supporting competence* · *regulations · directives · decisions* · *positive vs negative integration* · *mutual recognition (Cassis de Dijon)* · *differentiated integration*.
+
+<a id="eu2-authority"></a>
+## Where is EU authority?
+
+***Core:*** there is **no single sovereign** in the EU. Authority to **propose, decide, implement and enforce** is **distributed** — **pooled** (states decide together), **delegated** (handed to a common body), and **shared** — across **two levels** and several bodies.
+
+- **Two levels:**
+  - **EU level:** **European Council · European Commission · Council of the EU · European Parliament · Court of Justice of the EU (CJEU).**
+  - **Member-state level:** national **governments · legislatures · administrations · courts.**
+- *In plain terms:* the EU isn't a government sitting "above" the states; it's a **system** in which the same task (making and enforcing a rule) is split among European bodies *and* national ones. This is what "**multi-level governance**" means.
+
+<a id="eu2-bodies"></a>
+#### The five EU bodies — each represents a different interest
+
+***Core:*** the genius (and the tension) of the design: each institution is built to **represent a different constituency**, so EU decisions have to reconcile them. Learn this table cold — it's the backbone of the whole lecture.
+
+| Body | Who sits there | Whose interest it represents | Core role |
+|---|---|---|---|
+| **European Council** | heads of state/government (27) + its President + Commission President | **national governments** — the top political level | sets **strategic direction** (not a legislator) |
+| **Council of the EU** ("the Council") | national **ministers** (by policy area) | **member-state governments** | **co-legislates**; coordinates national policy |
+| **European Parliament (EP)** | directly elected **MEPs** | **EU citizens** | **co-legislates** + **oversight** |
+| **European Commission** | Commissioners + the EU civil service | the **Union-wide** general interest | **proposes** law; **implements**; **enforces** |
+| **CJEU** | judges | the **EU legal order** | **interprets** & **adjudicates** EU law |
+| *(watchdog)* **Court of Auditors** | auditors | sound use of EU money | **audits EU finances** |
+
+- **The supranational / intergovernmental split** (keep it in view for the theory section): **Commission · EP · CJEU** are **supranational** (they serve the Union as a whole, above the states); **European Council · Council** are **intergovernmental** (they *are* the states). Every EU decision is a negotiation between these two logics.
+
+<a id="eu2-architecture"></a>
+#### The basic architecture — the flow of a decision
+
+***Core:*** the bodies fit together in a **rough sequence**: direction → proposal → decision → implementation → enforcement.
+
+```
+European Council   → sets broad political direction
+        ↓
+European Commission → proposes legislation
+        ↓
+Council + European Parliament → adopt EU legislation
+        ↓
+Member-state administrations → implement legislation
+        ↓
+Commission + CJEU + national courts → monitor, interpret & enforce
+```
+
+<a id="eu2-europeancouncil"></a>
+#### European Council — governments set the direction
+
+***Core:*** the **summit of national leaders.** It is the EU's **political compass**, not its legislature — it decides *where the Union is going*, and unblocks the biggest fights.
+
+- **Who:** the **heads of state or government of the 27**, plus the **European Council President** and the **Commission President.** *(Don't confuse it with the *Council of the EU* — ministers — or the *Council of Europe*, a separate non-EU human-rights body from [EU I](#eu1-timeline).)*
+- **What it does:** defines **broad political priorities**; provides **strategic direction**; **resolves major political disagreements** that ministers can't; gives "**political impetus**" to integration.
+- **Why it's the intergovernmental heart:** it is literally the **national governments** in the room. In an LI reading, this is where the states — the "masters of the treaty" — steer.
+
+<a id="eu2-commission"></a>
+#### European Commission — the engine of EU policy
+
+***Core:*** the EU's **executive and its motor.** Crucially, it holds the **right of initiative** — it **proposes** almost all EU legislation — and then **implements** and **polices** it. It represents the **Union-wide interest**, not any one country.
+
+- **Four jobs** (PROPOSE · EXECUTE · ENFORCE · REPRESENT):
+  1. **Proposes** — **initiates most EU legislation** and develops policy (the **right of initiative** — a huge power: it sets the agenda).
+  2. **Executes** — manages EU **programmes and funding**; implements policy.
+  3. **Enforces** — monitors compliance and can launch **infringement proceedings** against a state that breaks EU law.
+  4. **Represents** — speaks for the EU **internationally** where it has competence (e.g. trade).
+- **Why it's the supranational engine:** its whole job is to think for the **Union as a whole.** In a neofunctionalist reading, the Commission is the **"cultivated spillover"** actor — the Eurocrat that pushes integration forward.
+
+<a id="eu2-council"></a>
+#### Council of the EU — member states as legislators
+
+***Core:*** the **national ministers**, acting as the EU's **other legislative chamber** (alongside the EP). It is **not one fixed group of people** — it changes membership by topic.
+
+- **Who / configurations:** **national ministers** meet in different **configurations by policy area** — Agriculture, Environment, Finance (ECOFIN), Competitiveness, etc. The relevant minister shows up for the relevant dossier.
+- **What it does:** represents **member-state governments**; **co-legislates** with the EP; coordinates national policies; decides by **agreed voting rules** (usually **[QMV](#eu2-qmv)**).
+- **The rotating presidency — in "trios."** The chair of the Council rotates among member states every **6 months**, organised into **trios** of three countries that plan an 18-month programme together.
+
+![The rotating presidency of the Council of the EU, 2018–2030, organised in "trios" — each set of three member states (colour-grouped) chairs consecutively over 18 months, surrounded by the flags of the 27.](figures/eu2-council-trios.png)
+
+*How to read it.* The presidency isn't a person or a permanent seat — it **passes around the member states**, three at a time. Each **trio** (one colour) coordinates an 18-month agenda so priorities carry across the three six-month chairs. It's a concrete emblem of the Council's **intergovernmental, member-state-driven** character.
+
+- **The Council is more than the ministers** (a key exam point): most of the real work happens **below** the ministers, among **diplomats and officials**, *before* ministers ever meet:
+  ```
+  National ministers
+        ↑  (formal adoption)
+  COREPER I & II   (committees of member states' permanent representatives / ambassadors)
+        ↑
+  Working parties + national officials   (the technical bargaining)
+        ↑
+  Council Secretariat
+  ```
+  → **"Much of the bargaining happens among diplomats before ministers meet."** By the time ministers sign, most issues are already settled. *(This is exactly the "bureaucratic interpenetration" neofunctionalism talks about — national officials in constant contact.)*
+
+<a id="eu2-parliament"></a>
+#### European Parliament — citizens enter EU law-making
+
+***Core:*** the EU's **only directly elected** body — the citizens' chamber. Once a weak "talking shop," it has **gained real power through successive treaties** and now **co-legislates** as an equal with the Council.
+
+- **Who:** **MEPs, directly elected every five years**, representing **EU citizens** (organised into cross-national **political groups**, not national delegations — a group needs ≥ **23 MEPs from ≥ 7 states**).
+- **What it does:** **co-legislates** with the Council under the **[Ordinary Legislative Procedure](#eu2-olp)**; can **amend or block** legislation; **oversees** the Commission (it approves and can censure it).
+
+![The European Parliament 2024–2029: 720 seats by political group — EPP 188, S&D 136, Patriots for Europe 84, ECR 78, Renew 77, Greens/EFA 53, The Left 46, ESN 25, Non-attached 32.](figures/eu2-ep-2024.png)
+
+*How to read it.* The hemicycle seats MEPs **left-to-right by ideology**, grouped into **transnational political families**, not by country. After the **2024** election the centre-right **EPP (188)** is the largest group, then the centre-left **S&D (136)**; the **centre holds a working majority** (EPP + S&D + Renew) but the **right** (Patriots, ECR, ESN) grew. → *Illustrates that the EP is a genuine, party-political parliament — the "citizens' interest" the deck's table names.*
+
+<a id="eu2-cjeu"></a>
+#### Court of Justice of the EU — authority through law
+
+***Core:*** the EU's **supreme court.** By **interpreting the treaties and EU law**, it ensures the law means the **same thing everywhere** — and in doing so it **shapes integration** itself.
+
+- **What it does:** **interprets** the treaties and EU legislation; ensures **uniform application** across all states; **resolves disputes**; and **draws the boundary** between EU and national authority.
+- **Why it matters for integration:** "**courts can shape integration.**" By deciding what EU law requires, the CJEU can push integration forward without any new treaty — the neofunctionalist "integration through law." *(Not to be confused with the **European Court of Human Rights**, which belongs to the Council of Europe — see [EU I](#eu1-timeline).)*
+
+<a id="eu2-competences"></a>
+#### EU authority rests where the EU has *competence*
+
+***Core:*** the EU has **no general power to act** — only the powers the treaties give it, and those come in **three strengths.**
+
+| Competence | Who may legislate | Examples |
+|---|---|---|
+| **Exclusive** | **only the EU** | customs union · the single currency · competition rules · common commercial (trade) policy · fisheries conservation · certain international agreements |
+| **Shared** | **EU *and* member states** (states act where the EU hasn't) | internal market · environment · transport · consumer protection |
+| **Supporting** | member states legislate; the **EU only supports/coordinates** | culture · education · tourism *(and areas kept largely national — health systems, taxation, defence)* |
+
+<a id="eu2-limits"></a>
+#### Constitutional limits — conferral, subsidiarity, proportionality
+
+***Core:*** three principles **fence in** EU power so it can't simply expand at will.
+
+1. **Conferral** — the EU can act **only where the treaties give it competence.** No treaty basis → no EU action. *(The default is that power stays national.)*
+2. **Subsidiarity** — in **non-exclusive** areas, the EU should act **only when the objective can't be adequately achieved by member states** acting alone (decisions taken as close to citizens as effective).
+3. **Proportionality** — EU action must **not go beyond what is necessary** to achieve its aim (use the lightest tool that works).
+
+---
+
+<a id="eu2-decisions"></a>
+## How does the EU make & enforce decisions?
+
+<a id="eu2-olp"></a>
+#### How an EU law actually gets made — the Ordinary Legislative Procedure
+
+***Core:*** the "**typical**" model, also called **co-decision**: the **Commission proposes**, and the **Parliament and Council must *both* agree** — as co-equal legislators — before it becomes law.
+
+- **The steps:**
+  1. **Commission** — **agenda-setting**: develops and **proposes** the legislation (right of initiative).
+  2. **European Parliament + Council of the EU** — examine and **amend** the proposal (each can propose changes).
+  3. **Negotiation / readings** — the two co-legislators reconcile their versions (often in "trilogue" with the Commission).
+  4. **Agreement** — **both** the EP **and** the Council approve the **same text**.
+  5. **Adopted → implemented & enforced.**
+- **The key feature:** **Parliament and Council co-decide as equals** — the citizens' chamber and the states' chamber must *both* say yes. Either can **amend or block.** → *This co-equal status is a major **deepening** of supranational democracy won over successive treaties (recall [EU I](#eu1-maastricht): Maastricht's codecision, extended since).*
+
+<a id="eu2-qmv"></a>
+#### Qualified Majority Voting (QMV) — how the Council decides
+
+***Core:*** in the Council, most decisions pass by **QMV, not unanimity** — a **double majority** of states *and* population. The radical implication: **a national government can be *outvoted*** and still be bound.
+
+- **The double threshold — a proposal passes with:**
+  - **55% of member states** (i.e. **at least 15 of 27**), **AND**
+  - states representing **65% of the total EU population.**
+- **Why the two locks:** the **55% of states** protects the **many smaller** countries (one state, one vote); the **65% of population** protects the **few large** ones (Germany, France…). A measure needs **both** kinds of majority. *(A blocking minority therefore needs at least 4 states — so no 3 big states can veto alone.)*
+- **Unanimity still rules the sensitive areas** — **foreign & security policy, taxation, defence, enlargement** — where **every state keeps a veto.**
+- **Why it matters (the deck's exercise):** under **QMV**, a **Danish farmer**'s government can be **outvoted** by a coalition of others — influence depends on building **coalitions**, and small states punch above their weight per capita. Under **unanimity**, *every* government (however small) holds a **veto**, so the **French farmer**'s government could block anything it dislikes. → **QMV = supranational (states can lose); unanimity = intergovernmental (states stay in control).**
+
+<a id="eu2-implementation"></a>
+#### After adoption — who implements? (adoption ≠ implementation)
+
+***Core:*** the EU **makes** the rules but rarely **applies** them itself. **Implementation is mostly national** — a defining feature of the EU's "**small state**" design (recall [EU I](#eu1-li): most EU law is enforced by national officials).
+
+```
+EU organs        → adopt the legal framework
+        ↓
+National administrations → apply the rules in practice
+        ↓
+National courts / authorities → handle individual cases
+        ↓
+European Commission → monitors compliance
+        ↓
+CJEU → settles disputes over EU law
+```
+
+<a id="eu2-instruments"></a>
+#### Not all EU law works the same way — regulations, directives, decisions
+
+***Core:*** the EU has **three main legal instruments**, and they create **different relationships** between EU and national authority. Know the differences — a classic exam distinction.
+
+| Instrument | Binding force | National transposition? |
+|---|---|---|
+| **Regulation** | **directly applicable** — becomes law in every state **as written**, automatically | **No** — no national law needed |
+| **Directive** | binding as to the **result/objective**, but leaves the **means** to states | **Yes** — states must **transpose** it into national law (choosing *how*) |
+| **Decision** | **binding in full** on **specific** addressees (a state, company or individual) | **No** — applies directly to whom it names |
+
+- *In plain terms:* a **regulation** is a Union-wide law imposed identically everywhere (strongly supranational); a **directive** sets a goal but lets each state legislate its own route (a softer, more flexible tool); a **decision** is a targeted order. **Different instrument = different degree of central control.**
+
+<a id="eu2-integration"></a>
+#### Integration through legislation *and* through courts (positive vs negative)
+
+***Core:*** the EU integrates in **two ways** — by **building** common rules (positive) and by **striking down** national barriers (negative, often via the CJEU).
+
+- **Positive integration** — EU institutions **create common rules**: legislation, **harmonization**, common standards. *(Building a shared framework.)*
+- **Negative integration** — EU law **removes national barriers**: the **CJEU** interprets the treaties so that incompatible national rules **fall away**. *(Clearing obstacles to the four freedoms.)*
+- <a id="case-cassis"></a>**Landmark case — *Cassis de Dijon* (1979).** Germany blocked a French blackcurrant liqueur for being below its minimum alcohol content. The CJEU ruled the barrier illegal and established the **principle of mutual recognition**: a good **lawfully sold in one member state** may in principle be **sold throughout** the EU, even without harmonized rules. → *Illustrates:* **negative integration through courts** — the CJEU removing a national barrier to **free movement of goods**, deepening the single market without any new legislation. *(A textbook neofunctionalist "integration through law.")*
+
+<a id="eu2-enforcement"></a>
+#### Who enforces EU rules?
+
+***Core:*** enforcement, like implementation, is **shared** between EU and national actors.
+
+| Enforcer | Role |
+|---|---|
+| **European Commission** | monitors member-state compliance; brings **infringement proceedings** |
+| **National authorities** | enforce EU rules **domestically** |
+| **National courts** | apply EU law in **individual cases** (and can refer questions to the CJEU) |
+| **CJEU** | **authoritative interpretation**; settles legal disputes |
+| **European Court of Auditors** | **audits EU finances** |
+
+---
+
+<a id="eu2-matters"></a>
+## Why does the architecture matter?
+
+***Core:*** the "typical" model (**Commission → EP + Council → law**) is **not universal.** The architecture **shifts by policy area**, and membership itself is **differentiated** — so "the EU" is really several different decision-systems at once.
+
+- **It varies by policy area.** The standard supranational model dominates the **single market** and most regulation. But some areas stay **intergovernmental** — above all the **Common Foreign & Security Policy (CFSP)**:
+  - driven by the **European Council + Council** (the member states);
+  - **unanimity** generally required;
+  - **more limited roles** for Commission, Parliament and CJEU.
+  → *Where the EU is more supranational, integration can run ahead of states; where it's intergovernmental, states stay in charge. Same Union, different rules.*
+
+<a id="eu2-differentiated"></a>
+#### Differentiated integration — common *and* varied
+
+***Core:*** **not every member state participates in every policy the same way.** The EU can be **both common and differentiated** — a patchwork, not a uniform bloc.
+
+- **Euro** — **not all** EU members use the single currency (Denmark opted out; others haven't joined).
+- **Schengen** — **differentiated** participation in the passport-free travel area (some EU states out; some non-EU states — Norway, Switzerland — in).
+- **Enhanced cooperation** — a **group of states can move ahead** in an area without the others.
+→ *This flexibility is how a Union of 27 very different states keeps deepening without forcing everyone to move in lockstep — recall the **[deepening/widening tension](#eu1-deepwiden)** from EU I.*
+
+<a id="eu2-theories"></a>
+## ★ Integration theories & the institutional architecture
+
+***Core:*** the payoff — the lecture ties the machinery straight back to **[EU I's two theories](#eu1-theories).** The **supranational vs intergovernmental** split among the institutions **is** the LI-vs-neofunctionalism debate made concrete.
+
+| | **Liberal Intergovernmentalism** | **Neofunctionalism / Supranationalism** |
+|---|---|---|
+| **Key actors** | **member-state governments** | **supranational bodies & non-state actors** |
+| **Key mechanism** | **interstate bargaining** | **spillover** |
+| **Key EU bodies** | **European Council + Council** | **Commission + EP + CJEU** |
+| **View of integration** | stays **under state control** | can develop **beyond** state control |
+
+- **How to argue with it** (the deck's exercise — apply each theory to a feature):
+  - **QMV in the Council** → *LI:* states **agreed** the rules and still bargain (and kept unanimity for the sensitive stuff); *NF:* accepting you can be **outvoted** is states **losing control** to a supranational majority.
+  - **Commission's right of initiative** → *LI:* a convenient agenda-setter serving state-agreed goals; *NF:* the engine of **cultivated spillover**, shaping outcomes.
+  - **CJEU + *Cassis de Dijon*** → *NF:* **integration through law**, courts removing barriers autonomously; *LI:* states tolerate it because it serves their **collective** interest in a working market.
+  - **CFSP + unanimity** → *LI:* proof states keep the **veto** where sovereignty is dearest; *NF:* the **limit** of spillover — an area still "**encapsulated**."
+- **The takeaway:** you can read the **same institution** two ways. The architecture is contested terrain precisely because **whether the supranational or the intergovernmental bodies dominate a policy area** decides whether integration is **state-controlled or self-propelling.**
+
+<a id="ff-eu2"></a>
+## ★ Fun facts & memorable details (EU II: Institutions)
+
+> Sticky bits from the institutions lecture.
+
+- **Three "Councils," endlessly confused** — the **European Council** (leaders, sets direction), the **Council of the EU** (ministers, legislates), and the **Council of Europe** (a *separate* non-EU human-rights body, from EU I). Mixing them up is the classic exam slip.
+- **The Commission has the "right of initiative"** — almost **no EU law can start without it.** Whoever sets the agenda has quiet power; that's why neofunctionalists call the Commission the **engine.**
+- **A government can be *outvoted* and still bound** — under **QMV**, lose the vote and the law still applies to you. That single fact is the sharpest evidence that the EU is **more than** an ordinary international organisation.
+- **The real deals are cut by diplomats, not ministers** — by the time ministers meet, **COREPER** ambassadors and working parties have usually pre-cooked the agreement. The photographed handshake is often theatre.
+- **The presidency is a relay baton, not a throne** — it **rotates every six months** in **trios**; no country "runs" the EU.
+- ***Cassis de Dijon* — a blackcurrant liqueur** that quietly built the single market: from a squabble over French crème de cassis came **mutual recognition**, one of the most important integration principles, made by **judges**, not legislators.
+- **A regulation vs a directive** — a regulation is the same law everywhere the day it passes; a directive just sets the **goal** and lets 27 parliaments each find their own way there. Same Union, very different grip.
 
 ---

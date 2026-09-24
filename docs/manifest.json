@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T06:00:56.221Z",
+  "generatedAt": "2026-09-24T08:52:29.654Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -95,7 +95,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 10686
+        "sizeKB": 13332
       },
       "parts": [
         {
@@ -169,6 +169,12 @@
           "title": "EU I: The Evolution of the EU (AUW)",
           "pdf": "pdfs/political-science/eu-i-the-evolution-of-the-eu-auw.pdf",
           "sizeKB": 614
+        },
+        {
+          "slug": "eu-ii-institutions-of-the-eu-auw",
+          "title": "EU II: Institutions of the EU (AUW)",
+          "pdf": "pdfs/political-science/eu-ii-institutions-of-the-eu-auw.pdf",
+          "sizeKB": 2766
         }
       ]
     }
