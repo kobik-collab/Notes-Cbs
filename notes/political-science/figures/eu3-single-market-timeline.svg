@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" font-family="Helvetica,Arial,sans-serif">
+<rect width="1000" height="320" fill="white"/>
+<defs><marker id="ar" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#9aa0a6"/></marker></defs>
+<text x="60" y="26" font-size="16" font-weight="bold" fill="#333">Building the Single Market — negative vs positive integration</text>
+<circle cx="70" cy="42" r="5.5" fill="#c0392b"/><text x="84" y="46" font-size="12" fill="#333">Negative integration — remove barriers (esp. the Court)</text>
+<circle cx="70" cy="59" r="5.5" fill="#3b6fb0"/><text x="84" y="63" font-size="12" fill="#333">Positive integration — make common EU rules</text>
+<circle cx="70" cy="76" r="5.5" fill="#7a8290"/><text x="84" y="80" font-size="12" fill="#333">Institutional / foundational step</text>
+<line x1="60" y1="185" x2="948" y2="185" stroke="#c8ccd0" stroke-width="2.5" marker-end="url(#ar)"/>
+<text x="948" y="205" text-anchor="end" font-size="11" fill="#9aa0a6">time →</text>
+<line x1="110" y1="181" x2="110" y2="189" stroke="#c8ccd0" stroke-width="1"/><text x="110" y="204" text-anchor="middle" font-size="10.5" fill="#9aa0a6">1970</text>
+<line x1="260" y1="181" x2="260" y2="189" stroke="#c8ccd0" stroke-width="1"/><text x="260" y="204" text-anchor="middle" font-size="10.5" fill="#9aa0a6">1980</text>
+<line x1="409" y1="181" x2="409" y2="189" stroke="#c8ccd0" stroke-width="1"/><text x="409" y="204" text-anchor="middle" font-size="10.5" fill="#9aa0a6">1990</text>
+<line x1="559" y1="181" x2="559" y2="189" stroke="#c8ccd0" stroke-width="1"/><text x="559" y="204" text-anchor="middle" font-size="10.5" fill="#9aa0a6">2000</text>
+<line x1="708" y1="181" x2="708" y2="189" stroke="#c8ccd0" stroke-width="1"/><text x="708" y="204" text-anchor="middle" font-size="10.5" fill="#9aa0a6">2010</text>
+<line x1="858" y1="181" x2="858" y2="189" stroke="#c8ccd0" stroke-width="1"/><text x="858" y="204" text-anchor="middle" font-size="10.5" fill="#9aa0a6">2020</text>
+<line x1="80" y1="185" x2="80" y2="225" stroke="#7a8290" stroke-width="1.4" opacity="0.5"/><circle cx="80" cy="185" r="6" fill="#7a8290"/>
+<text x="80" y="237" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#7a8290">1968</text>
+<text x="80" y="251" text-anchor="middle" font-size="11" fill="#202124">Customs union</text>
+<text x="80" y="265" text-anchor="middle" font-size="11" fill="#202124">(tariffs gone)</text>
+<line x1="245" y1="185" x2="245" y2="145" stroke="#c0392b" stroke-width="1.4" opacity="0.5"/><circle cx="245" cy="185" r="6" fill="#c0392b"/>
+<text x="245" y="115" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#c0392b">1979</text>
+<text x="245" y="129" text-anchor="middle" font-size="11" fill="#202124">Cassis de Dijon</text>
+<text x="245" y="143" text-anchor="middle" font-size="11" fill="#202124">→ mutual recognition</text>
+<line x1="334" y1="185" x2="334" y2="225" stroke="#3b6fb0" stroke-width="1.4" opacity="0.5"/><circle cx="334" cy="185" r="6" fill="#3b6fb0"/>
+<text x="334" y="237" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#3b6fb0">1985</text>
+<text x="334" y="251" text-anchor="middle" font-size="11" fill="#202124">Cockfield White Paper</text>
+<text x="334" y="265" text-anchor="middle" font-size="11" fill="#202124">(~279 measures)</text>
+<line x1="364" y1="185" x2="364" y2="145" stroke="#7a8290" stroke-width="1.4" opacity="0.5"/><circle cx="364" cy="185" r="6" fill="#7a8290"/>
+<text x="364" y="115" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#7a8290">1987</text>
+<text x="364" y="129" text-anchor="middle" font-size="11" fill="#202124">Single European Act</text>
+<text x="364" y="143" text-anchor="middle" font-size="11" fill="#202124">(QMV for market laws)</text>
+<line x1="439" y1="185" x2="439" y2="225" stroke="#1e7a46" stroke-width="1.4" opacity="0.5"/><circle cx="439" cy="185" r="7" fill="#1e7a46"/>
+<text x="439" y="237" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#1e7a46">1992</text>
+<text x="439" y="251" text-anchor="middle" font-size="11" fill="#202124">Single market</text>
+<text x="439" y="265" text-anchor="middle" font-size="11" fill="#202124">'completed'</text>
+<line x1="499" y1="185" x2="499" y2="145" stroke="#3b6fb0" stroke-width="1.4" opacity="0.5"/><circle cx="499" cy="185" r="6" fill="#3b6fb0"/>
+<text x="499" y="115" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#3b6fb0">1996</text>
+<text x="499" y="129" text-anchor="middle" font-size="11" fill="#202124">Posting of Workers</text>
+<text x="499" y="143" text-anchor="middle" font-size="11" fill="#202124">Directive</text>
+<line x1="649" y1="185" x2="649" y2="225" stroke="#3b6fb0" stroke-width="1.4" opacity="0.5"/><circle cx="649" cy="185" r="6" fill="#3b6fb0"/>
+<text x="649" y="237" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#3b6fb0">2006</text>
+<text x="649" y="251" text-anchor="middle" font-size="11" fill="#202124">Services (Bolkestein)</text>
+<text x="649" y="265" text-anchor="middle" font-size="11" fill="#202124">Directive — watered down</text>
+<line x1="768" y1="185" x2="768" y2="145" stroke="#3b6fb0" stroke-width="1.4" opacity="0.5"/><circle cx="768" cy="185" r="6" fill="#3b6fb0"/>
+<text x="768" y="115" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#3b6fb0">2014</text>
+<text x="768" y="129" text-anchor="middle" font-size="11" fill="#202124">Posted Workers</text>
+<text x="768" y="143" text-anchor="middle" font-size="11" fill="#202124">Enforcement Dir.</text>
+<line x1="828" y1="185" x2="828" y2="225" stroke="#3b6fb0" stroke-width="1.4" opacity="0.5"/><circle cx="828" cy="185" r="6" fill="#3b6fb0"/>
+<text x="828" y="237" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#3b6fb0">2018</text>
+<text x="828" y="251" text-anchor="middle" font-size="11" fill="#202124">Posted Workers</text>
+<text x="828" y="265" text-anchor="middle" font-size="11" fill="#202124">revision (host-country pay)</text>
+<line x1="903" y1="185" x2="903" y2="145" stroke="#3b6fb0" stroke-width="1.4" opacity="0.5"/><circle cx="903" cy="185" r="6" fill="#3b6fb0"/>
+<text x="903" y="115" text-anchor="middle" font-size="11.5" font-weight="bold" fill="#3b6fb0">2023</text>
+<text x="903" y="129" text-anchor="middle" font-size="11" fill="#202124">Digital: DMA /</text>
+<text x="903" y="143" text-anchor="middle" font-size="11" fill="#202124">DSA / AI Act</text>
+</svg>

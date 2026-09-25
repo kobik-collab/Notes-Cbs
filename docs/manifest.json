@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T09:08:01.609Z",
+  "generatedAt": "2026-09-25T08:03:18.149Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -95,7 +95,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 13483
+        "sizeKB": 13860
       },
       "parts": [
         {
@@ -175,6 +175,12 @@
           "title": "EU II: Institutions of the EU (AUW)",
           "pdf": "pdfs/political-science/eu-ii-institutions-of-the-eu-auw.pdf",
           "sizeKB": 2924
+        },
+        {
+          "slug": "eu-iii-the-internal-market-auw",
+          "title": "EU III: The Internal Market (AUW)",
+          "pdf": "pdfs/political-science/eu-iii-the-internal-market-auw.pdf",
+          "sizeKB": 496
         }
       ]
     }
