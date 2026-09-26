@@ -1,0 +1,87 @@
+%% title: International Relations
+%% part: Part II · International Relations
+%% order: 2
+flowchart TB
+  IR["International Relations: how states and other actors interact under anarchy"]:::core
+
+  ANARCHY["Anarchy: no world government above states"]:::concept
+  LEVELS["Levels of analysis: individual, state, system"]:::concept
+  IR --> ANARCHY
+  IR --> LEVELS
+
+  subgraph REALISM["Realism (IR I)"]
+    REAL["Realism: states seek power and survival"]:::real
+    SELFHELP["Self help"]:::real
+    SECDIL["Security dilemma"]:::real
+    BOP["Balance of power"]:::real
+    POLAR["Polarity: uni, bi, multipolar"]:::real
+    REAL --> SELFHELP
+    SELFHELP -->|breeds| SECDIL
+    SECDIL -->|drives| BOP
+    BOP -->|creates| POLAR
+  end
+  ANARCHY -->|forces self help, per| REAL
+
+  subgraph LIBERALISM["Liberalism (IR II)"]
+    LIB["Liberalism: cooperation is possible"]:::lib
+    INST["Institutions and regimes"]:::lib
+    COOP["Cooperation under anarchy"]:::lib
+    KANT["Kantian triangle: democracy, trade, IGOs"]:::lib
+    DEMPEACE["Democratic peace"]:::lib
+    LIB --> INST
+    INST -->|lower distrust and enable| COOP
+    LIB --> KANT
+    KANT -->|produces| DEMPEACE
+  end
+  ANARCHY -->|can be tamed, per| LIB
+  REAL -->|clash over relative vs absolute gains| LIB
+
+  subgraph CONSTRUCT["Constructivism (IR III)"]
+    CON["Constructivism: ideas build reality"]:::con
+    IDEAS["Identities, norms, culture"]:::con
+    WENDT["Anarchy is what states make of it"]:::con
+    CON --> IDEAS
+    IDEAS -->|shape interests| WENDT
+  end
+  ANARCHY -->|has no fixed meaning, per| CON
+
+  subgraph CRITICAL["Critical approaches (IR III)"]
+    CRIT["Critical theory: expose power and hierarchy"]:::crit
+    MARX["Marxism and world systems"]:::crit
+    GENDER["Feminist and postcolonial IR"]:::crit
+    CRIT --> MARX
+    CRIT --> GENDER
+  end
+  CON -->|shares social lens with| CRIT
+
+  subgraph SECURITY["International security (IR IV)"]
+    SEC["Security: a contested concept"]:::sec
+    REF["Referent object: whose security"]:::sec
+    SECUR["Securitisation: a speech act"]:::sec
+    WAR["Causes of war across levels"]:::sec
+    SEC --> REF
+    SEC -->|created by| SECUR
+    SEC --> WAR
+  end
+  SELFHELP -->|realist reading of| SEC
+  IDEAS -->|constructivist reading of| SEC
+  LEVELS -->|used to explain| WAR
+
+  subgraph FOREIGN["Foreign policymaking"]
+    FPA["Foreign Policy Analysis: open the black box"]:::fp
+    DOM["Domestic variables"]:::fp
+    TWO["Two level games: Putnam"]:::fp
+    FPA --> DOM
+    DOM -->|meet the world via| TWO
+  end
+  REAL -->|treats state as a black box, unlike| FPA
+  LEVELS -->|feeds| FPA
+
+  classDef core fill:#1f4e79,color:#ffffff,stroke:#12324f;
+  classDef concept fill:#eef1f5,stroke:#5b6572,color:#1a1a1a;
+  classDef real fill:#eaf1f8,stroke:#1f4e79,color:#12324f;
+  classDef lib fill:#e6f4e6,stroke:#2f7d32,color:#1b4d1e;
+  classDef con fill:#f2eafb,stroke:#7a3fa8,color:#42215f;
+  classDef crit fill:#fce4ec,stroke:#c2185b,color:#6d0f34;
+  classDef sec fill:#fdf0dc,stroke:#b06a00,color:#5f3a00;
+  classDef fp fill:#e8eafb,stroke:#3949ab,color:#1f2a6b;

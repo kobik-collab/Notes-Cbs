@@ -71,6 +71,13 @@ function route() {
     window.scrollTo(0, 0);
     return;
   }
+  if (seg[1] === 'map') {
+    const map = (subject.maps || []).find((m) => m.slug === seg[2]);
+    if (map) { renderMap(subject, map); return; }
+    renderSubject(subject);
+    window.scrollTo(0, 0);
+    return;
+  }
   renderSubject(subject, seg[1]);
   window.scrollTo(0, 0);
 }
@@ -85,6 +92,7 @@ function renderHome() {
         <h2>${esc(s.name)}</h2>
         ${s.note ? `<span class="badge">${esc(s.note)}</span>` : ''}
         ${s.hasFlashcards ? '<span class="badge badge-cards">◧ Flashcards</span>' : ''}
+        ${s.maps && s.maps.length ? '<span class="badge badge-map">◉ Concept maps</span>' : ''}
         <div class="sc-meta">${esc(meta)}</div>
       </a>`;
   }).join('');
@@ -122,8 +130,19 @@ function renderSubject(subject, partSlug) {
       </span>
     </button>`;
 
+  const maps = subject.maps || [];
+  const mapHtml = (m) => `
+    <a class="doc-item map-item" href="#/${encodeURIComponent(subject.slug)}/map/${encodeURIComponent(m.slug)}">
+      <span class="doc-icon map-icon">◉</span>
+      <span class="doc-text">
+        <span class="doc-title">${esc(m.title)}</span>
+        <span class="doc-sub">${esc(m.part || 'Concept map')} · interactive</span>
+      </span>
+    </a>`;
+
   const listHtml = `
     <div class="doc-list">
+      ${maps.length ? `<div class="doc-group-label">Concept maps</div>${maps.map(mapHtml).join('')}` : ''}
       ${fullItems.length ? `<div class="doc-group-label">Complete notes</div>${fullItems.map(itemHtml).join('')}` : ''}
       ${partItems.length ? `<div class="doc-group-label">By lecture</div>${partItems.map(itemHtml).join('')}` : ''}
     </div>`;
@@ -336,6 +355,115 @@ function drawDeck() {
   on('fc-restart', restartDeck);
   on('fc-restart2', restartDeck);
   window.scrollTo(0, 0);
+}
+
+// ---- concept maps (Mermaid) -------------------------------------------------
+
+let mermaidPromise = null;
+let mmCounter = 0;
+function loadMermaid() {
+  if (!mermaidPromise) {
+    mermaidPromise = import('https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs')
+      .then((mod) => {
+        const mermaid = mod.default;
+        mermaid.initialize({
+          startOnLoad: false, securityLevel: 'loose', theme: 'default',
+          flowchart: { curve: 'basis', htmlLabels: true, useMaxWidth: false },
+          fontFamily: '"Helvetica Neue", Helvetica, "Segoe UI", Arial, sans-serif',
+        });
+        return mermaid;
+      });
+  }
+  return mermaidPromise;
+}
+
+async function renderMap(subject, map) {
+  app.innerHTML = `
+    <div class="mapview">
+      <div class="crumbs">
+        <a href="#/">Subjects</a> &nbsp;›&nbsp;
+        <a href="#/${esc(subject.slug)}">${esc(subject.name)}</a> &nbsp;›&nbsp;
+        <span>Concept map</span>
+      </div>
+      <div class="mm-head">
+        <div>
+          <h1 class="mm-title">${esc(map.title)}</h1>
+          <div class="mm-sub">${esc(map.part || '')} · drag to pan · scroll or use the buttons to zoom</div>
+        </div>
+        <div class="mm-toolbar">
+          <button class="mm-btn" id="mm-out">−</button>
+          <button class="mm-btn" id="mm-in">+</button>
+          <button class="mm-btn mm-btn-wide" id="mm-fit">Fit</button>
+        </div>
+      </div>
+      <div class="mm-stage" id="mm-stage">
+        <div class="mm-canvas" id="mm-canvas"><div class="loading">Rendering map…</div></div>
+      </div>
+    </div>`;
+  window.scrollTo(0, 0);
+
+  let code;
+  try {
+    code = await (await fetch(map.mmd, { cache: 'no-cache' })).text();
+  } catch (e) {
+    document.getElementById('mm-canvas').innerHTML = '<div class="loading">Could not load the map source.</div>';
+    return;
+  }
+  let mermaid;
+  try {
+    mermaid = await loadMermaid();
+  } catch (e) {
+    document.getElementById('mm-canvas').innerHTML = '<div class="loading">Could not load the diagram renderer (offline?).</div>';
+    return;
+  }
+  const canvas = document.getElementById('mm-canvas');
+  if (!canvas) return; // user navigated away
+  try {
+    const { svg } = await mermaid.render(`mm-graph-${++mmCounter}`, code);
+    canvas.innerHTML = svg;
+  } catch (e) {
+    canvas.innerHTML = `<div class="loading">Map failed to render.<br><small>${esc(String(e.message || e))}</small></div>`;
+    return;
+  }
+
+  // ---- zoom + pan -----------------------------------------------------------
+  const stage = document.getElementById('mm-stage');
+  const svgEl = canvas.querySelector('svg');
+  if (!svgEl) return;
+  svgEl.removeAttribute('height');
+  svgEl.style.maxWidth = 'none';
+  let scale = 1, tx = 0, ty = 0;
+  const apply = () => { canvas.style.transform = `translate(${tx}px, ${ty}px) scale(${scale})`; };
+  const fit = () => {
+    const sb = stage.getBoundingClientRect();
+    const gb = svgEl.getBoundingClientRect();
+    const raw = gb.width / (scale || 1);
+    const rawH = gb.height / (scale || 1);
+    scale = Math.min((sb.width - 32) / raw, (sb.height - 32) / rawH, 1.4);
+    if (!isFinite(scale) || scale <= 0) scale = 1;
+    tx = (sb.width - raw * scale) / 2;
+    ty = 20;
+    apply();
+  };
+  const zoom = (factor, cx, cy) => {
+    const sb = stage.getBoundingClientRect();
+    const px = (cx ?? sb.width / 2) - tx;
+    const py = (cy ?? sb.height / 2) - ty;
+    const ns = Math.min(Math.max(scale * factor, 0.2), 4);
+    tx -= px * (ns / scale - 1);
+    ty -= py * (ns / scale - 1);
+    scale = ns;
+    apply();
+  };
+  document.getElementById('mm-in').onclick = () => zoom(1.2);
+  document.getElementById('mm-out').onclick = () => zoom(1 / 1.2);
+  document.getElementById('mm-fit').onclick = fit;
+  stage.onwheel = (e) => { e.preventDefault(); const r = stage.getBoundingClientRect(); zoom(e.deltaY < 0 ? 1.1 : 1 / 1.1, e.clientX - r.left, e.clientY - r.top); };
+  let dragging = false, lx = 0, ly = 0;
+  stage.onpointerdown = (e) => { dragging = true; lx = e.clientX; ly = e.clientY; stage.setPointerCapture(e.pointerId); stage.classList.add('grabbing'); };
+  stage.onpointermove = (e) => { if (!dragging) return; tx += e.clientX - lx; ty += e.clientY - ly; lx = e.clientX; ly = e.clientY; apply(); };
+  stage.onpointerup = (e) => { dragging = false; stage.classList.remove('grabbing'); };
+  fit();
 }
 
 boot();

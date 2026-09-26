@@ -376,6 +376,36 @@ main {
 .fc-done p { color: var(--muted); margin: 0 0 22px; }
 .fc-done-actions { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
 
+.badge-map { color: #0d7a6f; background: #e3f5f2; border-color: #bfe8e1; text-transform: none; letter-spacing: 0; }
+.map-item .map-icon { background: #e3f5f2; color: #0d7a6f; }
+.map-item { text-decoration: none; }
+
+/* ---- Concept map view ---- */
+.mapview { display: flex; flex-direction: column; height: calc(100vh - 120px); min-height: 520px; }
+.mm-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; margin: 6px 0 12px; }
+.mm-title { font-family: var(--serif); font-size: 24px; color: var(--accent); margin: 0 0 3px; }
+.mm-sub { color: var(--muted); font-size: 13px; }
+.mm-toolbar { display: flex; gap: 6px; flex-shrink: 0; }
+.mm-btn {
+  font: inherit; font-size: 17px; font-weight: 700; line-height: 1;
+  width: 38px; height: 38px; border-radius: 8px; cursor: pointer;
+  border: 1px solid var(--rule); background: var(--panel); color: var(--accent);
+}
+.mm-btn-wide { width: auto; padding: 0 14px; font-size: 14px; }
+.mm-btn:hover { border-color: var(--accent-2); background: var(--accent-soft); }
+.mm-stage {
+  flex: 1; position: relative; overflow: hidden; touch-action: none;
+  border: 1px solid var(--rule); border-radius: var(--radius);
+  background:
+    radial-gradient(circle, var(--rule-soft) 1px, transparent 1px) 0 0 / 22px 22px,
+    var(--panel);
+  cursor: grab;
+}
+.mm-stage.grabbing { cursor: grabbing; }
+.mm-canvas { position: absolute; top: 0; left: 0; transform-origin: 0 0; will-change: transform; }
+.mm-canvas svg { display: block; }
+.mm-canvas .loading { padding: 40px; white-space: normal; }
+
 /* ---- Responsive ---- */
 @media (max-width: 860px) {
   .reader { grid-template-columns: 1fr; height: auto; }

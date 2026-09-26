@@ -27,6 +27,7 @@ const ROOT = path.resolve(NOTES, '..');           // repo root
 const DOCS = path.join(ROOT, 'docs');
 const PDF_OUT = path.join(DOCS, 'pdfs');
 const FLASH_OUT = path.join(DOCS, 'flashcards');
+const MAP_OUT = path.join(DOCS, 'mindmaps');
 
 const NO_PDF = process.argv.includes('--no-pdf');
 
@@ -180,6 +181,35 @@ for (const slug of subjects) {
       log(`  ✓ ${slug}/${cardSlug} — ${count} flashcards`);
     }
     if (attached) subj.hasFlashcards = true;
+  }
+
+  // ---- concept maps: notes/<subject>/mindmaps/<slug>.mmd (Mermaid source) --------
+  // Header comment lines set metadata: "%% title: ...", "%% part: ...", "%% order: N".
+  const mapDir = path.join(dir, 'mindmaps');
+  if (fs.existsSync(mapDir)) {
+    const mapOut = path.join(MAP_OUT, slug);
+    const maps = [];
+    for (const f of fs.readdirSync(mapDir).filter((f) => f.endsWith('.mmd')).sort()) {
+      const srcPath = path.join(mapDir, f);
+      const src = fs.readFileSync(srcPath, 'utf8');
+      const meta = (re) => (src.match(re)?.[1] || '').trim();
+      const mapSlug = f.replace(/\.mmd$/, '');
+      ensureDir(mapOut);
+      const dest = path.join(mapOut, f);
+      fs.copyFileSync(srcPath, dest);
+      maps.push({
+        slug: mapSlug,
+        title: meta(/^%%\s*title:\s*(.+)$/m) || mapSlug,
+        part: meta(/^%%\s*part:\s*(.+)$/m) || null,
+        order: Number(meta(/^%%\s*order:\s*(.+)$/m)) || 0,
+        mmd: rel(dest),
+      });
+      log(`  ✓ ${slug}/map ${mapSlug}`);
+    }
+    if (maps.length) {
+      maps.sort((a, b) => a.order - b.order);
+      subj.maps = maps;
+    }
   }
 
   manifest.subjects.push(subj);
