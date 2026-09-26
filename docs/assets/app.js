@@ -18,9 +18,23 @@ function mdInline(s) {
     .replace(/\*([^*]+)\*/g, '<em>$1</em>')
     .replace(/`([^`]+)`/g, '<code>$1</code>');
 }
-// Block-level: blank lines -> paragraphs, single newline -> <br>.
+// Render a GitHub-style markdown table (block of |-delimited lines) to HTML.
+function mdTable(block) {
+  const rows = block.split('\n').filter((l) => l.trim());
+  const cells = (line) => line.replace(/^\s*\|/, '').replace(/\|\s*$/, '').split('|').map((c) => c.trim());
+  const head = cells(rows[0]);
+  const body = rows.slice(2).map(cells); // rows[1] is the |---|---| separator
+  const th = head.map((c) => `<th>${mdInline(c)}</th>`).join('');
+  const tr = body.map((r) => `<tr>${r.map((c) => `<td>${mdInline(c)}</td>`).join('')}</tr>`).join('');
+  return `<table class="fc-table"><thead><tr>${th}</tr></thead><tbody>${tr}</tbody></table>`;
+}
+// Block-level: blank lines -> blocks; a table block -> <table>, else <p> with <br>.
 function mdBlock(s) {
-  return String(s).split(/\n\n+/).map((p) => `<p>${mdInline(p).replace(/\n/g, '<br>')}</p>`).join('');
+  return String(s).split(/\n\n+/).map((p) => {
+    const lines = p.split('\n');
+    const isTable = lines.length >= 2 && lines[0].includes('|') && /^\s*\|?[\s:|-]*-[\s:|-]*\|?\s*$/.test(lines[1]);
+    return isTable ? mdTable(p) : `<p>${mdInline(p).replace(/\n/g, '<br>')}</p>`;
+  }).join('');
 }
 const fmtSize = (kb) => (kb >= 1024 ? (kb / 1024).toFixed(1) + ' MB' : kb + ' KB');
 const fileIcon = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/></svg>';

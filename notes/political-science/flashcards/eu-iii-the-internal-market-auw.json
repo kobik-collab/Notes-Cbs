@@ -1,0 +1,262 @@
+{
+  "subject": "political-science",
+  "subjectName": "Political Science",
+  "lectureSlug": "eu-iii-the-internal-market-auw",
+  "lectureTitle": "EU III: The Internal Market (AUW)",
+  "part": "Part III · The European Union as a Political System",
+  "readings": "Bulmer, Parker, Bache, George & Burns (2020) ch. 19, \"The Single Market\" · Jensen & Nedergaard (2012), \"From 'Frankenstein' to 'toothless vampire'?\"",
+  "cardTypes": {
+    "definition": "Define",
+    "reverse": "Name it",
+    "mechanism": "Mechanism",
+    "theory-match": "Match the theory",
+    "apply": "Apply it",
+    "compare": "Compare",
+    "synthesis": "Big picture"
+  },
+  "cards": [
+    {
+      "id": "eu3-01",
+      "type": "definition",
+      "front": "What makes a market genuinely **\"single\"** rather than a mere **free-trade area** or **customs union**?",
+      "back": "A **single market** doesn't stop at removing **tariffs** — it attacks the **hidden barriers** that survive after tariffs are gone (different standards, licences, service rules, qualifications, tax/admin systems).\n\n**Goal:** remove the extra cost created *simply by crossing a border*, so **27 sovereign states** with different laws and regulators trade as **one market**.\n\nBuilt on **free movement + removal of barriers + common rules where necessary.**",
+      "hint": "More than the absence of tariffs.",
+      "tags": ["single-market", "customs-union", "definition"],
+      "source": "Bulmer ch.19 / lecture (AUW)"
+    },
+    {
+      "id": "eu3-02",
+      "type": "reverse",
+      "front": "Name the concept: **national regulations, product standards, licences, admin requirements and discriminatory practices that impede trade even after tariffs and quotas are gone.**",
+      "back": "**Non-tariff barriers (NTBs).**\n\nThey sit above two easier layers — **tariffs** (largely removed inside the customs union) and **quantitative restrictions / quotas** (prohibited). NTBs are **much harder to remove** — *this is the real work of the single market.*\n\n★ The hard part of integration **begins after tariffs disappear.**",
+      "hint": "The invisible barriers — a bottle-shape rule, a test certificate.",
+      "tags": ["non-tariff-barriers", "reverse"],
+      "source": "Bulmer ch.19 / lecture (AUW)"
+    },
+    {
+      "id": "eu3-03",
+      "type": "reverse",
+      "front": "Name the **four freedoms** of the single market — the concrete rights it turns \"one market\" into.",
+      "back": "Free movement of **① Goods** (sell products across borders) · **② Services** (provide services across borders) · **③ Capital** (move & invest across borders) · **④ People / labour** (move, work & establish businesses).\n\n*Crucially they are* **not equally complete**: **goods** furthest along, **capital** freed early, **labour** held back by qualifications, **services** the least complete.",
+      "hint": "G-S-C-P — the backbone of the lecture.",
+      "tags": ["four-freedoms", "reverse"],
+      "source": "Bulmer ch.19 / lecture (AUW)"
+    },
+    {
+      "id": "eu3-04",
+      "type": "reverse",
+      "front": "Which freedom is the **model / template** for the whole market — furthest along — and by what device was it solved?",
+      "back": "**Free movement of GOODS.**\n\nSolved by the **\"new approach\"**: **mutual recognition** by default (a product legal in one state is legal in all) + **minimum EU harmonization** *only* on health & safety.\n\nThe **1985 White Paper** attacked three barriers to goods: **physical** (border checks), **fiscal** (VAT/excise — only partly done), **technical** (product standards — the hard one).",
+      "hint": "You can ship it in a box.",
+      "tags": ["goods", "new-approach", "reverse"],
+      "source": "Bulmer ch.19"
+    },
+    {
+      "id": "eu3-05",
+      "type": "mechanism",
+      "front": "How does the **\"new approach\" to standards** let the EU free the movement of goods **without harmonizing everything**? Trace it to the **CE mark**.",
+      "back": "**① Default rule = mutual recognition** — a product lawfully marketed in one state is legal in all → no need to harmonize every rule.\n**② Exception = health & safety** — for these the EU sets **minimum standards** via the standards bodies **CEN / CENELEC**.\n**③** A product meeting them earns the **\"CE\" mark** and **can't be barred anywhere.**\n\n*Still patchy* where **no harmonized standard exists** — extra national tests appear \"especially in **France and Germany**,\" and **public procurement** rarely goes to non-national firms.",
+      "hint": "Mutual recognition + minimum H&S standards → a stamp.",
+      "tags": ["goods", "ce-mark", "cen-cenelec", "mechanism"],
+      "source": "Bulmer ch.19"
+    },
+    {
+      "id": "eu3-06",
+      "type": "reverse",
+      "front": "Free movement of **persons** was extended beyond workers — to whom? And what remains the **main barrier** to real labour mobility?",
+      "back": "The **1985 White Paper** extended residence rights to the **economically inactive** — **students, the retired, the unemployed** — with **non-discrimination** in social & welfare benefits.\n\n**Main barrier:** **non-recognition of professional & educational qualifications** — a nurse or architect qualified in one state may not be recognized in another.\n\nThe welfare tension it raises (whose wage/welfare rules apply across a border?) explodes in the **Services Directive**.",
+      "hint": "Not just workers — and a qualifications problem.",
+      "tags": ["persons", "labour", "qualifications", "reverse"],
+      "source": "Bulmer ch.19"
+    },
+    {
+      "id": "eu3-07",
+      "type": "reverse",
+      "front": "Which freedom \"**had already started to disappear**\" as a barrier and was largely freed early by the White Paper — and what remains its unfinished business?",
+      "back": "**Free movement of CAPITAL.**\n\nThe White Paper freed cross-border **securities, loans, and access to foreign stock exchanges** (three directives).\n\n**Unfinished:** integrating capital *markets* — the **Financial Services Action Plan (1999)** and, under Juncker, the **Capital Markets Union** (emulate the US, channel savings into **SMEs**, offset eurozone states' constrained fiscal capacity after the crisis).",
+      "hint": "Money and investment — the early winner.",
+      "tags": ["capital", "capital-markets-union", "reverse"],
+      "source": "Bulmer ch.19"
+    },
+    {
+      "id": "eu3-08",
+      "type": "compare",
+      "front": "Distinguish the **two ways to build an integrated market** — the lecture's central analytical tool. Who is the chief agent of each?",
+      "back": "**Negative integration** = **remove barriers** — prohibit discrimination, strike down restrictions, challenge national rules. **Chief agent: the CJEU** (courts remove barriers, e.g. *Cassis*).\n\n**Positive integration** = **create common rules (harmonization)** — common standards, regulations, institutions & enforcement. **Chief agents: Commission + Council + EP** (legislation).\n\nThe EU uses **both** — integration means *taking rules away* **and** *making rules at EU level.*",
+      "hint": "Remove vs create; court vs legislature.",
+      "tags": ["negative-integration", "positive-integration", "compare"],
+      "source": "lecture (AUW) / Bulmer ch.19"
+    },
+    {
+      "id": "eu3-09",
+      "type": "mechanism",
+      "front": "***Cassis de Dijon* (1979):** Germany blocked a French blackcurrant liqueur for failing its **minimum-alcohol** rule. What did the CJEU do, what principle did it establish, and why is it the engine of **negative integration**?",
+      "back": "The CJEU **struck the barrier down** and established **mutual recognition**: a product **lawfully marketed in one member state** should generally be **allowed onto the market of another.**\n\n**Why it matters:** the Court **actively removed a barrier** to free movement of goods — **integration through law**, with *no new legislation*. The Court didn't just settle a dispute; it **defined what market integration requires.**",
+      "hint": "A liqueur that wrote the rulebook — mutual recognition.",
+      "tags": ["cassis-de-dijon", "mutual-recognition", "cjeu", "mechanism"],
+      "source": "Bulmer ch.19 / lecture (AUW)"
+    },
+    {
+      "id": "eu3-10",
+      "type": "compare",
+      "front": "**Harmonization** vs **mutual recognition** — two strategies for the same goal (stop national rules fragmenting the market). Pros and cons of each?",
+      "back": "**Harmonization** — **replace** different national rules with **common EU rules.** *Pro:* a genuine level playing field. *Con:* slow, politically hard, one-size-fits-all.\n\n**Mutual recognition** — **keep** national rules, but each state **recognizes** goods/services meeting **another** state's rules. *Pro:* fast, respects diversity. *Con:* fear of a **\"race to the bottom\"** — whoever regulates most loosely wins.",
+      "hint": "Replace the rules vs recognize each other's.",
+      "tags": ["harmonization", "mutual-recognition", "compare"],
+      "source": "Bulmer ch.19"
+    },
+    {
+      "id": "eu3-11",
+      "type": "mechanism",
+      "front": "The SEM stalled in the 1970s (\"**eurosclerosis**\"). How did the **1992 relaunch** finally deliver it — and why did it need **both an idea and a way to decide**?",
+      "back": "**The idea — \"Project 1992\":** the **1985 Delors Commission** → the **Cockfield White Paper** listing **~279 measures** to remove remaining barriers → a hard deadline: **31 December 1992.**\n\n**The way to decide — the Single European Act (1987):** expanded **Qualified Majority Voting** for market laws, so single-market measures could **no longer be vetoed** by one state.\n\n→ The market needed not just an economic plan but a **way of making collective decisions** — which is why the SEA mattered so much.",
+      "hint": "Cockfield's checklist + SEA's QMV.",
+      "tags": ["project-1992", "cockfield", "sea", "qmv", "mechanism"],
+      "source": "Bulmer ch.19 / lecture (AUW)"
+    },
+    {
+      "id": "eu3-12",
+      "type": "synthesis",
+      "front": "**Why are services so much harder to integrate than goods?** (By 2005 only ~20% of services were traded across borders.)",
+      "back": "Because **a service is often inseparable from the person or organization providing it** — you can't ship it in a box.\n\nProviding a service across a border often needs **people, professional qualifications, local licences, establishment abroad, and interaction with national regulators**, plus far more **information asymmetry / trust.**\n\nThis is exactly why the **Services Directive** became a political firestorm.",
+      "hint": "You can't put a haircut or legal advice in a box.",
+      "tags": ["services", "why-harder", "synthesis"],
+      "source": "Bulmer ch.19 / lecture (AUW)"
+    },
+    {
+      "id": "eu3-13",
+      "type": "compare",
+      "front": "The core services dilemma: **home-country (country-of-origin)** vs **host-country** rules. A Polish firm wins a temporary job in Denmark — whose rules govern it, and what's the trade-off?",
+      "back": "**Home-country / country-of-origin** — the firm operates under **its own (Polish) rules.** *Frictionless*, but risks a **\"race to the bottom.\"**\n**Host-country** — the firm must meet **Denmark's** requirements. *Protects standards*, but **re-fragments the market.**\n\n**The master question:** *which country should regulate cross-border economic activity?* This exact fight is what the **Services Directive** was about.",
+      "hint": "Frictionless but risky vs protective but fragmenting.",
+      "tags": ["country-of-origin", "host-country", "services", "compare"],
+      "source": "lecture (AUW) / Bulmer ch.19"
+    },
+    {
+      "id": "eu3-14",
+      "type": "apply",
+      "front": "The EU liberalized service sectors **one at a time**. Contrast **telecommunications** with **energy** — why was one easier than the other?",
+      "back": "**Telecoms — relatively successful:** helped by **US deregulation pressure** and **business lobbying.**\n\n**Energy — harder:** the **\"public service argument\"**, French defence of **EdF / Gaz de France**, and **union job fears.**\n\nBoth show services being prised open **sector by sector**, often over **national-monopoly resistance** — you can't just declare services free the way you (roughly) can with goods.",
+      "hint": "One had US pressure behind it; the other guarded national champions.",
+      "tags": ["services", "telecoms", "energy", "apply"],
+      "source": "Bulmer ch.19"
+    },
+    {
+      "id": "eu3-15",
+      "type": "mechanism",
+      "front": "The **Services Directive** went \"**from Frankenstein to toothless vampire.**\" Trace the proposal (2004) → the explosion → the dilution (2006).",
+      "back": "**Proposal (2004):** Commissioner **Bolkestein** proposed a single market in services built on the **country-of-origin principle** — firms operate abroad under **home-country rules** (a *Cassis* mutual-recognition move for services).\n\n**Explosion:** it raised the spectre of **\"social dumping\"** after the **2004 eastern enlargement** — the **\"Polish plumber\"**, the Swedish **Laval** case. **Unions mobilized**; France dubbed it the **\"Frankenstein directive\"** (pun on Bolke-*stein*); it tangled with the **2005 French & Dutch referendums.**\n\n**Dilution (adopted 12 Dec 2006, EP 394–215–33):** **country-of-origin removed** → vaguer **\"freedom to provide services\"**; **host-country labour law preserved**; whole **sectors excluded** (healthcare, gambling, temp agencies, transport, postal…); a **screening system** added.",
+      "hint": "Country-of-origin proposed → gutted into a toothless clause.",
+      "tags": ["services-directive", "bolkestein", "country-of-origin", "mechanism"],
+      "source": "Jensen & Nedergaard 2012 / Bulmer ch.19"
+    },
+    {
+      "id": "eu3-16",
+      "type": "theory-match",
+      "front": "**Why was the Services Directive watered down?** Give Jensen & Nedergaard's **actor-centred rational-choice institutionalist** explanation — the four moving parts.",
+      "back": "**① The German pivot:** the new **grand coalition (CDU/CSU–SPD, Nov 2005)** used ties to *both* big EP groups (EPP & PES, both German-led) to broker a **lowest-common-denominator** text — pre-empting **Council** opposition.\n**② Interest-group asymmetry (Olson):** **unions won the framing war** (concentrated costs → mobilize); **consumers** (diffuse gains) didn't organize. States with the *most* barriers opposed *most*.\n**③ Two-level games (Putnam) + \"shadow of QMV\":** France/Germany pointed to **small win-sets** (referendum/election pressure); the deal was struck **in the shadow of the vote** (a credible blocking minority). CEE states had **large win-sets** → took the low denominator, won the **screening system** as a bargaining chip.\n**④ Endogenous preferences:** the constitutional crisis itself pushed everyone toward compromise.\n\n*Prima facie the **EP** was decisive (it wrote the text) — but the real drivers were bargaining & interests.*",
+      "hint": "German brokerage · Olson · Putnam · reshaped preferences.",
+      "tags": ["services-directive", "jensen-nedergaard", "rational-choice", "theory-match"],
+      "source": "Jensen & Nedergaard 2012"
+    },
+    {
+      "id": "eu3-17",
+      "type": "reverse",
+      "front": "Name the folk-devil term: **firms from low-wage member states undercutting high-wage states by importing their cheaper home rules** — the fear that detonated the Services Directive.",
+      "back": "**Social dumping.**\n\nIts folk-devils: the French **\"Polish plumber\" (*le plombier polonais*)**, Polish workers in German slaughterhouses, the Swedish **Laval** case. Bulmer's vivid image: a **British firm building a house in Germany with British workers on British terms.**\n\nThe fear became acute after the **2004 eastern enlargement** and helped sink the **2005 Constitution referendums.**",
+      "hint": "The Polish plumber personified it.",
+      "tags": ["social-dumping", "polish-plumber", "reverse"],
+      "source": "Bulmer ch.19 / lecture (AUW)"
+    },
+    {
+      "id": "eu3-18",
+      "type": "definition",
+      "front": "Define a **posted worker** — and explain why a single posting creates a **governance knot**.",
+      "back": "A **posted worker** = \"an employee **temporarily sent** by an employer to another EU member state to provide a service.\"\n\n**The knot:** one posting tangles **three rule-systems** at once — **home-country employment relationship** + **host-country workplace** + **EU free-movement rules.** *Which rules apply, and who enforces them?*\n\nThis is the **unresolved remainder** of the services fight.",
+      "hint": "Temporarily sent abroad — three rulebooks collide.",
+      "tags": ["posted-workers", "governance", "definition"],
+      "source": "lecture (AUW) / Bulmer ch.19"
+    },
+    {
+      "id": "eu3-19",
+      "type": "mechanism",
+      "front": "**The Laval / Vaxholm case (2007):** a Latvian firm renovated a Swedish school using Latvian workers on Latvian pay; Swedish unions blockaded the site. How did the CJEU rule, and why was it a shock?",
+      "back": "The **CJEU sided (largely) with the firm's freedom to provide services** over the unions' collective action.\n\n**Shock** to **Nordic wage-setting**, which relies on **collective bargaining**, not statutory minimum wages. With ***Viking***, it's the classic proof that **market freedoms can trump national labour rights.**\n\nSharpest evidence for **Scharpf's** thesis: **negative integration beats positive** — the Court can strike down social protections faster than the EU can legislate them.",
+      "hint": "Freedom to provide services > Nordic collective bargaining.",
+      "tags": ["laval", "viking", "cjeu", "mechanism"],
+      "source": "Bulmer ch.19 / lecture (AUW)"
+    },
+    {
+      "id": "eu3-20",
+      "type": "mechanism",
+      "front": "Trace the EU's response on posting — the shift from **\"market opening\" to \"fair mobility.\"**",
+      "back": "**Posting of Workers Directive (1996)** → **Enforcement Directive (2014)** → **2018 revision** strengthening **host-country pay** (\"**equal pay for equal work in the same place**\") and distinguishing **short- vs long-term** postings.\n\nPosted workers **help firms fill short-term skill shortages** (esp. construction, border regions) — **but cross-border enforcement is genuinely hard** (different rules, monitoring difficulties, abuse risk).",
+      "hint": "1996 → 2014 → 2018, drifting toward host-country pay.",
+      "tags": ["posted-workers", "directives", "fair-mobility", "mechanism"],
+      "source": "lecture (AUW) / Bulmer ch.19"
+    },
+    {
+      "id": "eu3-21",
+      "type": "compare",
+      "front": "How does an integrated market **change the role of the state** — from what it *could* decide **before** to what constrains it **after**?",
+      "back": "**Before:** a government could largely decide **who enters** the market, **which standards** apply, **which firms get support**, **which services are protected.**\n\n**After:** those decisions are constrained by EU **free-movement** rules, EU **competition** rules, **common standards**, and **CJEU case law + EU state-aid rules.**\n\nThe state doesn't disappear — it turns from **gatekeeper** into **rule-taker.** The deep stakes: the single market **relocates decisions** from national to European level (and to courts & regulators).",
+      "hint": "Gatekeeper → rule-taker.",
+      "tags": ["state", "regulator", "compare"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu3-22",
+      "type": "synthesis",
+      "front": "The single market keeps **re-opening** as the economy changes. Sketch its evolution **beyond the crisis into the digital age.**",
+      "back": "**After the eurozone crisis (2009):** intra-EU trade dropped, reviving fears of **economic nationalism** → the **Monti report (2010)** → **Single Market Act I (2011) & II (2012).**\n\n**Juncker era:** **Capital Markets Union**; the **Digital Single Market** (mobile **roaming charges abolished, 2017**); a **\"Better Regulation\"** agenda.\n\n**Today — digital markets:** the problem has moved from tariffs/product rules to **platforms, data, network effects** → the **Digital Markets Act (DMA)**, **Digital Services Act (DSA)**, and **AI Act**, backed by competition policy.",
+      "hint": "Monti → Single Market Acts → DMA/DSA/AI Act (roaming died 2017).",
+      "tags": ["digital-single-market", "dma", "dsa", "synthesis"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu3-23",
+      "type": "compare",
+      "front": "**Is the single market \"neoliberal\"?** Contrast **Majone's** pro-market view with the **critical political-economy** view (Scharpf; Cafruny & Ryner; van Apeldoorn).",
+      "back": "**Majone (pro-market):** the SEM makes the EU a **\"regulatory state.\"** Delegating regulation to **\"non-majoritarian\" institutions** (Commission, courts, agencies) **maximizes efficiency** — a welfare good. On this **\"output legitimacy\"** view, the EU has **no democratic deficit.**\n\n**Critical view:** the SEM embeds a **US-led neoliberal turn** — privatization, welfare retrenchment, liberalized corporate governance — often at business's bidding (the **ERT**). It erodes Europe's social models.",
+      "hint": "Regulatory-state efficiency vs neoliberal erosion.",
+      "tags": ["neoliberal", "majone", "regulatory-state", "compare"],
+      "source": "Bulmer ch.19"
+    },
+    {
+      "id": "eu3-24",
+      "type": "theory-match",
+      "front": "**\"Market-making races ahead while market-correcting rules lag, because the Court can strike down national social protections but the EU struggles to legislate a Social Europe in their place.\"** Whose thesis, and what's it called?",
+      "back": "**Scharpf** — the **structural asymmetry** between **negative and positive integration.**\n\n**Market-making** (negative — courts, mutual recognition) is *strong*; **market-correcting** (positive — a common social floor, **\"Social Europe\"**) is *weak*, because the **CJEU can strike down** national social protections (**Laval, Viking, 2007**) faster than the EU can build EU-level replacements.\n\n*Great exam hinge:* link this straight back to the **negative/positive integration** distinction.",
+      "hint": "Negative beats positive — Social Europe lags.",
+      "tags": ["scharpf", "asymmetry", "social-europe", "theory-match"],
+      "source": "Bulmer ch.19"
+    },
+    {
+      "id": "eu3-25",
+      "type": "theory-match",
+      "front": "Two more positions in the neoliberal debate: (a) both sides **overstate the structural imperatives**; the market is contestable and diverse — and (b) **popular dissatisfaction may brake further integration.** Name each.",
+      "back": "**(a) Constructivist middle — Hay & Wincott:** the market is **not fully \"depoliticized\"** — it's contestable (witness the Services Directive), some CJEU rulings **protected** national prerogatives, and **welfare-capitalist diversity persists.**\n\n**(b) Postfunctionalism:** **popular dissatisfaction** with the EU can act as a **brake** on further market integration. *(It went political in the UK — \"**Lexiteers**\" argued the single market forces neoliberalism on Britain: a left-wing case for Brexit.)*",
+      "hint": "The middle ground vs the mass-politics brake.",
+      "tags": ["hay-wincott", "postfunctionalism", "constructivism", "theory-match"],
+      "source": "Bulmer ch.19"
+    },
+    {
+      "id": "eu3-26",
+      "type": "compare",
+      "front": "The capstone question: is the single market built by **states pursuing interests (LI)** or by **supranational entrepreneurship & spillover (neofunctionalism)**? Apply both to **Project 1992**, **Cassis**, and the **Services Directive**.",
+      "back": "| Episode | **LI** | **Neofunctionalism** |\n|---|---|---|\n| **Project 1992** | changing national **preferences** + interstate **bargaining** (FR/DE/UK converge) | **Commission entrepreneurship** (Delors, ERT) + momentum |\n| **Cassis** | states **built the legal framework** the Court works in | the **CJEU** drives integration through **supranational action** |\n| **Services Directive** | domestic **preferences + bargaining** (German-brokered deal) | supranational **ambition meets resistance** (Commission overreached) |",
+      "hint": "States bargaining vs Commission/Court pushing.",
+      "tags": ["li", "neofunctionalism", "theories", "compare"],
+      "source": "lecture (AUW) / Bulmer ch.19"
+    },
+    {
+      "id": "eu3-27",
+      "type": "synthesis",
+      "front": "Pull it together: **is the single market economics or politics** — and what's the honest verdict on which integration theory wins?",
+      "back": "The **red thread:** the single market is an **institutional & political project**, not an automatic economic one — it develops through **political bargaining** (the Services Directive proves it) and it **changes the role of the state** from gatekeeper to rule-taker.\n\n**On theory — no single one wins.** Bulmer's map: the *original common market* fits **LI**; the *1960 acceleration* looked **neofunctionalist**; *1992* is genuinely **contested** (Delors/ERT vs Moravcsik's member-state mandate); the *post-1992 momentum* is best read as **historical institutionalism** (the SEA changed the rules; the CJEU entrenched free-market readings).\n\n**Verdict:** *states set the frame, but courts, the Commission and institutional momentum keep pushing it further than any single bargain intended.*",
+      "hint": "Politics not just economics; no theory wins outright.",
+      "tags": ["synthesis", "red-thread", "theories"],
+      "source": "lecture (AUW) / Bulmer ch.19"
+    }
+  ]
+}

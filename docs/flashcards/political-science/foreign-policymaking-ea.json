@@ -1,0 +1,253 @@
+{
+  "subject": "political-science",
+  "subjectName": "Political Science",
+  "lectureSlug": "foreign-policymaking-ea",
+  "lectureTitle": "Foreign Policymaking (EA)",
+  "part": "Part II · International Relations",
+  "readings": "Ashbee & Hurst (2020), 'The Trump foreign policy record and the concept of transformational change,' Global Affairs 6(1): 5–19 · Putnam (1988), 'Diplomacy and Domestic Politics: The Logic of Two-Level Games,' International Organization 42(3): 427–460 (to p.435)",
+  "cardTypes": {
+    "definition": "Define",
+    "reverse": "Name it",
+    "mechanism": "Mechanism",
+    "theory-match": "Match the theory",
+    "apply": "Apply it",
+    "compare": "Compare",
+    "synthesis": "Big picture"
+  },
+  "cards": [
+    {
+      "id": "fp-01",
+      "type": "definition",
+      "front": "What is the **\"black box\"** critique that this lecture opens up — and why do the grand IR theories deserve it?",
+      "back": "The **\"black box\"** = grand IR theory treats the state's **internal politics as unopened**: inputs (the international system) → outputs (policy), with nothing examined in between.\n\nThe main IR theories work at the **international / state level**, so they **relegate or disregard domestic processes**, treating the state as a unit that simply *responds to the system*. This session **opens the box**: foreign policy is shaped by **domestic as well as international variables**, and the two **interact**.",
+      "hint": "System in → policy out, nothing examined between.",
+      "tags": ["black-box", "fpa", "definition"],
+      "source": "lecture (deck)"
+    },
+    {
+      "id": "fp-02",
+      "type": "theory-match",
+      "front": "*\"International relations are anarchic; trust is limited, so **any** state — democracy or autocracy — must prioritise its own security & survival and act if it has the capacities. Domestic type barely matters.\"* Which theory, and what does it do to the black box?",
+      "back": "**Structural realism (Waltz).**\n\nIt keeps the state **firmly black-boxed** — the *type* of regime is nearly irrelevant; what matters is **anarchy**, **relative capabilities**, and the survival imperative. This is exactly the systemic starting point that FPA and neoclassical realism later reach *inside* of.",
+      "hint": "Anarchy · survival · Waltz.",
+      "tags": ["structural-realism", "waltz", "black-box"],
+      "source": "lecture (deck)"
+    },
+    {
+      "id": "fp-03",
+      "type": "theory-match",
+      "front": "*\"Democracies tend to avoid offensive wars — they answer to publics, are tied by trade **interdependence**, and cooperate through **IOs** — but we still don't examine internal processes closely.\"* Which theory, and who is associated with it?",
+      "back": "**Liberal internationalism (Ikenberry).**\n\nIt peeks a *little* more inside than realism — it cares about the **character of political *systems*** — but still doesn't open the domestic **processes** in detail. Home of the tongue-in-cheek **\"Golden Arches\" theory** (no two countries with McDonald's fight).",
+      "hint": "Interdependence · IOs · Golden Arches.",
+      "tags": ["liberal-internationalism", "ikenberry", "black-box"],
+      "source": "lecture (deck)"
+    },
+    {
+      "id": "fp-04",
+      "type": "mechanism",
+      "front": "Run the **neoclassical realism** mechanism: how do systemic pressures become *different policies* in different states?",
+      "back": "**① Systemic starting point** — realism's basics hold: **relative power** and **anarchy** exert pressure on every state →\n**② Domestic filter** — those pressures are **filtered through domestic \"intervening variables\"**: leaders' **perceptions**, **state–society relations**, **institutions** →\n**③ Divergent output** — so **the *same* international pressure produces *different* policies** in different states, depending on the domestic filter.\n\nSlogan: *\"structure pushes, but domestic politics filters the push.\"* This is the theoretical **warrant** for spending the rest of the lecture on domestic variables.",
+      "hint": "Structure pushes → domestic filter → different outputs.",
+      "tags": ["neoclassical-realism", "intervening-variables", "mechanism"],
+      "source": "lecture (deck)"
+    },
+    {
+      "id": "fp-05",
+      "type": "reverse",
+      "front": "Name the approach: **the study of foreign policy as a product of domestic processes *and* international structure — opening what grand theory left shut.**",
+      "back": "**Foreign Policy Analysis (FPA).**\n\nAlongside **neoclassical realism**, it opens the black box: foreign policy = the **interaction of international structure *and* domestic processes** — not one or the other. FPA supplies the *catalogue of domestic variables*; neoclassical realism supplies the *why they filter systemic pressure*.",
+      "hint": "The whole-lecture project; three letters.",
+      "tags": ["fpa", "reverse", "black-box"],
+      "source": "lecture (deck)"
+    },
+    {
+      "id": "fp-06",
+      "type": "synthesis",
+      "front": "Name the **five families of domestic variable** that shape foreign policy — each a lens, none sufficient alone.",
+      "back": "**① Individuals / core actors** — leaders' beliefs, style, psychology (the \"**great man**\" theory).\n**② Ideas & ideologies** — the **paradigm** guiding policy (what goals/instruments seem legitimate).\n**③ Bureaucratic cultures & sub-cultures** — agencies' operating cultures, **coalitions & factions** inside the executive.\n**④ Interest groups & constituencies** — **lobbying, campaign contributions, the revolving door**, geographic constituencies.\n**⑤ Public opinion** — mass attitudes constraining leaders (mind **salience**).",
+      "hint": "People · ideas · bureaucracies · interests · publics.",
+      "tags": ["domestic-variables", "synthesis", "fpa"],
+      "source": "lecture (deck)"
+    },
+    {
+      "id": "fp-07",
+      "type": "reverse",
+      "front": "*\"The history of the world is but the biography of great men.\"* Whose line is this, what domestic variable does it name, and what's its blind spot?",
+      "back": "**Carlyle (1840)** — the **\"great man theory of history.\"**\n\nIt names the **individuals / core actors** variable — leaders' beliefs, style and psychology (e.g. **Trump**: impulse control, short attention span).\n\n**Blind spot:** focusing on individuals **neglects structural forces** — an individual-only focus **underestimates context**.",
+      "hint": "Carlyle; leaders as history's engine.",
+      "tags": ["great-man-theory", "carlyle", "individuals"],
+      "source": "lecture (deck)"
+    },
+    {
+      "id": "fp-08",
+      "type": "compare",
+      "front": "On the **interest-groups** variable, distinguish **instrumental power** from **structural power**.",
+      "back": "**Instrumental power** = **direct lobbying** — groups act on policy through campaigning, contributions and the **\"revolving door.\"**\n\n**Structural power** = business's **leverage from its control over investment and jobs** — power that operates *without* any direct lobbying, because leaders must keep the economy (and employers) onside.\n\nSame actor, two channels: one is what business *does*, the other is what business *is*.",
+      "hint": "What business does vs what business is.",
+      "tags": ["interest-groups", "instrumental-power", "structural-power", "compare"],
+      "source": "lecture (deck)"
+    },
+    {
+      "id": "fp-09",
+      "type": "definition",
+      "front": "Define **salience** as it applies to public opinion in foreign policy — and give the case that shows its limits.",
+      "back": "**Salience** = how much the public actually **attends to** an issue. Except in **acute crisis or heavy losses**, public engagement with foreign policy is usually **LOW** (Durant & Diehl 1989).\n\n**Case:** **Vietnam** disengagement was blamed on the war's growing unpopularity — but salience means opinion bites **mainly under heavy losses**, so public opinion is a real but *conditional* constraint.",
+      "hint": "How much the public is even paying attention.",
+      "tags": ["salience", "public-opinion", "vietnam", "definition"],
+      "source": "lecture (deck)"
+    },
+    {
+      "id": "fp-10",
+      "type": "apply",
+      "front": "Trump's **mercurial style** was able to drive US foreign policy directly. Using the **structural counterweight**, explain what *enabled* that — beyond the man himself.",
+      "back": "An individual-only story **underestimates context.** Trump's style was *enabled* by the **relative weakness of checks & balances** in the foreign-policy arena — plus deeper trends: **party polarisation**, **party homogenisation**, and a **populist shift.**\n\nContrast **Truman (1945–53)**, who led the US into engagement via a *mix* of variables: **individual** commitment + shifts in **economic elites** + **strategic** pressure from the USSR — several variables interacting at once.",
+      "hint": "Weak checks + polarisation + homogenisation + populism.",
+      "tags": ["structural-counterweight", "trump", "truman", "apply"],
+      "source": "lecture (deck)"
+    },
+    {
+      "id": "fp-11",
+      "type": "compare",
+      "front": "Before judging Trump as a *break*, you need the paradigm he broke from. Compare **Liberal Internationalism (LI)** with the **militant / conservative internationalism (primacism)** it fragmented into.",
+      "back": "**Liberal Internationalism (LI)** — post-WWII **open-ended engagement + global leadership**: builds the **UN, IMF, World Bank, GATT, NATO** and a domestic **national-security state** (National Security Act 1947 → DoD, Joint Chiefs, NSC, CIA).\n\n**Militant / conservative internationalism = primacism** (mainly **Republicans**, from the 1970s split): rejects LI's **cooperative** side → **US primacy**, **hard power** used **unilaterally or in coalitions of the willing**, sidelining the UN — **but keeps a moral purpose** (democracy promotion, regime change; Bush's Iraq). Weakened from ~2006.",
+      "hint": "Cooperative liberal order vs unilateral primacy (still moralistic).",
+      "tags": ["liberal-internationalism", "primacism", "compare", "prior-paradigm"],
+      "source": "Ashbee & Hurst 2020"
+    },
+    {
+      "id": "fp-12",
+      "type": "reverse",
+      "front": "Name the concept: **US primacy / preponderance as the organising aim of foreign policy — hard power used unilaterally, sidelining multilateralism.**",
+      "back": "**Primacism.**\n\nIt is the core of **militant / conservative internationalism** — the mainly-Republican grouping that, after LI fragmented in the 1970s, kept faith in US **preponderance** and unilateral hard power while **rejecting LI's cooperative multilateral side.**",
+      "hint": "Primacy as the whole point.",
+      "tags": ["primacism", "reverse", "conservative-internationalism"],
+      "source": "Ashbee & Hurst 2020"
+    },
+    {
+      "id": "fp-13",
+      "type": "synthesis",
+      "front": "Ashbee & Hurst distil Trump's first term into a **populist-nationalist paradigm** of **five propositions**. Name all five.",
+      "back": "**① The nation is core** — defined by **ethnicity/culture**, not ideals (Bannon: \"a nation with a culture — and a reason for being\").\n**② Zero-sum competition** — nations struggle for **hegemony**; little scope for cooperation (2017 NSS used \"competition\" **18 times**); the US has been \"losing.\"\n**③ Anti-\"globalism\"** — the nation has suffered from **globalism** and global elites (\"the party of Davos\").\n**④ Trade subordinated to the nation** — hostility to **NAFTA/TPP**; prefer **bilateral** deals where US weight wins; reject multilateral liberalisation.\n**⑤ Moral vision abandoned** — no Reagan \"shining city\" / Bush freedom agenda; **rejects regime change & democracy promotion** (\"we are not here to lecture\").",
+      "hint": "Nation · zero-sum · anti-globalism · bilateral trade · no moral vision.",
+      "tags": ["populist-nationalist-paradigm", "trump", "synthesis"],
+      "source": "Ashbee & Hurst 2020"
+    },
+    {
+      "id": "fp-14",
+      "type": "compare",
+      "front": "In one line: how does Trump's paradigm relate to the **conservative internationalism** that preceded it? (Give the reading's formula.)",
+      "back": "**Trump = primacism + economic nationalism + \"principled realism\"** — i.e. **conservative internationalism *minus the moral purpose.***\n\nHe keeps the **unilateral, primacist, hard-power** core but **drops** the faith in democracy promotion and regime change. *In practice:* challenging **China**, **transactionalism**, deals with **Russia/North Korea**, **burden-sharing** demands, doubts about **NATO/collective security**, **protectionism.**",
+      "hint": "Conservative internationalism minus the moral crusade.",
+      "tags": ["trump", "principled-realism", "compare"],
+      "source": "Ashbee & Hurst 2020"
+    },
+    {
+      "id": "fp-15",
+      "type": "definition",
+      "front": "Define **transformational change** (Ashbee & Hurst) — the paper's real contribution — and name its **four** linked elements.",
+      "back": "**Transformational change** = a **lasting** shift across **four linked elements** — not merely dramatic-but-passing change (drawing on **Polanyi**, historical institutionalism, Skowronek):\n\n**① Paradigm** — the framework of ideas/goals/instruments (**Hall**), until new ideas become **\"common sense.\"**\n**② Interests** — new interests grip power; **new coalitions** (Skowronek).\n**③ Institutions** — formal & informal institutional **re-ordering.**\n**④ Logics** — new **chains of events / incentives** that endure (path dependence).",
+      "hint": "Paradigm · interests · institutions · logics — and it must *last*.",
+      "tags": ["transformational-change", "four-elements", "definition"],
+      "source": "Ashbee & Hurst 2020"
+    },
+    {
+      "id": "fp-16",
+      "type": "apply",
+      "front": "Run the **four-element framework** on the **1940s Liberal-Internationalism** shift. Why is it the reading's *model* of a completed transformation?",
+      "back": "**Paradigm:** open-ended engagement & liberal world order becomes common sense.\n**Interests:** New-Deal coalition + \"Wall Street\" Republicans **sideline isolationists.**\n**Institutions:** **UN / IMF / NATO** + the domestic **national-security state.**\n**Logics:** **enduring** collective-security commitments (they outlasted their authors).\n\nAll four shifted **and stuck** → a **completed** transformational change. It's the **yardstick against which Trump is measured.**",
+      "hint": "The benchmark: all four elements shifted and endured.",
+      "tags": ["li-transformation", "case", "apply", "four-elements"],
+      "source": "Ashbee & Hurst 2020"
+    },
+    {
+      "id": "fp-17",
+      "type": "apply",
+      "front": "Now run the **four-element framework** on **Trump (2017+)**. What's the verdict?",
+      "back": "**Paradigm:** populist-nationalist ideas — but only **\"common sense\" to the base.** *(the most dramatic shift)*\n**Interests:** FP establishment & peak business **sidelined**; GOP base shifts to **non-college white workers.**\n**Institutions:** withdrawals (**Paris, TPP, UNESCO, UN HR Council**), undermining the **WTO**, gutting **State Dept/IC** — *but* **core alliances remain intact.**\n**Logics:** weakened trans-Atlanticism; allies edge toward **self-reliance**; TPP revived **without** the US.\n\n**★ Verdict:** the *beginnings* of transformation, but **\"incipient, partial and variegated\"** — ideational shift strongest; institutional/interest shifts incomplete; logics hardest to read this early.",
+      "hint": "Incipient, partial and variegated.",
+      "tags": ["trump", "case", "apply", "four-elements"],
+      "source": "Ashbee & Hurst 2020"
+    },
+    {
+      "id": "fp-18",
+      "type": "definition",
+      "front": "Define **embeddedness** — and explain why Trump-I ended up only **\"proto-transformational.\"**",
+      "back": "**Embeddedness** = ideas become a *lasting* transformation only when **rooted in supportive *interests* and *institutions*** (so they outlive the leader).\n\nTrump's first-term primacism was **pursued inconsistently** and **weakly embedded**: he **marginalised** the national-security bureaucracy but did **not rebuild** it into a self-sustaining machine for the new paradigm → only **\"proto-transformational.\"**",
+      "hint": "Ideas need roots in interests + institutions to last.",
+      "tags": ["embeddedness", "proto-transformational", "definition"],
+      "source": "Ashbee & Hurst 2020"
+    },
+    {
+      "id": "fp-19",
+      "type": "reverse",
+      "front": "Name the concept: **populism is a \"crust\" laid over other ideologies — a \"thin\" ideology (Mudde).** Why does the reading lean on it?",
+      "back": "**Populism as a \"thin\" ideology (Mudde).**\n\nIt's one of the reading's **two reasons the change may not stick:** (1) because populism is only a **crust** on top of fuller ideologies, the administration could be pulled **back** toward conservative/militant internationalism; (2) the US remains **locked into** its key post-war security institutions. → hence **\"proto-transformational.\"**",
+      "hint": "A thin crust on top of thicker ideologies.",
+      "tags": ["thin-ideology", "mudde", "populism", "reverse"],
+      "source": "Ashbee & Hurst 2020"
+    },
+    {
+      "id": "fp-20",
+      "type": "mechanism",
+      "front": "Run **Putnam's two-level game**: how is an international negotiation a *single* game played at *two* levels — and how do the levels connect?",
+      "back": "A negotiation is **one game played simultaneously at two interconnected levels:**\n\n**Level I** = **bargaining between the negotiators** at the international table.\n**Level II** = **separate domestic discussions** about whether to **ratify** what the negotiator brings home.\n\nThe leader sits at **both boards at once**: a deal must be **struck internationally *and* ratifiable domestically.** The connector is the **win-set** — a deal is possible only where the two win-sets **overlap.** This disciplines the claim that domestic & international interact (avoiding analytical **\"ad-hocery\"**).",
+      "hint": "One player, two boards, joined by win-sets.",
+      "tags": ["two-level-game", "putnam", "mechanism", "level-i", "level-ii"],
+      "source": "Putnam 1988"
+    },
+    {
+      "id": "fp-21",
+      "type": "definition",
+      "front": "Define the **win-set** in Putnam's model — and state the two consequences of win-set *size*.",
+      "back": "**Win-set** = *the set of all Level-I deals that would win **ratification** at Level II.*\n\n**① Overlap rule:** a deal is possible only where the two win-sets **overlap** — **bigger** win-sets make agreement **more likely** (but risk a deal your public dislikes).\n**② Schelling conjecture:** a **smaller** win-set can give a negotiator **more bargaining power** (see the separate card).",
+      "hint": "The set of deals your home side would ratify.",
+      "tags": ["win-set", "putnam", "definition"],
+      "source": "Putnam 1988"
+    },
+    {
+      "id": "fp-22",
+      "type": "reverse",
+      "front": "*\"I'd love to accept, but my parliament will never ratify that\"* — being **tied down at home is a bargaining asset abroad.* Name this counter-intuitive point.",
+      "back": "**The Schelling conjecture.**\n\nA **smaller** win-set (tied hands at home) can mean **more** bargaining power abroad — it **forces the other side to move.** Weakness at home = strength at the table.",
+      "hint": "Tied hands as a bargaining chip.",
+      "tags": ["schelling-conjecture", "putnam", "reverse", "win-set"],
+      "source": "Putnam 1988"
+    },
+    {
+      "id": "fp-23",
+      "type": "compare",
+      "front": "In Putnam, distinguish **voluntary** from **involuntary defection** — and say what the distinction proves.",
+      "back": "**Voluntary defection** — a **rational leader reneges** on the deal by choice.\n**Involuntary defection** — the leader **can't deliver** because **ratification fails at home** (Level II blocks it).\n\n**What it proves:** domestic and international politics are **entangled, not separate** — a leader can strike a deal internationally yet still be unable to keep it because of the home board.",
+      "hint": "Won't deliver vs can't deliver.",
+      "tags": ["defection", "putnam", "compare", "two-level-game"],
+      "source": "Putnam 1988"
+    },
+    {
+      "id": "fp-24",
+      "type": "synthesis",
+      "front": "As an alternative to \"it's *always* a two-level game,\" the deck says the **balance of domestic vs international variables *varies systematically*.** Name the **four** dimensions along which it varies.",
+      "back": "**① Time-period** — domestic variables matter **less in acute crisis** (power centralises, the public rallies).\n**② State size** — **small states** have **fewer foreign-policy options** (more constrained by the system).\n**③ Regime type** — **liberal democracies** are more exposed to domestic pressures than illiberal/authoritarian states.\n**④ Policy arena** — some issues draw far **more domestic engagement** — most notably **trade.**",
+      "hint": "Time/crisis · size · regime · arena (esp. trade).",
+      "tags": ["varying-balance", "synthesis", "domestic-international"],
+      "source": "lecture (deck)"
+    },
+    {
+      "id": "fp-25",
+      "type": "theory-match",
+      "front": "An analyst explains a foreign-policy shift purely by the **relative weakness of domestic checks & balances plus party polarisation and a populist mood** — barely mentioning the international system. Which *variable family* and which *caution* does this trigger?",
+      "back": "This leans on the **individuals / core actors** family and its **structural counterweight** — the reminder that an individual-only focus **underestimates context.**\n\nProperly done, it embeds the leader in **structural conditions** (weak checks, **polarisation**, **homogenisation**, **populist shift**) — the neoclassical-realist move of reading the leader as a **filter**, not a free agent.",
+      "hint": "Great-man story → don't forget the structural counterweight.",
+      "tags": ["individuals", "structural-counterweight", "theory-match"],
+      "source": "lecture (deck)"
+    },
+    {
+      "id": "fp-26",
+      "type": "synthesis",
+      "front": "Why is this lecture the **hinge** of the course — and what's the single red-thread question to ask of any foreign-policy episode?",
+      "back": "It's the **hinge between IR theory (lectures I–IV) and real foreign-policy practice:** grand theories set the **international** stage, but **who a state actually is at home** — leaders, ideas, bureaucracies, interests, publics — decides how it plays. The **two-level game** is the *model* of that interaction; **transformational change** is the *yardstick* for whether a shift lasts.\n\n**Red thread:** for any episode ask — *which domestic variables are in play, how do they interact with the international situation, and is the change **transformational** or just a passing shift?*",
+      "hint": "Theory sets the stage; home decides the play.",
+      "tags": ["bridge", "red-thread", "synthesis"],
+      "source": "lecture (deck)"
+    }
+  ]
+}

@@ -327,6 +327,10 @@ main {
 .fc-text strong { color: var(--accent); }
 .fc-text code { font-family: ui-monospace, Menlo, monospace; font-size: .92em; background: var(--rule-soft); padding: 1px 5px; border-radius: 4px; }
 .fc-back .fc-text { font-size: 19px; }
+.fc-table { border-collapse: collapse; width: 100%; margin: 6px 0 10px; font-size: 15px; }
+.fc-table th, .fc-table td { border: 1px solid var(--rule); padding: 6px 10px; text-align: left; vertical-align: top; }
+.fc-table th { background: var(--accent-soft); color: var(--accent); font-weight: 700; }
+.fc-table td strong { color: var(--accent); }
 .fc-hint { margin-top: auto; padding-top: 18px; font-size: 15px; color: var(--muted); font-style: italic; }
 .fc-tap { position: absolute; bottom: 14px; right: 20px; font-size: 12px; color: var(--muted); opacity: .6; }
 .fc-source { margin-top: auto; padding-top: 18px; font-size: 13px; color: var(--muted); }

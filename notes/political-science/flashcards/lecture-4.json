@@ -1,0 +1,289 @@
+{
+  "subject": "political-science",
+  "subjectName": "Political Science",
+  "lectureSlug": "lecture-4",
+  "lectureTitle": "Lecture 4: Systems of Government",
+  "part": "Part I · Political Systems & Institutions",
+  "readings": "OD ch. 5 (Orvis & Drogus, *Governing Institutions in Democracies*)",
+  "cardTypes": {
+    "definition": "Define",
+    "reverse": "Name it",
+    "mechanism": "Mechanism",
+    "theory-match": "Match the theory",
+    "apply": "Apply it",
+    "compare": "Compare",
+    "synthesis": "Big picture"
+  },
+  "cards": [
+    {
+      "id": "l4-01",
+      "type": "synthesis",
+      "front": "State the **red thread** of the whole lecture — the single question every system of government answers, and the master frame you use to place them.",
+      "back": "The one question: **how is executive power organised and held accountable?** — i.e. how the executive is *chosen*, *checked*, and *removed*.\n\n**Master frame:** Lijphart's **majoritarian ↔ consensus** continuum, measured by the number of **veto players** (Tsebelis). Westminster parliamentarism = most **majoritarian** (power concentrated, few veto players); US presidentialism = built-in **separation/veto players** (strong horizontal check, gridlock-prone).\n\nEvery case: *how is the executive chosen · how removed · how many veto players · what's the accountability/efficiency/stability trade-off?*",
+      "hint": "Chosen · checked · removed — on Lijphart's line.",
+      "tags": ["red-thread", "lijphart", "veto-players", "synthesis"],
+      "source": "lecture (FK) / OD ch.5"
+    },
+    {
+      "id": "l4-02",
+      "type": "definition",
+      "front": "The **executive** splits into two roles. Name both, and say which one every state must have.",
+      "back": "**Head of state** — *symbolic*, represents the country (monarch, ceremonial president).\n**Head of government** — runs *policy* (PM, or the president in the US).\n\nOne person can hold both (**US president**) or they can be split (**UK monarch + PM**). Only the **executive** is essential to all states; the legislature and judiciary exist to *limit* it. *How these roles relate to the legislature* is what defines the three systems.",
+      "hint": "Symbolic vs policy; can be one person or two.",
+      "tags": ["executive", "head-of-state", "head-of-government"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-03",
+      "type": "definition",
+      "front": "Define Lijphart's **majoritarian** vs **consensus** democracy — and give the bundle of features that travels with each.",
+      "back": "Institutions differ by **how much they concentrate vs disperse power**.\n\n**Majoritarian** (UK): single-party executive, executive dominates the legislature, unicameral, easily amended constitution → **few veto players**.\n**Consensus** (US/Germany): coalition executives, executive–legislative balance, bicameral, rigid constitution → **many veto players**.\n\nOn Lijphart's map it's not one switch but a *position* on two independent axes: **Executives–Parties** (consensus ↔ majoritarian) and **Federal ↔ Unitary**.",
+      "hint": "Concentrate vs disperse; few vs many veto players.",
+      "tags": ["majoritarian", "consensus", "lijphart"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-04",
+      "type": "reverse",
+      "front": "**Any actor whose agreement is needed to change policy.** Name this concept, name its theorist, and state the rule about adding more of them.",
+      "back": "**Veto player** — **Tsebelis**.\n\n**Rule:** the more veto players (and the greater the *ideological distance* between them), the **less policy change** — smaller winset, more gridlock. It's the mechanism behind presidential gridlock *and* the stability of consensus systems.",
+      "hint": "Tsebelis; more of them → less change.",
+      "tags": ["veto-players", "tsebelis", "reverse"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-05",
+      "type": "mechanism",
+      "front": "Walk through the **veto-players / winset** diagram: how does a new policy pass, and what happens as you add players A → B → C?",
+      "back": "Each circle = one player's set of policies it prefers to the **status quo (SQ)**. A new policy passes only if it lies inside **every** player's circle — the **overlap (winset)**.\n\n**One player** → winset is huge (all of A). **Add B** → shrinks to the small hatched sliver (AB). **Add C** → it can vanish entirely.\n\n**Take-away:** more veto players + more ideological distance → **smaller winset → less policy change / gridlock.**",
+      "hint": "Policy must sit inside every circle at once.",
+      "tags": ["veto-players", "winset", "tsebelis", "mechanism"],
+      "source": "OD ch.5 (figure)"
+    },
+    {
+      "id": "l4-06",
+      "type": "theory-match",
+      "front": "**Citizens punish the government at the ballot box vs the courts strike down a law passed by the legislature.** Name the two *types of accountability*, who coined the pair, and which one this chapter is about.",
+      "back": "**Vertical accountability** — *citizens → state* (elections; ch. 6).\n**Horizontal accountability** — *state institutions check each other* (this chapter).\n\nBoth from **O'Donnell**. Ballot-box = vertical; courts striking a law = horizontal.\n\nUse them to *evaluate* a system: parliamentarism = clearest **vertical** (voters know whom to blame) but weak **horizontal**; presidentialism = strong **horizontal** (separation) but can hurt policymaking.",
+      "hint": "Citizens→state vs state→state; O'Donnell.",
+      "tags": ["accountability", "vertical", "horizontal", "odonnell"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-07",
+      "type": "definition",
+      "front": "Define **parliamentarism** (Westminster) — the defining relationship, who the PM is, and where it sits on Lijphart's line.",
+      "back": "Executive and legislature are **fused**: parliament elects the chief executive (**PM**), who is *both* the majority-party leader *and* a sitting legislator. The purest **majoritarian** form.\n\n**PM is not directly elected** — citizens vote for parliament; the majority names the PM. A **ceremonial head of state** (monarch, or esteemed elected president) stays out of politics.\n\nWith a disciplined single majority the PM is *\"the most powerful democratic executive in the world\"* — legislation passes almost automatically.",
+      "hint": "Fusion; PM = party leader + MP; not directly elected.",
+      "tags": ["parliamentarism", "westminster", "fusion"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-08",
+      "type": "mechanism",
+      "front": "Run the **removal mechanism in parliamentarism**: how is a PM taken out, and what are the PM's counter-moves?",
+      "back": "**Vote of no confidence** → the PM resigns (party picks a new leader) *or* asks the head of state to call **new elections**.\n\n**PM's counter-move:** can **dissolve** parliament and trigger elections. Usually **no fixed terms**.\n\nNo-confidence votes succeed only **~5% of the time**, but even losing one signals fatal weakness. *(UK: 117 of May's own MPs voted no-confidence; she resigned.)*",
+      "hint": "No confidence → resign or new elections; PM can dissolve.",
+      "tags": ["no-confidence", "dissolution", "parliamentarism", "mechanism"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-09",
+      "type": "definition",
+      "front": "Define **presidentialism** — the defining feature (and whose idea it traces to), plus how it builds in veto players.",
+      "back": "Executive and legislature are **elected separately with separate powers** — **separation of powers** (**Montesquieu**). The defining feature is *separation*, **not** that one person is both head of state and government.\n\n**President is directly elected**, serves a **fixed term**; branches generally **can't remove each other**. Lawmaking needs *both* president *and* legislative majority → **institutional veto players** → checks & balances, but **gridlock** (esp. under divided government).\n\nThe **legislature is typically more powerful** than in parliamentary systems.",
+      "hint": "Separation (Montesquieu); directly elected; fixed term.",
+      "tags": ["presidentialism", "separation-of-powers", "montesquieu"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-10",
+      "type": "mechanism",
+      "front": "In **presidentialism**, why is it so hard to remove the executive, and why does policymaking stall? Trace the chain.",
+      "back": "**Removal:** branches can't sack each other — the only route is a hard **impeachment**; the president holds a **fixed term** regardless of support.\n\n**Policy chain:** separation of powers → lawmaking needs *both* president and legislative majority → these are **built-in veto players** → under **divided government** neither can force the other → **gridlock** (e.g. US Senate's 60-vote filibuster).\n\n**Samuels:** presidential systems **change the status quo less and more slowly** (*Thatcher reshaped economic policy far more than Reagan*).",
+      "hint": "Fixed term + impeachment only; two elected veto players.",
+      "tags": ["presidentialism", "gridlock", "impeachment", "samuels", "mechanism"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-11",
+      "type": "definition",
+      "front": "Define **semi-presidentialism** — how executive power is arranged, and where/when it originated.",
+      "back": "Executive power is **split** between a **directly elected president** (head of state, with *real* powers) and a **PM** (head of government, backed by the parliamentary majority, appointed by the president, removable by no-confidence).\n\nLegislation needs the president's signature **and** PM/majority support; powers must be **clearly divided** (often unclear in practice).\n\nOriginated in **France, 1958 (de Gaulle)** — the Fifth Republic. Spread from **10 systems (1990) → 52 (2018)**.",
+      "hint": "Split executive: elected president + PM; France 1958.",
+      "tags": ["semi-presidentialism", "france", "de-gaulle", "split-executive"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-12",
+      "type": "mechanism",
+      "front": "Explain **cohabitation** — when it happens, what the president must do, and why France shows it *working*.",
+      "back": "**Cohabitation** = president and legislative majority from **different parties**. The president must appoint a **PM from the opposing majority** and retreat to their own domain (French norm: **president runs foreign policy & defence, PM runs domestic**).\n\nIt works precisely *because* the president **cannot simply dismiss the PM** — so the two share power and the system stays **as stable as parliamentarism** (Mitterrand with a right-wing PM; Chirac with a left-wing PM).\n\nLimits presidential power but can cause gridlock.",
+      "hint": "President + majority from different parties → opposing-party PM.",
+      "tags": ["cohabitation", "france", "semi-presidentialism", "mechanism"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-13",
+      "type": "theory-match",
+      "front": "**One question decides whether a semi-presidential system is safe or dangerous for democracy.** Name the question, its theorist, and the two outcomes.",
+      "back": "**Elgie's key question:** *can the president dismiss the PM?*\n\n**If YES →** unstable, democracy endangered — the president has no incentive to compromise (**Russia**).\n**If NO →** genuine power-sharing, **no less stable than parliamentarism** (**France**).\n\nFrance vs Russia are the mirror images that sit on either side of Elgie's dividing line.",
+      "hint": "Can the president fire the PM? Russia yes, France no.",
+      "tags": ["elgie", "semi-presidentialism", "france", "russia"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-14",
+      "type": "compare",
+      "front": "The **core comparison** — for **parliamentary / presidential / semi-presidential**, contrast: powers · how the executive is chosen · terms · how it's removed · veto players.",
+      "back": "**Powers:** fused / separated / split executive.\n**Head of state & govt:** separate (monarch + **PM**) / **same person** (president) / president (HoS) + **PM** (HoG).\n**Chosen by:** **parliament** names PM / **directly elected** / president direct + PM by parliament.\n**Terms:** usually **none** / **fixed** / fixed presidential term + PM on parliament.\n**Removed by:** **no confidence** (+ dissolution) / **impeachment** only / PM by no-confidence, president fixed.\n**Veto players:** few / built-in / depends (cohabitation adds them).\n**Cases:** UK, Germany, India / USA, Brazil / France, Russia.",
+      "hint": "Fused · separated · split — learn the row for each.",
+      "tags": ["comparison", "three-systems", "compare"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-15",
+      "type": "reverse",
+      "front": "These features → **which system?** Powers *fused*; executive from the legislature; chief executive is a sitting legislator + party leader; removed by no-confidence; usually no fixed term.",
+      "back": "**Parliamentarism** (Westminster).\n\nGiveaways: **fusion** of powers, the executive *sits in* the legislature, removal by **vote of no confidence** (+ dissolution), **no fixed term**. Classic cases: **UK, Germany, India**. The purest **majoritarian** form — **few veto players**.",
+      "hint": "Fusion + no-confidence + no fixed term.",
+      "tags": ["parliamentarism", "reverse", "identify"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-16",
+      "type": "reverse",
+      "front": "These features → **which system?** Powers *separated*; head of state and head of government are the **same directly-elected person**; fixed term; removal only by impeachment; branches can't sack each other.",
+      "back": "**Presidentialism.**\n\nGiveaways: **separation of powers** (Montesquieu), one directly-elected person is *both* HoS and HoG, **fixed term**, **impeachment** as the only removal, **built-in veto players** and gridlock. Classic cases: **USA, Brazil**. Note the paradox: the **legislature is more powerful** here than under parliamentarism.",
+      "hint": "Separation + same person + fixed term + impeachment.",
+      "tags": ["presidentialism", "reverse", "identify"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-17",
+      "type": "reverse",
+      "front": "These features → **which system?** A directly-elected president *with real powers* **plus** a PM answerable to parliament; the president appoints the PM but the PM can fall to no-confidence; cohabitation is possible.",
+      "back": "**Semi-presidentialism** (the hybrid / split executive).\n\nGiveaways: **two-headed executive** — elected president (HoS, real power) + PM (HoG) backed by the majority; **cohabitation** when they're from different parties; **Elgie's test** (can the president dismiss the PM?) decides stability. Classic cases: **France, Russia**. Born France 1958.",
+      "hint": "Elected president WITH powers + a PM = two heads.",
+      "tags": ["semi-presidentialism", "reverse", "identify"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-18",
+      "type": "mechanism",
+      "front": "Counter-intuitive claim: the **legislature is *more* powerful in presidential systems** than in parliamentary ones. Explain the mechanism.",
+      "back": "Under **separation of powers**, a legislator **can't also sit in the cabinet** — so members have **no ministerial promotion to earn** from the executive and stay **independent**.\n\nIn a **parliamentary** system, ministers *are* MPs, so ambitious MPs **toe the party line** to be promoted into the cabinet → a weaker, executive-dependent legislature.\n\n(Note: this is about chasing **cabinet posts**, not re-election — every legislator chases their own seat.)",
+      "hint": "Can a legislator become a minister? That's the lever.",
+      "tags": ["legislature", "separation-of-powers", "cabinet", "mechanism"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-19",
+      "type": "theory-match",
+      "front": "**\"Presidentialism is inherently crisis-prone\"** — name the theorist, the famous article, and the **three perils**.",
+      "back": "**Linz (1990), \"The Perils of Presidentialism.\"**\n\n**① Dual legitimacy** — two independently elected branches, *no democratic tie-breaker.*\n**② Winner-take-all** — presidents over-read their mandate and won't compromise.\n**③ Inflexible fixed terms** — a failing president can't be removed.\n\nDanger peaks for **new democracies** under **coalitional presidentialism** (small presidential party + fragmented legislature — see **Brazil**).",
+      "hint": "Linz 1990; dual legitimacy · winner-take-all · fixed terms.",
+      "tags": ["linz", "perils-of-presidentialism", "stability"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-20",
+      "type": "synthesis",
+      "front": "How does **Cheibub (2007)** rebut Linz — and what does the evidence say about semi-presidentialism's stability?",
+      "back": "**Cheibub's counter:** it's not the *institution* but the *society*. Presidential systems just *\"tend to exist in societies where democracies of any type are likely to be unstable.\"* The correlation is spurious.\n\nAnd **semi-presidentialism is empirically no less stable than parliamentarism** — *provided* the president **can't override the legislature or sack the PM** (echoing **Elgie**).\n\nThis is the set-piece **stability debate**: Linz (institution is the culprit) vs Cheibub (society is).",
+      "hint": "Society, not institution; selection effect.",
+      "tags": ["cheibub", "linz", "stability-debate", "synthesis"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-21",
+      "type": "compare",
+      "front": "Contrast **common law** and **code law** — their origin, how judges treat precedent, and the *type of judicial review* each produces.",
+      "back": "**Common law** (Britain + colonies incl. US): judges **follow precedent** → **decentralised + concrete** review — *any* court can rule on constitutionality, but only inside a real case.\n\n**Code law** (Roman/**Napoleon**; French/Iberian colonies): a written **code** is supreme, **precedent ignored** → **centralised + abstract** review — one special **constitutional court** can rule on a law *in the abstract*.\n\nThe split tracks **colonial heritage** (OD Map 5.2).",
+      "hint": "Precedent → decentralised/concrete; code → centralised/abstract.",
+      "tags": ["common-law", "code-law", "judicial-review", "compare"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-22",
+      "type": "definition",
+      "front": "Define **judicial review**, explain why it's controversial, and name the trend of courts entering ever more political fights.",
+      "back": "**Judicial review** = courts can strike down a law as **unconstitutional** → making the judiciary a **veto player** and a check on the majority.\n\n**The controversy:** *why should unelected judges override elected majorities?* Defenders (Dahl 1957): legislatures aren't perfectly representative either; judges are **appointed by elected officials** and sit within the ruling coalition; courts *claim* to protect minorities (though studies find they more often side with the powerful). Only real if **institutionalised** + backed by hard-won **legitimacy** (courts command neither army nor purse).\n\n**Trend:** the **\"judicialisation of politics\"** (**Tate & Vallinder**) — courts pulled into more and more political questions.",
+      "hint": "Strike laws down; the 'unelected judges' problem; Tate & Vallinder.",
+      "tags": ["judicial-review", "judicialisation", "tate-vallinder"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-23",
+      "type": "mechanism",
+      "front": "Why does a professional bureaucracy create a **principal–agent problem** — and what makes it *worse*? Trace it.",
+      "back": "**Professionalisation** (merit appointment) replaced **patronage** and gives bureaucrats **expertise = their own independent power** → the gap: **agents** (officials) pursue their *own* interests, not the **principal's** (elected leaders / public) → inefficiency or corruption (expanding budgets/turf, taking bribes).\n\n**Controls** (all imperfect): political appointees, specific legislation, **legislative oversight**, courts. **New Public Management (NPM)** (Reagan/Thatcher) tried markets — a UK study found a **1/3 staff cut but slightly *higher* costs and *worse* service.**",
+      "hint": "Expertise = independent power = the gap; controls all leak.",
+      "tags": ["principal-agent", "bureaucracy", "npm", "mechanism"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-24",
+      "type": "reverse",
+      "front": "Name each: (a) a closed policy loop of bureaucrats + legislators + business serving insiders; (b) Japanese officials taking jobs in firms they'd regulated; (c) the 1980s reform importing markets and \"customer satisfaction\" into government.",
+      "back": "(a) **Iron triangle** — the cosy, closed loop that keeps outsiders out.\n(b) ***Amakudari*** — \"descent from heaven\" (the **Japan** bureaucracy case).\n(c) **New Public Management (NPM)** — privatise, add competition, flatten hierarchies (Reagan/Thatcher).\n\nAll three are ways unelected **bureaucratic power** operates or gets reined in.",
+      "hint": "Triangle · heaven-descent · Reagan/Thatcher reform.",
+      "tags": ["iron-triangle", "amakudari", "npm", "japan", "reverse"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-25",
+      "type": "compare",
+      "front": "Contrast **unitary** and **federal** systems — where sovereignty sits, and why federalism is a majority-limiting device.",
+      "back": "**Unitary** (France, UK, **Denmark**): the centre holds **sole sovereignty**; local powers are **delegated & revocable**.\n**Federal** (US, Germany): sovereignty is **constitutionally shared** with subunits — a built-in way to **limit majorities and protect minorities** (more veto players).\n\n**But federalism is only as real as the politics behind it** — real power depends on **revenue control** and **upper-house strength**, not paper (strong **US Senate** vs weak German **Bundesrat**; **Mexico's** PRI centralised a paper-federal state; **Russia** = a federal *shell*).",
+      "hint": "Sole vs shared sovereignty; revenue + upper house = the reality test.",
+      "tags": ["federal", "unitary", "sovereignty", "compare"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-26",
+      "type": "reverse",
+      "front": "Name each federalism term: (a) all subunits have equal powers; (b) some subunits get special powers; (c) reversible decentralisation *within a unitary state*.",
+      "back": "(a) **Symmetrical** federalism (US).\n(b) **Asymmetrical** federalism (special powers for some units).\n(c) **Devolution** — reversible decentralisation in a **unitary** state (UK → Scotland/Wales/N. Ireland).\n\nBonus: **Riker** — federalism is inherently **unstable**, tending toward either centralisation or secession.",
+      "hint": "Equal · special · reversible-within-unitary.",
+      "tags": ["symmetrical", "asymmetrical", "devolution", "riker", "reverse"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-27",
+      "type": "apply",
+      "front": "**Rules ≠ outcomes.** Give the two go-to illustrations that the *party system* (not the paper constitution) drives how a government actually works.",
+      "back": "**① UK vs India (same Westminster rules):** a disciplined UK majority makes the PM *\"the most powerful executive in the world\"*; India copied the model but its **party system** decides — one-party Congress dominance (1947–89) made PMs *less* constrained, while post-1989 **coalitions** forced constant bargaining (**3 PMs in 30 years → 12 in the next 30**).\n\n**② Thatcher vs Reagan (Samuels):** with a compliant majority **Thatcher reshaped economic policy far more than Reagan**, who faced a Democratic Congress — despite similar aims.\n\n**Lesson:** context — party number & discipline — turns the *same* rules into different outcomes.",
+      "hint": "UK vs India; Thatcher vs Reagan.",
+      "tags": ["rules-vs-outcomes", "party-system", "uk", "india", "apply"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-28",
+      "type": "theory-match",
+      "front": "Match each **case** to its system and its one-line lesson: **USA · Brazil · France · Russia · Japan.**",
+      "back": "**USA** — **presidential**: separation of powers + weak, polarised parties → **gridlock**; the world's strongest legislature.\n**Brazil** — **coalitional presidentialism**: strong *formal* powers ≠ effective power (~30 parties → 9-party coalitions; Rousseff impeached 2016) — the instability Linz warned of.\n**France** — **semi-presidential** done *right*: cohabitation works because the president **can't** sack the PM.\n**Russia** — **semi-presidential** gone dominant: a president who *can* remove the PM → **electoral authoritarianism** (Elgie's warning).\n**Japan** — the **bureaucracy** case: unelected power via **iron triangles** + *amakudari* (principal–agent).",
+      "hint": "US=gridlock · Brazil=coalitional · France=cohabitation · Russia=dominant · Japan=bureaucracy.",
+      "tags": ["cases", "usa", "brazil", "france", "russia", "japan", "theory-match"],
+      "source": "OD ch.5"
+    },
+    {
+      "id": "l4-29",
+      "type": "synthesis",
+      "front": "**Iversen & Soskice (2006):** why do **proportional** democracies redistribute *more* than **majoritarian** ones? Run the three-class logic.",
+      "back": "With three classes (lower / middle / upper):\n\n**Proportional system →** the **middle class sides with the lower class** to redistribute from the rich → **bigger welfare states**.\n**Majoritarian system →** the **middle class sides with the upper class** to avoid heavy taxes from the poor → **less redistribution**.\n\nSo the majoritarian/PR *institutional* choice has huge distributional stakes — a bridge to Lecture 5 and a big reason PR democracies redistribute more (helps explain the Sweden-vs-US welfare puzzle).",
+      "hint": "Which class does the middle class ally with?",
+      "tags": ["iversen-soskice", "redistribution", "proportional", "synthesis"],
+      "source": "deck / OD ch.5"
+    },
+    {
+      "id": "l4-30",
+      "type": "apply",
+      "front": "You're handed *any* country and asked to classify and evaluate its system of government. What's the **reusable 4-step template**?",
+      "back": "**① How is the executive chosen?** — parliament names it (parliamentary) · directly elected & same person (presidential) · elected president + separate PM (semi-presidential).\n**② How is it removed?** — no-confidence + dissolution / impeachment only / mixed.\n**③ How many veto players?** — place it on Lijphart's **majoritarian ↔ consensus** line (check party system + federalism).\n**④ What's the trade-off?** — read **vertical vs horizontal accountability**, effective policymaking, and stability (deploy **Linz vs Cheibub**).\n\nAlways add: *rules ≠ outcomes* — the **party system** decides how the rules actually bite.",
+      "hint": "Chosen → removed → veto players → trade-off.",
+      "tags": ["template", "exam-move", "apply"],
+      "source": "OD ch.5 / lecture"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "subject": "political-science",
+  "subjectName": "Political Science",
+  "lectureSlug": "lecture-2",
+  "lectureTitle": "Lecture 2: The State (AUW)",
+  "part": "Part I · Political Systems & Institutions",
+  "readings": "OD ch. 2 (The Modern State) · OD ch. 4 (States and Identity)",
+  "cardTypes": {
+    "definition": "Define",
+    "reverse": "Name it",
+    "mechanism": "Mechanism",
+    "theory-match": "Match the theory",
+    "apply": "Apply it",
+    "compare": "Compare",
+    "synthesis": "Big picture"
+  },
+  "cards": [
+    {
+      "id": "l2-01",
+      "type": "definition",
+      "front": "Define the **modern state**, then name the **four characteristics** every one shares — the checklist you score any case on.",
+      "back": "**State** = *\"an ongoing administrative apparatus that develops and administers laws and implements policies in a specific territory.\"*\n\n**Four characteristics:** ① **territory** · ② **sovereignty** (external + internal) · ③ **legitimacy** · ④ **bureaucracy**.\n\nTogether they make the state a *uniquely powerful ruling apparatus*. They come in **degrees**, not all-or-nothing — how *fully* a state has them decides strong vs weak vs failed.",
+      "hint": "Territory · sovereignty · legitimacy · bureaucracy.",
+      "tags": ["state", "four-characteristics", "od-ch2"],
+      "source": "OD ch.2 / lecture (AUW)"
+    },
+    {
+      "id": "l2-02",
+      "type": "compare",
+      "front": "Distinguish the four things people constantly confuse: **state · government · regime · nation** (one line each).",
+      "back": "**State** — the *permanent administrative apparatus* (makes/implements law in a territory).\n**Government** — the *transient people who currently run* it (US: \"administrations\").\n**Regime** — the *fundamental rules / type* of government (liberal democracy, fascism — ch.3).\n**Nation** — a *people with a shared sense of belonging* (ch.4).\n\n(*Country* is too vague for analysis.)",
+      "hint": "Apparatus · occupants · rule-type · a people.",
+      "tags": ["state", "government", "regime", "nation", "definitions"],
+      "source": "OD ch.2 / lecture (AUW)"
+    },
+    {
+      "id": "l2-03",
+      "type": "compare",
+      "front": "**External vs internal sovereignty** — define both, and give the case where they come apart.",
+      "back": "**External sovereignty** — *recognised independence from outside powers* (others acknowledge you). Counter-examples: colonies, Vichy France, Manchukuo — had territory/government but were externally controlled.\n**Internal sovereignty** — *sole authority to make/enforce law inside*, defended against secession.\n\n**They can separate:** **Somaliland** has near-full *internal* sovereignty (constitution, elections) but *zero external* recognition; **Russia** is externally strong but weak on internal rule of law. Sovereignty ≠ omnipotence.",
+      "hint": "Recognised from outside vs sole authority inside.",
+      "tags": ["sovereignty", "external-internal", "somaliland", "od-ch2"],
+      "source": "OD ch.2"
+    },
+    {
+      "id": "l2-04",
+      "type": "reverse",
+      "front": "\"The state claims to be the **only** body that may legitimately coerce.\" Whose idea is this, and what's it called?",
+      "back": "**Weber's monopoly on the legitimate use of force.**\n\nThe defining claim of the modern state. Related lecture quote: *\"The difference between fascism and democracy is not whether the police are called, but when.\"* Where the monopoly erodes (Mexico's cartels), the state is weakening.",
+      "hint": "Weber; who alone may use violence.",
+      "tags": ["weber", "monopoly-of-force", "legitimacy"],
+      "source": "OD ch.2"
+    },
+    {
+      "id": "l2-05",
+      "type": "definition",
+      "front": "Name and define **Weber's three types of legitimacy** — the recognised right to rule.",
+      "back": "**① Traditional** — from long-standing *custom* (divine right of kings).\n**② Charismatic** — from personal *virtue/heroism* (early Mao).\n**③ Rational-legal** — leaders chosen by *accepted laws/procedures* (elected under a constitution) — Weber's marker of *modern* rule.\n\nIn practice regimes **blend all three**. Legitimacy boosts sovereignty *far more cheaply than force*; without it (Collier) you get **repression, conflict, or \"theater.\"**",
+      "hint": "Custom · charisma · law — and real states mix them.",
+      "tags": ["weber", "legitimacy", "three-types", "od-ch2"],
+      "source": "OD ch.2"
+    },
+    {
+      "id": "l2-06",
+      "type": "theory-match",
+      "front": "Match each to a **basis of legitimacy**: (a) China post-1976; (b) Iran post-1979; (c) a king ruling by divine right; (d) a president elected under a written constitution.",
+      "back": "(a) **Economic performance** — China's legitimacy shifted from communist ideology + Mao's charisma to *growth* (\"modernising authoritarian\"); legitimacy **without democracy**.\n(b) **Theocracy** — Khomeini built the *first modern theocracy* (religious legitimacy).\n(c) **Traditional** (Weber).\n(d) **Rational-legal** (Weber) — e.g. the USA's written constitution.\n\nShows legitimacy can rest on **many bases** (Brazil cycled through nearly all).",
+      "hint": "Growth · religion · custom · law.",
+      "tags": ["legitimacy", "china", "iran", "cases", "weber"],
+      "source": "OD ch.2"
+    },
+    {
+      "id": "l2-07",
+      "type": "definition",
+      "front": "What is an **ideal type**, and why does the concept matter for studying states?",
+      "back": "**Ideal type** = a *model of the purest version of something*. No real state matches the four-characteristics model perfectly — you use it as a **yardstick** to score how far a real case falls short.",
+      "hint": "A yardstick, not a real thing.",
+      "tags": ["ideal-type", "method", "weber"],
+      "source": "OD ch.2"
+    },
+    {
+      "id": "l2-08",
+      "type": "mechanism",
+      "front": "Run **Tilly's \"war made the state\"** chain (the *European* pathway) — feudalism to strong territorial state.",
+      "back": "**Feudalism** (overlapping authorities) → **absolute monarchies** (consolidate territory & sovereignty; *\"L'état, c'est moi\"* — state not yet separate from ruler) → **war & political competition** (15th–18th-c. rulers as \"war-lords\") → **taxation + armies + administration** → **efficient bureaucracies** → **stronger territorial states.**\n\nDriven by **military competition**. It cut Europe from **~500 sovereign entities (1500) to ~50 today**. The *truly modern* state arrives once seen as **separate from the ruler** and liberalism turns subjects into **citizens** (Glorious Revolution 1688; French Revolution 1789).",
+      "hint": "War → tax → armies → bureaucracy → state.",
+      "tags": ["tilly", "european-pathway", "war-made-state", "mechanism"],
+      "source": "OD ch.2"
+    },
+    {
+      "id": "l2-09",
+      "type": "reverse",
+      "front": "\"The early state is basically a **protection racket** — rulers sell protection against threats they partly create.\" Whose model is this, and name its **four activities**.",
+      "back": "**Charles Tilly.** *\"War made the state, and the state made war.\"*\n\n**Four activities** (each reinforces the state): **war-making** (neutralise external rivals) · **state-making** (neutralise internal rivals) · **protection** (neutralise clients' enemies) · **extraction** (raise the **tax** that funds the first three).",
+      "hint": "War · state · protection · extraction.",
+      "tags": ["tilly", "protection-racket", "four-activities", "extraction"],
+      "source": "OD ch.2 / lecture (AUW)"
+    },
+    {
+      "id": "l2-10",
+      "type": "apply",
+      "front": "**Brandenburg-Prussia** built a strong state despite a poor economy and *without* usually winning its wars. Trace *why*, and state the counter-intuitive lesson.",
+      "back": "Surrounded by larger powers → needed **armies** → needed **revenue** (poor economy) → heavy **taxation in return for protection** → **efficient bureaucracy** → high **state capacity**.\n\n**Lesson:** Prussia was strong **not because it won**, but because it fought in a *brutally competitive environment* — the pressure raised the incentive to build a strong tax-and-bureaucracy machine. (The worked example of Tilly's warfare theory.)",
+      "hint": "Competition, not victory, forced the strong state.",
+      "tags": ["prussia", "tilly", "state-capacity", "case"],
+      "source": "OD ch.2 / lecture (AUW)"
+    },
+    {
+      "id": "l2-11",
+      "type": "compare",
+      "front": "Contrast the **European** and **colonial** pathways to statehood — and state the take-away about *capacity*.",
+      "back": "**European** — the four characteristics built *internally* by **war & competition** (Tilly); slow, endogenous.\n**Colonial** — European powers **exported** borders, administrative structures and international recognition through *conquest*. Colonial borders **ignored existing political communities**.\n\n**Take-away: statehood ≠ state capacity.** Postcolonial states inherited legal *external* sovereignty but **weak internal** sovereignty, imposed institutions and divided loyalties → mostly **very weak states** (statehood universal only by the **1960s**). *The origins of statehood shape how capacity later develops.*",
+      "hint": "War-built vs conquest-built; recognition without capacity.",
+      "tags": ["colonial-pathway", "state-capacity", "sovereignty", "compare"],
+      "source": "OD ch.2"
+    },
+    {
+      "id": "l2-12",
+      "type": "definition",
+      "front": "Define the **strong / weak / failed** state spectrum — the yardstick, and what it measures.",
+      "back": "A **continuum** (not three boxes) measured by how many **political goods** the state actually delivers (Rotberg: **security, rule of law, infrastructure**).\n\n**Strong** = provides them generally · **weak** = only partially · **failed** = *loses effective sovereignty* over part/all territory (Syria, DRC, Afghanistan). A state can be strong on one characteristic, weak on another, and strength can move *both ways* (Fukuyama: even the US has weakened). Measured by the **Fragile States Index** (178 states, 12 factors — the chapter questions its equal weighting).",
+      "hint": "Continuum measured by political goods delivered.",
+      "tags": ["strong-weak-failed", "political-goods", "fragile-states-index"],
+      "source": "OD ch.2"
+    },
+    {
+      "id": "l2-13",
+      "type": "mechanism",
+      "front": "Walk the **vicious cycle of state weakness** — how a weak state spirals downward.",
+      "back": "**No resources** → falling **legitimacy** → **underpaid officials** → **corruption** → **worse services** → citizens turn to **mafias / private justice** → the **monopoly on force erodes** further → (back to fewer resources).\n\nA self-reinforcing downward spiral: weak **legitimacy + weak bureaucracy** are the two key drivers of weakness.",
+      "hint": "Poverty → corruption → lost monopoly on force → repeat.",
+      "tags": ["state-weakness", "vicious-cycle", "corruption", "mechanism"],
+      "source": "OD ch.2"
+    },
+    {
+      "id": "l2-14",
+      "type": "theory-match",
+      "front": "Three theories of *why states become strong*: (a) external threats force state-building; (b) externally imposed institutions shape later capacity; (c) elites trade private violence for impersonal institutions & rule of law. Name each theory **+ its author(s)**.",
+      "back": "(a) **Warfare** — **Tilly** (Prussia).\n(b) **Colonial legacies** — **Acemoglu, Johnson & Robinson** (Congo, Nigeria).\n(c) **Elite agreements** — **North, Wallis & Weingast** (England).\n\n(+ **Fukuyama's two paths:** *bureaucracy-first* Prussia/Germany vs *democracy-first* USA → machine politics.)",
+      "hint": "War · colonial · elite bargains.",
+      "tags": ["theories-of-strength", "tilly", "ajr", "north-wallis-weingast", "fukuyama"],
+      "source": "OD ch.2"
+    },
+    {
+      "id": "l2-15",
+      "type": "theory-match",
+      "front": "A state's rulers **ignore their citizens because mineral revenue funds them**, and rebels have a prize to fight over. Which *theory of weakness* is this — and name the second theory of weakness alongside it.",
+      "back": "**Resource curse** — resource dependence weakens **accountability** and breeds corruption (mineral money lets rulers skip taxing/answering to citizens). *Not inevitable* — cf. **Norway**. Nigeria is the classic case (oil fuels corruption & secession).\n\nSecond theory: the **international system** — international **recognition** props up **quasi-states** that couldn't otherwise survive (post-1945 norm against conquest; Cold War patrons).",
+      "hint": "Oil kills accountability; recognition keeps hollow states alive.",
+      "tags": ["resource-curse", "quasi-states", "theories-of-weakness", "nigeria"],
+      "source": "OD ch.2"
+    },
+    {
+      "id": "l2-16",
+      "type": "reverse",
+      "front": "A region wrote a **2001 constitution** (elected house + a house of **clan elders**), holds real elections, grows on livestock/remittances — yet **no state recognises it** (one embassy). Name the case and the concept it proves.",
+      "back": "**Somaliland** — proves **internal and external sovereignty are separable.**\n\nAfter Somalia collapsed (1991) it declared independence and functions with near-full *internal* sovereignty but *zero external* recognition — looking **more state-like than recognised Somalia**.",
+      "hint": "The de-facto state with one embassy.",
+      "tags": ["somaliland", "sovereignty", "case"],
+      "source": "OD ch.2"
+    },
+    {
+      "id": "l2-17",
+      "type": "apply",
+      "front": "**Was ISIS a state?** Use the four characteristics as a diagnostic checklist to reach a verdict.",
+      "back": "**Territory** — held Belgium-sized land (~6m people), but only *nominally*. **Bureaucracy** — yes: taxed \"every bushel of wheat,\" even ran a **DMV**. **External sovereignty** — *no*, it rejected the international system. **Legitimacy** — purely *religious*. And it **failed at security**.\n\n**Verdict: only \"partially\" a state.** The model answer for using the four characteristics as a checklist (Tilly: *\"war made the state, and the state made war.\"*).",
+      "hint": "Score it on all four → partial.",
+      "tags": ["isis", "four-characteristics", "checklist", "case"],
+      "source": "OD ch.2"
+    },
+    {
+      "id": "l2-18",
+      "type": "compare",
+      "front": "**Primordialism vs constructivism** — the core theoretical move of ch.4. Contrast them, and say which the chapter adopts and *why*.",
+      "back": "**Primordialism** — identities are *natural, ancient, fixed* (kinship, language, phenotype); the language of ethnic/national **leaders** (it legitimises their claims).\n**Constructivism** — identities are **socially constructed** (\"imagined communities,\" **Anderson**); flexible, you hold **many** at once, and elites **activate** whichever fits. *The chapter's choice.*\n\n**Why constructivism wins:** primordialism can't explain ① **change over time** (ex-Yugoslavia's dormant religious lines turned deadly), ② identities **appearing/splitting** (\"Asian American\"/\"Hispanic\" coined in the 1960s; \"Igbo\" first in 1930s docs), or ③ the **state manufacturing identity** (schooling, censuses, elections).",
+      "hint": "Natural & fixed vs imagined & activated.",
+      "tags": ["primordialism", "constructivism", "anderson", "od-ch4"],
+      "source": "OD ch.4"
+    },
+    {
+      "id": "l2-19",
+      "type": "reverse",
+      "front": "Name the concept: **how politically important an identity is — a thing that is *made*, not innate — and is what the chapter says is actually constructed.**",
+      "back": "**Political saliency.**\n\nKey subtlety: it isn't the *groups* that are constructed so much as their **saliency** — it's *made, not given*. Every ch.4 marker gets two questions: ① *how was its saliency built?* and ② *individual rights or group rights?*",
+      "hint": "Not the group — its political importance.",
+      "tags": ["political-saliency", "constructivism", "od-ch4"],
+      "source": "OD ch.4"
+    },
+    {
+      "id": "l2-20",
+      "type": "compare",
+      "front": "Distinguish **state · nation · nationalism**, and the single line separating a **nation** from an **ethnic group**.",
+      "back": "**State** = territorial/administrative org · **Nation** = a people with shared belonging · **Nationalism** = the *political project of making the nation sovereign / controlling a state* (d'Azeglio: *\"We have made Italy. Now we must make Italians\"*).\n\nA state can contain **many nations**; a nation can exist **without** a state; nationhood is **socially constructed** (Anderson's *imagined community*).\n\n**Nation vs ethnic group:** the only line is the **state** — a *nation* has or *seeks* one; an *ethnic group* does not (a dissatisfied ethnic group can *become* a nation).",
+      "hint": "The dividing line is: does it seek a state?",
+      "tags": ["nation", "nationalism", "ethnic-group", "anderson", "od-ch4"],
+      "source": "OD ch.4 / lecture (AUW)"
+    },
+    {
+      "id": "l2-21",
+      "type": "compare",
+      "front": "**Cultural vs civic nationalism** — contrast them, tie each to a citizenship rule and a country, and give the case.",
+      "back": "**Cultural nationalism** — unity by shared *culture/descent* → citizenship by **jus sanguinis** (\"blood\") — **Germany**.\n**Civic nationalism** — unity by shared *political beliefs* → citizenship by **jus soli** (\"soil\"/residence) — **France**; seen as more democracy-friendly.\n\n**Case — Germany:** strictly cultural (jus sanguinis codified **1913**), auto-granting citizenship to ethnic Germans while denying it to German-born children of ~3m Turkish **\"guest workers\"**; a **2000** reform opened jus soli, yet **>40% of Turkish residents remain non-citizens**; Merkel's Syrian refugees (2015) revived the fight (AfD won 12.6%, 2017). Even \"civic\" USA isn't so civic — **50%** think a \"true American\" is Christian, English-speaking, US-born.",
+      "hint": "Blood (Germany) vs soil (France).",
+      "tags": ["cultural-civic-nationalism", "jus-sanguinis", "jus-soli", "germany", "immigration"],
+      "source": "OD ch.4"
+    },
+    {
+      "id": "l2-22",
+      "type": "definition",
+      "front": "Once an identity is salient, groups make **four demands**. Name all four (with who names the universal one).",
+      "back": "**① Recognition** — Taylor's *\"politics of recognition\"*; the **universal** demand.\n**② Autonomy** — self-rule over a region or personal/religious law; *thwarted → secession → civil war*.\n**③ Representation** — may require institutional change.\n**④ Improved social status** — most groups start poorer.\n\nThe whole fight: answer these with **equal individual rights** (liberalism) or **special group rights** (multiculturalism)?",
+      "hint": "Recognition · autonomy · representation · status.",
+      "tags": ["four-demands", "recognition", "taylor", "od-ch4"],
+      "source": "OD ch.4"
+    },
+    {
+      "id": "l2-23",
+      "type": "theory-match",
+      "front": "\"**Legal equality alone can't include culturally distinct minorities → they need multicultural integration.**\" Whose position is this, what's the rival, and name the exam-favourite dilemma.",
+      "back": "**FOR group rights: Kymlicka** — multicultural integration (vs assimilation).\n**AGAINST (classic liberalism):** only *individuals* have rights; group rights **freeze inequality** and erode the shared identity democracy needs.\n\n**The sharp dilemma:** should groups pursuing *illiberal* goals — e.g. religious law limiting gender equality — get special rights? (Fought out in India's **Shah Bano** case.)",
+      "hint": "Kymlicka vs classic liberalism; the illiberal-group problem.",
+      "tags": ["group-rights", "kymlicka", "multiculturalism", "liberalism"],
+      "source": "OD ch.4"
+    },
+    {
+      "id": "l2-24",
+      "type": "compare",
+      "front": "The **group-rights toolkit** for divided societies: **consociationalism vs the centripetal approach**. Contrast them, name the theorist and case for each.",
+      "back": "**Consociationalism** — **Lijphart**: give each group a *share of central power + vetoes* (Switzerland, Belgium, Lebanon). *The most common post–Cold War response.* Case: **Northern Ireland — Good Friday Agreement (1998)** (PR assembly, shared first/deputy-first ministers; collapses repeatedly). *Ends violence but doesn't erase division.*\n**Centripetal approach** — **Horowitz**: electoral rules that *reward broad, cross-ethnic appeal*. Case: **Nigeria** (parties must be national; president must win ≥25% in two-thirds of states).",
+      "hint": "Share power (Lijphart) vs incentivise moderation (Horowitz).",
+      "tags": ["consociationalism", "centripetal", "lijphart", "horowitz", "northern-ireland", "nigeria"],
+      "source": "OD ch.4"
+    },
+    {
+      "id": "l2-25",
+      "type": "reverse",
+      "front": "Name the **model of secularism** for each rule: (a) neutral about religion but not opposed; (b) religion barred from the public sphere; (c) the state supports registered faiths; (d) the state treats groups *differently on purpose*.",
+      "back": "(a) **Neutral state** — **USA** (flashpoints: school prayer, creationism).\n(b) **Laïcité** — **France** (Turkey, Mexico); flashpoint: the **veil** bans.\n(c) **Positive accommodation** — **Germany** (church tax).\n(d) **\"Principled distance\"** — **India** (gives Muslims more autonomy over personal law).\n\nReligion's demands mirror ethnicity's (recognition + autonomy over personal law); what varies is *how the state handles it*.",
+      "hint": "Neutral · laïcité · accommodation · principled distance.",
+      "tags": ["secularism", "laicite", "principled-distance", "religion", "od-ch4"],
+      "source": "OD ch.4"
+    },
+    {
+      "id": "l2-26",
+      "type": "theory-match",
+      "front": "An identity built on **physical markers by external imposition** — starting as *power over* a group (to justify domination/slavery), not self-assertion. Which marker is this, and how does it differ from ethnicity?",
+      "back": "**Race** — the one identity that starts as *power over* a group, not self-assertion.\n\nDiffers from **ethnicity** in *marking* (physical vs cultural), *origin* (imposed vs self-claimed) and built-in **power**. Genetic variation across \"races\" is no bigger than within them. **Constructed by place:** US **\"one-drop rule\"** vs Brazil's **12+ visual categories**. US case: \"Asian American\"/\"Hispanic\" coined in the 1960s; racial *resentment* (not economics) best predicted the **Trump 2016 vote** (Sides/Tesler/Vavreck).",
+      "hint": "Physical + imposed + power = ?",
+      "tags": ["race", "one-drop-rule", "construction", "us-race", "od-ch4"],
+      "source": "OD ch.4"
+    },
+    {
+      "id": "l2-27",
+      "type": "synthesis",
+      "front": "**Social class** is the identity still often defined by \"objective\" criteria — yet what's happening to it, and how does the UK case show it?",
+      "back": "Its **political saliency is falling.** Marx's classes fit a post-industrial economy awkwardly; constructivists see class as *symbols/aspiration*. Union density **~35% (1985) → ~17%**; despite rising inequality, workers moved to **nationalist/right parties** (Brexit, Trump), *not* class politics (**Huber:** leaders mobilise whichever cleavage most cheaply wins).\n\n**UK case:** unions built their own party (**Labour, 1900**), peaked at *just over half the workforce unionised in 1979*, then **Thatcher** broke union power; the working class shrank and many backed **Brexit** — mobilisation shifted **from class to nation.**",
+      "hint": "Objective-ish, but salience is declining.",
+      "tags": ["social-class", "declining-salience", "uk-class", "huber", "od-ch4"],
+      "source": "OD ch.4"
+    },
+    {
+      "id": "l2-28",
+      "type": "compare",
+      "front": "For gender & sexuality movements, contrast the **assimilationist vs liberationist** strategies — the sharpest form of the multiculturalism question.",
+      "back": "**Assimilationist** (liberal feminists / mainstream LGBTQ) — win **equal rights within** existing institutions (same-sex marriage *extends* a heterosexual institution).\n**Liberationist** (**Iris Young**; radical LGBTQ) — **transform the norms themselves** (\"sexual citizenship\"; marriage seen as patriarchal). The **transgender** movement now challenges the gender **binary** itself.\n\nBoth grew from the 1960s West (**Stonewall, 1969**). Outcomes: big legal gains, not parity — women = **24% of MPs**; same-sex marriage **Netherlands (2001) → 25 countries by 2019**. Cases: **Iran** (social gains, political repression; secular *and* Islamic feminism) · **Brazil** (court-won marriage + world-leading transgender murders).",
+      "hint": "Join the norms vs transform the norms.",
+      "tags": ["assimilationist", "liberationist", "gender", "sexuality", "iris-young", "stonewall"],
+      "source": "OD ch.4"
+    },
+    {
+      "id": "l2-29",
+      "type": "synthesis",
+      "front": "Tie the lecture together: how do OD ch.2 and ch.4 answer the AUW frame's **four questions**, and where do the two chapters meet?",
+      "back": "AUW hangs both chapters on four questions: **① What is a state?** → the *four characteristics* (ch.2). **② Where did states come from?** → *European (war-driven, Tilly)* & *colonial* pathways. **③ Why are some stronger?** → *strong/weak/failed* + theories of strength/weakness. **④ Who does the state represent?** → the *nation/identity* puzzle (ch.4).\n\n**Where they meet:** ch.2 gives the **anatomy** (a state claims *territory*), ch.4 shows the **fault lines** (territory comes with *\"the people\"* it claims to represent — but people and territory rarely coincide). The bridge concept is **legitimacy**: a state's right to rule depends on who its *nation* is, so **identity constructivism** is the deep answer to *who* the state's four characteristics are *for*.",
+      "hint": "Four questions; anatomy (ch.2) meets fault lines (ch.4).",
+      "tags": ["synthesis", "four-questions", "bridge", "legitimacy", "identity"],
+      "source": "lecture (AUW) / OD ch.2 + ch.4"
+    }
+  ]
+}

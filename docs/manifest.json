@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T20:05:40.960Z",
+  "generatedAt": "2026-09-26T20:31:20.665Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -112,79 +112,131 @@
           "slug": "lecture-2",
           "title": "Lecture 2: The State (AUW)",
           "pdf": "pdfs/political-science/lecture-2.pdf",
-          "sizeKB": 625
+          "sizeKB": 625,
+          "flashcards": {
+            "json": "flashcards/political-science/lecture-2.json",
+            "count": 29
+          }
         },
         {
           "slug": "lecture-3",
           "title": "Lecture 3: Political Regimes (FK)",
           "pdf": "pdfs/political-science/lecture-3.pdf",
-          "sizeKB": 426
+          "sizeKB": 426,
+          "flashcards": {
+            "json": "flashcards/political-science/lecture-3.json",
+            "count": 28
+          }
         },
         {
           "slug": "lecture-4",
           "title": "Lecture 4: Systems of Government",
           "pdf": "pdfs/political-science/lecture-4.pdf",
-          "sizeKB": 2443
+          "sizeKB": 2443,
+          "flashcards": {
+            "json": "flashcards/political-science/lecture-4.json",
+            "count": 30
+          }
         },
         {
           "slug": "lecture-5",
           "title": "Lecture 5: Participation and Representation (FK)",
           "pdf": "pdfs/political-science/lecture-5.pdf",
-          "sizeKB": 3134
+          "sizeKB": 3134,
+          "flashcards": {
+            "json": "flashcards/political-science/lecture-5.json",
+            "count": 28
+          }
         },
         {
           "slug": "lecture-6",
           "title": "Lecture 6: Institutions and Institutionalisms (AUW)",
           "pdf": "pdfs/political-science/lecture-6.pdf",
-          "sizeKB": 1086
+          "sizeKB": 1086,
+          "flashcards": {
+            "json": "flashcards/political-science/lecture-6.json",
+            "count": 26
+          }
         },
         {
           "slug": "ir-i-realism-auw",
           "title": "IR I: Realism (AUW)",
           "pdf": "pdfs/political-science/ir-i-realism-auw.pdf",
-          "sizeKB": 1162
+          "sizeKB": 1162,
+          "flashcards": {
+            "json": "flashcards/political-science/ir-i-realism-auw.json",
+            "count": 31
+          }
         },
         {
           "slug": "ir-ii-liberalism-auw",
           "title": "IR II: Liberalism (AUW)",
           "pdf": "pdfs/political-science/ir-ii-liberalism-auw.pdf",
-          "sizeKB": 509
+          "sizeKB": 509,
+          "flashcards": {
+            "json": "flashcards/political-science/ir-ii-liberalism-auw.json",
+            "count": 26
+          }
         },
         {
           "slug": "ir-iii-constructivism-other-approaches-auw",
           "title": "IR III: Constructivism / Other Approaches (AUW)",
           "pdf": "pdfs/political-science/ir-iii-constructivism-other-approaches-auw.pdf",
-          "sizeKB": 721
+          "sizeKB": 721,
+          "flashcards": {
+            "json": "flashcards/political-science/ir-iii-constructivism-other-approaches-auw.json",
+            "count": 30
+          }
         },
         {
           "slug": "ir-iv-international-security-auw",
           "title": "IR IV: International Security (AUW)",
           "pdf": "pdfs/political-science/ir-iv-international-security-auw.pdf",
-          "sizeKB": 564
+          "sizeKB": 564,
+          "flashcards": {
+            "json": "flashcards/political-science/ir-iv-international-security-auw.json",
+            "count": 28
+          }
         },
         {
           "slug": "foreign-policymaking-ea",
           "title": "Foreign Policymaking (EA)",
           "pdf": "pdfs/political-science/foreign-policymaking-ea.pdf",
-          "sizeKB": 471
+          "sizeKB": 471,
+          "flashcards": {
+            "json": "flashcards/political-science/foreign-policymaking-ea.json",
+            "count": 26
+          }
         },
         {
           "slug": "eu-i-the-evolution-of-the-eu-auw",
           "title": "EU I: The Evolution of the EU (AUW)",
           "pdf": "pdfs/political-science/eu-i-the-evolution-of-the-eu-auw.pdf",
-          "sizeKB": 614
+          "sizeKB": 614,
+          "flashcards": {
+            "json": "flashcards/political-science/eu-i-the-evolution-of-the-eu-auw.json",
+            "count": 28
+          }
         },
         {
           "slug": "eu-ii-institutions-of-the-eu-auw",
           "title": "EU II: Institutions of the EU (AUW)",
           "pdf": "pdfs/political-science/eu-ii-institutions-of-the-eu-auw.pdf",
-          "sizeKB": 2924
+          "sizeKB": 2924,
+          "flashcards": {
+            "json": "flashcards/political-science/eu-ii-institutions-of-the-eu-auw.json",
+            "count": 33
+          }
         },
         {
           "slug": "eu-iii-the-internal-market-auw",
           "title": "EU III: The Internal Market (AUW)",
           "pdf": "pdfs/political-science/eu-iii-the-internal-market-auw.pdf",
-          "sizeKB": 496
+          "sizeKB": 496,
+          "flashcards": {
+            "json": "flashcards/political-science/eu-iii-the-internal-market-auw.json",
+            "count": 27
+          }
         }
       ],
       "hasFlashcards": true

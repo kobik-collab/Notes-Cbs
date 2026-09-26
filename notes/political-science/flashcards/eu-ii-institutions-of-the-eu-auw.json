@@ -1,0 +1,316 @@
+{
+  "subject": "political-science",
+  "subjectName": "Political Science",
+  "lectureSlug": "eu-ii-institutions-of-the-eu-auw",
+  "lectureTitle": "EU II: Institutions of the EU (AUW)",
+  "part": "Part III · The European Union as a Political System",
+  "readings": "Bulmer, Parker, Bache, George & Burns (2020), Politics in the EU, 5th ed. — ch. 12, \"The Institutional Architecture\" (pp. 205–237)",
+  "cardTypes": {
+    "definition": "Define",
+    "reverse": "Name it",
+    "mechanism": "Mechanism",
+    "theory-match": "Match the theory",
+    "apply": "Apply it",
+    "compare": "Compare",
+    "synthesis": "Big picture"
+  },
+  "cards": [
+    {
+      "id": "eu2-01",
+      "type": "definition",
+      "front": "Where does EU authority sit? Name the **three ways** authority is distributed and the **two levels** it runs across — and the umbrella term for the whole design.",
+      "back": "There is **no single sovereign** in the EU. Authority to *propose, decide, implement & enforce* is distributed in **three ways**:\n\n**① Pooled** (states decide together) · **② Delegated** (handed to a common body) · **③ Shared**.\n\n**Two levels:** the **EU level** (European Council · Commission · Council · Parliament · CJEU) and the **member-state level** (national governments · legislatures · administrations · courts).\n\nThe umbrella term: **multi-level governance** — the same task is split between European *and* national bodies.",
+      "hint": "Pooled/delegated/shared, across two levels.",
+      "tags": ["authority", "multi-level-governance", "pooled-delegated-shared"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-02",
+      "type": "reverse",
+      "front": "Since Lisbon the EU has **no constitution but two treaties.** Which treaty sets out: (a) broad principles, the general role of institutions, **Art. 50** (leaving) and **CFSP** — and which sets out the detailed operation and all other policy areas (the **\"Union method\"**)?",
+      "back": "(a) The **TEU** (Treaty on European Union) — broad principles, institutions' general role, accession/exit (**Art. 50**, new in Lisbon) and **CFSP** (kept largely outside the Court).\n\n(b) The **TFEU** (Treaty on the Functioning of the EU) — detailed operation + all other policy areas, run by the **\"Union method\"** (Bulmer's updated name for the old \"Community method\").\n\n**Lisbon (in force Dec 2009)** abolished the old **three-pillar structure** and merged everything except **CFSP** into one order. Every EU act must cite its **treaty base** — so *which article* is chosen decides the procedure.",
+      "hint": "Two treaties; one keeps CFSP and Art. 50.",
+      "tags": ["teu-tfeu", "lisbon", "union-method", "treaty-base"],
+      "source": "Bulmer ch.12"
+    },
+    {
+      "id": "eu2-03",
+      "type": "compare",
+      "front": "The backbone table: name the **five EU bodies**, whose interest each represents, and split them into **supranational vs intergovernmental**.",
+      "back": "**European Council** — heads of state/government → **national governments**; sets strategic direction (not a legislator).\n**Council of the EU** — national ministers → **member-state governments**; co-legislates.\n**European Parliament** — elected MEPs → **EU citizens**; co-legislates + oversight.\n**European Commission** — Commissioners + civil service → the **Union-wide interest**; proposes, implements, enforces.\n**CJEU** — judges → the **EU legal order**; interprets & adjudicates.\n\n**Supranational** (serve the Union, above states): **Commission · EP · CJEU**.\n**Intergovernmental** (they *are* the states): **European Council · Council**.\n\nEvery EU decision is a negotiation between these two logics — *this split is the red thread of the lecture.*",
+      "hint": "Each body = a different constituency; then sort supra vs inter.",
+      "tags": ["five-bodies", "supranational", "intergovernmental", "backbone"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-04",
+      "type": "reverse",
+      "front": "**Summit of the 27 heads of state/government (+ its President + the Commission President). Sets broad priorities and unblocks the biggest fights — but does NOT legislate.** Which body? And why is it the intergovernmental heart?",
+      "back": "The **European Council** — the EU's **political compass**, not its legislature. It defines **broad political priorities**, provides **strategic direction**, resolves major disputes ministers can't, and gives \"**political impetus**.\"\n\nIt's the **intergovernmental heart** because it *is literally the national governments in the room* — in an **LI** reading, where the \"masters of the treaty\" steer.\n\n*Don't confuse it with the Council of the EU (ministers) or the Council of Europe (a separate non-EU human-rights body).*",
+      "hint": "Leaders' summit; direction, not law.",
+      "tags": ["european-council", "intergovernmental", "strategic-direction"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-05",
+      "type": "reverse",
+      "front": "**Holds the right of initiative — proposes almost all EU law — then implements it and polices compliance; represents the Union-wide interest.** Which body, and what are its **four jobs**?",
+      "back": "The **European Commission** — the EU's **executive and motor**.\n\n**Four jobs (PROPOSE · EXECUTE · ENFORCE · REPRESENT):**\n**① Proposes** — the **right of initiative** (sets the agenda).\n**② Executes** — manages EU programmes & funding.\n**③ Enforces** — as **Guardian of the Treaties**, launches **infringement proceedings** (Art. 258 TFEU).\n**④ Represents** — speaks for the EU internationally where it has competence (e.g. trade).\n\nIn a **neofunctionalist** reading it's the **\"cultivated spillover\"** actor — the Eurocrat pushing integration forward.",
+      "hint": "Right of initiative; the engine.",
+      "tags": ["commission", "right-of-initiative", "supranational", "four-jobs"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-06",
+      "type": "mechanism",
+      "front": "\"The Commission proposes\" — but the **right of initiative is contested, not absolute** *(Bulmer)*. Name the **five ways** the monopoly is hedged.",
+      "back": "The Commission is *formally* the sole initiator, but it's boxed in:\n\n**① European Council** sets the strategic agenda it then follows.\n**② EP can request a proposal** (Art. 225 TFEU) — hard to ignore.\n**③ Council can too** (Art. 241).\n**④ A Conciliation Committee** can agree a text the Commission didn't write.\n**⑤** It always **consults widely** (interest groups, national experts) first.\n\n→ So \"Commission proposes\" is real but **shared** — an inter-institutional negotiation, not a dictate.",
+      "hint": "European Council · EP · Council · conciliation · consultation.",
+      "tags": ["right-of-initiative", "contested", "commission", "bulmer"],
+      "source": "Bulmer ch.12"
+    },
+    {
+      "id": "eu2-07",
+      "type": "reverse",
+      "front": "**National ministers who change membership by topic (ECOFIN, Agriculture…); co-legislates with the EP; chaired by a presidency that rotates every 6 months in \"trios.\"** Which body — and where does the real bargaining happen?",
+      "back": "The **Council of the EU** (\"the Council\") — member states as legislators. It meets in **configurations by policy area** (ministers show up per dossier) and decides usually by **QMV**.\n\n**The presidency rotates every 6 months in \"trios\"** of three states planning an 18-month agenda — a relay baton, not a throne.\n\n**Most work happens *below* the ministers:** national ministers ← **COREPER I & II** (permanent reps/ambassadors) ← **working parties + national officials** ← Council Secretariat. \"Much of the bargaining happens among diplomats *before* ministers meet.\" *(The \"bureaucratic interpenetration\" neofunctionalism talks about.)*\n\nDespite QMV, ministers usually decide by **consensus** (Häge 2013).",
+      "hint": "Ministers, trios, COREPER.",
+      "tags": ["council-of-the-eu", "coreper", "presidency", "consensus"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-08",
+      "type": "reverse",
+      "front": "**The EU's only directly elected body — members grouped by transnational political family, not by nation; once a \"talking shop,\" now co-legislates as an equal.** Which body, and how is it organised?",
+      "back": "The **European Parliament (EP)** — the citizens' chamber.\n\n**Who:** **MEPs, directly elected every 5 years**, sitting in cross-national **political groups** (a group needs ≥ **23 MEPs from ≥ 7 states**), seated left-to-right by **ideology**.\n\n**What it does:** **co-legislates** with the Council under the **OLP**; can **amend or block**; **oversees** the Commission (approves and can **censure** it).\n\nIt gained real power through successive treaties — its co-equal status is a major **deepening** of supranational democracy. *(After 2024: EPP largest, then S&D; centre holds a working majority.)*",
+      "hint": "Elected; political families, not countries.",
+      "tags": ["european-parliament", "meps", "co-decision", "supranational"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-09",
+      "type": "reverse",
+      "front": "**The EU's supreme court: interprets the treaties, ensures the law means the same thing everywhere, draws the boundary between EU and national authority — and can push integration forward with no new treaty.** Which body?",
+      "back": "The **Court of Justice of the EU (CJEU)**.\n\nIt **interprets** the treaties & legislation, ensures **uniform application**, resolves disputes, and **draws the EU/national boundary**.\n\nKey integration point: \"**courts can shape integration**\" — by deciding what EU law requires, it advances **\"integration through law\"** without any new treaty (the neofunctionalist channel; see *Cassis*).\n\n*Not to be confused with the European Court of Human Rights (Council of Europe).*",
+      "hint": "The court; \"integration through law.\"",
+      "tags": ["cjeu", "supranational", "integration-through-law"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-10",
+      "type": "compare",
+      "front": "Beyond the five, two **advisory bodies** have a right to be *consulted* *(Bulmer)*. Distinguish the **EESC** from the **Committee of the Regions (CoR)** — and say which is more influential and why.",
+      "back": "**EESC (European Economic & Social Committee)** — reps of **employers, workers & \"various interests\"** (farmers, consumers, professions); **329 members** in a personal capacity. Consulted on social/single-market policy — but **not very influential, overshadowed by the elected EP**.\n\n**CoR (Committee of the Regions)** — reps of **regional & local government**, created by **Maastricht (1994)**. *More* influential because **backed by powerful actors** — pushed by the **German Länder** fearing loss of *their* powers to Brussels.\n\nThe CoR made itself champion of **\"multi-level governance\"** and a natural **ally of the Commission** against central governments — a **subnational echo of cultivated spillover**.",
+      "hint": "Civil society vs regions; the Länder's baby.",
+      "tags": ["eesc", "cor", "advisory-bodies", "bulmer"],
+      "source": "Bulmer ch.12"
+    },
+    {
+      "id": "eu2-11",
+      "type": "reverse",
+      "front": "**The EU's financial watchdog — created 1975, based in Luxembourg, one member per state; checks revenue and spending are lawful, publishes an annual report that grounds the EP's budget sign-off.** Which body? *(Bulmer)*",
+      "back": "The **European Court of Auditors** — **audits EU finances**.\n\nCreated **1975**, in **Luxembourg**; **one member per state** (6-yr renewable term), ~850 staff (two-thirds auditors). It checks revenue and spending were **lawful and regular** and publishes an **annual report** — the basis for the EP's **budget discharge**.",
+      "hint": "Auditors; feeds the EP's discharge.",
+      "tags": ["court-of-auditors", "budget", "watchdog", "bulmer"],
+      "source": "Bulmer ch.12"
+    },
+    {
+      "id": "eu2-12",
+      "type": "compare",
+      "front": "The EU has **no general power to act** — only conferred **competences**, in three strengths. Distinguish **exclusive · shared · supporting** (with examples). What **fourth head** does Bulmer add?",
+      "back": "**Exclusive** — **only the EU** may legislate: customs union, single currency, competition rules, common commercial (trade) policy, fisheries conservation.\n**Shared** — **EU *and* states** (states act where the EU hasn't): internal market, environment, transport, consumer protection.\n**Supporting** — **states legislate; EU only supports/coordinates**: culture, education, tourism *(health systems, taxation, defence stay largely national)*.\n\n**Bulmer's fourth head** *(Insight 12.1, Arts. 3–6 TFEU):* a distinct **\"policy co-ordination\"** category for members' **economic, employment & social** policies (EU coordinates, doesn't legislate). *(CFSP sits outside this TFEU catalogue — it's in the TEU.)* Lisbon spelt the catalogue out for the first time — a **German-Länder demand** to stop competence drifting upward.",
+      "hint": "EU-only / both / states-lead — plus policy co-ordination.",
+      "tags": ["competences", "exclusive-shared-supporting", "bulmer"],
+      "source": "lecture (AUW) + Bulmer ch.12"
+    },
+    {
+      "id": "eu2-13",
+      "type": "definition",
+      "front": "Name and define the **three constitutional principles** that fence in EU power.",
+      "back": "**① Conferral** — the EU may act **only where the treaties give it competence**. No treaty basis → no EU action. *(Default: power stays national.)*\n**② Subsidiarity** — in **non-exclusive** areas, the EU should act **only when the objective can't be adequately achieved by member states** alone (decisions as close to citizens as effective).\n**③ Proportionality** — EU action must **not go beyond what is necessary** to achieve its aim (use the lightest tool that works).",
+      "hint": "Only-if-conferred · only-if-better-at-EU-level · no-more-than-necessary.",
+      "tags": ["conferral", "subsidiarity", "proportionality", "limits"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-14",
+      "type": "mechanism",
+      "front": "Run the **Ordinary Legislative Procedure (OLP / co-decision)** — the \"typical\" way an EU law is made — step by step. What is its defining feature?",
+      "back": "**① Commission** — agenda-sets and **proposes** (right of initiative).\n**② EP + Council** — each examines and **amends** the proposal.\n**③ Negotiation / readings** — the two co-legislators reconcile versions (often **trilogue** with the Commission).\n**④ Agreement** — **both** EP **and** Council approve the **same text**.\n**⑤ Adopted → implemented & enforced.**\n\n**Defining feature:** **Parliament and Council co-decide as equals** — the citizens' chamber and the states' chamber must *both* say yes; either can **amend or block**. This co-equal status is a major deepening won over successive treaties (from Maastricht's codecision onward).",
+      "hint": "Commission proposes; EP + Council both must agree.",
+      "tags": ["olp", "co-decision", "trilogue", "mechanism"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-15",
+      "type": "mechanism",
+      "front": "How does the Council decide by **Qualified Majority Voting (QMV)**? Give the **double threshold**, why there are two locks, and the radical implication.",
+      "back": "A proposal passes with a **double majority**:\n**① 55% of member states** (≥ **15 of 27**), **AND**\n**② states representing 65% of the EU population.**\n\n**Two locks:** the **55%** protects the **many small** states (one state, one vote); the **65% population** protects the **few large** ones. Both majorities are needed. *(A blocking minority needs ≥ 4 states — so no 3 big states can veto alone.)*\n\n**Radical implication:** a national government can be **outvoted and still bound** — the sharpest evidence the EU is more than an ordinary IO.\n\n*(Bulmer:* if the proposal is **not** from the Commission the bar rises to **72% of states**. QMV is now the **default** — Art. 16(3) TEU — after a long march from the **SEA 1986**. **Unanimity** still rules the sensitive areas: foreign/security policy, taxation, social security, defence, enlargement, language, seat of institutions.)*",
+      "hint": "55% states + 65% population; you can lose.",
+      "tags": ["qmv", "double-majority", "unanimity", "mechanism"],
+      "source": "lecture (AUW) + Bulmer ch.12"
+    },
+    {
+      "id": "eu2-16",
+      "type": "compare",
+      "front": "Lisbon made the **OLP the default**, but two **\"special legislative procedures\"** survive where states kept more control *(Bulmer)*. Distinguish **consultation** from **consent** — how strong is the EP in each?",
+      "back": "**Consultation** — the Commission proposes; the **Council must *ask* the EP's opinion but can then ignore it**, and decides (often by **unanimity**). The **CJEU's *Isoglucose* ruling (1980)** at least forces the Council to *wait for* the opinion. Now ~20 areas only.\n\n**Consent** (ex-\"assent\") — the EP **cannot amend**, but its **yes is required** — a **veto**. Main use: **international agreements**, including **accession** of new members, and the multi-annual budget framework.\n\n→ EP is **weakest** under consultation (opinion, ignorable), holds a **blunt veto** under consent, and is **co-equal** only under the OLP.",
+      "hint": "Ignorable opinion vs a yes/no veto.",
+      "tags": ["consultation", "consent", "special-procedures", "bulmer"],
+      "source": "Bulmer ch.12"
+    },
+    {
+      "id": "eu2-17",
+      "type": "mechanism",
+      "front": "Lisbon let **national parliaments police subsidiarity** via \"cards\" *(Bulmer)*. Explain the **yellow** and **orange** cards — thresholds, effect, and use.",
+      "back": "**Yellow card:** if ~**one-third** of national parliaments, within **8 weeks**, issue a **reasoned opinion** that a proposal breaches **subsidiarity**, the Commission must **review** it (maintain, amend, or withdraw).\n\n**Orange card:** stronger — a **simple majority** of parliaments that, if backed by Council or EP, can **kill** the proposal. **Never used.**\n\n**Yellow card played 3 times:** **2012 \"right-to-strike\" (Monti II)** → Commission **withdrew** it; **2013 European Public Prosecutor** → Commission pressed on via **enhanced cooperation** (22 states); **2016 posting-of-workers** → Commission found \"no case,\" adopted it (an **East–West split**).\n\n→ A real but limited brake — the lecture's \"subnational component.\"",
+      "hint": "Yellow = review; orange = kill (never used).",
+      "tags": ["subsidiarity-cards", "national-parliaments", "yellow-card", "bulmer"],
+      "source": "Bulmer ch.12"
+    },
+    {
+      "id": "eu2-18",
+      "type": "mechanism",
+      "front": "Alongside legislation, the EU's **money** runs on its own track *(Bulmer)*. Walk through the **MFF**, the **annual budget**, and **discharge** — and what happens if there's no budget by 1 January.",
+      "back": "**MFF (multi-annual financial framework)** — the **~7-year** spending envelope. Proposed by the Commission but **fought out in the European Council and agreed by *unanimity*** — every state has a **veto** on the big number. *(2014–20 MFF ~€960 bn: the UK, backed by NL & Sweden, forced real-terms cuts; **Merkel brokered** it.)*\n\n**Annual budget** — follows an **OLP-like** cycle: Commission drafts, **Council + EP co-decide** (Conciliation Committee if they clash). **No budget by 1 January → \"provisional twelfths\"** (1/12 of last year's budget per month).\n\n**Discharge** — the **EP formally signs off** that money was spent properly, informed by the **Court of Auditors'** report.\n\n→ Money = where the **intergovernmental** European Council sets the ceiling and the **supranational** EP polices spending.",
+      "hint": "MFF (unanimity) → annual (OLP-like) → EP discharge.",
+      "tags": ["budget", "mff", "discharge", "bulmer"],
+      "source": "Bulmer ch.12"
+    },
+    {
+      "id": "eu2-19",
+      "type": "mechanism",
+      "front": "**Adoption ≠ implementation.** Who actually applies EU rules once they're passed? Trace the chain.",
+      "back": "The EU **makes** rules but rarely **applies** them itself — **implementation is mostly national** (a defining feature of the EU's \"**small state**\" design):\n\n**EU organs** adopt the legal framework →\n**National administrations** apply the rules in practice →\n**National courts / authorities** handle individual cases →\n**European Commission** monitors compliance →\n**CJEU** settles disputes over EU law.\n\n→ Most EU law is enforced by **national officials**, not Brussels.",
+      "hint": "EU adopts; member states apply.",
+      "tags": ["implementation", "national-administrations", "small-state", "mechanism"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-20",
+      "type": "compare",
+      "front": "The EU has **three main legal instruments** that create different degrees of central control. Distinguish **regulation · directive · decision** by binding force and whether national transposition is needed.",
+      "back": "**Regulation** — **directly applicable**: becomes law in every state **as written**, automatically. **No transposition** → strongly supranational.\n**Directive** — binding as to the **result/objective**, but leaves the **means** to states. **Yes** — states must **transpose** it into national law (choosing *how*) → softer, more flexible.\n**Decision** — **binding in full** on **specific addressees** (a state, company or individual). **No transposition** — applies directly to whom it names → a targeted order.\n\n**Different instrument = different degree of central control.**\n\n*(Bulmer:* directives transpose in **two stages** — into law, then application on the ground — and compliance varies. **Recommendations & opinions** exist too but have **no legal force**. Some binding acts are **non-legislative**, e.g. a Commission competition fine.)*",
+      "hint": "Same-law-everywhere / goal-only / named-target.",
+      "tags": ["regulation", "directive", "decision", "instruments"],
+      "source": "lecture (AUW) + Bulmer ch.12"
+    },
+    {
+      "id": "eu2-21",
+      "type": "reverse",
+      "front": "**Where the EU lacks competence to legislate (e.g. employment, social inclusion), states instead compare best practice and set voluntary targets — no binding law, just peer pressure and learning.** Name this governance mode *(Bulmer)*.",
+      "back": "The **Open Method of Coordination (OMC)** — **soft law**.\n\nIt sits **beyond the three legal instruments**: no binding regulation/directive/decision, just **benchmarking, best-practice exchange and voluntary targets** where the EU can't legislate. Evidence that \"the EU is a very political animal.\"\n\n*(Related soft instruments with no legal force: **recommendations & opinions**.)*",
+      "hint": "Soft law by peer pressure, not binding.",
+      "tags": ["omc", "soft-law", "governance", "bulmer"],
+      "source": "Bulmer ch.12"
+    },
+    {
+      "id": "eu2-22",
+      "type": "compare",
+      "front": "The EU integrates in **two directions**. Distinguish **positive** from **negative integration** — and which institution drives each.",
+      "back": "**Positive integration** — EU institutions **build** common rules: legislation, **harmonization**, common standards. *(Constructing a shared framework — driven by the legislative bodies.)*\n\n**Negative integration** — EU law **removes** national barriers: the **CJEU** interprets the treaties so incompatible national rules **fall away**. *(Clearing obstacles to the four freedoms — driven by the courts.)*\n\n→ One **builds**, the other **clears**; negative integration lets the single market deepen without new legislation (see *Cassis*).",
+      "hint": "Build common rules vs strike down national barriers.",
+      "tags": ["positive-integration", "negative-integration", "harmonization"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-23",
+      "type": "theory-match",
+      "front": "**Germany blocked a French blackcurrant liqueur for being below its minimum alcohol content; the CJEU struck the barrier down (1979) and established that a good lawfully sold in one state may be sold throughout the EU.** Name the case and principle — and which integration theory it exemplifies.",
+      "back": "**Cassis de Dijon (1979)** → the principle of **mutual recognition**: a good **lawfully sold in one member state** may in principle be **sold throughout** the EU, even without harmonized rules.\n\nIt illustrates **negative integration through courts** — the CJEU removing a national barrier to the **free movement of goods**, deepening the single market **without any new legislation**.\n\n**Theory:** a textbook **neofunctionalist \"integration through law\"** — courts advancing integration autonomously. *(LI reading: states tolerate it because it serves their collective interest in a working market.)*",
+      "hint": "Blackcurrant liqueur → mutual recognition.",
+      "tags": ["cassis-de-dijon", "mutual-recognition", "neofunctionalism", "case"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-24",
+      "type": "mechanism",
+      "front": "A state breaks EU law. Trace the **infringement route** — who acts, under which articles, and what can happen at the end *(Bulmer)*.",
+      "back": "The **Commission**, as **Guardian of the Treaties**, issues a **reasoned opinion** (**Art. 258 TFEU**). If the state still won't comply, it takes it to the **CJEU**.\n\nSince **Maastricht**, the CJEU can impose **financial penalties** (**Art. 260**). Before Maastricht, a losing state faced only **moral pressure**.\n\nEnforcement is **shared**: **Commission** monitors & prosecutes · **national authorities** enforce domestically · **national courts** apply EU law in individual cases (and can refer questions to the CJEU) · **CJEU** gives authoritative interpretation · **Court of Auditors** audits finances.",
+      "hint": "Reasoned opinion (258) → CJEU → fines (260, since Maastricht).",
+      "tags": ["enforcement", "infringement", "art-258", "art-260"],
+      "source": "lecture (AUW) + Bulmer ch.12"
+    },
+    {
+      "id": "eu2-25",
+      "type": "synthesis",
+      "front": "**Why does the architecture matter?** State the two reasons the \"typical\" model (Commission → EP + Council → law) isn't universal — with the clearest exception.",
+      "back": "**① It varies by policy area.** The standard supranational model dominates the **single market** and most regulation, but some areas stay **intergovernmental** — above all the **Common Foreign & Security Policy (CFSP)**: driven by the **European Council + Council**, **unanimity** generally required, and **limited roles** for Commission, EP and CJEU.\n\n**② Membership is differentiated** — not every state joins every policy (euro, Schengen).\n\n→ \"The EU\" is really **several decision-systems at once**. Where it's more **supranational**, integration can run ahead of states; where **intergovernmental**, states stay in charge. *Same Union, different rules.*",
+      "hint": "Varies by policy + differentiated membership.",
+      "tags": ["why-it-matters", "cfsp", "variation", "synthesis"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-26",
+      "type": "mechanism",
+      "front": "How does **CFSP** work — the most intergovernmental corner of the EU *(Bulmer)*? Name the machinery, the **two escape valves**, and the sign that even here integration creeps.",
+      "back": "**Machinery:** run by the **European Council** (strategy, by **unanimity**), the **Foreign Affairs Council**, and the **High Representative (HRUFASP)** — **double-hatted** as a **Commission Vice-President** (Ashton → Mogherini → **Borrell**), backed by the EU's diplomatic service, the **EEAS**. Decisions are mostly **declaratory, non-legislative**; the **CJEU is excluded**.\n\n**Two escape valves:** **① \"constructive abstention\"** — a state can abstain (not block) and isn't bound; **② Art. 31(2) TEU safeguard** — pleading \"**vital reasons of national policy**\" stops a QMV vote, kicking it to the European Council *(a CFSP-only Luxembourg Compromise)*.\n\n**Yet integration creeps:** the **EEAS** socializes national + EU diplomats, and in **2018 states launched defence cooperation — PESCO** — via enhanced cooperation.",
+      "hint": "European Council + High Rep + EEAS; abstention & the vital-interest brake.",
+      "tags": ["cfsp", "high-representative", "eeas", "pesco", "bulmer"],
+      "source": "Bulmer ch.12"
+    },
+    {
+      "id": "eu2-27",
+      "type": "compare",
+      "front": "**Differentiated integration:** the EU is common *and* varied. Give the examples for **euro**, **Schengen**, and the rules for **enhanced cooperation** *(Bulmer)*.",
+      "back": "**Euro** — **not all** members use the single currency (Denmark opted out; others haven't joined).\n**Schengen** — **differentiated**: some EU states out, some **non-EU states in** (Norway, Switzerland).\n**Enhanced cooperation** — a **group can move ahead** without the others.\n\n**Enhanced-cooperation rules:** minimum **9 states**, only in **non-exclusive** areas, as a **last resort**, must stay **open** to others; acts **bind only participants** and are **not part of the acquis**. Real uses: the **financial-transaction (\"Tobin\") tax**, **cross-border divorce law**, the **EU patent** (25 states, minus Italy & Spain), **PESCO** (defence, 2017). Cousin: the **Fiscal Compact** (2012) — a treaty binding **22 states** (UK & Czechia out).\n\n→ How a Union of 27 keeps deepening without lockstep.",
+      "hint": "Euro & Schengen opt-outs; enhanced cooperation = 9+ move ahead.",
+      "tags": ["differentiated-integration", "euro", "schengen", "enhanced-cooperation", "bulmer"],
+      "source": "lecture (AUW) + Bulmer ch.12"
+    },
+    {
+      "id": "eu2-28",
+      "type": "reverse",
+      "front": "Name each **Lisbon flexibility valve** *(Bulmer)*: (a) a state fearing an outvote can suspend the procedure and appeal to the European Council; (b) a clause letting the Council switch an area to QMV/OLP **without a new treaty**.",
+      "back": "(a) The **emergency brake** — in a few sensitive areas (social security, judicial cooperation, CFSP), a state can **suspend the procedure and appeal to the European Council** — a sovereignty escape hatch.\n\n(b) **Passerelle (\"gangway\") clauses** — let the Council **switch an area to QMV/OLP without a new treaty** (always *toward* supranationalism). Juncker called them \"**lost treasure**\" (2018) — but they need **unanimity + EP consent**, and **by 2019 had never been used**.",
+      "hint": "Pull the brake vs press the (never-used) button.",
+      "tags": ["emergency-brake", "passerelle", "flexibility", "bulmer"],
+      "source": "Bulmer ch.12"
+    },
+    {
+      "id": "eu2-29",
+      "type": "apply",
+      "front": "In **1990** the Commission built a **maternity-rights** proposal on a **health-&-safety** treaty article (Art. 118A), and the UK objected to the *base* and threatened the CJEU. Why does the choice of article matter so much — and what general lesson does this teach?",
+      "back": "Because power flows from the **treaty base**, *which article a proposal is built on* decides **which procedure and voting rule** apply. Art. 118A triggered **QMV** rather than **unanimity** — so the Commission's choice of base was a move to **strip the UK of its veto** (they settled before the CJEU ruled).\n\n**General lesson:** the **choice of legal base is itself a site of conflict** — pick the article, and you decide **who can block you**. Conflict in the architecture is **structural** — over who initiates, over the money, and over the legal base.",
+      "hint": "Article → voting rule → who can veto.",
+      "tags": ["legal-base", "maternity-1990", "conflict", "case"],
+      "source": "Bulmer ch.12"
+    },
+    {
+      "id": "eu2-30",
+      "type": "theory-match",
+      "front": "The **supranational/intergovernmental split IS the LI-vs-neofunctionalism debate.** Fill the grid: for each theory give the **key actors, key mechanism, key EU bodies, and view of integration**.",
+      "back": "**Liberal Intergovernmentalism (LI):**\n- Key actors: **member-state governments**\n- Key mechanism: **interstate bargaining**\n- Key bodies: **European Council + Council**\n- View: integration stays **under state control**\n\n**Neofunctionalism / Supranationalism:**\n- Key actors: **supranational bodies & non-state actors**\n- Key mechanism: **spillover**\n- Key bodies: **Commission + EP + CJEU**\n- View: integration can develop **beyond state control**\n\n→ Whether the **supranational** or the **intergovernmental** bodies dominate a policy area decides whether integration is **state-controlled or self-propelling**.",
+      "hint": "Governments/bargaining/inter-bodies vs supra-actors/spillover/supra-bodies.",
+      "tags": ["li", "neofunctionalism", "theory", "synthesis"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-31",
+      "type": "apply",
+      "front": "The exam move: **read the same institution two ways.** Give the **LI** and **neofunctionalist** reading of each — (a) QMV, (b) the Commission's right of initiative, (c) the CJEU + *Cassis*, (d) CFSP + unanimity.",
+      "back": "**(a) QMV** — *LI:* states **agreed** the rules and still bargain (kept unanimity for sensitive stuff); *NF:* accepting you can be **outvoted** is states **losing control**.\n**(b) Right of initiative** — *LI:* a convenient agenda-setter serving state-agreed goals; *NF:* the engine of **cultivated spillover**.\n**(c) CJEU + Cassis** — *NF:* **integration through law**, courts removing barriers autonomously; *LI:* states tolerate it because it serves their **collective** market interest.\n**(d) CFSP + unanimity** — *LI:* proof states keep the **veto** where sovereignty is dearest; *NF:* the **limit** of spillover — an area still \"**encapsulated**.\"\n\n**Template:** name the feature → give the state-control reading → give the beyond-control reading.",
+      "hint": "Every feature has a state-control and a beyond-control reading.",
+      "tags": ["exam-move", "li", "neofunctionalism", "apply"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-32",
+      "type": "synthesis",
+      "front": "In one arc, state **the heart of the lecture** — the \"typical\" way an EU law is made, and the red thread that ties the whole architecture together.",
+      "back": "EU authority is **pooled, delegated and shared** across **levels** (EU ↔ member state) and across **bodies that each represent a different interest**.\n\n**The typical law:** **Commission proposes → Parliament + Council co-decide** (the **OLP**, usually by **QMV**) **→ member states implement → Commission + CJEU enforce.**\n\nBut the model **changes across policy areas** (some stay intergovernmental, e.g. CFSP) and membership is **differentiated** (euro, Schengen).\n\n**Red thread:** the split between **supranational** bodies (Commission · EP · CJEU) and **intergovernmental** bodies (European Council · Council) *is* the institutional form of the **neofunctionalism-vs-LI** debate.",
+      "hint": "Propose → co-decide → implement → enforce; supra vs inter.",
+      "tags": ["heart", "olp", "red-thread", "synthesis"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu2-33",
+      "type": "synthesis",
+      "front": "Two \"apex\" nuances that complicate the tidy picture: how has the **European Council** risen, and why is the architecture NOT a Montesquieu separation of powers? *(Bulmer)*",
+      "back": "**The European Council has risen to the \"apex.\"** Even though it **cannot legislate**, it now **shapes the context** of nearly everything — agenda, budget ceilings, crisis deals — \"**integration without supranationalisation**\" (Fabbrini & Puetter). A strongly **intergovernmental** trend.\n\n**Not Montesquieu:** the institutions are a **functional division of labour**, not a separation of powers — the European Council directs, the Commission initiates + guards + implements, Council + EP co-legislate, CJEU + Court of Auditors watchdog. **Powers are shared, not separated** — a **fusion** held together by engineered **cooperation** (IIAs, Conciliation Committees) and pulled apart by **structural conflict** (\"institutions matter\" — new institutionalism, Keohane).",
+      "hint": "European Council at the apex; fusion, not separation.",
+      "tags": ["european-council", "apex", "separation-of-powers", "bulmer"],
+      "source": "Bulmer ch.12"
+    }
+  ]
+}
