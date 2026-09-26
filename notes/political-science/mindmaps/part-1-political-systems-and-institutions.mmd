@@ -1,0 +1,79 @@
+%% title: Political Systems and Institutions
+%% part: Part I · Political Systems & Institutions
+%% order: 1
+flowchart TB
+  POL["Political Systems and Institutions: how power is organized and studied"]:::core
+
+  subgraph L1["Power and politics (Lecture 1)"]
+    POWER["Power: three faces (Lukes)"]:::l1
+    FACES["Decision making, agenda setting, shaping wants"]:::l1
+    POLITICS["Politics: who gets what"]:::l1
+    EXPLAIN["Explaining behaviour: interests, beliefs, structures"]:::l1
+    WHORULES["Who rules: pluralist vs elite"]:::l1
+    CAP["Collective action problem (Ansell)"]:::l1
+    POWER --> FACES
+    POWER -->|lens for| WHORULES
+    CAP -->|met by making| POLITICS
+  end
+  POL --> POWER
+  POL --> EXPLAIN
+
+  subgraph L2["The state and identity (Lecture 2)"]
+    STATE["State: monopoly on legitimate force (Weber)"]:::l2
+    SOV["Sovereignty"]:::l2
+    STRENGTH["Strong, weak and failed states"]:::l2
+    NATION["Nation and nationalism"]:::l2
+    STATE --> SOV
+    STATE --> STRENGTH
+    STATE -->|tied to identity through| NATION
+  end
+  POL --> STATE
+  CAP -->|why we build the| STATE
+
+  subgraph L3["Political regimes (Lecture 3)"]
+    REGIME["Regime: the rules for holding power"]:::l3
+    DEM["Democracy: Dahl's guarantees"]:::l3
+    AUTH["Authoritarian regimes"]:::l3
+    REGIME --> DEM
+    REGIME --> AUTH
+  end
+  STATE -->|power organized as a| REGIME
+
+  subgraph L4["Systems of government (Lecture 4)"]
+    SYS["Parliamentary, presidential, semi presidential"]:::l4
+    FED["Federal vs unitary"]:::l4
+    VETO["Veto players (Tsebelis)"]:::l4
+    SYS --> VETO
+  end
+  DEM -->|takes institutional form as| SYS
+  DEM --> FED
+
+  subgraph L5["Participation and representation (Lecture 5)"]
+    REP["Representation (Pitkin)"]:::l5
+    ELEC["Electoral systems"]:::l5
+    PARTY["Parties and party systems"]:::l5
+    ELEC -->|shape, per Duverger| PARTY
+  end
+  DEM -->|citizens connect through| REP
+  REP --> ELEC
+
+  subgraph L6["Institutions and institutionalisms (Lecture 6)"]
+    INST["Institutions: the rules of the game"]:::l6
+    RCI["Rational choice institutionalism"]:::l6
+    HI["Historical institutionalism: path dependence"]:::l6
+    SI["Sociological institutionalism: logic of appropriateness"]:::l6
+    INST --> RCI
+    INST --> HI
+    INST --> SI
+  end
+  EXPLAIN -->|the structures family becomes| INST
+  INST -->|are the rules behind| SYS
+  INST -->|are the rules behind| ELEC
+
+  classDef core fill:#1f4e79,color:#ffffff,stroke:#12324f;
+  classDef l1 fill:#eaf1f8,stroke:#1f4e79,color:#12324f;
+  classDef l2 fill:#fdf0dc,stroke:#b06a00,color:#5f3a00;
+  classDef l3 fill:#e6f4e6,stroke:#2f7d32,color:#1b4d1e;
+  classDef l4 fill:#f2eafb,stroke:#7a3fa8,color:#42215f;
+  classDef l5 fill:#e3f5f2,stroke:#0d7a6f,color:#08463f;
+  classDef l6 fill:#e8eafb,stroke:#3949ab,color:#1f2a6b;

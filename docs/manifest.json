@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T21:23:05.820Z",
+  "generatedAt": "2026-09-26T21:27:00.974Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -242,18 +242,18 @@
       "hasFlashcards": true,
       "maps": [
         {
+          "slug": "part-1-political-systems-and-institutions",
+          "title": "Political Systems and Institutions",
+          "part": "Part I · Political Systems & Institutions",
+          "order": 1,
+          "mmd": "mindmaps/political-science/part-1-political-systems-and-institutions.mmd"
+        },
+        {
           "slug": "part-2-international-relations",
           "title": "International Relations",
           "part": "Part II · International Relations",
           "order": 2,
           "mmd": "mindmaps/political-science/part-2-international-relations.mmd"
-        },
-        {
-          "slug": "part-3-european-union",
-          "title": "The European Union",
-          "part": "Part III · The European Union as a Political System",
-          "order": 3,
-          "mmd": "mindmaps/political-science/part-3-european-union.mmd"
         }
       ]
     }
