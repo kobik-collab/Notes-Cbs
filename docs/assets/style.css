@@ -277,7 +277,7 @@ main {
 .badge-cards { color: #5b3fa8; background: #efeafc; border-color: #ddd2f5; text-transform: none; letter-spacing: 0; }
 
 /* ---- Flashcards ---- */
-.flashcards { max-width: 760px; margin: 0 auto; padding: 4px 0 40px; }
+.flashcards { max-width: 920px; margin: 0 auto; padding: 4px 0 40px; }
 .fc-head { margin-bottom: 18px; }
 .fc-title { font-family: var(--serif); font-size: 26px; color: var(--accent); margin: 6px 0 4px; line-height: 1.2; }
 .fc-sub { color: var(--muted); font-size: 13.5px; margin-bottom: 14px; }
@@ -303,33 +303,33 @@ main {
 /* the card — 3D flip */
 .fc-card { perspective: 1600px; cursor: pointer; outline: none; }
 .fc-card-inner {
-  position: relative; width: 100%; min-height: 340px;
+  position: relative; width: 100%; min-height: 460px;
   transform-style: preserve-3d; transition: transform .45s cubic-bezier(.2,.7,.2,1);
 }
 .fc-card.flipped .fc-card-inner { transform: rotateY(180deg); }
 .fc-face {
   position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden;
   display: flex; flex-direction: column;
-  padding: 26px 28px; border-radius: var(--radius);
+  padding: 38px 42px; border-radius: var(--radius);
   background: var(--panel); border: 1px solid var(--rule);
   box-shadow: var(--shadow);
-  border-top: 4px solid var(--fc-accent, var(--accent));
+  border-top: 5px solid var(--fc-accent, var(--accent));
 }
 .fc-back { transform: rotateY(180deg); background: #fcfdff; }
 .fc-type {
-  align-self: flex-start; font-size: 10.5px; font-weight: 700; letter-spacing: .5px; text-transform: uppercase;
+  align-self: flex-start; font-size: 12px; font-weight: 700; letter-spacing: .5px; text-transform: uppercase;
   color: var(--fc-accent, var(--accent)); background: var(--fc-soft, var(--accent-soft));
-  padding: 3px 9px; border-radius: 999px; margin-bottom: 14px;
+  padding: 4px 11px; border-radius: 999px; margin-bottom: 20px;
 }
-.fc-text { font-size: 16px; line-height: 1.5; color: var(--ink); }
-.fc-text p { margin: 0 0 10px; }
+.fc-text { font-size: 21px; line-height: 1.55; color: var(--ink); }
+.fc-text p { margin: 0 0 14px; }
 .fc-text p:last-child { margin-bottom: 0; }
 .fc-text strong { color: var(--accent); }
 .fc-text code { font-family: ui-monospace, Menlo, monospace; font-size: .92em; background: var(--rule-soft); padding: 1px 5px; border-radius: 4px; }
-.fc-back .fc-text { font-size: 15px; }
-.fc-hint { margin-top: auto; padding-top: 14px; font-size: 13px; color: var(--muted); font-style: italic; }
-.fc-tap { position: absolute; bottom: 12px; right: 16px; font-size: 11px; color: var(--muted); opacity: .6; }
-.fc-source { margin-top: auto; padding-top: 14px; font-size: 12px; color: var(--muted); }
+.fc-back .fc-text { font-size: 19px; }
+.fc-hint { margin-top: auto; padding-top: 18px; font-size: 15px; color: var(--muted); font-style: italic; }
+.fc-tap { position: absolute; bottom: 14px; right: 20px; font-size: 12px; color: var(--muted); opacity: .6; }
+.fc-source { margin-top: auto; padding-top: 18px; font-size: 13px; color: var(--muted); }
 
 /* per-type accent colors */
 .type-definition   { --fc-accent: #1f4e79; --fc-soft: #eaf1f8; }
@@ -372,6 +372,9 @@ main {
   .preview-frame { height: 80vh; }
 }
 @media (max-width: 560px) {
-  .fc-card-inner { min-height: 400px; }
+  .fc-card-inner { min-height: 520px; }
+  .fc-face { padding: 26px 22px; }
+  .fc-text { font-size: 19px; }
+  .fc-back .fc-text { font-size: 17px; }
   .fc-controls .btn { min-width: 0; flex: 1; }
 }
