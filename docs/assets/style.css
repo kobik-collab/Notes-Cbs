@@ -332,6 +332,14 @@ main {
 .fc-table th { background: var(--accent-soft); color: var(--accent); font-weight: 700; }
 .fc-table td strong { color: var(--accent); }
 .fc-hint { margin-top: auto; padding-top: 18px; font-size: 15px; color: var(--muted); font-style: italic; }
+.fc-hint-btn {
+  margin-top: auto; align-self: flex-start; font: inherit; font-size: 14px; font-weight: 600;
+  display: inline-flex; align-items: center; gap: 8px; cursor: pointer;
+  color: var(--muted); background: var(--rule-soft); border: 1px solid var(--rule);
+  padding: 7px 14px; border-radius: 999px;
+}
+.fc-hint-btn:hover { color: var(--accent); border-color: var(--accent-2); background: var(--accent-soft); }
+.fc-hint-btn .kbd { background: var(--panel); border: 1px solid var(--rule); color: var(--muted); }
 .fc-tap { position: absolute; bottom: 14px; right: 20px; font-size: 12px; color: var(--muted); opacity: .6; }
 .fc-source { margin-top: auto; padding-top: 18px; font-size: 13px; color: var(--muted); }
 

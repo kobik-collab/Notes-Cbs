@@ -174,7 +174,7 @@ async function renderFlashcards(subject, part) {
     subject, part, meta, all: cards,
     typeLabels: meta.cardTypes || {},
     filter: 'all', shuffled: false,
-    order: [], pos: 0, flipped: false, known: new Set(),
+    order: [], pos: 0, flipped: false, hintShown: false, known: new Set(),
   };
   buildQueue();
   drawDeck();
@@ -187,6 +187,7 @@ async function renderFlashcards(subject, part) {
     else if (e.key === 'ArrowLeft') { e.preventDefault(); prevCard(); }
     else if (e.key.toLowerCase() === 'g') { rate(true); }
     else if (e.key.toLowerCase() === 'a') { rate(false); }
+    else if (e.key.toLowerCase() === 'h') { showHint(); }
     else if (e.key.toLowerCase() === 's') { toggleShuffle(); }
   };
   window.addEventListener('keydown', deckKeyHandler);
@@ -211,6 +212,7 @@ function buildQueue() {
   DECK.order = idx;
   DECK.pos = 0;
   DECK.flipped = false;
+  DECK.hintShown = false;
   DECK.known = new Set();
 }
 
@@ -220,8 +222,9 @@ function currentCard() {
 }
 
 function flipCard() { if (DECK && currentCard()) { DECK.flipped = !DECK.flipped; drawDeck(); } }
-function nextCard() { if (DECK && DECK.pos < DECK.order.length) { DECK.pos++; DECK.flipped = false; drawDeck(); } }
-function prevCard() { if (DECK && DECK.pos > 0) { DECK.pos--; DECK.flipped = false; drawDeck(); } }
+function showHint() { if (DECK && currentCard()) { DECK.hintShown = true; drawDeck(); } }
+function nextCard() { if (DECK && DECK.pos < DECK.order.length) { DECK.pos++; DECK.flipped = false; DECK.hintShown = false; drawDeck(); } }
+function prevCard() { if (DECK && DECK.pos > 0) { DECK.pos--; DECK.flipped = false; DECK.hintShown = false; drawDeck(); } }
 function rate(good) {
   if (!DECK) return;
   const card = currentCard();
@@ -230,6 +233,7 @@ function rate(good) {
   else { DECK.order.push(DECK.order[DECK.pos]); }  // requeue "Again" cards at the end
   DECK.pos++;
   DECK.flipped = false;
+  DECK.hintShown = false;
   drawDeck();
 }
 function toggleShuffle() { if (!DECK) return; DECK.shuffled = !DECK.shuffled; buildQueue(); drawDeck(); }
@@ -291,7 +295,9 @@ function drawDeck() {
           <div class="fc-face fc-front">
             <span class="fc-type">${esc(typeLabel)}</span>
             <div class="fc-text">${mdBlock(card.front)}</div>
-            ${card.hint ? `<div class="fc-hint">💡 ${mdInline(card.hint)}</div>` : ''}
+            ${card.hint ? (DECK.hintShown
+              ? `<div class="fc-hint">💡 ${mdInline(card.hint)}</div>`
+              : `<button class="fc-hint-btn" id="fc-hint">💡 Show hint <span class="kbd">H</span></button>`) : ''}
             <div class="fc-tap">tap / space to flip</div>
           </div>
           <div class="fc-face fc-back">
@@ -310,7 +316,7 @@ function drawDeck() {
           : `<button class="btn btn-flip" id="fc-flip">Flip <span class="kbd">Space</span></button>`}
         <button class="btn btn-ghost" id="fc-next" ${DECK.pos >= total ? 'disabled' : ''}>Next →</button>
       </div>
-      <div class="fc-help">Shortcuts: <span class="kbd">Space</span> flip · <span class="kbd">←</span>/<span class="kbd">→</span> move · <span class="kbd">G</span> got it · <span class="kbd">A</span> again · <span class="kbd">S</span> shuffle</div>`;
+      <div class="fc-help">Shortcuts: <span class="kbd">Space</span> flip · <span class="kbd">←</span>/<span class="kbd">→</span> move · <span class="kbd">H</span> hint · <span class="kbd">G</span> got it · <span class="kbd">A</span> again · <span class="kbd">S</span> shuffle</div>`;
   }
 
   app.innerHTML = `<div class="flashcards">${header}${body}</div>`;
@@ -320,6 +326,8 @@ function drawDeck() {
   const on = (id, fn) => { const el = document.getElementById(id); if (el) el.addEventListener('click', fn); };
   on('fc-card', flipCard);
   on('fc-flip', flipCard);
+  const hintBtn = document.getElementById('fc-hint');
+  if (hintBtn) hintBtn.addEventListener('click', (e) => { e.stopPropagation(); showHint(); });
   on('fc-prev', prevCard);
   on('fc-next', nextCard);
   on('fc-good', () => rate(true));
