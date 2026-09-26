@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T08:03:18.149Z",
+  "generatedAt": "2026-09-26T20:05:40.960Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -102,7 +102,11 @@
           "slug": "lecture-1",
           "title": "Lecture 1: Introduction — Power, Politics, and Political Science (MDJ)",
           "pdf": "pdfs/political-science/lecture-1.pdf",
-          "sizeKB": 627
+          "sizeKB": 627,
+          "flashcards": {
+            "json": "flashcards/political-science/lecture-1.json",
+            "count": 26
+          }
         },
         {
           "slug": "lecture-2",
@@ -182,7 +186,8 @@
           "pdf": "pdfs/political-science/eu-iii-the-internal-market-auw.pdf",
           "sizeKB": 496
         }
-      ]
+      ],
+      "hasFlashcards": true
     }
   ]
 }

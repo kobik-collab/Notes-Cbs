@@ -26,6 +26,7 @@ const NOTES = path.resolve(TOOLS, '..');          // notes
 const ROOT = path.resolve(NOTES, '..');           // repo root
 const DOCS = path.join(ROOT, 'docs');
 const PDF_OUT = path.join(DOCS, 'pdfs');
+const FLASH_OUT = path.join(DOCS, 'flashcards');
 
 const NO_PDF = process.argv.includes('--no-pdf');
 
@@ -150,6 +151,35 @@ for (const slug of subjects) {
       }
     }
     subj.note = 'In progress';
+  }
+
+  // ---- flashcards: notes/<subject>/flashcards/<part-slug>.json -----------------
+  // Each JSON's filename must match a part slug (e.g. lecture-1.json ↔ the "lecture-1" part).
+  const flashDir = path.join(dir, 'flashcards');
+  if (fs.existsSync(flashDir)) {
+    const flashOut = path.join(FLASH_OUT, slug);
+    let attached = 0;
+    for (const f of fs.readdirSync(flashDir).filter((f) => f.endsWith('.json')).sort()) {
+      const srcPath = path.join(flashDir, f);
+      let deck;
+      try {
+        deck = JSON.parse(fs.readFileSync(srcPath, 'utf8'));
+      } catch (e) {
+        log(`  ! skipped ${slug}/flashcards/${f}: invalid JSON (${e.message})`);
+        continue;
+      }
+      const cardSlug = f.replace(/\.json$/, '');
+      ensureDir(flashOut);
+      const dest = path.join(flashOut, f);
+      fs.copyFileSync(srcPath, dest);
+      const count = Array.isArray(deck.cards) ? deck.cards.length : 0;
+      const part = subj.parts.find((p) => p.slug === cardSlug);
+      if (part) part.flashcards = { json: rel(dest), count };
+      else log(`  ! flashcards ${slug}/${f}: no part named "${cardSlug}" (deck served but not linked)`);
+      attached++;
+      log(`  ✓ ${slug}/${cardSlug} — ${count} flashcards`);
+    }
+    if (attached) subj.hasFlashcards = true;
   }
 
   manifest.subjects.push(subj);

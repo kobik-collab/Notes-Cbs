@@ -1,0 +1,253 @@
+{
+  "subject": "political-science",
+  "subjectName": "Political Science",
+  "lectureSlug": "lecture-1",
+  "lectureTitle": "Lecture 1: Introduction — Power, Politics, and Political Science (MDJ)",
+  "part": "Part I · Political Systems & Institutions",
+  "readings": "OD ch. 1 (Orvis & Drogus) · Ansell (2023) ch. 1",
+  "cardTypes": {
+    "definition": "Define",
+    "reverse": "Name it",
+    "mechanism": "Mechanism",
+    "theory-match": "Match the theory",
+    "apply": "Apply it",
+    "compare": "Compare",
+    "synthesis": "Big picture"
+  },
+  "cards": [
+    {
+      "id": "l1-01",
+      "type": "definition",
+      "front": "Define **politics** in OD's sense — and give the four implications of that definition.",
+      "back": "**Politics = \"the process by which human communities make collective decisions\"** (any scale). It's a *procedural* definition — about *how* decisions get made, not their content.\n\n**Four implications:** ① group, not private, decisions · ② they bind the whole community · ③ focus is on the *process* · ④ ≠ **polity** (rules/institutions) or **policy** (outcomes).",
+      "hint": "Procedural, not about content.",
+      "tags": ["politics", "definition", "od-ch1"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-02",
+      "type": "reverse",
+      "front": "\"Politics is **who gets what, when, how**.\" \"Politics is the **authoritative allocation of values for a society**.\" Whose definitions are these, and what view of politics do they express?",
+      "back": "**Lasswell (1936)** — \"who gets what, when, how.\"\n**Easton (1953)** — \"the authoritative allocation of values for a society.\"\n\nBoth express the **distributional view**: politics as a *distributional game* over material & non-material resources (who wins, who loses) — what OD's purely procedural definition leaves out.",
+      "hint": "Two theorists; the 'who wins/loses' view.",
+      "tags": ["politics", "distributional", "lasswell", "easton"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-03",
+      "type": "definition",
+      "front": "The **distributional view of politics** rests on two key assumptions. Name and explain both.",
+      "back": "**① Scarcity** — resources are limited (no scarcity → no distributional battle).\n**② Preference heterogeneity** — people want different, often conflicting, things.\n\nTogether they make politics a fight over allocation.",
+      "hint": "One is about supply, one is about wants.",
+      "tags": ["scarcity", "preferences", "distributional"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-04",
+      "type": "theory-match",
+      "front": "**A majority in Parliament passes a tax increase despite strong, visible opposition.** Which *face/dimension of power* is this, who named it, and how is power defined here?",
+      "back": "**1st face — decision-making power** (**Dahl, 1957**).\n\nPower = **winning an observable decision**: A gets B to do what B would not otherwise do, through *observable* conflict.",
+      "hint": "The most visible face.",
+      "tags": ["power", "three-faces", "dahl"],
+      "source": "OD ch.1 / lecture (MDJ)"
+    },
+    {
+      "id": "l1-05",
+      "type": "theory-match",
+      "front": "**Powerful actors keep the tax increase off Parliament's agenda entirely — so no debate or vote ever happens.** Which face of power, and who named it?",
+      "back": "**2nd face — agenda-setting / non-decision-making** (**Bachrach & Baratz, 1962**).\n\nPower = **controlling what gets decided** — keeping threatening issues off the agenda via rules and values.",
+      "hint": "Power through *non*-decisions.",
+      "tags": ["power", "three-faces", "bachrach-baratz"],
+      "source": "OD ch.1 / lecture (MDJ)"
+    },
+    {
+      "id": "l1-06",
+      "type": "theory-match",
+      "front": "**People come to see taxing the wealthy as harmful and illegitimate, so the demand never even arises — there's no observable conflict at all.** Which face of power, and who named it?",
+      "back": "**3rd face — ideological power** (**Lukes, 1974**).\n\nPower = **shaping people's wants, perceptions & preferences** — it operates even with *no observable conflict*. The least visible face.",
+      "hint": "The invisible one — shapes what people want.",
+      "tags": ["power", "three-faces", "lukes"],
+      "source": "OD ch.1 / lecture (MDJ)"
+    },
+    {
+      "id": "l1-07",
+      "type": "synthesis",
+      "front": "Give the **three faces of power in one line each**, ordered by visibility — and state the rule about visibility.",
+      "back": "**1st (Dahl):** *winning* a visible fight — decision-making.\n**2nd (Bachrach & Baratz):** *stopping the fight from happening* — agenda-setting.\n**3rd (Lukes):** *making sure no one wants to fight in the first place* — ideological.\n\n**Rule:** power gets **less visible** as you go down. This is the master lens — every later theory is graded by *which dimension it can see*.",
+      "hint": "Win it → block it → prevent the wish for it.",
+      "tags": ["power", "three-faces", "synthesis"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-08",
+      "type": "theory-match",
+      "front": "A theory **takes people's preferences as given** and only asks how they rationally pursue them — so it lives purely in the **1st dimension** and \"can't explain preferences in advance.\" Name the theory, and name the puzzle it stumbles on.",
+      "back": "**Rational choice theory.** Because it accepts preferences as given, it can't see the 3rd-dimensional forces that *form* preferences.\n\nIt stumbles on the **cross-national union puzzle**: why French unions went communist while US unions chased only wages. **Psychological theories** and **historical institutionalists** (which reach the 3rd dimension) step in to explain it.",
+      "hint": "Borrowed from economics; preferences are exogenous.",
+      "tags": ["rational-choice", "power", "unions-puzzle"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-09",
+      "type": "apply",
+      "front": "**The reusable analytical move** for critiquing any theory with the faces of power — state the 3-step template.",
+      "back": "**① Name the theory → ② name the dimension(s) of power it *can't see* → ③ name a rival theory that reaches further.**\n\nWorked example: *Rational choice* → sees only the 1st dimension (preferences as given) → *historical institutionalism / psychological theory* reaches the 3rd and explains where preferences come from.",
+      "hint": "Theory → blind spot → better rival.",
+      "tags": ["template", "power", "exam-move"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-10",
+      "type": "synthesis",
+      "front": "Comparative politics collapses into **three key questions**. What are they, and which one is the comparativists' *distinctive* contribution?",
+      "back": "**① What explains political behaviour?** (core of all political science)\n**② Who rules?**\n**③ Where and why?** — the comparativists' distinctive contribution (does the same explanation hold across different times & places?).",
+      "hint": "Behaviour · rulers · variation across cases.",
+      "tags": ["three-questions", "comparative-politics"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-11",
+      "type": "synthesis",
+      "front": "**Q1 — What explains political behaviour?** splits into three answer-families. Name all three and the one-word logic of each.",
+      "back": "**① Interests** — behaviour = actors pursuing their own **preferences**.\n**② Beliefs** — behaviour = **values & ideas**.\n**③ Structures** — behaviour = shaped & limited by broad **structures**.\n\n(Rational choice & psychological → Interests; political culture & ideology → Beliefs; Marxism & institutionalism → Structures.)",
+      "hint": "I-B-S.",
+      "tags": ["q1", "interests-beliefs-structures"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-12",
+      "type": "theory-match",
+      "front": "**Behaviour is explained by class conflict rooted in the economic system (bourgeoisie vs proletariat).** Which theory, which Q1 family, and what's the standard critique?",
+      "back": "**Marxism** — in the **Structures** family (Marx).\n\n**Critique:** overlooks **non-economic** motives (religion, nationalism) and other sources of power.",
+      "hint": "Structures family; it's all about class.",
+      "tags": ["marxism", "structures", "q1"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-13",
+      "type": "theory-match",
+      "front": "**Non-rational factors — personal experience, emotions, personality — drive behaviour** (Petersen on fear; Hetherington & Weiler on personality). Which theory, which Q1 family, and its blind spot?",
+      "back": "**Psychological theory** — in the **Interests** family.\n\n**Blind spot:** its focus on the individual makes **group** behaviour hard to explain. (Reaches the 3rd face of power.)",
+      "hint": "Interests family, but *non*-rational.",
+      "tags": ["psychological", "interests", "q1"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-14",
+      "type": "compare",
+      "front": "Within the **Beliefs** family, distinguish **political culture** from **political ideology**.",
+      "back": "**Political culture** — shared, often *unconscious* **attitudes, values, symbols** (e.g. Almond & Verba's *civic culture*; Inglehart's *postmaterialist* shift). *Postmodernist* variant: culture = symbols contested in **discourse** (Foucault).\n\n**Political ideology** — a **systematic, conscious belief-set** (liberalism, communism, fascism). *Critique:* may just **justify** self-interest.",
+      "hint": "Diffuse & often unconscious vs systematic & conscious.",
+      "tags": ["political-culture", "ideology", "beliefs"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-15",
+      "type": "theory-match",
+      "front": "**Society = many competing groups; power is dispersed; no group wins permanently; policy = compromise.** Which answer to \"Who rules?\", who's the classic statement, and which face of power does it mostly see?",
+      "back": "**Pluralist theory** — classic statement **Robert Dahl, *Who Governs?* (1961)**.\n\nThinks mostly in the **1st dimension** of power. Claims to apply even to authoritarian states (Soviet factions; African patron–client networks).",
+      "hint": "Q2; power is spread out.",
+      "tags": ["pluralism", "dahl", "q2"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-16",
+      "type": "reverse",
+      "front": "Name the **elite-theory variant** for each: (a) interlocking economic + political + military elites; (b) extreme wealth used to protect wealth; (c) rule by men; (d) one race keeps dominance via law, wealth & discourse.",
+      "back": "(a) **Power elite** — C. Wright Mills.\n(b) **Oligarchy** — Winters.\n(c) **Patriarchy** — feminist theory.\n(d) **Racial elite / \"the new Jim Crow\"** — Michelle Alexander.\n\nAll are **elite** answers to *Who rules?* and use the **2nd & 3rd** dimensions of power.",
+      "hint": "Mills · Winters · feminism · Alexander.",
+      "tags": ["elite-theory", "q2"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-17",
+      "type": "apply",
+      "front": "You're told: *\"Who holds formal power? Who influences decisions? Who benefits?\"* — what question is this the **test** for, and how do you read the answer?",
+      "back": "It's the test for **\"Who rules?\"** (Q2).\n\n**Read-out:** if the answers point to **few** people → **elite** theory fits; if to **many** competing groups → **pluralist** theory fits.",
+      "hint": "Few vs many.",
+      "tags": ["q2", "pluralism", "elite-theory", "test"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-18",
+      "type": "compare",
+      "front": "Distinguish the two logics of the **comparative method**: *most-similar* vs *most-different* systems designs (with an example of each).",
+      "back": "**Most-similar systems** — cases **alike** in many ways but **differ on the key variable** (isolate what causes the difference).\n**Most-different systems** — cases **differ** in many ways but **share the outcome** (find the common cause). E.g. revolutions in France, Russia, China, Iran.\n\nBoth mimic the lab through careful **case selection**.",
+      "hint": "Similar cases, different outcome vs different cases, same outcome.",
+      "tags": ["methods", "comparative-method"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-19",
+      "type": "compare",
+      "front": "Distinguish **empirical** from **normative** theory — and say which dominates the discipline (and why the other still matters).",
+      "back": "**Empirical theory** — explains what *does* occur (describe → explain cause → predict).\n**Normative theory** — what *ought* to occur.\n\nThe discipline is **mostly empirical**, but normative concerns legitimately **shape which questions get asked**. Always flag which one a question is mixing.",
+      "hint": "Is vs ought.",
+      "tags": ["empirical", "normative", "methods"],
+      "source": "OD ch.1"
+    },
+    {
+      "id": "l1-20",
+      "type": "definition",
+      "front": "Define **political economy** as an analytical method (Ansell) — and name its two starting commitments.",
+      "back": "**Political economy** = the study of how **self-interested individuals and society interact**: model *each of us* first, then pan out and watch collective plans get undermined by us.\n\n**Two commitments:** ① everyone is **self-interested** (ordered preferences + **utility maximization**) — a *predictive tool*, not an ethical claim; ② **methodological individualism** — start from individuals, not classes/cultures.",
+      "hint": "Start with the individual model, scale up.",
+      "tags": ["political-economy", "self-interest", "ansell"],
+      "source": "Ansell ch.1"
+    },
+    {
+      "id": "l1-21",
+      "type": "mechanism",
+      "front": "Run **Ansell's chain** — the single argument explaining *why politics fails* — in order, all five links.",
+      "back": "**① Self-interest** (everyone maximises their own utility) →\n**② Collective-action problem** (we're *interdependent*, so individually rational acts are collectively ruinous) →\n**③ Tragedy of the commons / externality** (an unowned, unmonitored resource gets over-exploited; my gain imposes a cost on you) →\n**④ Need for political promises** (we'd all be better off with a binding rule, but there's no higher enforcer than politics itself) →\n**⑤ Institutions & norms** (the promise only holds if made **self-enforcing** — formal rules + informal expectations).",
+      "hint": "5 links, starting at self-interest.",
+      "tags": ["ansell-chain", "collective-action", "mechanism"],
+      "source": "Ansell ch.1"
+    },
+    {
+      "id": "l1-22",
+      "type": "mechanism",
+      "front": "**The Cod Wars (Britain vs Iceland, 1950s–70s): two allies overfishing the same sea until stocks collapse.** Which concept/mechanism does this illustrate, and what would be needed to fix it?",
+      "back": "It's the textbook **collective-action problem → tragedy of the commons**: an **unowned, hard-to-monitor** resource where each state's self-interested fishing imposes a **negative externality** on the other.\n\n**Fix:** a **self-enforcing political promise** — locked in by **institutions** (recognised fishing limits/zones) and **norms**. When Iceland kept extending its limits, the promise broke — *\"politics never ends.\"*",
+      "hint": "The go-to worked example for the whole chain.",
+      "tags": ["cod-wars", "tragedy-of-commons", "ansell"],
+      "source": "Ansell ch.1"
+    },
+    {
+      "id": "l1-23",
+      "type": "reverse",
+      "front": "Name the concept: **an unowned shared resource gets over-exploited because no one can be excluded from using it.**",
+      "back": "**Tragedy of the commons.**\n\nRelated: an **externality** = the effect of a transaction on a *third party* (mostly negative — pollution, congestion; sometimes positive — a neighbour's rose garden).",
+      "hint": "Fisheries, grazing land, the atmosphere.",
+      "tags": ["tragedy-of-commons", "externality"],
+      "source": "Ansell ch.1"
+    },
+    {
+      "id": "l1-24",
+      "type": "compare",
+      "front": "In Ansell, a political **promise** differs crucially from a **contract**. How — and what follows for how promises must be designed?",
+      "back": "A **contract** is enforced by a **third party** (courts). A political **promise** **cannot** be — *there is no higher power than politics itself*.\n\nSo promises are **fragile and temporary**; they succeed only when made **self-enforcing** — designed so that reneging is costly. That's the job of **institutions** (formal rules, e.g. the US Senate filibuster) and **norms** (informal expectations).",
+      "hint": "Who can enforce it?",
+      "tags": ["promise", "contract", "self-enforcing", "institutions"],
+      "source": "Ansell ch.1"
+    },
+    {
+      "id": "l1-25",
+      "type": "definition",
+      "front": "Name **Ansell's Five Traps** — the five goals we broadly agree on that each become a trap.",
+      "back": "**Democracy · Equality · Solidarity · Security · Prosperity.**\n\nEach is a goal we agree on, yet each triggers a **trap set off by self-interest** that blocks the collective goal. Traps aren't destiny — spot them or escape them.",
+      "hint": "D-E-S-S-P.",
+      "tags": ["five-traps", "ansell"],
+      "source": "Ansell ch.1"
+    },
+    {
+      "id": "l1-26",
+      "type": "synthesis",
+      "front": "How do **OD (Orvis & Drogus)** and **Ansell** converge — such that you could cite them together on *why institutions matter*?",
+      "back": "Both model actors via **interests / self-interest**: OD's **\"Interests\" family** = Ansell's **political-economy engine**. Ansell's \"politics = making collective decisions/promises\" is almost verbatim OD's definition of **politics**.\n\nBoth land on **institutions** as what makes collective life work — OD as a Q1 *Structures* theory, Ansell as the tool that makes promises **self-enforcing**.",
+      "hint": "Interests family = political-economy engine.",
+      "tags": ["bridge", "institutions", "synthesis"],
+      "source": "OD ch.1 + Ansell ch.1"
+    }
+  ]
+}
