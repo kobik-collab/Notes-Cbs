@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T20:31:20.665Z",
+  "generatedAt": "2026-09-26T21:02:49.984Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -105,7 +105,7 @@
           "sizeKB": 627,
           "flashcards": {
             "json": "flashcards/political-science/lecture-1.json",
-            "count": 26
+            "count": 74
           }
         },
         {
@@ -115,7 +115,7 @@
           "sizeKB": 625,
           "flashcards": {
             "json": "flashcards/political-science/lecture-2.json",
-            "count": 29
+            "count": 90
           }
         },
         {
@@ -125,7 +125,7 @@
           "sizeKB": 426,
           "flashcards": {
             "json": "flashcards/political-science/lecture-3.json",
-            "count": 28
+            "count": 54
           }
         },
         {
@@ -135,7 +135,7 @@
           "sizeKB": 2443,
           "flashcards": {
             "json": "flashcards/political-science/lecture-4.json",
-            "count": 30
+            "count": 57
           }
         },
         {
@@ -145,7 +145,7 @@
           "sizeKB": 3134,
           "flashcards": {
             "json": "flashcards/political-science/lecture-5.json",
-            "count": 28
+            "count": 74
           }
         },
         {
@@ -155,7 +155,7 @@
           "sizeKB": 1086,
           "flashcards": {
             "json": "flashcards/political-science/lecture-6.json",
-            "count": 26
+            "count": 58
           }
         },
         {
@@ -165,7 +165,7 @@
           "sizeKB": 1162,
           "flashcards": {
             "json": "flashcards/political-science/ir-i-realism-auw.json",
-            "count": 31
+            "count": 60
           }
         },
         {
@@ -175,7 +175,7 @@
           "sizeKB": 509,
           "flashcards": {
             "json": "flashcards/political-science/ir-ii-liberalism-auw.json",
-            "count": 26
+            "count": 57
           }
         },
         {
@@ -185,7 +185,7 @@
           "sizeKB": 721,
           "flashcards": {
             "json": "flashcards/political-science/ir-iii-constructivism-other-approaches-auw.json",
-            "count": 30
+            "count": 51
           }
         },
         {
@@ -195,7 +195,7 @@
           "sizeKB": 564,
           "flashcards": {
             "json": "flashcards/political-science/ir-iv-international-security-auw.json",
-            "count": 28
+            "count": 75
           }
         },
         {
@@ -205,7 +205,7 @@
           "sizeKB": 471,
           "flashcards": {
             "json": "flashcards/political-science/foreign-policymaking-ea.json",
-            "count": 26
+            "count": 37
           }
         },
         {
@@ -215,7 +215,7 @@
           "sizeKB": 614,
           "flashcards": {
             "json": "flashcards/political-science/eu-i-the-evolution-of-the-eu-auw.json",
-            "count": 28
+            "count": 86
           }
         },
         {
@@ -225,7 +225,7 @@
           "sizeKB": 2924,
           "flashcards": {
             "json": "flashcards/political-science/eu-ii-institutions-of-the-eu-auw.json",
-            "count": 33
+            "count": 88
           }
         },
         {
@@ -235,7 +235,7 @@
           "sizeKB": 496,
           "flashcards": {
             "json": "flashcards/political-science/eu-iii-the-internal-market-auw.json",
-            "count": 27
+            "count": 48
           }
         }
       ],
