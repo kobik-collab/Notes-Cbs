@@ -1,0 +1,76 @@
+%% title: The European Union
+%% part: Part III · The European Union as a Political System
+%% order: 3
+flowchart TB
+  EU["European Union: a political system that is neither an IO nor a state (sui generis)"]:::core
+  SUPRA["Supranational vs intergovernmental: the core tension"]:::concept
+  EU --> SUPRA
+
+  subgraph THEO["Why integration happens (EU I)"]
+    NF["Neofunctionalism: integration through spillover"]:::theo
+    LI["Liberal intergovernmentalism: states bargain"]:::theo
+  end
+  EU -->|explained two ways| NF
+  EU -->|explained two ways| LI
+  NF -->|expects power to shift to the| SUPRA
+  LI -->|says states keep control, downplaying the| SUPRA
+
+  subgraph EVOL["Evolution (EU I)"]
+    DEEPEN["Deepening: more shared powers"]:::evo
+    WIDEN["Widening: more member states"]:::evo
+    TIMELINE["Timeline: ECSC to Rome to Maastricht to Lisbon"]:::evo
+    DEEPEN --> TIMELINE
+    WIDEN --> TIMELINE
+  end
+  EU -->|grows by| DEEPEN
+  EU -->|grows by| WIDEN
+  NF -->|spillover drives| DEEPEN
+
+  subgraph INST["Institutions (EU II)"]
+    EUCO["European Council: sets overall direction"]:::inst
+    COMM["Commission: proposes law and guards the treaties"]:::inst
+    COUNCIL["Council of the EU: member state ministers"]:::inst
+    EP["European Parliament: elected colegislator"]:::inst
+    CJEU["Court of Justice: interprets EU law"]:::inst
+    COMP["Competences: conferral, subsidiarity, proportionality"]:::inst
+    OLP["Ordinary Legislative Procedure"]:::inst
+    QMV["Qualified majority voting"]:::inst
+    COMM -->|proposes law into| OLP
+    EP -->|codecides in| OLP
+    COUNCIL -->|codecides in| OLP
+    OLP -->|Council votes by| QMV
+    COMP -->|limits| COMM
+  end
+  EU -->|steered by member states in| EUCO
+  LI -->|grand bargains struck in| EUCO
+  COMM -->|supranational| SUPRA
+  CJEU -->|supranational| SUPRA
+  EP -->|supranational| SUPRA
+  EUCO -->|intergovernmental| SUPRA
+  COUNCIL -->|intergovernmental| SUPRA
+
+  subgraph MARKET["Internal market (EU III)"]
+    FREE["Four freedoms: goods, persons, services, capital"]:::mkt
+    NEG["Negative integration: remove barriers"]:::mkt
+    POS["Positive integration: common EU rules"]:::mkt
+    CASSIS["Mutual recognition: Cassis de Dijon"]:::mkt
+    SEA["1992 relaunch: Single European Act"]:::mkt
+    SERV["Services: the hardest freedom"]:::mkt
+    NEG --> CASSIS
+    SEA -->|relaunched the| FREE
+    FREE --> SERV
+  end
+  EU -->|delivers the| FREE
+  CJEU -->|created mutual recognition in| CASSIS
+  CASSIS -->|is a form of| NEG
+  POS -->|made via| OLP
+  LI -->|explains grand bargains like the| SEA
+  NF -->|spillover pushed beyond the| FREE
+  COMP -->|bounds| POS
+
+  classDef core fill:#1f4e79,color:#ffffff,stroke:#12324f;
+  classDef concept fill:#eef1f5,stroke:#5b6572,color:#1a1a1a;
+  classDef theo fill:#e8eafb,stroke:#3949ab,color:#1f2a6b;
+  classDef evo fill:#fdf0dc,stroke:#b06a00,color:#5f3a00;
+  classDef inst fill:#eaf1f8,stroke:#1f4e79,color:#12324f;
+  classDef mkt fill:#e6f4e6,stroke:#2f7d32,color:#1b4d1e;
