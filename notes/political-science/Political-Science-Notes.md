@@ -27,6 +27,7 @@
 - **[EU I: The Evolution of the EU (AUW)](#eu-lecture-1)** — [what is European integration?](#eu1-what) · [the EU: neither IO nor state](#eu1-suigeneris) · [★ deepening & widening](#eu1-deepwiden) · [why integration began (post-WWII)](#eu1-origins) · [★ the evolution timeline](#eu1-timeline) · [ECSC → Rome](#eu1-ecsc) · [the enlargements](#eu1-enlargement) · [Maastricht & the euro](#eu1-maastricht) · [politicization & the era of crisis](#eu1-crises) · [Brexit: integration in reverse](#eu1-brexit) · [★ why integration? two theories](#eu1-theories) · [neofunctionalism & spillover](#eu1-neofunc) · [liberal intergovernmentalism](#eu1-li) · [★ the eurozone-crisis case](#eu1-eurocase) · [theories compared](#eu1-compare) · [★ Fun facts](#ff-eu1)
 - **[EU II: Institutions of the EU (AUW)](#eu-lecture-2)** — [where is EU authority?](#eu2-authority) · [governed by treaty (TEU/TFEU)](#eu2-treaties) · [the five bodies & their interests](#eu2-bodies) · [★ the basic architecture](#eu2-architecture) · [European Council](#eu2-europeancouncil) · [Commission](#eu2-commission) · [Council of the EU](#eu2-council) · [Parliament](#eu2-parliament) · [CJEU](#eu2-cjeu) · [advisory bodies (EESC/CoR)](#eu2-advisory) · [competences](#eu2-competences) · [conferral · subsidiarity · proportionality](#eu2-limits) · [how a law is made / ★ OLP](#eu2-olp) · [★ QMV](#eu2-qmv) · [special procedures](#eu2-special) · [subsidiarity "cards"](#eu2-cards) · [the budget](#eu2-budget) · [implementation](#eu2-implementation) · [regulations · directives · decisions](#eu2-instruments) · [positive/negative integration & Cassis](#eu2-integration) · [enforcement](#eu2-enforcement) · [why the architecture matters](#eu2-matters) · [differentiated integration](#eu2-differentiated) · [cooperation & conflict](#eu2-framing) · [★ LI vs neofunctionalism](#eu2-theories) · [★ Fun facts](#ff-eu2)
 - **[EU III: The Internal Market (AUW)](#eu-lecture-3)** — [what is the single market?](#eu3-what) · [beyond tariffs: non-tariff barriers](#eu3-barriers) · [★ the four freedoms](#eu3-freedoms) · [why integrate? economic & political logic](#eu3-why) · [★ positive vs negative integration](#eu3-posneg) · [Cassis & mutual recognition](#eu3-cassis) · [who builds it](#eu3-who) · [★ the 1992 relaunch (Cockfield · SEA)](#eu3-1992) · [★ the evolution timeline](#eu3-timeline) · [free movement of goods](#eu3-goods) · [persons & labour](#eu3-persons) · [★ services (why harder)](#eu3-services) · [★ the Services Directive (Frankenstein→vampire)](#eu3-servicesdir) · [posted workers & Laval](#eu3-posted) · [capital](#eu3-capital) · [the state as regulator](#eu3-state) · [the digital single market](#eu3-digital) · [★ LI vs neofunctionalism](#eu3-theories) · [★ Fun facts](#ff-eu3)
+- **[EU IV: EU Competition Policy (AUW)](#eu-lecture-4)** — [competition ≠ competitiveness](#eu4-what) · [why the market needs competition rules](#eu4-why) · [exclusive competence](#eu4-competence) · [★ the toolbox (6 instruments)](#eu4-toolbox) · [★ the "economic constitution" (ordoliberalism)](#eu4-constitution) · [why so supranational? DG COMP](#eu4-supranational) · [enforcement powers](#eu4-enforcement) · [cartels (Art. 101)](#eu4-cartels) · [★ the leniency programme](#eu4-leniency) · [abuse of dominance (Art. 102)](#eu4-dominance) · [merger control](#eu4-mergers) · [★ digital markets & gatekeepers](#eu4-digital) · [Google Shopping](#eu4-google) · [★ the DMA (ex-ante)](#eu4-dma) · [state aid](#eu4-stateaid) · [Fiat & Apple (tax as state aid)](#eu4-fiat) · [foreign subsidies](#eu4-foreign) · [history & political economy](#eu4-history) · [★ three theories](#eu4-theories) · [★ Fun facts](#ff-eu4)
 
 ---
 
@@ -3493,5 +3494,255 @@ CJEU → settles disputes over EU law
 - **The "CE" mark** on your electronics is the single market in miniature: meet EU **minimum health-&-safety** standards (CEN/CENELEC) and no country can keep you out.
 - **Courts can beat parliaments.** In **Laval/Viking (2007)** the CJEU let a firm's freedom to provide services **override** Nordic collective-bargaining rights — the sharpest evidence for Scharpf's "**negative beats positive integration**" thesis.
 - **Roaming charges died in 2017** — the most tangible thing the "Digital Single Market" ever did for ordinary citizens.
+
+---
+
+<a id="eu-lecture-4"></a>
+# EU IV: EU Competition Policy (AUW)
+
+**Required reading:** Wilks, S. (2014), "Competition Policy: **Defending the Economic Constitution**," in H. Wallace, M. A. Pollack & A. R. Young (eds), *Policy-Making in the European Union*, 7th ed., OUP, ch. 6.
+
+**Theme of the lecture.** Competition policy is the lecture's **worked example of "EU institutions in action"** — and it's a special one: arguably the **most developed, most supranational** common policy underpinning the [Single Market](#eu-lecture-3). After the basics (what competition policy is, its instruments, why it's so supranational), the lecture zooms in on **high-profile recent cases** — **Google Shopping** (abuse of dominance in digital markets → the DMA) and **Fiat/Apple** (tax breaks as illegal state aid), plus **foreign subsidies**. Throughout, three theoretical lenses compete to explain it: **liberal intergovernmentalism, supranationalism/neofunctionalism, and ideas (constructivism).**
+
+<div class="heart">★ <strong>The heart of the lecture:</strong> competition policy keeps the market's playing field <strong>level</strong> — stopping <strong>firms</strong> (cartels, abuse of dominance, anti-competitive mergers) <em>and</em> <strong>governments</strong> (state aid, foreign subsidies) from rigging competition. It is the EU's <strong>most supranational</strong> policy: an <strong>exclusive competence</strong> where the <strong>Commission (DG COMP)</strong> makes, enforces, and adjudicates the rules — investigator, prosecutor and judge in one. Wilks's thesis: this makes competition policy the EU's <strong>"economic constitution"</strong> — the foundational, quasi-constitutional rules that entrench a competitive market order. <br><strong>Red thread:</strong> why is the Commission <em>so</em> powerful here — and is competition policy just being <em>adapted</em> to digital markets, or is the EU <em>redefining what competition means</em>?</div>
+
+**Key concepts to apply:** *the economic constitution / ordoliberalism* · *competition vs competitiveness policy* · *exclusive competence* · *antitrust (Art. 101 cartels · Art. 102 abuse of dominance)* · *merger control · state aid (Arts. 107–109)* · *DG COMP · the European Competition Network (ECN) · leniency* · *gatekeepers · ex-post vs ex-ante regulation (the DMA)* · *foreign subsidies* · the three lenses (*LI · supranationalism · ideas*).
+
+---
+
+<a id="eu4-what"></a>
+## What is competition policy? (competition ≠ competitiveness)
+
+***Core:*** a crucial distinction the lecture opens on. **Competition** policy and **competitiveness** policy sound alike but are opposites in method.
+
+| | **Competition policy** | **Competitiveness policy** |
+|---|---|---|
+| **Question** | how do we maintain **effective competition *between firms*** in the EU market? | how do we make **European firms/the economy** more productive & globally competitive? |
+| **Method** | **referee** — police and constrain firms & governments | **booster** — support and promote industry |
+
+- **The puzzle:** *when should public authorities intervene in markets to protect competition?* The flashpoints: **cartels, market dominance, state aid, digital gatekeepers, foreign subsidies.**
+
+<a id="eu4-why"></a>
+#### Why the single market needs rules of competition
+
+***Core:*** open markets create incentives to **compete** — but also incentives to **escape** competition. Competition policy exists to stop four kinds of rigging.
+
+- **The basic problem:** actors have incentives to **reduce** competition (it's more profitable not to compete). EU competition policy tries to prevent:
+  1. **firms restricting competition** (cartels);
+  2. **dominant firms abusing** market power;
+  3. **governments distorting** competition through **state aid**;
+  4. **anti-competitive mergers.**
+- → *Competition rules are the **complement** to the single market: [EU III](#eu3-posneg) removes state barriers to trade; competition policy stops **private** actors (and subsidies) from rebuilding those barriers.*
+
+<a id="eu4-competence"></a>
+#### An exclusive competence
+
+***Core:*** competition is one of the EU's few **exclusive competences** (Art. 3 TFEU) — *only the EU* sets the competition rules needed for the internal market. This is why it's so supranational.
+
+- Because it's exclusive, **supranational authorities** hold substantial responsibility for the whole chain: **making the rules → enforcing them → developing the policy.** (Contrast the *shared*/*supporting* competences from [EU II](#eu2-competences).)
+
+<a id="eu4-toolbox"></a>
+## ★ The competition policy toolbox
+
+***Core:*** six instruments — **four traditional pillars** plus **two new frontiers** — all wielded by the **European Commission / DG COMP.**
+
+| # | Instrument | Purpose | Treaty base |
+|---|---|---|---|
+| **1** | **Cartels** | stop firms **colluding** | **Art. 101 TFEU** |
+| **2** | **Abuse of dominance** | stop dominant firms **excluding** rivals | **Art. 102 TFEU** |
+| **3** | **Merger control** | block mergers that **substantially harm** competition | Merger Regulation |
+| **4** | **State aid** | stop governments **selectively distorting** competition | **Arts. 107–109 TFEU** |
+| **5** | **Digital-market regulation** *(new)* | pre-empt anti-competitive behaviour by **gatekeepers** | the **DMA** |
+| **6** | **Foreign-subsidies regulation** *(new)* | curb **non-EU** subsidies distorting the EU market | Foreign Subsidies Regulation |
+
+→ *Pillars 1–4 are the classic core; 5–6 are the EU's response to **digital platforms** and **geopolitical** competition (China). The rest of the lecture walks each one.*
+
+---
+
+<a id="eu4-constitution"></a>
+## ★ The "economic constitution" — Wilks's central argument
+
+***Core:*** Wilks's thesis and the chapter's title — competition policy is not just another policy; it is **constitutional.** The competition rules are the EU's **"economic constitution"**: the foundational, quasi-constitutional principles that **guarantee a competitive market order**, disciplining **firms *and* governments.**
+
+- **The ordoliberal idea.** "**Economic constitution**" (*Wirtschaftsverfassung*) comes from German **ordoliberalism**: the state's core job is to **set and defend a legal framework that guarantees competition** — protecting the competitive order from **both** private power (cartels, monopolies) **and** state distortion (subsidies).
+- **The ECB analogy (memorable):** *just as the **ECB** guarantees a sound currency and low inflation, the **competition rules** guarantee a free market and economic efficiency* — together an "**economic constitution**" for Europe.
+- **Why "constitutional":** as the EU's **treaties function like a constitution**, their **economic provisions become constitutional principles** that structure the whole economy — and *frame other policies* (R&D, environment, telecoms, media). Every economic actor must accept the market order the rules define. This is why competition policy can **discipline national governments**, not just companies.
+- **Three edges Wilks draws out:** (1) it makes **DG COMP "doubly insulated"** — exceptionally independent; (2) "**juridification**" — the economy is increasingly run through **law and courts** (economic rights protected, but at the cost of legal process); (3) it **embeds a particular, arguably *neoliberal*, market model** — raising the political stakes (the **social-market/"Rhenish"** vs **Anglo-Saxon** debate — see [history](#eu4-history)).
+- **It was contingent, not inevitable:** this free-market vision became dominant only via the **1980s neoliberal turn + the 1992 single market**, and was **consolidated by the collapse of communism** and **eastern enlargement** (new members swallowed it whole as part of the *acquis*).
+
+---
+
+<a id="eu4-supranational"></a>
+## How does the EU enforce competition rules?
+
+***Core:*** competition policy is **the** most supranational EU policy because the market **needs** uniform rules — and the **Commission (DG COMP)** is a uniquely powerful enforcer combining **economic analysis + legal authority + enforcement** in one house.
+
+- **Multi-level, but Commission-led:**
+  - **EU level:** common rules · **Commission enforcement** · **CJEU** review.
+  - **National level:** **National Competition Authorities (NCAs)** enforce within member states, coordinated through the **European Competition Network (ECN).**
+- <a id="eu4-enforcement"></a>**The Commission's role has *expanded*** — from merely **proposing** common rules to running the whole enforcement chain: **investigation → enforcement → remedies → fines.** It has become "an increasingly **autonomous** competition regulator" — effectively **investigator, prosecutor, and judge** in one (a key debate — see [the due-process critique](#eu4-history)).
+  - Enforcement teeth: **dawn raids** (surprise inspections), heavy **fines** (up to **10% of global turnover**, paid into the **EU budget**), **commitments/remedies**, and — for cartels — the **[leniency programme](#eu4-leniency).**
+- **DG COMP — "perhaps the most powerful competition authority in the world"** *(Wilks).* A **small** directorate (~720 staff) but exceptionally **autonomous** — ranked among the five "elite" global agencies (with the US FTC & DOJ). Its **administrative model** (officials investigate *and* decide) is a global alternative to the US **court-based** model.
+- **Modernization — Regulation 1/2003** *(Wilks).* A "once-in-a-generation" reform that **decentralized** antitrust enforcement to the **NCAs** (under Commission supervision), coordinated through the **European Competition Network (ECN)**. It **replaced national laws with EU law** for cross-border cases and **mobilized NCA resources** — vital, since DG COMP is chronically **understaffed** (~436 senior officials policing 450m+ consumers).
+- <a id="eu4-prosecutor"></a>**The "prosecutor, judge and jury" critique** *(Wilks — a key legitimacy debate).* In the Art. 101 process one **rapporteur** investigates, negotiates *and* prosecutes, then DG staff **decide and set the fine** — all inside one organization ("policeman, arbitrator, prosecutor, judge, jury *and* prison officer"). Hence recurring calls for an **independent European Cartel Office** — and the **General Court** has pushed back (it overturned the Commission in *Airtours* 2002 for "manifest errors"). → *the accountability problem grows sharper as DG COMP grows more powerful (see [debates](#eu4-history)).*
+
+---
+
+<a id="eu4-cartels"></a>
+## Pillar 1 — Cartels (Article 101 TFEU)
+
+***Core:*** the classic sin: **competitors agreeing not to compete.** Art. 101 prohibits **agreements and concerted practices** that prevent, restrict or distort competition.
+
+- **Typical cartel conduct:** **price-fixing · market-sharing · production limits · restrictions on technical development (R&D).**
+- <a id="case-emissions"></a>**The car-emissions cartel** (Daimler, BMW, VW): the firms held technology that could cut harmful **nitrogen-oxide (NOx)** emissions — and **agreed *not* to compete** on developing/deploying it. → *Illustrates:* a cartel can suppress not just price competition but **innovation itself** — colluding to keep a cleaner technology off the market. *(A striking answer to "why would firms agree not to innovate?": innovation is costly, and not competing protects everyone's margins.)*
+
+<a id="eu4-leniency"></a>
+#### The leniency programme — the Commission's best cartel-buster
+
+***Core:*** cartels are secret, so the EU turns members against each other: the **first** conspirator to **confess** and hand over evidence gets **total immunity** (or a big discount). A **whistleblower** tool that makes cartels unstable from within.
+
+- **How it works:** self-report → **full exemption** for the first mover; **reduced fines** for later cooperators. Because each member fears a rival will defect first (a **prisoner's dilemma** turned against the cartel), it **destabilizes** cartels and cracks open cases the Commission could never prove alone.
+
+![Bar chart: total EU competition fines per year, 1962–2014 (constant 2010 € millions), with the share coming from cartel cases under the leniency programme. Fines are negligible until the late 1990s, then explode after 2001 — reaching ~€3.4 bn in 2007 — with most of the largest years dominated by leniency-based cartel fines.](figures/eu4-competition-fines.png)
+
+*How to read it.* Two things jump out: **(1)** enforcement was **tiny until ~2000**, then **exploded** — the Commission grew into a heavyweight regulator (peaks ~**€3.4 bn in 2007**, ~€2.8 bn in 2010); **(2)** most of the biggest years are **red** — **cartel fines under the leniency programme** — showing how central leniency became to modern enforcement. → *Visual proof of the deck's "increasingly autonomous regulator": the Commission's competition muscle is a recent, dramatic development.*
+
+---
+
+<a id="eu4-dominance"></a>
+## Pillar 2 — Abuse of a dominant position (Article 102 TFEU)
+
+***Core:*** the crucial nuance — **being dominant is *not* illegal.** What's banned is **abusing** dominance to squeeze out competitors.
+
+- **Dominance ≠ abuse:** a firm can lawfully grow big and win the market. Art. 102 bites only when it **abuses** that position. Typical abuses:
+  - **exclusive purchasing** requirements (lock customers in);
+  - **predation** (price below cost to kill rivals, then raise prices);
+  - **refusal to supply** an input rivals need to compete;
+  - **excessive pricing** — e.g. the **Aspen** case (a pharma firm hiking prices of off-patent drugs).
+- → *The hard question is always **where dominance ends and abuse begins** — which is exactly what [Google Shopping](#eu4-google) tests in digital markets.*
+
+---
+
+<a id="eu4-mergers"></a>
+## Pillar 3 — Merger control (Wilks)
+
+***Core:*** the **"dramatic face"** of competition policy — the Commission can **block or condition** mergers that would create a dominant position. A **"one-stop shop"** for Europe's biggest deals.
+
+- **Legal basis:** the **Merger Regulation** (Reg. **4064/89** → **139/2004**, in force 1990) — Sir **Leon Brittan's** triumph that made DG COMP **globally pre-eminent.** *(Note: merger control was **not** in the original Treaty — it had to be added in 1989.)*
+- **"One-stop shop":** the Commission handles the **largest** mergers (aggregate turnover above a **€5 bn** threshold — ~**300/year**); smaller deals go to national authorities. Firms **prefer** it — **fast, transparent, one approval** instead of 28.
+- **Two phases:** **Phase 1** (most cleared within a month) → **Phase 2** (in-depth). **Outright blocks are rare** (only **~4 in 2003–12**); the norm is **approval with conditions** (e.g. **divestitures**).
+- **The test:** originally "**dominance**"; the **2004 reform** added "**significant impediment to effective competition**" (SIEC), nudging toward the US/UK "substantial lessening of competition" standard — but it stays an **economic** test, not a public-interest one.
+- **Subsidiarity valves:** the **"German clause" (Art. 9)** lets a case be sent *down* to a national authority; the **"Dutch clause" (Art. 23)** lets a state ask the Commission to take a case *up*.
+- **The 2001–02 shock** (why the "more economic approach" happened): the Commission **blocked GE/Honeywell (2001)** — a US firestorm over "arrogance/poor economics" — then in **2002 *lost*** its first-ever appeal (**Airtours**, "manifest errors of assessment"), plus **Schneider** and **Tetra Laval.** Response: it **beefed up economics** — a new **chief economist** post (2003), Monti's "economic interpretation."
+- **Extraterritorial reach:** the Commission blocked **Deutsche Börse/NYSE Euronext** *despite* US approval — fuelling the recurring US charge that the EU "protects **competitors**, not **competition**."
+
+---
+
+<a id="eu4-digital"></a>
+## Digital markets — what happens when market power changes?
+
+***Core:*** digital platforms **break** the traditional competition model. Their economics make **concentration self-reinforcing**, so a dominant platform is far harder to dislodge than a dominant factory.
+
+- **Why digital markets tip to monopoly:**
+  - **network effects** — more users → more value → still more users;
+  - **economies of scale** — near-**zero marginal cost** to serve one more user;
+  - **data advantages** — more users → more data → better service → more users;
+  - **ecosystems** — bundled services reinforce each other.
+  → **Result:** concentration **reinforces itself** — a winner-takes-most dynamic.
+- <a id="eu4-gatekeeper"></a>**From dominance to *gatekeeping*.** The old question — *is a dominant firm abusing its position?* — gives way to a structural one: *does the platform **control access** to users and markets?* A **gatekeeper** is "a platform that controls access to a large group of users." Its risks: **lock-in · barriers to entry · self-preferencing · data advantages.**
+
+<a id="eu4-google"></a>
+#### Google Shopping — when the platform competes with its own users
+
+***Core:*** the flagship digital abuse-of-dominance case. **Google gave its own comparison-shopping service more prominent placement** in search results than rivals'. **Is that just competition, or abuse of market power?**
+
+- The Commission ruled it **abuse of dominance** (self-preferencing) — Google used its **search near-monopoly** to advantage its own downstream service, foreclosing rival shopping comparison sites. *(A huge fine followed.)* → *Illustrates:* Art. 102 stretched into digital markets — but slowly, **case by case**, which is precisely the problem the DMA tries to fix.
+
+<a id="eu4-dma"></a>
+#### The Digital Markets Act — regulation *before* the abuse (ex-ante)
+
+***Core:*** the key shift. Traditional antitrust is **ex-post** (spot conduct → investigate → decide → fine) — but **digital markets change faster than enforcement can act.** The **DMA** goes **ex-ante**: set **rules in advance** for designated **gatekeepers.**
+
+| | **Traditional antitrust (ex-post)** | **The DMA (ex-ante)** |
+|---|---|---|
+| **Logic** | *did this firm abuse dominance?* — after the fact | *what obligations must a powerful gatekeeper follow* — in advance |
+| **Timing** | slow, case-by-case, reactive | pre-emptive rules of conduct |
+
+- **DMA obligations on gatekeepers:** **no self-preferencing · fairer access · interoperability · data-sharing/portability obligations · limits on combining data** across services.
+- **The bigger question (deck):** is the EU merely **adapting** competition policy to new markets — or **changing its very idea of what a competitive market requires** (from *police abuses after they happen* to *regulate structure up front*)? → *This links straight to Wilks's "[economic constitution](#eu4-constitution)": the EU is writing new constitutional rules for digital capitalism.*
+
+---
+
+<a id="eu4-stateaid"></a>
+## Pillar 4 — State aid: when *governments* distort competition
+
+***Core:*** the uniquely-EU pillar. Competition can be rigged not just by firms but by **governments** favouring their own companies. EU **state-aid** control forbids members from **selectively tilting the playing field.**
+
+- **Forms of state aid:** **subsidies · tax advantages · preferential loans · government guarantees · preferential access** to goods/services.
+- **The EU principle:** member states must **not selectively** advantage particular firms/sectors in a way that distorts competition. *(This is remarkable — the EU polices its own **member governments'** economic choices, not just companies. A major constraint on national [industrial policy](#eu4-history).)*
+
+<a id="eu4-fiat"></a>
+#### Tax rulings as state aid — Fiat & Apple
+
+***Core:*** the syllabus's **Fiat** case (and its twin, **Apple**): the Commission attacked **sweetheart tax deals** as **illegal state aid.**
+
+- **Fiat (FFT) in Luxembourg** and **Apple in Ireland:** national tax authorities gave the companies **favourable tax rulings** allowing them to pay very little tax. The Commission argued these were **selective advantages** = **illegal state aid**, and ordered the money **recovered** (Apple: **€13 bn**). → *Illustrates:* state-aid rules reaching into **national tax sovereignty** — hugely controversial (the member states involved often *fought* the Commission, not wanting the back-taxes). *(The courts have gone both ways on these — the legal boundary is contested.)*
+
+<a id="eu4-foreign"></a>
+#### The new frontier — foreign subsidies
+
+***Core:*** a **regulatory gap** the EU recently closed. EU state-aid rules bind **EU** governments — but what about a **non-EU** government (e.g. China) subsidizing a firm that then competes in the EU?
+
+- **The gap:** an EU member's subsidy gets **EU scrutiny**; a **non-EU** government's subsidy to a firm competing in the EU market previously had **no equivalent instrument.**
+- **The Foreign Subsidies Regulation** fills it: the Commission can investigate **large mergers, big public-procurement bids**, and other situations **on its own initiative (*ex officio*)**, and respond with **commitments, remedies, or outright prohibition** of a deal/contract.
+- <a id="case-bulgaria"></a>**Bulgarian train procurement (2024):** the Chinese state-owned **CRRC Qingdao Sifang** bid ~**€610 m** for 20 electric trains + maintenance. → *The dilemma:* should Bulgaria take the **cheaper** offer if the bidder was **foreign-subsidized**? Cheaper trains now vs a **level playing field** and long-term EU industry — the politics of the new tool in a nutshell.
+
+---
+
+<a id="eu4-history"></a>
+## History & political economy — how competition policy became so powerful (Wilks)
+
+***Core:*** competition policy went from a **marginal, distrusted idea** to the EU's **most powerful supranational regime** — and it remains **ideologically contested.**
+
+- **Three roots:** **US antitrust** (late-19th-century — protect "**the little man**" from the industrial "**trusts**"); German **ordoliberalism** (the [economic constitution](#eu4-constitution)); and the **Treaty of Rome** common-market vision (1958). Competition was once seen as **wasteful and destructive** — **cartels were legal** in Europe until the **late 1960s**, and postwar industrial policy ran on **nationalization, planning and "national champions."**
+- **The neoliberal turn:** the free-market vision became dominant only with the **1980s neoliberal revolution + the 1992 single market**, then **consolidated** by the fall of communism and the **2004/07 enlargements.**
+- **The "more economic approach" (the "turn to economics"):** after the **2001–02 merger defeats**, DG COMP shifted from formalistic legal categories to **effects-based economic analysis** and a **"consumer welfare"** standard — an **Americanization** criticized for embedding **Anglo-Saxon neoliberalism** over the continental **"social-market"/Rhenish** model, and for **favouring big transnational firms** (who lobbied for it).
+- **Key Commissioners:** **Sutherland** (state-aid "name & shame," late 80s) · **Brittan** (the Merger Regulation) · **Monti** (the €497m **Microsoft** fine; created the chief-economist post) · **Kroes** (the crisis "temporary framework") · **Almunia** (Google; modernization).
+- **Competition vs industrial policy** — the enduring tension: **recessions revive** the appeal of state support and **national champions** (France/Germany/Italy protective). DG COMP's fortunes **ride the economic cycle** (boom → more mergers, less resistance; recession → interventionist voices win).
+- <a id="case-crisis-stateaid"></a>**The financial-crisis test (the big one).** After **Lehman (2008)**, an "**avalanche**" of **bank bailouts** and calls (Sarkozy) to **suspend** state-aid rules. Commissioner **Kroes did *not* suspend** — she enacted a **"temporary framework" (Dec 2008)** allowing **rescue aid under conditions** aimed at eventually restoring competition. The scale was staggering: ~**€1.6 tn** of bank aid *used* (**13% of EU GDP**), **€5.1 tn approved** (**40% of 2011 GDP**); **Ireland** approved aid worth **365% of its GDP.** → **Wilks's verdict:** the regime "**bent but did not buckle**" — either a "**mild triumph**" that defended the economic constitution, *or* a **return to the status quo** that reproduced the very oligopolies and banks that caused the crisis. **None of the forecast threats** (protectionism, a swing to the Rhenish model) **materialized** — the Commission **defended the economic constitution.**
+- **The accountability debate** (recap): the "[prosecutor, judge and jury](#eu4-prosecutor)" critique, **corporate-lobbying** influence, and the **legitimacy** question — which **Majone** answers by "**output legitimacy**" (expertise + efficiency + due process, not democratic control — see theories).
+
+<a id="eu4-theories"></a>
+## ★ Three theories of EU competition policy
+
+***Core:*** the deck's framing — **three lenses on the same outcomes** (the Commission's growing power; Google → the DMA; the Foreign Subsidies Regulation). Ask **what each theory looks for.**
+
+| Lens | Core claim | Looks for… |
+|---|---|---|
+| **Liberal Intergovernmentalism** | member states had **different preferences** about competition policy | **bargaining · who wanted what · bargaining power** |
+| **Supranationalism / neofunctionalism** | the **Commission** acquired **expertise & enforcement authority** | **Commission autonomy · spillover · new competences** |
+| **Ideas (constructivism)** | **understandings** of the proper role of state & market **changed** | **changing norms** about legitimate markets |
+
+- **Apply them (the deck's grid):**
+  - **Commission becomes more powerful** → *LI:* who **agreed**? · *Supra:* how did **autonomy** develop? · *Ideas:* what became **legitimate**?
+  - **Google → DMA** → *LI:* what did **governments** want? · *Supra:* did **regulatory gaps** create spillover? · *Ideas:* how did **ideas about competition** change?
+  - **Foreign Subsidies Regulation** → *LI:* which **states** pushed for it? · *Supra:* why did **EU authority** expand? · *Ideas:* what does "**fair competition**" now mean?
+- **Wilks's own lens — Majone's "regulatory state":** competition policy is the **classic example** of EU **"non-majoritarian" regulation** — legitimized not by majority vote but by **expertise, due process and objective efficiency** ("output legitimacy"). It's **law-driven policy-making**, run through courts and a network of agencies. *(This is the [EU III neoliberal debate](#eu3-evaluating) in its purest institutional form.)*
+- **The takeaway:** no single theory wins — but competition policy is the **strongest case for supranationalism** (an autonomous Commission that expanded its own authority), *framed* by a powerful **idea** (the market/economic constitution) that member states then **had** to accept.
+
+<a id="ff-eu4"></a>
+## ★ Fun facts & memorable details (EU IV: Competition Policy)
+
+> Sticky bits from the competition-policy lecture.
+
+- **The ECB for markets.** Wilks's image: just as the **ECB** guards the currency, the competition rules guard the **free market** — an "**economic constitution**" for Europe.
+- **DG COMP is tiny.** ~**720 staff** (about 436 decision-makers) police a market of **450 million** people — the member states reportedly **keep it understaffed** on purpose, as one of the few ways to **rein it in**.
+- **"Policeman, arbitrator, prosecutor, judge, jury — and prison officer."** The memorable jibe about the Commission doing *everything* in a competition case inside one building.
+- **The "nuclear option" has never been fired.** Since 2003 the Commission *can* force a company to **break itself up** (divestiture) — "the antitrust equivalent of a nuclear strike" — but has **never** done it.
+- **"The Full Monti."** When Commissioner Mario Monti fined **Microsoft €497 m** (2004) for bundling Media Player, the *FT* headline wrote itself. Microsoft's total hit reached **€1.6 bn** by 2013.
+- **Leniency is a prisoner's dilemma weapon.** The first cartel member to confess walks free — so nobody trusts anyone. In **2012** there were **60 leniency applications** but only **5 cartel decisions.**
+- **Fines fund the EU.** Competition fines — **€7 bn over 2009–13** — go straight into the **EU budget.** A **€1.47 bn** single-cartel fine (TV tubes, 2012) set a record.
+- **Ireland guaranteed bank aid worth 365% of its GDP** during the crisis — the most extreme state-aid commitment in EU history.
+- **Cartels can conspire *not to innovate*.** The car-makers agreed to hold back **cleaner emissions tech** — a reminder that competition drives not just prices but progress.
 
 ---
