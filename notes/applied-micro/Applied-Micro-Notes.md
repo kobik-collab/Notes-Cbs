@@ -14,6 +14,7 @@
 - **[Lecture 2: Supply and Demand (Ch. 2)](#lecture-2-micro)** — [demand & the demand function](#micro2-demand) · [supply & the supply function](#micro2-supply) · [★ solving market equilibrium](#micro2-equilibrium) · [shifts & comparative statics](#micro2-shifts) · [price ceilings & floors](#micro2-controls) · [★ Fun facts](#ff-micro2)
 - **[Lecture 3: Elasticities & Taxes (Ch. 2 recap · §6.4)](#lecture-3-micro)** — [why elasticity?](#micro3-why) · [★ price elasticity of demand](#micro3-ped) · [computing & the point-elasticity trick](#micro3-computing) · [elastic / inelastic / unit-elastic](#micro3-naming) · [cross-price](#micro3-cross) · [income elasticity & Engel curves](#micro3-income) · [supply elasticity](#micro3-supply) · [elasticity over time](#micro3-time) · [★ taxes: the wedge, incidence & equivalence](#micro3-taxes) · [formula sheet](#micro3-formulas) · [★ practice problems (with solutions)](#micro3-practice) · [★ Fun facts](#ff-micro3)
 - **[Lecture 4: Consumer Choice (Ch. 5)](#lecture-4-micro)** — [modelling choice: the 3 ingredients](#micro4-why) · [preferences & rationality axioms](#micro4-preferences) · [utility & utility functions](#micro4-utility) · [★ marginal utility](#micro4-mu) · [indifference curves & their 3 types](#micro4-indiff) · [★ marginal rate of substitution (MRS)](#micro4-mrs) · [budget constraint & MRT](#micro4-budget) · [★ the optimum: MRS = MRT](#micro4-optimum) · [comparative statics · interior vs corner · Cobb-Douglas shortcut](#micro4-comparative) · [behavioral economics](#micro4-behavioral) · [cases](#micro4-cases) · [formula sheet](#micro4-formulas) · [★ practice problems (with solutions)](#micro4-practice) · [★ Fun facts](#ff-micro4)
+- **[Lecture 5: Applying Consumer Theory (Ch. 5 · §6.5)](#lecture-5-micro)** — [★ deriving the demand curve](#micro5-demand) · [solving it analytically: substitution & Lagrangian](#micro5-analytical) · [the dual: expenditure minimization](#micro5-dual) · [★ income & substitution effects](#micro5-is) · [normal good](#micro5-normal) · [inferior good](#micro5-inferior) · [Giffen goods](#micro5-giffen) · [★ application: labour supply](#micro5-labor) · [formula sheet](#micro5-formulas) · [★ practice problems (with solutions)](#micro5-practice) · [★ Fun facts](#ff-micro5)
 
 ---
 
@@ -1027,3 +1028,201 @@ With E_S = 2 and |E_D| = 4: **consumer share = 2 ÷ (2+4) = 1/3**, **producer sh
 - **You'd sell your coffee mug for far more than you'd pay for it.** The **endowment effect**: Cornell students valued a randomly-given mug **2–4× higher** than students who didn't get one. Ownership rewires valuation.
 - **The paradox of voting:** a strict cost-benefit reading says *don't vote* (your vote almost never decides the election). That people vote anyway is a clue that **narrow self-interest is too small a theory of us.**
 - **Ulysses tied himself to the mast** to resist the Sirens — a 3,000-year-old **commitment device**, the same logic as not keeping cigarettes in the house. Self-control problems are ancient.
+
+---
+
+<a id="lecture-5-micro"></a>
+# Lecture 5: Applying Consumer Theory (Chapter 5 · §6.5)
+
+**Required reading:** Friberg, **Chapter 5 — Consumer choice** (applied) · **§6.5 — Income and substitution effects.** *Lecturer: L. Butera — deck **"Lecture 5: Applying consumer theory."*** *(This lecture **uses** the machinery built in [Lecture 4](#lecture-4-micro) — the optimum where **MRS = price ratio** — and puts it to work.)*
+
+**Résumé.** Lecture 4 found the **best bundle for *given* prices and income.** Lecture 5 *applies* that result three ways: **(1)** it **derives the demand curve** — change one price, re-solve, repeat, and the optimal quantities trace out demand (closing the loop back to [Lecture 2](#lecture-2-micro)); **(2)** it **solves the optimum with calculus** (the substitution and Lagrangian methods) to get demand *functions* q(p, Y), and introduces the **dual** problem (expenditure minimization); **(3)** it opens the "black box" of a price change with **income and substitution effects** — the deeper decomposition that explains *inferior* and *Giffen* goods and the puzzle of **labour supply.**
+
+<div class="heart">★ <strong>The heart of the lecture:</strong> a price change moves demand for <strong>two</strong> reasons, and separating them explains almost everything. The <strong>substitution effect</strong> (the good is now relatively dearer → switch away, <strong>always</strong> in the "less" direction) and the <strong>income effect</strong> (the price rise makes you effectively poorer → buy less if the good is <strong>normal</strong>, <em>more</em> if <strong>inferior</strong>). <strong>Total effect = substitution effect + income effect.</strong> When a strong, positive income effect on an inferior good <em>overwhelms</em> the substitution effect, demand slopes <strong>up</strong> — a <strong>Giffen good</strong>. The same tool cracks the wage puzzle: a raise makes you work <em>more</em> (substitution) but also lets you afford more leisure (income).</div>
+
+**Key concepts / "modes" to use:** *deriving demand from the optimum* · *the substitution method & the Lagrangian* (`MU₁/p₁ = MU₂/p₂ = λ`) · *demand functions q(p₁,p₂,Y)* · *the dual / expenditure minimization / Hicksian (compensated) demand* · *substitution effect vs income effect (Slutsky/Hicks decomposition)* · *normal · inferior · Giffen* · *the labour–leisure model & backward-bending supply.*
+
+<a id="micro5-demand"></a>
+## ★ Deriving the demand curve from consumer choice
+
+***Core:*** we never really *assumed* the demand curve of [Lecture 2](#micro2-demand) — we can **derive** it. Hold **preferences, income and other prices constant**, then **change the good's own price and re-solve the optimum.** The resulting optimal quantities, plotted against price, **are** the demand curve.
+
+- **The recipe:** at each price `p₁`, find the tangency bundle (`MRS = p₁/p₂`). Lower `p₁` → the budget line swings out → a **new, higher** optimal `q₁`. Collect the (`p₁`, `q₁`) pairs → the **individual demand curve** for good 1.
+- **Movement vs shift (ties back to [Ch. 2](#micro2-shifts)):** changing the good's **own price** traces a **movement *along*** its demand curve; changing **income** or **another price** re-solves to a different curve — a **shift** of demand. *In plain terms:* the demand curve is just "the optimum, redrawn for every possible own-price."
+- **Why this matters:** it makes demand a *result*, not an assumption — and it means the **shape** of demand (its elasticity, whether it can slope up) is inherited from the **shape of preferences** (the indifference curves).
+
+<a id="micro5-analytical"></a>
+## Solving the optimum analytically — two methods
+
+***Core:*** the graphical tangency `MRS = p₁/p₂` can be solved with **calculus** to get the **demand functions** `q₁*(p₁,p₂,Y)` and `q₂*(p₁,p₂,Y)` explicitly. Two equivalent routes.
+
+#### (a) The substitution method
+
+***Core:*** turn the constrained problem into an **unconstrained** one by substituting the budget line into utility.
+
+1. **Budget:** `p₁q₁ + p₂q₂ = Y` → solve for one good: `q₂ = (Y − p₁q₁)/p₂`.
+2. **Substitute** into `U(q₁, q₂)` → utility is now a function of `q₁` alone.
+3. **Maximize:** set `dU/dq₁ = 0`. This reproduces the tangency condition **`MU₁/MU₂ = p₁/p₂`** and, with the budget line, yields `q₁*` and `q₂*` as functions of `(p₁, p₂, Y)`.
+
+*(Requires the utility function to be **quasi-concave** — i.e. indifference curves **convex to the origin** — so the tangency is a maximum, not a minimum.)*
+
+#### (b) The Lagrangian method
+
+***Core:*** the general tool for constrained optimization (met in [L4's appendix](#micro4-comparative)). Build a function that bolts the constraint onto the objective with a multiplier **λ**.
+
+$$\mathcal{L} = U(q_1,q_2) + \lambda\,(Y - p_1 q_1 - p_2 q_2)$$
+
+- **First-order conditions** (set each partial derivative to 0):
+  - `∂𝓛/∂q₁ = MU₁ − λp₁ = 0`
+  - `∂𝓛/∂q₂ = MU₂ − λp₂ = 0`
+  - `∂𝓛/∂λ = Y − p₁q₁ − p₂q₂ = 0` *(the budget, recovered)*
+- **Rearrange the first two:** **`MU₁/p₁ = MU₂/p₂ = λ`** — the *"equal marginal utility per euro"* rule: at the optimum the **last euro spent on each good buys the same extra utility.** Dividing them gives back **`MU₁/MU₂ = p₁/p₂`** (MRS = price ratio).
+- **What is λ?** the **marginal utility of income** — how much extra utility one more euro of budget would buy. *(A "shadow price" on the budget constraint.)*
+- Solve the three equations together → the **demand functions.** *(Worked for Cobb–Douglas in the [practice set](#micro5-practice) — you get the tidy result that a Cobb–Douglas consumer spends **fixed budget shares** on each good.)*
+
+<a id="micro5-dual"></a>
+## The dual problem — expenditure minimization
+
+***Core:*** utility maximization has a **mirror image.** Instead of *"maximise utility for a given budget,"* ask *"**minimise the spending** needed to reach a given utility `Ū`."* Same tangency, approached from the other side.
+
+$$\min\; p_1 q_1 + p_2 q_2 \quad \text{subject to}\quad U(q_1,q_2) = \bar U$$
+
+- **The solution is the *expenditure function* `E(p₁, p₂, Ū)`** — the **least money** needed to achieve utility `Ū` at prices `(p₁, p₂)`.
+- **It gives the *Hicksian* (compensated) demands** — quantities as functions of prices holding **utility** constant (rather than income). *This is exactly the object the **substitution effect** uses below* — it asks how you'd re-shop if you had to stay on the **same indifference curve** but faced new relative prices.
+- **Duality (the payoff):** max-utility-given-budget and min-budget-given-utility describe the **same tangency point** — two doors into the same room. The primal gives ordinary (Marshallian) demand `q(p,Y)`; the dual gives compensated (Hicksian) demand `q(p,Ū)`.
+
+---
+
+<a id="micro5-is"></a>
+## ★ Income and substitution effects (§6.5)
+
+***Core:*** the deeper "behind-the-scenes" reading of a price change. When `p₁` rises, quantity demanded moves for **two distinct reasons**, and the total is their sum:
+
+$$\textbf{Total effect} \;=\; \textbf{substitution effect} \;+\; \textbf{income effect}$$
+
+- **Substitution effect** — the change in quantity from the shift in **relative prices *alone*, holding utility constant.** If `p₁` rises, good 1 is now **relatively dearer**, so you switch toward the (now cheaper) other good. **Always negative (or zero):** a price rise ⇒ substitution *away*. *(Formally, this is the move along the **original indifference curve** — the Hicksian/compensated response from the [dual](#micro5-dual).)*
+- **Income effect** — the change in quantity because the price rise makes you **effectively poorer** (your income now buys less). Sign depends on the good:
+  - **normal good** → you buy **less** when poorer ⇒ income effect is **negative** (reinforces substitution);
+  - **inferior good** → you buy **more** when poorer ⇒ income effect is **positive** (opposes substitution).
+
+#### How the decomposition works (the three-step graph)
+
+***Core:*** compensate, then take the compensation away.
+
+1. **Start** at optimum `e*` on indifference curve `I¹` with budget line `L¹`.
+2. **Raise `p₁`** → budget line pivots inward and **steeper** (`L²`) → new optimum `e₂` on a lower curve `I²`. The move `e* → e₂` is the **total effect.**
+3. **Isolate substitution:** slide a budget line with the **new (steeper) slope** out until it is **tangent to the *original* curve `I¹`** (this "`L*`" imagines you were **compensated** to stay as happy as before). Its tangency `e₁` gives the **substitution effect** `e* → e₁` (a slide *along* `I¹`).
+4. **Income effect** is the leftover **parallel shift** `L* → L²`, i.e. `e₁ → e₂` — the pure loss of purchasing power.
+
+<a id="micro5-normal"></a>
+#### A normal good — the two effects reinforce
+
+***Core:*** for a **normal** good both effects push the **same way**, so demand falls **noticeably** when price rises.
+
+![Income and substitution effects of a price rise for a normal good (music tracks vs live music). The original optimum e* moves to e₂ (total effect); the compensated point e₁ splits it: e*→e₁ is the substitution effect and e₁→e₂ is the income effect, both pulling quantity of the good down.](figures/l5-is-normal.png)
+
+*How to read it.* `e*` is the original optimum. When the price of music tracks rises, the budget line pivots to `L²` and the optimum falls to `e₂`. The compensated line `L*` (new slope, original indifference curve `I¹`) locates `e₁`: **substitution effect = e*→e₁** (24→16), **income effect = e₁→e₂** (16→12). For a normal good the income arrow points the **same way** as the substitution arrow → the two **add up** to a large total fall (24→12).
+
+<a id="micro5-inferior"></a>
+#### An inferior good — the effects oppose
+
+***Core:*** for an **inferior** good the positive income effect **partly cancels** the substitution effect, so demand is **less responsive** to price.
+
+![Income and substitution effects of a price rise for an inferior good (apples vs bananas). The substitution effect moves quantity down (a→b, Q3→Q1), but the income effect pulls it back up (b→c gives net Q3→Q2), so the total fall is smaller than the substitution effect alone.](figures/l5-is-inferior.png)
+
+*How to read it.* The substitution effect still pushes the good **down** (`a→b`), but because the good is **inferior**, being poorer makes you want **more** of it — the income arrow points **back the other way**, offsetting part of the substitution move. **Net:** demand still falls, but by **less** than for a normal good. *"The more inferior the good (the more negative its income elasticity) and the fewer the substitutes, the less demand shrinks when price rises."*
+
+<a id="micro5-giffen"></a>
+#### Giffen goods — when demand slopes *up*
+
+***Core:*** the rare, dramatic case. A **Giffen good** is an **inferior** good whose **income effect is so strong it *dominates*** the substitution effect → **quantity demanded *rises* when price rises** → an **upward-sloping** demand curve, violating the law of demand.
+
+- **The recipe for a Giffen good:** (1) strongly **inferior**; (2) takes up a **large share** of the budget; (3) has **few substitutes.** Then a price rise makes the household so much poorer that it **cuts the "luxury"** it used to afford and buys **even more** of the cheap staple.
+- **The classic examples:** **potatoes in Ireland** in the 1840s (the origin of the name — still contested) and, more convincingly, **rice among poor households in China** (Jensen & Miller, 2008): when rice got dearer, families could no longer afford *any* meat, so they bought **more** rice to fill up. → *"They can only afford rice."*
+- **Why it's the exception, not the rule:** it needs a strong income effect (big budget share) *and* strong inferiority — rare in rich economies. The substitution effect usually wins, which is why demand almost always slopes down.
+
+*(Aside — **Hicks vs Slutsky:** two ways to "compensate" for the substitution effect. **Hicks** keeps you on the **original indifference curve** (same utility); **Slutsky** keeps the **original basket just affordable** (rotate the budget line around the starting point). Hicks is the standard version; both give the same intuition.)*
+
+<a id="micro5-labor"></a>
+## ★ Application: labour supply (the wage puzzle)
+
+***Core:*** the decomposition cracks a real puzzle — *does a pay rise make you work more or less?* Model the worker choosing between **leisure** and **consumption (income)**. A wage is the **price of leisure** (an hour off costs you one hour's wage). So **a wage rise = leisure becomes more expensive** → apply income & substitution effects to *leisure*.
+
+- **Substitution effect:** leisure is now dearer → consume **less** leisure → **work more.**
+- **Income effect:** a higher wage makes you **richer**; if **leisure is a normal good**, you want **more** of it → **work less.**
+- **Net effect is ambiguous** — it depends on which dominates.
+
+![Income and substitution effects of a wage change in the leisure–consumption model. A higher wage steepens the budget line; the substitution effect reduces leisure (work more), while the income effect raises leisure (work less), leaving the net change on hours worked ambiguous.](figures/l5-is-labor.png)
+
+*How to read it.* The horizontal axis is **leisure hours `N`** (read right-to-left, it's **work hours `H`**); the vertical axis is **goods/income**. A wage change tilts the budget line. Splitting `e*→e₂` at the compensated point `e₁`: the **substitution effect** cuts leisure (more work), the **income effect** adds leisure (less work — *"since the income effect is positive, leisure is a normal good"*). Because they pull **opposite ways**, the **backward-bending labour-supply curve** becomes possible: at **low** wages the substitution effect usually wins (higher wage → work more); at **high** wages the income effect can win (higher wage → work *less*).
+
+- **The deck's puzzle made concrete:** a raise from **200 → 300 DKK/hr** probably makes you **work more** (substitution dominates); a raise from **200 → 4000 DKK/hr** might make you **work less** — you're now rich enough to "buy back" your time (income dominates).
+
+<a id="micro5-formulas"></a>
+## Formula sheet (Lecture 5)
+
+| Tool | Formula |
+|---|---|
+| Tangency (optimum) | `MRS = MU₁/MU₂ = p₁/p₂` |
+| Budget constraint | `p₁q₁ + p₂q₂ = Y` |
+| Lagrangian | `𝓛 = U(q₁,q₂) + λ(Y − p₁q₁ − p₂q₂)` |
+| Lagrangian FOCs | `MU₁ = λp₁`, `MU₂ = λp₂` → **`MU₁/p₁ = MU₂/p₂ = λ`** |
+| λ interpretation | **marginal utility of income** (shadow price of the budget) |
+| Expenditure function (dual) | `E(p₁,p₂,Ū) =` min spending to reach utility `Ū` |
+| **Slutsky decomposition** | **total effect = substitution effect + income effect** |
+| Substitution effect | **≤ 0 always** (holding utility constant) |
+| Income effect (price ↑) | **normal:** negative · **inferior:** positive · **Giffen:** positive & dominant |
+| Cobb–Douglas `U = q₁ᵃq₂ᵇ` demand | `q₁* = a/(a+b) · Y/p₁` (constant budget shares) |
+
+<a id="micro5-practice"></a>
+## ★ Practice problems (with solutions)
+
+> Do these — Lecture 5 is where the calculus of consumer choice actually gets tested. Solutions below.
+
+**1.** A consumer has `U(q₁,q₂) = q₁q₂`, income `Y`, prices `p₁, p₂`. Use the **substitution method** to find the demand for `q₁`.
+
+**2.** Same consumer, now use the **Lagrangian** method to find `q₁*`, `q₂*`, and interpret **λ**.
+
+**3.** Show that with **Cobb–Douglas** `U = q₁ᵃq₂ᵇ`, the consumer spends a **constant share** of income on each good. What is the own-price elasticity of the demand `q₁* = [a/(a+b)]·(Y/p₁)`?
+
+**4.** The price of good 1 (a **normal** good) rises. On an indifference-curve diagram, identify the **substitution** and **income** effects, and say which direction each pushes `q₁`.
+
+**5.** Classify the income effect (sign, for a **price rise**) and say what happens to total demand: (a) a normal good; (b) an inferior good; (c) a Giffen good.
+
+**6.** Your hourly wage doubles. Using income & substitution effects, explain why you might **work more** *or* **less**. Which effect is the "substitution" one?
+
+**7.** *(Concept.)* What does the **expenditure function** `E(p₁,p₂,Ū)` measure, and how does it relate to the **substitution effect**?
+
+---
+
+### Solutions
+
+**1.** Budget: `q₂ = (Y − p₁q₁)/p₂`. Substitute: `U = q₁·(Y − p₁q₁)/p₂`. Differentiate wrt `q₁` and set to 0: `dU/dq₁ = (Y − 2p₁q₁)/p₂ = 0` → `Y − 2p₁q₁ = 0` →
+<div class="formula"><em>q₁*</em> = <em>Y</em> / (2<em>p₁</em>)</div>
+(and by symmetry `q₂* = Y/(2p₂)`). The consumer spends **half** the budget on each good.
+
+**2.** `𝓛 = q₁q₂ + λ(Y − p₁q₁ − p₂q₂)`. FOCs: `q₂ = λp₁` and `q₁ = λp₂` and the budget. Divide the first two: `q₂/q₁ = p₁/p₂` → `p₁q₁ = p₂q₂`. Put into the budget `p₁q₁ + p₂q₂ = Y` → `2p₁q₁ = Y` → **`q₁* = Y/(2p₁)`**, **`q₂* = Y/(2p₂)`** (same as Q1 ✓). **λ = q₂/p₁ = Y/(2p₁p₂)** — the **marginal utility of an extra euro** of income.
+
+**3.** Lagrangian FOCs give `MU₁/MU₂ = (a q₁ᵃ⁻¹q₂ᵇ)/(b q₁ᵃq₂ᵇ⁻¹) = (a/b)(q₂/q₁) = p₁/p₂` → `p₁q₁ = (a/b)p₂q₂`. Sub into the budget → `p₁q₁ = [a/(a+b)]·Y`. So **spending on good 1 is the fixed share `a/(a+b)` of income** (independent of prices) → `q₁* = [a/(a+b)]·(Y/p₁)`. **Own-price elasticity** = `(dq₁/dp₁)(p₁/q₁) = −[a/(a+b)]Y·p₁⁻² · p₁/q₁ = −1`: Cobb–Douglas demand is **unit-elastic** (which is exactly why expenditure share is constant — recall [Lecture 3](#micro3-naming): unit elasticity ⇒ spending unchanged).
+
+**4.** Original optimum `e*` on `I¹`. Price ↑ → new optimum `e₂` on a lower `I²` (total effect, `q₁` falls). Compensated line (new slope, tangent to `I¹`) gives `e₁`: **substitution effect `e*→e₁`** pushes `q₁` **down** (dearer relative price); **income effect `e₁→e₂`** also pushes `q₁` **down** (poorer, and it's normal). Both **negative** → they **reinforce**. *(This is the [normal-good figure](#micro5-normal).)*
+
+**5.** For a **price rise**: (a) **normal** → income effect **negative**; total demand **falls** (both effects down). (b) **inferior** → income effect **positive**, partly offsets substitution; total demand **falls, but less.** (c) **Giffen** → income effect **positive and dominant**; total demand **rises** (law of demand violated).
+
+**6.** A wage rise makes leisure **more expensive** (its price = the wage). **Substitution effect:** leisure dearer → take less leisure → **work more.** **Income effect:** you're richer and leisure is normal → want more leisure → **work less.** The **substitution** effect is the "leisure-is-now-dearer" one; whether you net work more or less depends on which dominates (→ [backward-bending supply](#micro5-labor)).
+
+**7.** `E(p₁,p₂,Ū)` = the **minimum spending needed to reach utility `Ū`** at given prices (the [dual](#micro5-dual)). Its quantities are the **Hicksian/compensated demands** — precisely what the **substitution effect** uses, since that effect asks how you re-optimise when **utility is held fixed** and only **relative prices** change.
+
+<a id="ff-micro5"></a>
+## ★ Fun facts & memorable details (Lecture 5)
+
+> Sticky bits from applying consumer theory.
+
+- **The demand curve is a *result*, not an assumption.** Wiggle one price, re-solve the optimum over and over, and demand **draws itself.** Its whole shape is inherited from the curvature of your indifference curves.
+- **λ has a name: the marginal utility of money.** The Lagrange multiplier isn't just algebra — it tells you **how much happier one extra euro would make you.**
+- **Giffen goods really exist — barely.** For 150 years the **Irish-potato** story was economists' only (contested) example. Then **Jensen & Miller (2008)** found it for real: subsidise rice for poor Chinese families and they bought *less* — because they could finally afford some meat.
+- **"They can only afford rice."** The heart of the Giffen paradox: when your staple gets pricier, you're too poor to buy anything *but* the staple — so you buy **more** of it.
+- **A pay rise can make you work less.** The **backward-bending labour supply curve**: past some wage, you're rich enough to "buy back" your own time. Lottery winners who quit their jobs are the income effect made visible.
+- **Every price change is secretly two changes.** Splitting the substitution effect from the income effect is one of the most useful moves in all of microeconomics — it's why we can tell a normal good from an inferior one from a Giffen good just by signing an arrow.
+
+---

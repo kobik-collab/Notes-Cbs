@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T14:25:20.837Z",
+  "generatedAt": "2026-09-28T13:33:09.365Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -7,7 +7,7 @@
       "full": {
         "title": "Applied Microeconomics — Full notes",
         "pdf": "pdfs/applied-micro/Applied-Micro-Notes.pdf",
-        "sizeKB": 12272
+        "sizeKB": 13189
       },
       "parts": [
         {
@@ -33,6 +33,12 @@
           "title": "Lecture 4: Consumer Choice (Chapter 5)",
           "pdf": "pdfs/applied-micro/lecture-4.pdf",
           "sizeKB": 1044
+        },
+        {
+          "slug": "lecture-5",
+          "title": "Lecture 5: Applying Consumer Theory (Chapter 5 · §6.5)",
+          "pdf": "pdfs/applied-micro/lecture-5.pdf",
+          "sizeKB": 1074
         }
       ]
     },
