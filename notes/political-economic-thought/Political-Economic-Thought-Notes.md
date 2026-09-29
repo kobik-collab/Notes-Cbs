@@ -15,6 +15,7 @@
 - **[Module 4: Enlightenment and Political Liberalism (1660–1790)](#module-4-pet)** — [the Enlightenment frame](#m4-frame) · [Locke (Waldron)](#m4-locke) · [social contract & consent](#loc-contract) · [equality & natural law](#loc-natural) · [property](#loc-property) · [rule of law & revolution](#loc-revolution) · [Montesquieu (McClelland)](#m4-montesquieu) · [spirit of the laws / *esprit général*](#mon-spirit) · [types & principles of government](#mon-types) · [separation of powers](#mon-separation) · [Wollstonecraft](#m4-wollstonecraft) · [Rousseau (optional)](#m4-rousseau) · [general will](#rou-generalwill) · [who are "the people"?](#m4-compare) · [★ Reading-question answers](#m4-questions) · [★ Fun facts](#ff-module4-pet)
 - **[Module 5: American & French Experiments — Social Liberalism & Liberal Democracy (1830–1873)](#module-5-pet)** — [★ Lecture 5 frame (BAP)](#m5-lecture) · [historical context: the modern revolutions](#m5-context) · [thought after the revolutions](#m5-after) · [ancients vs moderns (Constant)](#m5-constant) · [**Tocqueville** (Welch)](#m5-tocqueville) · [democracy = equality of conditions](#toc-equality) · [method: political sociology](#toc-method) · [individualism](#toc-individualism) · [tyranny of the majority](#toc-tyranny) · [soft despotism](#toc-despotism) · [the antidote: participation & associations](#toc-antidote) · [**Mill**](#m5-mill) · [utilitarianism](#mill-util) · [the argument for representative democracy](#mill-repgov) · [the harm principle](#mill-harm) · [self- vs other-regarding](#mill-actions) · [liberalism vs utilitarianism tension](#mill-tension) · [The Subjection of Women](#mill-women) · [Mill the economist (Backhouse)](#mill-economics) · [Cassidy: *Is America an Oligarchy?*](#m5-cassidy) · [★ Reading-question answers](#m5-questions) · [★ Fun facts](#ff-module5-pet)
 - **[Exercise Class 3: The Pros & Cons of Democracy](#ex3-pet)** — [Montesquieu: *The Spirit of the Laws* (Bks II·III·VIII)](#ex3-montesquieu) · [nature vs principle of government](#ex3-nature-principle) · [the three governments](#ex3-types) · [virtue as democracy's principle](#ex3-virtue) · [corruption of democracy](#ex3-corruption) · [Tocqueville: *Democracy in America*](#ex3-tocqueville) · [sovereignty of the people](#ex3-sovereignty) · [what maintains the republic](#ex3-maintains) · [the tutelary despotism](#ex3-tutelary) · [Montesquieu vs Tocqueville](#ex3-compare) · [CNN: the second impeachment](#ex3-cnn) · [★ Prep-question answers](#ex3-questions) · [★ Fun facts](#ff-ex3)
+- **[Module 6: Reactions to Liberalism — Conservatism & Classical Political Economy (1790–1830)](#module-6-pet)** — [historical context: the social question](#m6-context) · [Adam Smith recap](#m6-smith-recap) · [**Malthus**](#m6-malthus) · [★ population & the Malthusian trap](#m6-population) · [poor laws & Malthus's solutions](#m6-poorlaws) · [market gluts & Say's Law](#m6-gluts) · [**Ricardo**](#m6-ricardo) · [★ differential rent & diminishing returns](#m6-rent) · [distribution & the iron law of wages](#m6-distribution) · [free trade & the Corn Laws](#m6-freetrade) · [★ the value debate (LTV · the "Ricardian detour" · Say)](#m6-value) · [Malthus vs Ricardo](#m6-malthusricardo) · [**Burke** & conservatism](#m6-burke) · [the French-Revolution context](#m6-burke-context) · [★ Burke's core ideas](#m6-burke-ideas) · [Burke take-aways](#m6-burke-takeaway) · [★ Study-question answers](#m6-questions) · [★ Fun facts](#ff-module6-pet)
 
 ---
 
@@ -2409,5 +2410,229 @@ Tocqueville reasons by **cases and comparisons** (America ↔ France; democracy 
 - A translator's note in the class extracts warns that the standard **English Tocqueville** (Reeve's) "vividly coloured what was contrary to Democracy and almost erased what could do harm to Aristocracy" — a reminder that even the **translation** carries a politics.
 - **"The Revolution of America terminated when that of France began."** Tocqueville's whole comparative project in nine words — one revolution built a lasting order, the other opened 60 years of turmoil.
 - The class deliberately ends in **2021**: an insurrection, an impeachment, and a contested-but-completed transfer of power — proof that Montesquieu's and Tocqueville's questions about whether a free people can govern itself are **not** museum pieces.
+
+---
+
+<a id="module-6-pet"></a>
+# Module 6: Reactions to Liberalism — Conservatism and Classical Political Economy (1790–1830)
+
+**Readings:** Edmund **Burke**, *Reflections on the Revolution in France* (1790), pp. 25–31, 246–49 · **Backhouse**, *The Penguin History of Economics* (2023), pp. 143–48 *(Malthus & Ricardo)* · J. K. **Galbraith**, *A History of Economics* (1987), pp. 73–88. *(Lecturer: Joachim Lund — deck "Dismal economists, Conservatism.")*
+
+**Theme of the module.** Modules 4–5 built the **liberal-Enlightenment** project — reason, rights, progress, liberal democracy. This module gathers the **two great reactions against it (1790–1830)**, both provoked by the **French Revolution**: **(1)** the **"dismal" classical economists** — **Malthus** and **Ricardo** — who turned Smith's optimism into a bleak science of **limits** (population outrunning food; wages stuck at subsistence; growth grinding to a **"stationary state"**); and **(2)** **political conservatism** — **Edmund Burke** — who attacked the Revolution's **abstract reason** in the name of **tradition, inheritance and gradual change.** Both are *counter-Enlightenment*: the economists puncture the faith in **progress**, Burke punctures the faith in **abstract reason remaking society.**
+
+<div class="heart">★ <strong>The red thread — the reaction against liberal optimism, in two registers:</strong>
+<br>• <strong>The dismal science (Malthus & Ricardo):</strong> Smith promised growth and a "general plenty." The classical economists reply: <strong>there are limits.</strong> <strong>Malthus</strong> — population grows <em>geometrically</em>, food only <em>arithmetically</em>, so misery is the natural check. <strong>Ricardo</strong> — as growth pushes farming onto worse land, <strong>rent</strong> rises and eats <strong>profits</strong>, while wages sink to <strong>subsistence</strong> (the "iron law"); growth stalls in the <strong>stationary state</strong>. Economics becomes the study of <strong>scarcity and distribution</strong>, not plenty.
+<br>• <strong>Conservatism (Burke):</strong> the Revolution's error is <strong>abstract reason</strong> — tearing down inherited institutions to build society from a blueprint. Against it Burke defends <strong>tradition, prescription, prejudice</strong> and an <strong>inter-generational partnership</strong>; reform must be <strong>gradual and organic</strong> — "<em>a state without the means of some change is without the means of its conservation.</em>"
+<br>• <strong>The link:</strong> both are <strong>"the limits to Enlightenment"</strong> — one says nature limits <em>material progress</em>; the other says inherited wisdom limits <em>rational politics</em>. (Note the irony: Burke's phrase for the new age is "<em>sophisters, <strong>economists</strong>, and calculators</em>" — the dismal economists are exactly who he means.)</div>
+
+**Key concepts to apply:** *the dismal science* · *the population principle (geometric vs arithmetic)* · *positive · preventive · moral checks* · *the Malthusian trap / stationary state* · *the social question · the poor laws / Speenhamland* · *market gluts vs Say's Law* · *differential rent · margin of cultivation · diminishing returns* · *distribution (rent · wages · profit) · the iron law of wages* · *labour theory of value · the "Ricardian detour" · Say's subjective utility* · *the Corn Laws · free trade · comparative advantage* · *(Burke) prescription · prejudice · the inter-generational partnership · organic reform.*
+
+---
+
+<a id="m6-context"></a>
+## Historical context — the "social question"
+
+***Core:*** Britain leads the world (empire, trade, naval power after the **Seven Years' War, 1756–63**) and is convulsed by the **First Industrial Revolution** (cotton, coal, iron, steam) *and* a **population explosion** — creating mass urban misery that contemporaries called **"the social question."** This is the world the classical economists tried to explain.
+
+- **The industrial take-off:** division of labour moves from **manufactures to factories**; London grows from **575,000 (1700) to 1 million (1800)**; UK population rises **~50% (1801–41)**, doubling by 1901.
+- **"The social question"** — the new urban poverty: uncontrolled **migration to the cities**, lack of housing/sanitation/public health, **tenement slums**, **women and children in factories and mines**, a "worn-down workforce," disease, poor schooling. *In plain terms:* growth was producing **wealth and squalor at once** — and everyone wanted to know *why*, and *what to do.*
+- **The shadow of France:** the **French Revolution (1789) and the wars (1793–1815)** raised "the spectre of republicanism" and popular unrest; wartime **inflation, high grain prices, protectionism** and taxes pressed on the poor. Fear of a British revolution frames the whole debate (and provokes Burke).
+
+![Line chart of population trends in Europe 1600–1790, in millions, by country (France highest, rising sharply after 1750; Germany, Italy, Spain, England & Wales, Portugal, Northern Netherlands) — all curving steeply upward in the 18th century, the "population explosion" behind Malthus's alarm.](figures/m6-population-europe.jpg)
+
+*How to read it.* Every line **bends sharply upward in the 1700s** — this is the demographic surge (esp. after ~1750) that made **Malthus's** question urgent: if people multiply this fast, can food ever keep up? *(England & Wales — the dark green line — roughly doubles across the century.)*
+
+<a id="m6-smith-recap"></a>
+## Adam Smith — the optimism they reacted against (recap)
+
+***Core:*** the classical economists all **build on Adam Smith (1723–90)** — but they invert his mood. Smith founded **"political economy"** as an optimistic, liberal science of **growth and harmony**; Malthus and Ricardo turn it into a science of **limits and conflict.**
+
+- **Smith's system** (from [Module 3](#m3-smith)): **"political economy"** as an academic discipline, inspired by **political liberalism & natural law** (Locke) and the **Physiocrats** (Quesnay's input–output model; Gournay's *laissez-faire*; Turgot's free trade), opposing **mercantilism.**
+- **The core ideas they inherit:** the **division of labour** (cheap goods in quantity); the **invisible hand**; **abolish state regulation** of trade/production; the **labour theory of value** (production costs determine the "natural price"); **economic growth via capital accumulation**; and a **harmony of interests.**
+- **The reversal:** Smith saw growth spreading a **"general plenty… through all the different ranks of society."** Malthus and Ricardo deny it — for them the system tends toward **subsistence wages, falling profits and a stationary state.** *That pessimism is why Carlyle would dub it **"the dismal science."***
+
+---
+
+<a id="m6-malthus"></a>
+## Thomas Malthus (1766–1834) — the population principle
+
+***Core:*** a clergyman-economist who made his name **arguing against utopian optimism.** Against radicals like **Godwin and Condorcet** (who said abolishing **private property** would end poverty), Malthus replied: poverty is rooted in a **natural law** — population's tendency to **outstrip food** — that no redistribution can repeal.
+
+<a id="m6-population"></a>
+#### An Essay on the Principle of Population (1798)
+
+***Core:*** the famous mismatch of two growth rates. **Population, unchecked, grows *geometrically* (×2 every 25 years: 1, 2, 4, 8…); food can grow only *arithmetically* (1, 2, 3, 4…).** So population **always presses against the food supply**, and something must give.
+
+- **The checks that hold population down:**
+  - **Positive checks** — raise the **death rate**: war, famine, pestilence ("misery").
+  - **Preventive checks** — lower the **birth rate**.
+  - **Moral restraint** — added in the 2nd edition (1805): **postponed marriage** without "irregular gratification." *This third check matters because it opens a door to **progress** without catastrophe.*
+- **Why it's "the dismal science":** if the poor get more income or relief, they simply **have more children** until they're pushed **back to subsistence** — so misery is the system's built-in regulator. The essayist **Thomas Carlyle** later coined **"the Dismal Science,"** and "**Malthusian**" became a term of abuse for this hard-hearted, materialist "modern political economy."
+- **Against the utopians (the point of the *Essay*):** Malthus argued **private property is essential** (without it, Smith's productive self-love fails), and that giving money to the poor doesn't help "unless someone else consumes less" — it just **raises dependence on the state.** *He shared the Enlightenment's faith in **reason** (he saw himself applying Newton to society) but not its faith in **human perfectibility.***
+
+![The Malthusian trap: a straight, gently-rising "food production line" and a "population growth curve" that repeatedly races upward, overshoots the food line, and is then knocked back down — the recurring collision of population against subsistence.](figures/m6-malthusian-trap.jpg)
+
+*How to read it (the Malthusian trap).* Food (the straight line) grows **steadily**; population (the wavy curve) keeps **surging up to the food ceiling**, then gets **checked back down** (famine, disease) whenever it overshoots. Living standards can never durably rise above subsistence — every gain is **eaten by extra mouths.** This is the "**trap**" that made growth look hopeless.
+
+<a id="m6-poorlaws"></a>
+#### The poor laws and Malthus's "solutions"
+
+***Core:*** Malthus's policy conclusion is bleak and controversial: **abolish poor relief.** He argued the **Speenhamland System** (1795) — topping up wages according to the **bread price** and the **number of children** — made poverty *worse.*
+
+- **Why Malthus thought poor relief backfired** (deck): it created perverse incentives — an **incentive to have more children**, an **incentive for employers to lower wages** (the parish tops them up), an **incentive to idleness**, and it **strips people of personal responsibility.** *(In his view, "poverty reduces the number of births and surviving children" — so relief only postpones the reckoning.)*
+- **His stance:** poor relief is **counterproductive**; **private property is the foundation of growth**; and — see [gluts](#m6-gluts) — the **landed aristocracy** has a positive economic role. → *Malthus is the more **socially conservative** of the two economists: a defender of the old landed order.*
+
+<a id="m6-gluts"></a>
+#### Market gluts — Malthus vs Say's Law
+
+***Core:*** Malthus's most original (and heretical) idea: an economy can suffer a **general "glut"** — **too much output and too little demand at once** — so growth can **stall for lack of buyers.** This directly **contradicts Say's Law.**
+
+- **Say's Law ("supply creates its own demand"):** the orthodox view (from **Jean-Baptiste Say**, 1767–1832, and accepted by Ricardo) that **every act of production generates exactly enough income to buy the output** — so a **general glut is impossible.** *Galbraith's gloss:* from the price of every product comes a return in **wages, interest, profit or rent** sufficient to buy it — "**somebody, somewhere, gets it all**," and then spends it. Even **saving** is no leak (it becomes **investment**). → *So no state or central bank need manage demand — the intellectual charter of laissez-faire. (Say also gave us the **entrepreneur** — the risk-taking "motive force" of the economy.)*
+- **Malthus's challenge:** demand *can* be **deficient.** Because impoverished workers can't buy much and capitalists plough profits back in rather than consuming, industry can produce **more than the market will absorb** → **overproduction and gluts** → unemployment. His remedy is striking: the **"unproductive consumption"** of the **landowners** (who spend their **rents** on servants, luxuries, estates) **soaks up the surplus** and **fights unemployment.** → *So Malthus **defends the aristocracy** on economic grounds — their idle spending keeps demand up.*
+- **The 130-year exile — and vindication:** **Ricardo "rescued" Say's Law** from Malthus, and it "**survived in triumph until the Great Depression**," when **Keynes repealed it** — arguing demand *can* fall short (people hoard money), so the state must spend to fill the gap. *That repeal "gave birth to **macroeconomics**,"* and belatedly vindicated **Malthus** as its forerunner. *(Keynes: Ricardo "captured Britain… as the Holy Inquisition captured Spain.")*
+
+---
+
+<a id="m6-ricardo"></a>
+## David Ricardo (1772–1823) — rent, distribution and the stationary state
+
+***Core:*** a stockbroker turned economist (and MP) who made political economy **rigorous and abstract** ("as certain as Euclidean geometry"). His ***Principles of Political Economy and Taxation* (1817)** fused Smith's growth, Malthus's population, and a new **theory of rent** into a grim model of **distribution and class conflict** — in which the **landlord is the villain.**
+
+<a id="m6-rent"></a>
+#### Differential rent & diminishing returns
+
+***Core:*** Ricardo's signature move — the **first systematic use of marginal thinking.** **Rent** arises because land differs in **fertility**, and as the economy grows it must farm **worse and worse land.**
+
+- **The theory of differential rent** (worked out ~1815, with Malthus, West, Torrens): plots differ in fertility and land has **no alternative use.** Competition means the **least fertile plot in use earns *no* rent** (its corn just covers costs). **Every better plot yields a surplus** — and the **landlord pockets that surplus as rent.** So **rent = the surplus of the more-fertile land over the marginal (worst) land.**
+- **Diminishing returns** (the engine): as population and corn prices rise, farmers push onto **marginal land** and work existing land **harder** — but each extra dose of labour/capital yields **less** extra corn. → **Growth → higher corn prices → cultivate marginal land → rents rise → returns diminish.** *(This is the marginal-productivity idea, decades early.)*
+
+<a id="m6-distribution"></a>
+#### Distribution & the iron law of wages → the stationary state
+
+***Core:*** Ricardo splits national income among **three classes** and shows the shares are locked in a self-defeating dynamic that ends in the **stationary state.**
+
+- **Three incomes:** **rent** (to landlords), **wages** (to workers), **profit** (to capitalists — the *residual* after rent and wages).
+- **The iron law of wages** — against Smith's "general plenty," Ricardo insists **labour is a commodity like any other.** Its **natural price** = the wage that just lets workers **subsist and reproduce** (so it tracks the **price of grain**); its **market price** fluctuates around that with supply and demand. Result: **the worker always lives at the margin of subsistence.**
+- **The growth machine that eats itself:** high profits → capitalists invest → demand for labour rises → population grows → corn prices rise → the **margin of cultivation** extends → **rents rise and profits fall** (wages can't fall below subsistence). Falling profits **choke investment** → growth halts. → **Welcome to the stationary society.**
+- **The villain:** the **landlord.** Because rising rents are what strangle profits and growth, **the landlords' interest is opposed to the interest of everyone else.** *"Peasants pay rent to be allowed to work; workers are paid wages to work."* Growth's problem is **structural** — and it's the **landowners' fault.**
+
+<a id="m6-freetrade"></a>
+#### Ricardo's solution — free trade & the Corn Laws
+
+***Core:*** if home-grown corn is the bottleneck (dear corn → high wages → low profits), then **import cheap corn.** Ricardo's cause was **repealing the Corn Laws.**
+
+- **The *Essay on… the Profits of Stock* (1815)** and the campaign against the **Corn Laws (1815–1846)** — the tariffs protecting British landowners. **Tariff-free corn imports** would hurt landlords but **secure industry's profits**, promoting **investment and growth.**
+- **Comparative advantage:** free trade lets nations exploit their **comparative advantages** (the international division of labour) — everyone gains. *(Repeal came in 1846; British free trade was cemented by the 1860 **Cobden Treaty** with France.)*
+
+---
+
+<a id="m6-value"></a>
+## ★ The value debate — the labour theory & the "Ricardian detour"
+
+***Core:*** the study-question hinge — **how is the value of a good determined?** Smith, Malthus and Ricardo mostly agree on a **labour/cost theory of value**; a rival, **subjective-utility** view (Say) is waiting in the wings.
+
+- **Smith's answer:** value comes from **labour / the cost of production** — the **"natural price"** is set by production costs (recall his **use-value vs exchange-value** puzzle, the water–diamond paradox). Malthus and Ricardo both **accept the labour theory of value** (it's on their "agree" list).
+- **Ricardo's version:** prices are **proportional to the labour required to produce goods** — he needed a value theory to compare food and manufactures. *(He knew the snag: under competition prices track **production costs, which include capital, not just labour** — the technical crack in the labour theory that Marx would later seize on.)*
+- **The "Ricardian detour"** (deck's key critical point): by fixing economics on the **labour theory of value**, Ricardo **led the discipline down a path that neglected two things** — the **demand side** (which Smith had kept in view) and **subjective utility value.** → A whole century of value theory arguably took a wrong turn until the **marginal-utility revolution** rediscovered demand.
+- **Say's alternative — subjective utility:** **Jean-Baptiste Say** located value not in labour-cost but in **subjective usefulness to the buyer** — anticipating the later marginalist view that **demand and utility** set value. *(Say thus opposes Malthus twice over: on **value** — utility vs labour — and on **gluts** — [Say's Law](#m6-gluts) says gluts can't happen.)*
+- **The sting in the tail — Ricardo → Marx.** Ricardo's **labour theory of value + iron law of wages** carried a radical implication he never intended: if labour creates all value but the worker gets only **subsistence**, then the capitalist's **profit** looks like **value taken *from* the worker** — "an unearned… theft." **Marx** built his whole theory of exploitation on this **Ricardian** foundation. Galbraith's quip: *"If Marx and Lenin deserve busts, somewhere in the background there should be room for an effigy of **Ricardo**"* — the conservative stockbroker who accidentally armed the revolution.
+
+<a id="m6-malthusricardo"></a>
+## Malthus vs Ricardo — where they agree and split
+
+***Core:*** the two "dismal economists" share a framework but **clash on politics** — above all on the **landed aristocracy.**
+
+| | **Agree** | **Disagree** |
+|---|---|---|
+| **Value** | both hold the **labour theory of value** | — |
+| **Poor laws** | both want to **abolish** poor relief | — |
+| **The landed aristocracy** | — | **protectors** of the social order & absorbers of gluts (**Malthus**) vs **free-riders** strangling growth with rent (**Ricardo**) |
+| **Free trade / Corn Laws** | — | it **undermines the social order** (Malthus, pro-landlord) vs it **supports growth** (Ricardo, repeal the Corn Laws) |
+| **Gluts / Say's Law** | — | **general gluts are possible** (Malthus) vs **Say's Law holds**, gluts impossible (Ricardo) |
+
+- **The deeper split:** **Malthus** is the **conservative** economist — defending land, rent and the old order as economically *useful*; **Ricardo** is the **liberal** economist — attacking rent and the landlords as parasites on growth, championing free trade. → *Same dismal diagnosis, opposite political prescriptions.*
+
+---
+
+<a id="m6-burke"></a>
+## Edmund Burke (1729–97) — conservatism, "a call for restraint"
+
+**Reading:** Edmund Burke, *Reflections on the Revolution in France* (1790), pp. 25–31, 246–49.
+
+***Core:*** the founding text of modern **political conservatism** — a furious reaction against the **French Revolution** and against the English radicals who cheered it. Burke's target is the Enlightenment habit of tearing down inherited institutions in the name of **abstract reason** and **abstract "rights of man."** Against it he defends **inheritance, tradition, prescription and gradual reform.**
+
+- **The great irony of Burke:** he was **not** a lifelong reactionary. He was a **Whig**, an MP, a **constitutionalist**, and a **supporter of the American Revolution** — a **political *liberal*** who **turned conservative in the face of the French Revolution.** Conservatism is born as **liberalism recoiling from revolution.**
+
+<a id="m6-burke-context"></a>
+#### The context — the French Revolution & the English 1688
+
+***Core:*** Burke writes in **1790**, watching France slide from reform toward terror, and contrasts it with England's own **"Glorious Revolution" of 1688–89** — which he reads as the **opposite** of 1789: a *preservation*, not a *fabrication*.
+
+- **The French descent** (deck timeline): bankruptcy → **Estates-General** (May 1789) → the Third Estate declares a **National Assembly** → **storming of the Bastille** (July 1789) → constitutional monarchy (1791) → **the Terror (Robespierre, 1792–94)** → king executed (1793) → **Napoleon** (1799 consul, 1804 emperor). Burke wrote *before* the Terror — and looked prophetic when it came.
+- **His real target — the "Revolution Society" & Dr. Richard Price.** English radicals claimed 1688 had established **three "rights"**: to **choose our own governors**, to **cashier (remove) them for misconduct**, and to **frame a government for ourselves.** Burke's whole first excerpt **demolishes this reading:**
+  - **1688 fixed a *hereditary* succession** precisely "**to preclude for ever the people of England from choosing their own governors**";
+  - deposing James II rested on **narrow necessity** (he "broke the original contract," subverted church and state), **not** a general right to sack kings for "misconduct" — "**no government could stand a moment, if it could be blown down with any thing so loose and indefinite as an opinion of 'misconduct.'**" Cashiering kings is "**an extraordinary question of state, and wholly out of the law**" — a matter of *war*, not constitution.
+- **1688 = preservation; 1789 = fabrication** — the exam-usable spine: the English secured liberty by **inheriting** it; the French are **fabricating** a new order from scratch, which fills Burke "**with disgust and horror.**"
+
+<a id="m6-burke-ideas"></a>
+#### ★ Burke's core ideas
+
+***Core:*** legitimacy flows not from **abstract reason** but from what is **old, tested and inherited.** Six moves:
+
+1. **Against abstract reason & "the rights of man."** Real rights are **concrete and inherited** — an **"entailed inheritance derived to us from our forefathers, and to be transmitted to our posterity"** (Magna Carta → Coke → Blackstone) — **not** deductions from reason. The French are "**illuminated with the light**" they boast of, but Enlightenment "light" is vanity next to the **"ignorance and fallibility of mankind."** *In plain terms:* don't trust one generation's clever reasoning against the accumulated experience of centuries.
+2. **Inheritance & prescription.** "**We wished… to derive all we possess as an inheritance from our forefathers.**" Institutions are legitimate **because they are old** and have been **tested by time** ("the fashions they have never tried; nor go back to those which they have found mischievous on trial"). The constitution is a **plant grown**, not a machine built — you graft on no "**scion alien to the nature of the original plant.**"
+3. **Society as an inter-generational inheritance.** The crown and constitution are a **"stock and root of inheritance"** binding the **dead** (who framed it), the **living**, and **posterity** (to whom it's transmitted). *(Burke's famous fuller phrase — society as "a partnership between those who are living, those who are dead, and those who are to be born" — comes later in the book; the assigned pages give it in its **constitutional** form.)*
+4. **Gradual, organic reform — change *to preserve*.** Burke does **not** reject all change — "**I would not exclude alteration… but even when I changed, it should be to preserve.**" Reform must repair "**as nearly as possible in the style of the building.**" *(This is the practical meaning of the deck's Burke line — "**a state without the means of some change is without the means of its conservation.**")* Contrast the reckless French — "the **aeronauts of France**" on "desperate flights" — with the Englishman standing "**on the firm ground of the British constitution.**"
+5. **True liberty is liberty *tempered by restraint*.** Burke refuses to praise liberty in the abstract: "**what is liberty without wisdom, and without virtue? It is the greatest of all possible evils.**" A **"free government"** must "**temper together these opposite elements of liberty and restraint**" — a hard craft of prudence, not a quick deduction. And he skewers revolutionary assemblies: **"moderation will be stigmatized as the virtue of cowards; and compromise as the prudence of traitors"** — his diagnosis of how they radicalise by outbidding each other.
+6. **Defence of the settled order** — hierarchy, monarchy, the **established church**, and **property.** The poor "must respect that property of which they cannot partake"; destroying the **"settled order"** and "**natural subordination**" strikes "**at the root of all acquisition as of all conservation.**" *(He even attacks speculative **financiers** — annuities and paper — as enemies of "settled" landed property: an early conservative critique of finance.)*
+
+<a id="m6-burke-takeaway"></a>
+#### Burke — take-aways
+
+***Core:*** defending the **social order** against revolution; the watchwords are **order, harmony, cohesion, authority.**
+
+- **Against democracy / "mob rule":** *"see what happened in France."* The **privileged few** (the nobility/aristocracy) are the **guarantors of order.**
+- **Tradition is essential:** the relationship between state and people is the fruit of a **slow, historical "process of growth"** — echoing (deliberately) Adam Smith's "natural progress."
+- **It provoked the radicals.** Burke's *Reflections* triggered a wave of replies — most famously **Mary Wollstonecraft's *A Vindication of the Rights of Men* (1790)**: "*a desperate disease requires a powerful remedy*" (and, two years later, her *Rights of Woman* — [Module 4](#m4-wollstonecraft)). → *Burke's conservative counter-attack **split liberals from radicals** and defined the political spectrum for two centuries.*
+- **The module's irony:** Burke's phrase for the new, disenchanted age — "the age of chivalry is gone; that of **sophisters, economists, and calculators** has succeeded" — names, almost exactly, the **other half of this very module.** The **dismal economists** are Burke's villains.
+
+---
+
+<a id="m6-questions"></a>
+## ★ Study-question answers
+
+> The lecture's four study questions, worked. (All four are on the economics half; each links to the developed passage.)
+
+**1 · How did Adam Smith define the value of a good? Did Malthus and Ricardo agree?**
+***Answer:*** see **[the value debate](#m6-value)**. Smith gave a **labour/cost-of-production** theory: a good's **"natural price"** is set by what it costs to produce (wages + profit + rent), and behind that lies **labour** — value as *labour commanded* or *labour embodied*. He also split **use-value** from **exchange-value** (the **water–diamond paradox**: water is useful but nearly free; diamonds are useless but dear — so *usefulness* alone can't set price). **Ricardo agreed and sharpened it** into a rigorous **labour theory of value** (price ∝ labour required to produce a good; scarcity governs only non-reproducible goods like rare art), though he treated **utility as a mere precondition** for value. **Malthus largely accepted the labour theory too** (it's on the "agree" list) — but the three differ in emphasis, and Malthus broke with Ricardo elsewhere (on **gluts** and the **landlords**). The rival view is **Say's subjective-utility** theory (value = usefulness to the buyer), which the "**Ricardian detour**" pushed aside for a century.
+
+**2 · What was "the social question," and what were Malthus's solutions?**
+***Answer:*** see **[the social question](#m6-context)** and **[Malthus on the poor laws](#m6-poorlaws)**. **"The social question"** = the mass **urban poverty** thrown up by the Industrial Revolution and the population explosion — slums, disease, no sanitation, women and children in factories and mines, wages at subsistence: *why are the working masses poor, and what can be done?* **Malthus's answer is bleak:** poverty is rooted in a **natural law** (population outruns food), so no charity can cure it. His "solutions": **(a) moral restraint** — later marriages and pre-marital chastity, the one check that offers hope; and **(b) abolish the poor laws** — poor relief (the **Speenhamland** wage-top-ups) is **counterproductive**, because it encourages the poor to have **more children**, lets employers **cut wages**, breeds **idleness**, and destroys **personal responsibility**. In short, Malthus puts "the poverty of the poor on the shoulders of the poor."
+
+**3 · How did Ricardo explain "the social question"?**
+***Answer:*** see **[distribution & the iron law of wages](#m6-distribution)**. Ricardo explained poverty **structurally**, through the **distribution of income** among three classes. By the **iron law of wages**, labour is a commodity whose **natural price = subsistence** (the wage that just lets workers survive and reproduce, tracking the grain price); the **market wage** oscillates around it, but population growth always drags it back — so **the worker is permanently stuck at the margin of subsistence.** Meanwhile **differential rent** rises as growth pushes farming onto poorer land, and rising rent **squeezes profits** until growth halts (the **stationary state**). The poor are poor **by economic law, not accident** — and (Ricardo insists) any rescue by state, employer or union is **futile**. His culprit is the **landlord**, whose unearned rent grows with everyone else's misery; his remedy is **free trade** — [repeal the Corn Laws](#m6-freetrade) to cheapen food, relieve wages, and revive profits.
+
+**4 · What did Malthus mean by "market gluts," and what is Say's Law?**
+***Answer:*** see **[market gluts & Say's Law](#m6-gluts)**. **Say's Law** = *"supply creates its own demand"*: every act of production pays out exactly enough income (wages, interest, profit, rent) to buy the output — "**somebody, somewhere, gets it all**" — so a **general glut (economy-wide overproduction) is impossible**, and government need not manage demand. **Malthus's "market gluts"** challenge this: demand **can** fall short of output (impoverished workers can't buy much; capitalists reinvest instead of consuming), so the economy **can** suffer **general overproduction, unsold goods and unemployment.** His fix: the **"unproductive consumption"** of the landowners (spending their rents) mops up the surplus. Ricardo sided with Say and won the argument for a century — until **Keynes** revived Malthus's insight and "**repealed**" Say's Law, founding **macroeconomics.**
+
+<a id="ff-module6-pet"></a>
+## ★ Fun facts & memorable details
+
+> Sticky bits from Module 6 (Malthus · Ricardo · Say · Burke).
+
+**The dismal economists**
+- **Why "the dismal science."** The phrase is **Thomas Carlyle's** — his jibe at the "**Respectable Professors of the Dismal Science**," those hard-hearted economists who proved that charity is futile and misery inevitable. The nickname stuck for two centuries.
+- **Ricardo the accidental revolutionary.** A conservative **stockbroker** who made a fortune in ~5 years, retired to a **landed estate**, and sat in Parliament — yet his **labour theory of value + iron law** handed **Marx** the theory of exploitation. Galbraith: *"If Marx and Lenin deserve busts… there should be room for an effigy of Ricardo."*
+- **Keynes on Ricardo's dominance:** he "**captured Britain as completely as the Holy Inquisition captured Spain**" — Say's Law became the badge that separated "reputable scholars from frauds and crackpots."
+- **Malthus vs Ricardo — best frenemies.** The two were **close friends** who **disagreed about almost everything** ("wide-ranging and admiring disagreement") — value, gluts, the landlords, free trade. Economics as a friendship built on argument.
+- **Malthus, quietly vindicated.** His "market gluts" idea was **ignored for a century** — then **Keynes** dusted it off in the 1930s and made him the grandfather of **demand-management**. The pessimist had been half-right.
+- **Galbraith's zinger** on leaving population to the market (à la Reagan): ardent couples, instead of going to bed, "would betake themselves to the nearest **shopping mall**."
+
+**Burke & conservatism**
+- **Conservatism was founded by a liberal.** Burke was a **Whig**, a reformer, and a **supporter of the American Revolution** — who recoiled so hard from the **French** one that he wrote the founding text of the **Right.**
+- **He wrote before the Terror — and looked like a prophet.** *Reflections* (1790) predicted the Revolution would end in violence and military dictatorship; the guillotine and **Napoleon** duly obliged.
+- **"The aeronauts of France."** Burke's image for the revolutionaries: reckless **balloonists** drifting free of the ground, against the Englishman standing "**on the firm ground of the British constitution.**"
+- **"Even when I changed, it should be to preserve."** Burke's whole method in seven words — repair the house "**in the style of the building**," never demolish it.
+- **He provoked a feminist classic.** *Reflections* triggered **Mary Wollstonecraft's *A Vindication of the Rights of Men* (1790)** — "*a desperate disease requires a powerful remedy*" — two years before her more famous *Rights of Woman.*
 
 ---

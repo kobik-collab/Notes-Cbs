@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T18:18:49.617Z",
+  "generatedAt": "2026-09-29T10:33:23.469Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -48,7 +48,7 @@
       "full": {
         "title": "Political & Economic Thought — Full notes",
         "pdf": "pdfs/political-economic-thought/Political-Economic-Thought-Notes.pdf",
-        "sizeKB": 5286
+        "sizeKB": 5838
       },
       "parts": [
         {
@@ -92,6 +92,12 @@
           "title": "Exercise Class 3: The Pros and Cons of Democracy",
           "pdf": "pdfs/political-economic-thought/exercise-class-3-the-pros-and-cons-of-democracy.pdf",
           "sizeKB": 388
+        },
+        {
+          "slug": "module-6-reactions-to-liberalism-conservatism-and-classical-",
+          "title": "Module 6: Reactions to Liberalism — Conservatism and Classical Political Economy (1790–1830)",
+          "pdf": "pdfs/political-economic-thought/module-6-reactions-to-liberalism-conservatism-and-classical-.pdf",
+          "sizeKB": 669
         }
       ]
     },
