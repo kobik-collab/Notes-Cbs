@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T10:33:23.469Z",
+  "generatedAt": "2026-09-30T11:34:10.294Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -48,7 +48,7 @@
       "full": {
         "title": "Political & Economic Thought — Full notes",
         "pdf": "pdfs/political-economic-thought/Political-Economic-Thought-Notes.pdf",
-        "sizeKB": 5838
+        "sizeKB": 6137
       },
       "parts": [
         {
@@ -98,6 +98,12 @@
           "title": "Module 6: Reactions to Liberalism — Conservatism and Classical Political Economy (1790–1830)",
           "pdf": "pdfs/political-economic-thought/module-6-reactions-to-liberalism-conservatism-and-classical-.pdf",
           "sizeKB": 669
+        },
+        {
+          "slug": "exercise-class-4-growth-and-limits-to-growth-in-early-indust",
+          "title": "Exercise Class 4: Growth and Limits to Growth in Early Industrial Capitalism",
+          "pdf": "pdfs/political-economic-thought/exercise-class-4-growth-and-limits-to-growth-in-early-indust.pdf",
+          "sizeKB": 461
         }
       ]
     },

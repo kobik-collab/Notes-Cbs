@@ -16,6 +16,7 @@
 - **[Module 5: American & French Experiments — Social Liberalism & Liberal Democracy (1830–1873)](#module-5-pet)** — [★ Lecture 5 frame (BAP)](#m5-lecture) · [historical context: the modern revolutions](#m5-context) · [thought after the revolutions](#m5-after) · [ancients vs moderns (Constant)](#m5-constant) · [**Tocqueville** (Welch)](#m5-tocqueville) · [democracy = equality of conditions](#toc-equality) · [method: political sociology](#toc-method) · [individualism](#toc-individualism) · [tyranny of the majority](#toc-tyranny) · [soft despotism](#toc-despotism) · [the antidote: participation & associations](#toc-antidote) · [**Mill**](#m5-mill) · [utilitarianism](#mill-util) · [the argument for representative democracy](#mill-repgov) · [the harm principle](#mill-harm) · [self- vs other-regarding](#mill-actions) · [liberalism vs utilitarianism tension](#mill-tension) · [The Subjection of Women](#mill-women) · [Mill the economist (Backhouse)](#mill-economics) · [Cassidy: *Is America an Oligarchy?*](#m5-cassidy) · [★ Reading-question answers](#m5-questions) · [★ Fun facts](#ff-module5-pet)
 - **[Exercise Class 3: The Pros & Cons of Democracy](#ex3-pet)** — [Montesquieu: *The Spirit of the Laws* (Bks II·III·VIII)](#ex3-montesquieu) · [nature vs principle of government](#ex3-nature-principle) · [the three governments](#ex3-types) · [virtue as democracy's principle](#ex3-virtue) · [corruption of democracy](#ex3-corruption) · [Tocqueville: *Democracy in America*](#ex3-tocqueville) · [sovereignty of the people](#ex3-sovereignty) · [what maintains the republic](#ex3-maintains) · [the tutelary despotism](#ex3-tutelary) · [Montesquieu vs Tocqueville](#ex3-compare) · [CNN: the second impeachment](#ex3-cnn) · [★ Prep-question answers](#ex3-questions) · [★ Fun facts](#ff-ex3)
 - **[Module 6: Reactions to Liberalism — Conservatism & Classical Political Economy (1790–1830)](#module-6-pet)** — [historical context: the social question](#m6-context) · [Adam Smith recap](#m6-smith-recap) · [**Malthus**](#m6-malthus) · [★ population & the Malthusian trap](#m6-population) · [poor laws & Malthus's solutions](#m6-poorlaws) · [market gluts & Say's Law](#m6-gluts) · [**Ricardo**](#m6-ricardo) · [★ differential rent & diminishing returns](#m6-rent) · [distribution & the iron law of wages](#m6-distribution) · [free trade & the Corn Laws](#m6-freetrade) · [★ the value debate (LTV · the "Ricardian detour" · Say)](#m6-value) · [Malthus vs Ricardo](#m6-malthusricardo) · [**Burke** & conservatism](#m6-burke) · [the French-Revolution context](#m6-burke-context) · [★ Burke's core ideas](#m6-burke-ideas) · [Burke take-aways](#m6-burke-takeaway) · [★ Study-question answers](#m6-questions) · [★ Fun facts](#ff-module6-pet)
+- **[Exercise Class 4: Growth & Limits to Growth in Early Industrial Capitalism](#ex4-pet)** — [the classical growth story](#ex4-recap) · [Smith on growth](#ex4-smith) · [★ the stationary state](#ex4-stationary) · [Malthus & Ricardo on sustained growth](#ex4-malthusricardo) · [**Mill**: what is political economy?](#ex4-mill) · [★ production vs distribution](#ex4-distribution) · [★ the stationary state *welcomed*](#ex4-mill-stationary) · [Zweig: forerunners of limits to growth](#ex4-zweig) · [★ the Jevons paradox & the Coal Question](#ex4-jevons) · [*Snowpiercer*](#ex4-snowpiercer) · [★ working-question answers](#ex4-questions) · [★ Fun facts](#ff-ex4)
 
 ---
 
@@ -2634,5 +2635,204 @@ Tocqueville reasons by **cases and comparisons** (America ↔ France; democracy 
 - **"The aeronauts of France."** Burke's image for the revolutionaries: reckless **balloonists** drifting free of the ground, against the Englishman standing "**on the firm ground of the British constitution.**"
 - **"Even when I changed, it should be to preserve."** Burke's whole method in seven words — repair the house "**in the style of the building**," never demolish it.
 - **He provoked a feminist classic.** *Reflections* triggered **Mary Wollstonecraft's *A Vindication of the Rights of Men* (1790)** — "*a desperate disease requires a powerful remedy*" — two years before her more famous *Rights of Woman.*
+
+---
+
+<a id="ex4-pet"></a>
+# Exercise Class 4: Growth and Limits to Growth in Early Industrial Capitalism
+
+**Readings:** excerpts from **J. S. Mill**, *Principles of Political Economy* (1848) · **Konrad Zweig**, "Smith, Malthus, Ricardo, and Mill: the Forerunners of Limits to Growth" (*Futures*, Dec. 1979, pp. 510–23) · **Wikipedia**, *The Jevons Paradox* · **Brett Clark & John B. Foster**, "William Stanley Jevons and *The Coal Question*" (*Organization & Environment* 14(1), 2001, pp. 93–98) · **film:** *Snowpiercer* (2013).
+
+**The class's question.** Building on [Module 6](#module-6-pet), this class asks the big one: **is economic growth self-sustaining — inherent in capitalism — or does it hit *limits*?** The startling answer from **classical political economy** is that growth **ends**: every classical thinker (Smith, Malthus, Ricardo, Mill) expected the economy to grind toward a **"stationary state."** The class then follows the idea forward — **Mill** re-imagines the stationary state as *desirable*; **Zweig** casts the classicals as the **forerunners of the 1972 "Limits to Growth"** debate; and **Jevons** extends limits from *land/food* to *coal/energy*, giving us the **Jevons paradox** — the 19th-century ancestor of today's climate & "green-growth" argument.
+
+<div class="heart">★ <strong>The red thread:</strong> for <strong>classical political economy, growth is NOT inherent or eternal</strong> — it is a <strong>transient phase</strong> that runs into <strong>natural limits</strong> and halts at the <strong>stationary state</strong>. Two engines drive it to a stop: <strong>diminishing returns</strong> (Ricardo — poorer land, rising rent, falling profits) and <strong>population</strong> (Malthus — mouths outrun food). <strong>Mill</strong> agrees on the mechanics but flips the mood: the stationary state is a chance to stop the "<strong>struggle for riches</strong>" and live well. <strong>Jevons</strong> adds the modern twist: making resource use more <em>efficient</em> doesn't save the resource — it <strong>burns more of it</strong> (the <strong>Jevons paradox</strong>). <br><em>The whole class is the 1800s inventing "limits to growth" — 150 years before the climate debate.</em></div>
+
+**Key concepts to apply:** *the stationary state* · *diminishing returns · the falling rate of profit · the Malthusian population limit* · *Mill's production vs distribution* · *the "Art of Living"* · *limits to growth (Club of Rome 1972)* · *the Jevons paradox / rebound effect · the Coal Question · green growth.*
+
+<a id="ex4-recap"></a>
+## The classical growth story — why growth *ends* (recap of [Module 6](#module-6-pet))
+
+***Core:*** all four classicals share one structure — an economy grows for a while, then **runs into a natural ceiling** and settles into the **stationary state.** They disagree on the *ceiling* and on how to feel about it.
+
+<a id="ex4-smith"></a>
+#### Adam Smith — the optimist who still saw an end
+
+***Core:*** Smith is the founder of **growth** economics — but even *he* expected growth to stop eventually.
+
+- **The engine of growth** ([Module 3](#m3-smith)): the **division of labour** raises productivity → generates a surplus → **capital accumulation** → a **widening market** → *more* division of labour. A **virtuous circle** ("the natural progress of opulence"). Growth is driven by **saving and investment** and by **free markets** (the invisible hand).
+- **But growth is *finite*.** As capital accumulates, **competition drives the rate of profit *down*.** A country that had acquired its **"full complement of riches"** — the most its soil, climate and institutions allow — would reach a **stationary state.** Smith's three moods: the **progressive** state is "cheerful"; the **stationary** state is "**dull**"; the **declining** state is "melancholy." → *Even the apostle of growth built in a ceiling.* **(Working Q1.)**
+
+<a id="ex4-stationary"></a>
+#### What is "the stationary state"?
+
+***Core:*** the **end-point** of the classical growth story: an economy with **zero net growth** — capital and population no longer expanding, wages at subsistence, profits at their minimum, no further accumulation.
+
+- Not a *crash* but a **plateau**: output stops rising, the population stops growing, and the "progress of wealth" halts. For Smith and Ricardo it is a **gloomy** destination (low wages, low profits, no dynamism); for **Mill** it is an **opportunity** (below). **(Working Q2.)**
+
+<a id="ex4-malthusricardo"></a>
+#### Malthus & Ricardo — sustained growth is *impossible*
+
+***Core:*** the two "[dismal economists](#m6-malthus)" both deny that growth can go on forever — for **two different reasons.** *(Full treatment in [Module 6](#module-6-pet); here is the growth-specific version.)*
+
+| | **Malthus** | **Ricardo** |
+|---|---|---|
+| **The main problem** | **[population](#m6-population)** outruns food (geometric vs arithmetic) → misery holds living standards at subsistence | **[diminishing returns on land](#m6-rent)** → rising **rent** → falling **profits** → growth stalls (the **stationary state**) |
+| **Why growth can't last** | any rise in wages just breeds more people, who eat the surplus → back to subsistence | as population grows, farming spreads to **poorer land**; the landlord's rent rises and eats the capitalist's profit until investment stops |
+| **The solutions** | **moral restraint** (later marriage) + **abolish the poor laws**; unproductive spending by landlords cushions [gluts](#m6-gluts) | **free trade** — **[repeal the Corn Laws](#m6-freetrade)** to cheapen food, lower rents, restore profits and *postpone* the stationary state |
+
+- **Both agree** on the **[labour theory of value](#m6-value)** and on **abolishing the poor laws**; they **disagree** on the **landlords** (Malthus: useful protectors; Ricardo: parasitic free-riders) and on **free trade** (Ricardo for; Malthus wary). **(Working Qs 3–5.)**
+- **The shared verdict:** *growth is a temporary windfall, not a permanent feature of the market economy.* The market left alone runs **down** toward stasis. → This is the classical "limits to growth," and the pivot into **Mill** and **Jevons.**
+
+---
+
+<a id="ex4-mill"></a>
+## John Stuart Mill — *Principles of Political Economy* (1848)
+
+**Reading:** J. S. Mill, *Principles of Political Economy*, selections (the **"Preliminary Remarks"**). *(⚠ The excerpt is the opening survey — it delivers Mill's **definition of political economy** and the **production/distribution** distinction, but **not** "Of the Stationary State"; that famous chapter (**Bk IV, ch. VI**) is supplied below from the course + [Zweig](#ex4-zweig), clearly marked.)*
+
+***Core:*** Mill is the **culmination** of classical political economy — he accepts the classical machinery but adds a **liberating twist** that turns the dismal science into a **reformist** programme.
+
+<a id="ex4-what-pe"></a>
+#### What is political economy, for Mill?
+
+***Core:*** political economy is a **moral and social science** — the study of the causes of wealth that are **human**, not physical.
+
+- Mill draws a line: in so far as a nation's economy turns on **physical knowledge**, it belongs to the **physical sciences**; but in so far as the causes are "**moral or psychological, dependent on institutions and social relations, or on the principles of human nature**," they are the object of **political economy.** *In plain terms:* economics studies the part of wealth that depends on **how humans organise themselves**, not on the laws of matter.
+- It **assumes** the physical conditions of production (leaving them to physical science) and traces the "**secondary or derivative laws**" of the production and distribution of wealth. **(Working Q6.)**
+
+<a id="ex4-distribution"></a>
+#### ★ The decisive break — laws of *production* vs laws of *distribution*
+
+***Core:*** Mill's single most important move, and the one that **splits him from Ricardo.** The laws of **production** are fixed by nature; the laws of **distribution** are **made by us** — and so can be **reformed.**
+
+| | **Laws of Production** | **Laws of Distribution** |
+|---|---|---|
+| **Source** | the **properties of matter** + the state of knowledge | "**partly of human institution**" — a society's *statutes and usages* |
+| **Fixed or chosen?** | **fixed / quasi-physical** — "not an arbitrary thing" | **chosen** — society "has the power of deciding what institutions shall exist" |
+| **Reformable?** | no — they constrain *how much* there is | **yes** — how the pie is *divided* is ours to decide |
+
+- **The quotable line:** "**Unlike the laws of Production, those of Distribution are partly of human institution: since the manner in which wealth is distributed in any given society, depends on the statutes or usages therein obtaining.**"
+- **The guardrail** (Mill is no wishful utopian): "though governments or nations have the power of deciding *what* institutions shall exist, **they cannot arbitrarily determine how those institutions shall work**" — once you choose a distributive scheme, its **consequences** follow law-governed patterns.
+- **Why it matters — this is where the dismal science stops being fatal.** For **Ricardo**, distribution (rent, subsistence wages, the profit-squeeze) was fixed by **natural law**, so poverty was inevitable and reform futile. Mill answers: **distribution is a human choice** → **redistribution and reform are legitimate and possible**, *without* violating any economic law. This is the intellectual charter of **social liberalism** — and why Mill grew sympathetic to a qualified **socialism, worker co-operatives**, and bettering the condition of the working class. **(Working Q7.)**
+
+<a id="ex4-mill-stationary"></a>
+#### ★ The stationary state — *welcomed*, not dreaded (Bk IV, ch. VI)
+
+***Core:*** *(from Mill's famous chapter, beyond the excerpt — see [Zweig](#ex4-zweig).)* Mill **agrees with Smith/Ricardo that growth ends** in a stationary state — but he **inverts the mood.** Where they saw gloom, Mill sees **liberation.**
+
+- **Growth was never the point.** Mill is "**not charmed**" by the ideal of a life spent "**trampling, crushing, elbowing, and treading on each other's heels**" — the endless **"struggle for riches."** That competitive scramble is a *means*, useful only while poverty must be conquered — not a way to live.
+- **A stationary economy ≠ a stationary humanity.** "A stationary condition of **capital and population** implies no stationary state of **human improvement**." With growth halted, energy is freed for the **"Art of Living"** — mental, moral and social cultivation, and **leisure** — rather than more *getting.*
+- **Proto-environmentalism** (why the class reads him under "limits to growth"). Mill did **not** want every acre turned to human use: he dreaded a world with "**not a spot left where a wild shrub or flower could grow,**" no solitude, no nature to contemplate. He hoped humanity would be "**content to be stationary, long before necessity compels them to it.**" → *A 19th-century case for **degrowth by choice** — quality of life over quantity of output.* **(Working Q8, in part.)**
+- **Where Mill lands vs his predecessors:** he **keeps** the classical framework (stadial history, Malthusian population as a real force, production as quasi-physical, the stationary state as the endpoint) but **breaks** on the two things that matter — **distribution is a human choice** and **the stationary state is desirable.** *The dismal science, turned hopeful.*
+
+---
+
+<a id="ex4-zweig"></a>
+## Zweig — the classicals as "forerunners of limits to growth"
+
+**Reading:** Konrad Zweig, "Smith, Malthus, Ricardo, and Mill: the Forerunners of Limits to Growth" (*Futures*, 1979).
+
+***Core:*** Zweig's thesis pulls the whole class together — the four classicals, writing at the *dawn* of industrial capitalism, were the **original theorists of "limits to growth,"** anticipating the famous **1972 Club of Rome / MIT report *The Limits to Growth*** by 180 years. All four thought growth was **good but not permanent**; all four saw it ending in a **stationary state.**
+
+- **Their common vision** (Zweig's spine): "**pressure of population, nature's niggardliness and decreasing response to human effort… subsistence wages, and falling profits**" → the economy ends "**in a state of precariousness and indigence.**" **Smith, Malthus, Ricardo *feared* this end** as collapse; **only Mill *welcomed* it** — but Mill's benign version needs social reform the others never considered.
+- <a id="ex4-notinherent"></a>**Why growth is NOT inherent in the market economy** (the exam pivot — **Working Q8**). The market is brilliant at **allocation** and at *generating* growth *while resources are ample* — but it has **no mechanism to overcome the finite limits of nature.** The very success of accumulation triggers the sequence that undoes it:
+  > **accumulation → higher wages → population grows → more food demand → poorer land cultivated → *diminishing returns* → rising food cost + rent, wages pinned at subsistence → *falling rate of profit* → accumulation stops → *stationary state.***
+  So growth is a **phase**, not a permanent property, of capitalism. Left alone, the market runs *toward* stasis. **What to do?** — postpone it (Smith: free trade, education; Ricardo: cheap food via free trade), restrain population (Malthus's moral check), or — the only real programme — **choose it and reform distribution** (Mill).
+- **The modern parallel — and where the classicals differ:**
+  - *The parallel:* the MIT "world model" of exponential growth hitting finite limits "**remarkably concurs**" with the classicals' mental models. Boulding's image: the "**cowboy economy**" of the open frontier becomes "**spaceship Earth**" — finite, closed, no escape.
+  - *The differences:* the classicals' limit was **land / food** (agricultural diminishing returns + population); the moderns' is **energy, minerals & pollution** (industrial/ecological). And the classicals **under-weighted technical progress** — they thought innovation could only *postpone*, never *defeat*, diminishing returns (which is why the booming 19th-century economy seemed to *refute* Ricardo).
+- **Zweig's own provocative conclusion** *(his advocacy, going beyond the classicals):* a genuine stationary state **cannot** be run by a free market — it would need a **"new interventionist order"** (central planning, controlled distribution, population control), because a no-growth economy can't satisfy everyone's rising claims through market forces. He ends on **Schumpeter** — *"Can capitalism survive? No, I do not think it can"* — and **Smith** — *"Life is hard in the stationary state, which is dull and melancholy."*
+
+---
+
+<a id="ex4-jevons"></a>
+## ★ William Stanley Jevons — *The Coal Question* (1865) & the Jevons paradox
+
+**Readings:** Wikipedia, *The Jevons Paradox* · Clark & Foster, "William Stanley Jevons and *The Coal Question*" (2001). *(The second folder PDF is actually Missemer's 2012 scholarly analysis of the same book, folded in below.)*
+
+***Core:*** Jevons **moves the limit to growth from LAND to ENERGY.** The classicals built limits out of **food/land** (diminishing returns); Jevons argues Britain's whole prosperity rests on a **finite, non-renewable fossil fuel — coal** — and that, paradoxically, using it *more efficiently* only makes us burn *more* of it. He is the **19th-century ancestor of every modern climate / "green-growth" debate.**
+
+<a id="ex4-coalquestion"></a>
+#### The Coal Question — the argument
+
+***Core:*** Britain's industrial supremacy is **coal-powered**, and coal is running toward exhaustion — not physically, but **economically.**
+
+- **The chain:** Britain's dominance rests on **cheap, high-quality coal** → but coal is **finite & non-renewable**; as shallow seams are worked out, mining goes **deeper**, so the **cost of coal rises** → Britain **loses its cheap-energy advantage** → rivals with "virgin reserves" (USA) overtake it → **growth stalls.** A **coal-based stationary state** — the energy version of Ricardo's land-based one.
+- **Malthus, transposed from food to fuel.** Jevons swaps corn for coal: "**the momentous repeal of the Corn Laws throws us from corn upon coal.**" Free trade meant Britain imported food and paid with **coal-made manufactures** — so the ultimate constraint became **energy, not land.** He puts *depletion* into an analytical frame just as Malthus did for population.
+- **"Economic," not physical, exhaustion.** The mines are "**literally inexhaustible**" — we'll never scrape the bottom — but we'll "**have to pay dear for fuel**." What binds is **cost**, not emptiness; and what matters is "**the *rate* at which our consumption increases**" (which is **exponential**), not the exact size of the reserve.
+
+<a id="ex4-paradox"></a>
+#### ★ The Jevons paradox — efficiency *increases* consumption
+
+***Core:*** the idea Jevons is famous for. **Making a resource more efficient to use does NOT save it — it makes us use *more*.**
+
+- **The paradox (the quote to memorise):** "**It is wholly a confusion of ideas to suppose that the economical use of fuel is equivalent to a diminished consumption. The very contrary is the truth.**" *"It is the very economy of its use which leads to its extensive consumption."*
+- **The mechanism** (why efficiency backfires): a more efficient engine **lowers the effective cost** of power → **profits rise, capital flows in, output prices fall, demand expands, and new uses open up** → and the boom **spreads to other industries.** So total demand for coal grows **faster** than efficiency saves it per unit. Efficiency is an **engine of expansion**, not conservation.
+  - **Watt's steam engine (the proof):** each improvement made steam power **cheaper**, so it spread into ever more uses — every efficiency gain "**does but accelerate anew the consumption of coal.**"
+  - **Blast furnace (in one sentence):** use less coal per ton of iron → "**profits increase, new capital is attracted, the price of pig-iron falls, but demand for it increases; and eventually the greater number of furnaces will more than make up for the diminished consumption of each.**"
+- **The modern name — rebound & backfire:** the **rebound effect** = efficiency savings are **partly offset** because cheaper energy stimulates more use (a more efficient car → you **drive more**; plus the money saved gets spent on *other* energy-using things — and cheaper energy grows the *whole* economy). When rebound **exceeds 100%**, total use *rises* — that's **"backfire" = the Jevons paradox proper.** *(Jevons anticipated not just the direct rebound but the indirect and macro forms — remarkably complete.)*
+
+<a id="ex4-jevons-why"></a>
+#### Why it matters — the challenge to "green growth"
+
+***Core:*** the paradox is the **foundational objection to techno-optimism.** If **efficiency alone** can't cut resource use, then **technology cannot decouple growth from its environmental cost** — you need **caps, taxes, or structural change**, not just better gadgets.
+
+- **Efficiency ≠ conservation** — the whole lesson in three words. LED bulbs, efficient engines, efficient data-centres: each *can* raise total energy use by making energy services cheaper and the economy bigger. → *A direct hit on "green growth" / decoupling.*
+- **Jevons's own blind spot — substitution pessimism (his big mistake).** He examined and **dismissed every alternative** to coal: wind/water (unreliable), wood (already abandoned for coal), oil (needs coal to extract), **electricity** (not a *source* but a *carrier* — trusting it is like believing in "**perpetual motion**"), solar (not yet mastered; Britain's not sunny). He'd even *documented* an earlier fuel switch (charcoal → coal in the iron trade) yet **couldn't imagine another.** He badly under-rated **petroleum and hydro** — Keynes later called the argument "over-strained."
+- **His grim conclusion — a choice, not a fix:** "**We have to make the momentous choice between brief but true greatness and longer continued mediocrity**" — and he effectively chose to **burn it fast.** His one constructive proposal was **intergenerational compensation**: use the coal intensively but convert the wealth into **lasting assets** (education, infrastructure) and **pay down the National Debt** so posterity isn't doubly punished. *(He rejected a **coal tax** — because coal underlies *everything*, taxing it would tax the whole economy — an argument that eerily prefigures modern objections to a **carbon tax**.)*
+- **Clark & Foster's ecological-Marxist reading:** Jevons spotted the *mechanism* but missed its *cause.* As an early **[marginalist](#m6-value)** he treated capitalism as natural, so he located rising demand in **individual behaviour + population** — never in **capital accumulation** itself, the **"treadmill of production"** that compels endless reinvestment and growth. (Their fix — the one that "never entered Jevons's mind" — is to **change the social relations of production**, not just the gadgets.)
+- **The exam-worthy irony:** Jevons was a **pro-growth, pro-industry marginalist** who cared about **British power, not the planet** (he ignored coal's pollution and miners' deaths) — yet his logic became **environmentalism's sharpest weapon against unlimited growth.** The booster of growth handed the **degrowth** movement its best argument.
+
+<a id="ex4-snowpiercer"></a>
+## *Snowpiercer* (2013) — the case on film
+
+***Core:*** Bong Joon-ho's dystopia as a **parable of growth, limits, and distribution.** A botched climate geo-engineering fix freezes the Earth; the last survivors circle the dead planet on a perpetual-motion **train**, rigidly divided **tail (the poor) vs front (the rich).**
+
+- **How it ties to the class:** it dramatises the two threads at once — a **hard ecological limit** (a ruined planet; the train as a closed, finite system with a fixed "**ecological balance**" the elite police by culling the poor) **and** the **distribution** question ([Mill's](#ex4-distribution) point that who-gets-what is a matter of **human institution**, here a brutal engineered hierarchy). → *A vivid prompt: is the answer to limits a better-managed hierarchy (the Engine), or breaking the system itself (the ending)? — exactly the [Jevons](#ex4-jevons-why) vs Clark-&-Foster argument in fiction.*
+
+---
+
+<a id="ex4-questions"></a>
+## ★ Working-question answers
+
+> The class's eight working questions, worked. (1–5 recap [Module 6](#module-6-pet); 6–8 are the new material.)
+
+**1 · What was Adam Smith's view on economic growth?**
+***Answer:*** see **[Smith on growth](#ex4-smith)**. Smith is the great **optimist**: growth comes from the **division of labour** → higher productivity → a surplus → **capital accumulation** → a **widening market** → still more division of labour — an **upward spiral** ("the natural progress of opulence"), steered by the **invisible hand** of self-interest and free competition, needing no state direction. *But* even Smith saw growth as **finite**: as capital piles up, competition drives the **rate of profit down**, and a country reaching its "**full complement of riches**" sinks into a **stationary state** — "**dull and melancholy**," with wages at subsistence. *It is growth itself, not the level of wealth, that benefits workers* (the "progressive state" is the happy one).
+
+**2 · What is "the stationary state/society"?**
+***Answer:*** see **[the stationary state](#ex4-stationary)**. The **end-point** of the classical growth story: an economy with **zero net growth** — capital and population no longer expanding, **wages at subsistence, profits at their minimum, no further accumulation.** Not a crash but a **plateau.** For Smith and Ricardo it is a **gloomy** destination; for **[Mill](#ex4-mill-stationary)** a chance to stop the "struggle for riches" and live well.
+
+**3 · Malthus's & Ricardo's view on *sustained* growth?**
+***Answer:*** see **[Malthus & Ricardo on growth](#ex4-malthusricardo)**. **Both say sustained growth is impossible** — the economy must end in the stationary state — for **different reasons**: **Malthus** because **population** always catches up with any rise in output (mouths outrun food); **Ricardo** because **diminishing returns on land** raise rent and crush profits until accumulation stops.
+
+**4 · The main problem — Malthus? Ricardo?**
+***Answer:*** **Malthus:** the **[population principle](#m6-population)** — population grows geometrically while food grows only arithmetically, so living standards are pinned at **subsistence** by the checks (misery, vice, moral restraint). **Ricardo:** **[diminishing returns → rising rent → the falling rate of profit](#m6-rent)** — as growth pushes farming onto poorer land, the **landlord's rent** rises and **squeezes the capitalist's profit** to a minimum, ending investment. *(Malthus blames nature/population; Ricardo blames the distribution of income — specifically the landlord.)*
+
+**5 · The solutions — Malthus? Ricardo?**
+***Answer:*** see **[Module 6 study answers](#m6-questions)**. **Malthus:** **moral restraint** (later marriage) + **abolish the poor laws** (relief is counterproductive); landlords' "unproductive" spending cushions [gluts](#m6-gluts). **Ricardo:** **free trade** — **[repeal the Corn Laws](#m6-freetrade)** to cheapen food, lower rents, restore profits, and *postpone* the stationary state. Neither offers a true escape — only a delay.
+
+**6 · What is political economy according to Mill?**
+***Answer:*** see **[what is political economy](#ex4-what-pe)**. A **moral and social science** — it studies the causes of a nation's wealth that are **human** ("moral or psychological, dependent on institutions and social relations, or on the principles of human nature"), **assuming** the *physical* conditions of production (which it leaves to physical science). Its job is to trace the "secondary or derivative laws" of the **production and distribution** of wealth.
+
+**7 · How does Mill's programme differ from his predecessors? Where do they agree?**
+***Answer:*** see **[the production/distribution break](#ex4-distribution)** and **[the stationary state welcomed](#ex4-mill-stationary)**. **Agreement:** Mill keeps the whole classical machinery — Malthusian population as a real force, production as quasi-physical, and the **stationary state as the inevitable endpoint.** **The breaks (two, both decisive):** **(a)** the **laws of production are fixed by nature, but the laws of *distribution* are "partly of human institution"** — chosen by society, so **redistribution and reform are legitimate and possible** (against Ricardo's fatalism that poverty is fixed by natural law); **(b)** the **stationary state is *desirable*, not dreaded** — a chance to end the "trampling, crushing, elbowing" struggle for riches, cultivate the "**Art of Living**," and **preserve nature.** → *Mill turns the dismal science hopeful and reformist.*
+
+**8 · Is economic growth inherent in capitalism? Why not? What to do?**
+***Answer:*** see **[why growth is not inherent](#ex4-notinherent)**. **No** — for classical political economy growth is a **transient phase**, not a permanent feature of the market economy. **Why not:** the market can *allocate* and *generate* growth while resources are ample, but it has **no mechanism to beat the finite limits of nature**; the very success of accumulation sets off *population growth → diminishing returns → rising rent → falling profit → the stationary state.* **What to do:** *postpone* it (free trade, education), *restrain population* (Malthus), or — the only real programme — **choose the stationary state and reform distribution** so it is comfortable rather than "pinched" (**Mill**). And **[Jevons](#ex4-jevons-why)** adds the sting: you **can't** efficiency-your-way out — saving a resource per unit just makes you use **more** of it.
+
+<a id="ff-ex4"></a>
+## ★ Fun facts & memorable details
+
+> Sticky bits from Exercise Class 4 (growth · the stationary state · Mill · Jevons).
+
+- **The founders of economics were growth *pessimists*.** Every classical — even Smith — expected growth to **run out** and end in a "**dull and melancholy**" stationary state. Endless growth is a *modern* faith they didn't share.
+- **Mill wanted degrowth — in 1848.** He hoped humanity would "**be content to be stationary, long before necessity compels them to it**," and dreaded a world with "**not a spot left where a wild shrub or flower could grow.**" A Victorian environmentalist a century before the word existed.
+- **"Content to be stationary" ≠ stagnant.** Mill's twist: "a stationary condition of **capital and population** implies no stationary state of **human improvement**" — stop *getting*, start *living* (the "Art of Living").
+- **The Jevons paradox: efficiency backfires.** "**It is wholly a confusion of ideas to suppose that the economical use of fuel is equivalent to a diminished consumption. The very contrary is the truth.**" Watt's *more efficient* steam engine led to *far more* coal burned — the 1865 ancestor of every "green-growth" debate.
+- **Jevons's own blind spot.** He dismissed **electricity** as an energy source — trusting it, he said, was like believing in "**perpetual motion**" — and badly under-rated oil. The prophet of energy limits couldn't imagine the energy transition.
+- **"Brief greatness or longer mediocrity."** Jevons's grim choice for coal-burning Britain — and he effectively chose to **burn it fast.** Yet this pro-growth, pro-empire economist handed the **degrowth** movement its sharpest weapon.
+- **From "cowboy economy" to "spaceship Earth"** — Boulding's image (via Zweig) for the whole shift the classicals foresaw: from the open frontier to a finite, closed system with nowhere left to expand.
+- ***Snowpiercer* is a stationary-state parable on rails** — a closed, finite system where the elite police a fixed "ecological balance" by culling the poor. The question the film (and the class) leaves you with: *manage the hierarchy, or break the train?*
 
 ---
