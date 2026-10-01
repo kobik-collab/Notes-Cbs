@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:34:10.294Z",
+  "generatedAt": "2026-10-01T19:24:47.651Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -113,7 +113,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 14317
+        "sizeKB": 14663
       },
       "parts": [
         {
@@ -261,6 +261,12 @@
           "title": "EU IV: EU Competition Policy (AUW)",
           "pdf": "pdfs/political-science/eu-iv-eu-competition-policy-auw.pdf",
           "sizeKB": 584
+        },
+        {
+          "slug": "eu-v-european-citizenship-and-identity-auw",
+          "title": "EU V: European Citizenship and Identity (AUW)",
+          "pdf": "pdfs/political-science/eu-v-european-citizenship-and-identity-auw.pdf",
+          "sizeKB": 475
         }
       ],
       "hasFlashcards": true,

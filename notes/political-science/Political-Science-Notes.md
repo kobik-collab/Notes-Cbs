@@ -28,6 +28,7 @@
 - **[EU II: Institutions of the EU (AUW)](#eu-lecture-2)** — [where is EU authority?](#eu2-authority) · [governed by treaty (TEU/TFEU)](#eu2-treaties) · [the five bodies & their interests](#eu2-bodies) · [★ the basic architecture](#eu2-architecture) · [European Council](#eu2-europeancouncil) · [Commission](#eu2-commission) · [Council of the EU](#eu2-council) · [Parliament](#eu2-parliament) · [CJEU](#eu2-cjeu) · [advisory bodies (EESC/CoR)](#eu2-advisory) · [competences](#eu2-competences) · [conferral · subsidiarity · proportionality](#eu2-limits) · [how a law is made / ★ OLP](#eu2-olp) · [★ QMV](#eu2-qmv) · [special procedures](#eu2-special) · [subsidiarity "cards"](#eu2-cards) · [the budget](#eu2-budget) · [implementation](#eu2-implementation) · [regulations · directives · decisions](#eu2-instruments) · [positive/negative integration & Cassis](#eu2-integration) · [enforcement](#eu2-enforcement) · [why the architecture matters](#eu2-matters) · [differentiated integration](#eu2-differentiated) · [cooperation & conflict](#eu2-framing) · [★ LI vs neofunctionalism](#eu2-theories) · [★ Fun facts](#ff-eu2)
 - **[EU III: The Internal Market (AUW)](#eu-lecture-3)** — [what is the single market?](#eu3-what) · [beyond tariffs: non-tariff barriers](#eu3-barriers) · [★ the four freedoms](#eu3-freedoms) · [why integrate? economic & political logic](#eu3-why) · [★ positive vs negative integration](#eu3-posneg) · [Cassis & mutual recognition](#eu3-cassis) · [who builds it](#eu3-who) · [★ the 1992 relaunch (Cockfield · SEA)](#eu3-1992) · [★ the evolution timeline](#eu3-timeline) · [free movement of goods](#eu3-goods) · [persons & labour](#eu3-persons) · [★ services (why harder)](#eu3-services) · [★ the Services Directive (Frankenstein→vampire)](#eu3-servicesdir) · [posted workers & Laval](#eu3-posted) · [capital](#eu3-capital) · [the state as regulator](#eu3-state) · [the digital single market](#eu3-digital) · [★ LI vs neofunctionalism](#eu3-theories) · [★ Fun facts](#ff-eu3)
 - **[EU IV: EU Competition Policy (AUW)](#eu-lecture-4)** — [competition ≠ competitiveness](#eu4-what) · [why the market needs competition rules](#eu4-why) · [exclusive competence](#eu4-competence) · [★ the toolbox (6 instruments)](#eu4-toolbox) · [★ the "economic constitution" (ordoliberalism)](#eu4-constitution) · [why so supranational? DG COMP](#eu4-supranational) · [enforcement powers](#eu4-enforcement) · [cartels (Art. 101)](#eu4-cartels) · [★ the leniency programme](#eu4-leniency) · [abuse of dominance (Art. 102)](#eu4-dominance) · [merger control](#eu4-mergers) · [★ digital markets & gatekeepers](#eu4-digital) · [Google Shopping](#eu4-google) · [★ the DMA (ex-ante)](#eu4-dma) · [state aid](#eu4-stateaid) · [Fiat & Apple (tax as state aid)](#eu4-fiat) · [foreign subsidies](#eu4-foreign) · [history & political economy](#eu4-history) · [★ three theories](#eu4-theories) · [★ Fun facts](#ff-eu4)
+- **[EU V: European Citizenship and Identity (AUW)](#eu-lecture-5)** — [the core puzzle + the chain](#eu5-puzzle) · [three lenses on citizens](#eu5-lenses) · [what EU citizenship gives you](#eu5-citizenship) · [★ the democratic deficit](#eu5-deficit) · [the knowledge deficit](#eu5-knowledge) · [how citizens are represented](#eu5-representation) · [European identity: constructed, contested, changeable](#eu5-identity) · [★ multi-level identities](#eu5-multilevel) · [civic vs exclusionary Europe](#eu5-civic) · [identity ↔ integration](#eu5-twoway) · [★ permissive consensus → constraining dissensus](#eu5-dissensus) · [★ why support or oppose? four mechanisms](#eu5-mechanisms) · [hard vs soft Euroscepticism](#eu5-euroscepticism) · [★ Euroscepticism vs anti-establishment (Szczerbiak & Taggart)](#eu5-antiestablishment) · [politicization: eurozone vs Schengen](#eu5-politicization) · [★ synthesis](#eu5-synthesis) · [★ Fun facts](#ff-eu5)
 
 ---
 
@@ -3744,5 +3745,311 @@ CJEU → settles disputes over EU law
 - **Fines fund the EU.** Competition fines — **€7 bn over 2009–13** — go straight into the **EU budget.** A **€1.47 bn** single-cartel fine (TV tubes, 2012) set a record.
 - **Ireland guaranteed bank aid worth 365% of its GDP** during the crisis — the most extreme state-aid commitment in EU history.
 - **Cartels can conspire *not to innovate*.** The car-makers agreed to hold back **cleaner emissions tech** — a reminder that competition drives not just prices but progress.
+
+---
+
+<a id="eu-lecture-5"></a>
+# EU V: European Citizenship and Identity (AUW)
+
+**Required reading:** McCormick, J. (2021), *Understanding the European Union: A Concise Introduction*, ch. "The EU and its Citizens," pp. 88–109 · Szczerbiak, A. & Taggart, P. (2024), "Euroscepticism and anti-establishment parties in Europe," *Journal of European Integration* 46(8), pp. 1171–1191.
+
+**Theme of the lecture.** After four lectures on the EU's history and machinery, this one turns to its **people**: has decades of integration actually produced a **European identity** — and does it matter? The lecture runs a chain — **formal citizenship → identity → public attitudes → political consequences** — stressing that *one does not automatically lead to the next*. Along the way it tackles the **democratic deficit**, how citizens are represented, *why* individuals come to support or oppose the EU (four mechanisms), and the rise of **Euroscepticism** and the **politicization** of European integration.
+
+<div class="heart">★ <strong>The heart of the lecture:</strong> the EU's future "depends on the support of its citizens, not just its elites" — so citizen <strong>attitudes</strong> are now a real constraint on integration. But the links are loose: holding an <strong>EU passport</strong> (formal citizenship) does not make you <strong>feel</strong> European (identity), which does not determine whether you <strong>support</strong> the EU (attitudes), which in turn shapes what leaders can do (consequences). Europe has moved from a <strong>permissive consensus</strong> (leave it to the elites) to a <strong>constraining dissensus</strong> (a politically contested project). <br><strong>Red thread:</strong> what kind of political community are EU citizens citizens of — and when do citizens' identities get <em>activated</em> to reshape integration?</div>
+
+**Key concepts to apply:** *EU citizenship (rights + the Art. 20 "additional, not replacement" limit)* · *the democratic deficit · the knowledge deficit* · *federation vs confederation (the Moravcsik–Franklin debate)* · *indirect / direct / engagement channels of representation* · *second-order elections* · *identity as constructed, contested, changeable* · *nested / cross-cutting / marble-cake identities* · *civic vs exclusionary construction of Europe* · *the two-way identity ↔ integration relationship* · *permissive consensus → constraining dissensus* · *the four attitude mechanisms (utility · identity · cues · benchmarking)* · *hard vs soft Euroscepticism* · *Euroscepticism vs anti-establishment politics (Szczerbiak & Taggart's five clusters; the "fungible issue")* · *politicization of identities*.
+
+---
+
+<a id="eu5-puzzle"></a>
+## The core puzzle, and the citizenship → identity → attitudes → consequences chain
+
+***Core:*** you are a **national citizen** *and* a **European Union citizen** — but what does that actually mean, and does it tell us anything about whether you *feel* European or *support* the EU?
+
+- **The puzzle:** the EU **is not a state**, so what kind of political community are EU citizens citizens *of*? EU citizenship exists **alongside** national citizenship and grants rights tied to membership of the Union.
+- **The lecture's chain:** *formal citizenship → identity → public attitudes → political consequences.* **Main idea:** one layer does **not** automatically produce the next; there are multiple layers of interaction between them.
+- **Why this is political:** the future of integration "depends on the support of its citizens, not just its elites." **Public opinion actively constrains leaders** — so understanding citizen attitudes is essential to understanding the EU's future challenges.
+
+<a id="eu5-lenses"></a>
+#### Three theories, three ways of thinking about citizens
+
+***Core:*** the three integration theories from earlier lectures each frame the citizen differently — keep them as lenses throughout.
+
+| Lens | How it sees the citizen |
+|---|---|
+| **Liberal intergovernmentalism** | citizens → **domestic preferences** → national governments → **interstate bargaining** |
+| **Supranationalism / neofunctionalism** | **spillover**: integration creates institutions, rules and actors that develop **their own dynamics** |
+| **Constructivism** | **identity, norms and socialization shape interests** — and integration can **reshape identities** |
+
+---
+
+<a id="eu5-citizenship"></a>
+## What does EU citizenship actually give you? (more important, yet less than it seems)
+
+***Core:*** EU citizenship is a real bundle of rights, but by treaty it is an **add-on** to national citizenship, not a replacement — "both more important and yet less than it seems" (McCormick).
+
+**The rights it grants (deck):**
+- **Free movement and residence** across the Union.
+- **Vote (and stand) in European Parliament elections.**
+- **Vote in local/municipal elections where you reside** (but **not** national elections).
+- **Consular protection** from any other member state when outside the EU and your own state has no representation.
+- The right to **petition the EU institutions** (Parliament, the Ombudsman).
+
+**The limits:**
+- **Additional, not a replacement.** Maastricht created EU citizenship; the **Lisbon Treaty, Art. 20** states it "shall be additional to and not replace national citizenship." You remain a citizen of your **home state**.
+- **Social and psychological barriers** to real free movement remain — language, customs, laws, road rules, banking, local products. "There is a limit to how much common EU laws will help" an Italian settling in Estonia.
+
+#### Background: citizenship, and the "people's Europe"
+
+- **What normally distinguishes a citizen from a non-citizen** (McCormick, via Joppke): the right to **vote and run for office**, jury service, eligibility for the **armed forces**, protection from forcible removal, consular protection abroad, right of **re-entry**, recognition by other states, and a **sense of belonging**. Many ordinary rights (equality before the law, property, free speech, minimum welfare) are enjoyed by **non-citizens too** — which is why EU citizenship is thinner than it sounds.
+- It took leaders **30+ years** to attend to how ordinary Europeans related to integration. The **Adonnino Committee** (1984–85) proposed the symbols of a "**people's Europe**": the burgundy **European passport** (from 1986), the **flag** (12 gold stars on blue, borrowed from the **Council of Europe, 1955** — the number is *not* the number of members), **Europe Day** (9 May, the Schuman Declaration anniversary), and the **anthem** (the "Ode to Joy," Beethoven's Ninth).
+- The **Single European Act** eased **free movement of people** (provided one had health insurance and enough income not to be a "burden"); a **1991 directive** introduced **mutual recognition of professional qualifications** (3+ years of training).
+
+---
+
+<a id="eu5-deficit"></a>
+## ★ The democratic deficit
+
+***Core:*** the **democratic deficit** is "the gap between the actions taken by the EU institutions and the ability of ordinary Europeans to **directly influence** those actions" (McCormick).
+
+- **The deck's framing:** the **Commission (unelected)** proposes legislation and governs areas of **exclusive supranational competence**; treaty changes have often been negotiated **among elites**. *But* the EU also combines **direct and indirect** democratic channels — so the charge is contested.
+- **Evidence critics cite (McCormick):** few of the EU15 held referendums on joining; **Maastricht and Lisbon** were negotiated largely behind closed doors; the Commission faces little direct accountability; **Council and COREPER** mostly meet **in secret**; the **EP cannot raise revenue or initiate laws**; citizens have **no say over Court appointments**; and formal citizen rights are modest.
+
+#### The key move: it depends whether you treat the EU as a federation or a confederation
+
+***Core:*** McCormick's central argument — *"everything depends on how the EU is understood."*
+
+- As a **federation**, its democratic credentials would be **weak**.
+- As a **confederation**, representation is *expected* to be **indirect** (national governments answer to voters and represent them in the EU's chambers) — so its procedures are "almost everything we could expect." The irony: to satisfy critics, the EU would have to **become the federation they oppose**.
+- **The scholarly debate:** **Franklin (1996)** — the lack of accountability is a "**crisis of legitimacy**." **Moravcsik (2002)** — EU institutions are hemmed in by checks (narrow mandates, fiscal limits, super-majorities, separation of powers), so EU policy-making is "**clean, transparent, effective and politically responsive**."
+- **Useful data point:** trust in the **EU has consistently outstripped trust in national governments**; and **2018 was the first year ever** that a majority of Europeans felt their **voice counts** in the EU.
+
+<a id="eu5-knowledge"></a>
+#### The knowledge deficit
+
+***Core:*** a second, "more fundamentally troublesome" deficit — most Europeans simply **don't understand how the EU works**, which makes opinion unstable and leaves a gap "into which Eurosceptics have walked."
+
+- **Stats:** in **2004**, **55%** thought the EU was created just after WWI and **50%** did not know the EP was directly elected; by **2019**, **70%** knew the EP is elected, but **31% had never heard of the Council of the EU**.
+- **Consequence:** referendums are often decided on **other** grounds — the **2005 French** vote (≈75% admitted knowing little about the treaty; many voted on Chirac) and **Brexit 2016** (false claims; votes driven by the government of the day, the economy and immigration).
+- **Exam tip (deck):** distinguish "**I/many people dislike a decision**" from "**the decision-making process is insufficiently democratic**." Only the second is a genuine democratic-deficit claim.
+
+---
+
+<a id="eu5-representation"></a>
+## How are EU citizens represented?
+
+***Core:*** three routes, running from arm's-length to hands-on.
+
+| Channel | How it works | Bodies / tools |
+|---|---|---|
+| **Indirectly** | through your **national government** | European Council · Council of the EU |
+| **Directly** | through your **elected EU representatives** | European Parliament |
+| **Through engagement** | participation and active citizenship | referendums · EU-level interest groups · the **European Ombudsman** · the **European Citizens' Initiative (ECI)** |
+
+- **European elections** (every 5 years since 1979, by **PR**) are the one directly democratic channel — but they are **"second-order" elections** (Reif & Schmitt 1980): fought on **national** issues, used to send messages to national governments, with **low turnout** (from 63% in 1979 down to ~43% in 2009/2014, recovering to ~51% in 2019).
+- **Referendums** on EU questions have multiplied (**46 votes, 37 since 1992**; Ireland 8, Denmark 7). Two types: on **membership** and on **treaties**. Denmark was the **first to reject a treaty** (Maastricht, 1992, by 50.7%); France and the Netherlands **killed the Constitutional Treaty in 2005**. The **euro** was put to a vote only in **Denmark and Sweden — both said No** — so no euro government has dared ask.
+- **Interest groups** (e.g. **BusinessEurope**, the **ETUC**) cluster in Brussels and **help offset the deficit** by giving citizens a channel that **bypasses national governments**.
+- **European Ombudsman:** handles complaints of **maladministration** by EU bodies (except the Courts); the **Commission** draws most complaints.
+- **European Citizens' Initiative (ECI):** a Lisbon innovation — **1 million citizens from at least 7 member states** can invite the Commission to propose legislation.
+
+---
+
+<a id="eu5-identity"></a>
+## European identity: who are "we"?
+
+***Core:*** European identity is **not a fact to be measured** — it is a set of **contested ideas** about who "we" are, which values define Europe, who belongs, and where Europe ends.
+
+- In **social constructivism**, identities are **constructed, contested and changeable** — not fixed or natural.
+
+<a id="eu5-multilevel"></a>
+#### Multi-level identities: one identity does not replace another
+
+***Core:*** national and European identities **coexist**; there are three ideal-typical ways they fit together.
+
+| Type | Image | Meaning |
+|---|---|---|
+| **Nested** | Russian doll | smaller collective identities **sit inside** larger ones |
+| **Cross-cutting** | overlapping circles | different identity markers **overlap** with no single hierarchy |
+| **Blended** | marble cake | national and European identities **interact and change one another** |
+
+<a id="eu5-civic"></a>
+#### Civic vs exclusionary constructions of Europe
+
+***Core:*** "Europe" is something political actors **construct** — and they build it in opposite ways.
+
+| | **Civic construction** | **Exclusionary construction** |
+|---|---|---|
+| **Basis** | shared **civic values** | **essentialist** cultural markers |
+| **Content** | freedom, democracy, equality, human rights, rule of law | Europe as a **bounded cultural community** |
+| **Stance** | inclusive, values-based | threatened by **migration, enlargement, outside influence** |
+| **Example** | the **Lisbon Treaty preamble** ("universal values… freedom, democracy, equality and the rule of law") | the **Front National (2007)** on Turkey ("an Asian country… does not have its place in Europe") |
+
+<a id="eu5-twoway"></a>
+#### The two-way relationship: identity ↔ integration
+
+***Core:*** constructivism's key claim — causation runs **both ways**.
+
+- **Identity shapes integration:** what actors consider **desirable or legitimate** depends on socially shared identities, values and norms.
+- **Integration shapes identity:** membership, institutions, **socialization** and shared experiences change how actors understand themselves.
+
+---
+
+<a id="eu5-dissensus"></a>
+## ★ From permissive consensus to constraining dissensus
+
+***Core:*** the politics of integration has flipped — citizens used to be bystanders; now they are a brake.
+
+| | **Permissive consensus** | **Constraining dissensus** (Hooghe & Marks) |
+|---|---|---|
+| **Citizens** | "leave Europe to the elites"; largely **accepted or ignored** integration | Europe is **politically contested** |
+| **Effect on leaders** | free hand | **public opinion increasingly constrains** what leaders can do |
+
+- **The turning point was Maastricht (1992):** the **Danish No**, the UK's forced **ERM exit**, and the French "**petit oui**" put integration on the public radar and began to erode the permissive consensus (McCormick).
+
+---
+
+<a id="eu5-mechanisms"></a>
+## ★ Why does one citizen support the EU and another oppose it? Four mechanisms
+
+***Core:*** attitudes toward the EU are driven by four overlapping logics — **utility, identity, cues, benchmarking**. Learn to apply all four to a single voter.
+
+| Mechanism | The question | Core logic |
+|---|---|---|
+| **Utility** | "What's in it for me?" | weigh **costs vs benefits** of membership |
+| **Identity** | "Who are we?" | belonging, values, perceived **cultural threat** |
+| **Cues** | "What do people I trust tell me?" | **shortcuts** from parties and media |
+| **Benchmarking** | "Compared with what?" | judge the EU **against an alternative** |
+
+#### Utility — "what's in it for me?"
+- Citizens weigh **benefits** (trade, mobility, investment) against **costs** (adjustment, regulation, redistribution, perceived loss of control).
+- **Individual level:** the **"winners" of integration** (higher education, income, skills) are more supportive — the **elite–mass gap**.
+- **National level:** citizens in countries that **benefit** (through trade or redistribution) are more supportive.
+
+#### Identity — "who are we?"
+- A **strong attachment to the nation does not by itself** imply opposition to the EU.
+- But where national identity is **exclusive** (hostile to other cultures), Europe is easily framed as a **threat to "us"** → more likely to oppose the EU.
+
+#### Cues — "what do trusted actors tell me?"
+- Most citizens **do not follow EU politics closely** (information asymmetry), so **parties and media provide shortcuts**. Voters of **pro-EU parties** are more likely to be pro-EU — the cues matter even when the issue is not intrinsically important to the voter.
+
+#### Benchmarking — "compared with what?"
+- **Democratic benchmark:** citizens in **high-quality national democracies** may be **less** supportive of the EU.
+- **Contrast / scapegoat:** citizens **dissatisfied with their national government** may become **more** supportive, seeing the EU as an alternative.
+- **Economic benchmark:** citizens in **less affluent** states judge the EU on **economic** performance; those in **more affluent** states judge it on **political/democratic** criteria.
+
+- **Worked case (deck):** a young Danish voter *benefits economically* from EU mobility and thinks Denmark would struggle outside (**utility → support**), *but* identifies strongly as Danish (**identity → oppose**) and follows a Eurosceptic party (**cues → oppose**) — the mechanisms pull in **different directions**.
+
+---
+
+<a id="eu5-euroscepticism"></a>
+## Euroscepticism: opposition to what?
+
+***Core:*** Euroscepticism is **not monolithic** — it runs from wanting reform to wanting out. Taggart & Szczerbiak's classic split:
+
+| | **Hard Euroscepticism** | **Soft Euroscepticism** |
+|---|---|---|
+| **Object** | opposition to EU integration **in principle** | opposition to the **current direction / pace / extent** |
+| **Endpoint** | can mean leaving — opposition to **membership itself** | membership **still accepted** in principle |
+| **Framing** | **system** opposition | **policy** opposition |
+
+- McCormick: the term was coined in **mid-1980s Britain**; arguments vary by issue, time and country and are often "**less about hostility to integration than about immigration**." Eurosceptic parties made large gains in the **2019 EP elections**. Yet the **Spring 2019 Eurobarometer** found **59%** of Europeans wanted **more** decisions taken at EU level (only 32% opposed).
+
+<a id="eu5-antiestablishment"></a>
+## ★ Is Euroscepticism the same as anti-establishment politics? (Szczerbiak & Taggart 2024)
+
+***Core:*** **No — there is no *necessary* link.** Classifying **77 parties in 30 countries** (expert-informed, 2018–19), the authors find Euroscepticism is a **"fungible issue"** that domestic politics frames differently; **anti-establishment** must be treated as a party feature **in its own right**.
+
+- **Anti-establishment ≠ anti-system ≠ populism.** Anti-**system** (Sartori) rejects democracy itself; **anti-establishment** accepts the system but attacks the **entrenched elite**. It varies on two dimensions: **scope** (political / economic / cultural; left or right) and **action** (revolutionary → reformist → merely disruptive).
+- **The five clusters:**
+
+| Cluster | Relationship | Examples |
+|---|---|---|
+| **1. Anti-establishment, NOT Eurosceptic** | see the EU as **part of the solution** to bad national elites; mostly **CEE** ("return to Europe") | En Marche (FR) · Save Romania Union |
+| **2. Eurosceptic, NOT anti-establishment** | object to the EU **project**, not "the elite"; often **governing** parties | UK Conservative Party |
+| **3. Strong association (largest)** | domestic + EU elites seen as **entwined** — possible **"EU-isation"** | National Rally · AfD · Five Star · The League · Fidesz · Syriza · Swiss People's Party |
+| **4. Both, but little interaction** | the two run on **separate tracks**; mostly **CEE** | Law and Justice (PL) · Austrian Freedom Party · Vox |
+| **5. Anti-establishment, Euroscepticism not salient** | the EU is a **"touchstone of dissent"** (Taggart 1998) — a "**box to be ticked**," not the appeal | Sweden Democrats · Sinn Féin · Podemos |
+
+- **Central thesis:** "Euroscepticism is a very **fungible issue**, and the structures of **domestic politics** play a crucial role in framing the national reception of European integration."
+- **Take-home exercise (deck):** for the **Danish People's Party, Fidesz, Five Star, En Marche / Renaissance**, ask what each really opposes — EU integration? a specific policy? EU institutions/elites? **domestic** elites? national identity/cultural change? (often several at once).
+
+---
+
+<a id="eu5-politicization"></a>
+## ★ Politicization: crises activate identities
+
+***Core:*** a crisis does **not automatically** lower EU support. **Politicization** is the process by which **political elites (parties, movements) activate/mobilize identities**, which then feed back into political processes. It turns on three questions: **solidarity** (who should help whom?), **responsibility** (who should fix it?), and **borders & belonging** (who belongs, and who decides?).
+
+| | **Eurozone crisis** | **Schengen / migration crisis** |
+|---|---|---|
+| **Type** | economic | cultural and political |
+| **Driving question** | *how much solidarity?* | *who belongs in Europe?* |
+| **Focus** | disputes over **responsibility** and financial support | **borders and belonging** |
+| **Outcome** | Europeans **largely favoured European solutions**; **limited** "us vs them" framing | **Open Europe vs "Fortress Europe"**; **stronger mobilization of national identity** |
+
+---
+
+<a id="eu5-synthesis"></a>
+## ★ Synthesis — citizens shape integration, integration reshapes politics
+
+***Core:*** the chain runs **both ways**, and **identity is the hinge**.
+
+- **Citizens can shape integration:** domestic preferences, political constraints, electoral incentives and pressure on national governments (the **LI** lens).
+- **Integration can reshape politics:** new institutions, rights, **socialization** and new political conflicts (the **supranationalism** lens).
+- **Identity links the two:** identities shape interests, while political processes reshape identities (the **constructivism** lens). This is why the opening chain — *formal citizenship → identity → attitudes → consequences* — never runs in only one direction.
+
+### Cases & examples
+- **The young Danish voter** — the four mechanisms (utility/identity/cues/benchmarking) pull in different directions (deck).
+- **French 2005 referendum** — rejected the Constitutional Treaty; ~75% admitted knowing little, many voted on Chirac (knowledge deficit).
+- **Brexit 2016** — the first whole country to vote to leave; driven by views of the government, the economy and immigration more than the EU itself.
+- **Greenland (1982)** — the first territory to leave the Community.
+- **The symbols of a "people's Europe"** — passport, flag (12 stars), Europe Day, "Ode to Joy" (Adonnino).
+- **Lisbon preamble vs Front National (2007) on Turkey** — civic vs exclusionary constructions of Europe.
+- **Eurozone vs Schengen crises** — solidarity framing vs borders-and-belonging framing.
+- **Party cases (Szczerbiak & Taggart)** — En Marche (anti-establishment, pro-EU); UK Conservatives (Eurosceptic, not anti-establishment); Five Star / National Rally / Fidesz (both, entwined).
+
+### Key terms
+| Term | Meaning |
+|---|---|
+| EU citizenship | Rights tied to Union membership, **additional to** (not replacing) national citizenship (Lisbon Art. 20) |
+| Democratic deficit | Gap between EU actions and citizens' ability to **directly influence** them |
+| Knowledge deficit | Most citizens don't understand how the EU works, making opinion unstable |
+| Federation vs confederation | The yardstick for judging the deficit (Moravcsik: as a confederation, the EU is responsive enough) |
+| Second-order elections | EP elections fought on **national** issues, low turnout (Reif & Schmitt) |
+| European Citizens' Initiative | 1 million citizens from 7+ states can invite a Commission proposal |
+| Constructed / contested / changeable | How constructivism treats identity |
+| Nested / cross-cutting / blended | The three ideal types of multi-level identity |
+| Civic vs exclusionary Europe | Values-based vs culturally-bounded constructions of "Europe" |
+| Permissive consensus | Citizens leave integration to elites |
+| Constraining dissensus | Public opinion now limits what leaders can do (Hooghe & Marks) |
+| Utility / Identity / Cues / Benchmarking | The four mechanisms behind EU support or opposition |
+| Hard / Soft Euroscepticism | Opposition in principle (→ exit) vs opposition to the current direction |
+| Anti-establishment | Opposition to an entrenched elite; varies by **scope** and **action**; ≠ anti-system, ≠ populism |
+| Touchstone of dissent | The EU as a marker of a party's oppositional **identity**, not its appeal (Taggart) |
+| Fungible issue | Euroscepticism as malleable, framed differently across domestic contexts |
+| Politicization | Elites **activating identities** around solidarity, responsibility, borders & belonging |
+
+### Exam pointers
+- **Run the chain** *formal citizenship → identity → attitudes → consequences*, and stress that **each link is loose** (an EU passport does not make you feel or vote European).
+- **Apply the four mechanisms** (utility · identity · cues · benchmarking) to a concrete voter and show them **pulling in different directions** (the Danish-voter case).
+- **Democratic deficit:** give **one argument for and one against**, hinging on **federation vs confederation** (Franklin vs Moravcsik); and distinguish "I dislike a decision" from "the process is undemocratic."
+- **Hard vs soft Euroscepticism** with examples, and the key twist: **Euroscepticism ≠ anti-establishment** — cite Szczerbiak & Taggart's **five clusters** and the "**fungible issue**" thesis.
+- **Civic vs exclusionary** identity (Lisbon preamble vs Front National) and the **three multi-level** types.
+- **Politicization:** contrast the **eurozone** (solidarity) and **Schengen** (borders & belonging) crises, and note a crisis does **not** automatically cut EU support.
+- Keep the **three lenses** (LI · supranationalism · constructivism) ready to read citizens, identity and attitudes.
+
+<a id="ff-eu5"></a>
+## ★ Fun facts & memorable details (EU V: Citizenship & Identity)
+
+> Sticky bits from the citizenship-and-identity lecture.
+
+- **The flag's 12 stars mean nothing numerical.** The ring of **12 gold stars** was adopted from the **Council of Europe (1955)**; it stands for completeness/unity, **not** the number of member states (a common exam trap).
+- **Greenland left in 1982.** Its ~53,000 voters made it the **first territory to leave** the Community — decades before Brexit made Britain the first whole country.
+- **"It is far to Oslo, but further to Brussels."** A 1972 Norwegian slogan capturing how EU opposition can be an extension of opposition to one's own capital elite.
+- **The euro has never won a referendum.** It was put to a public vote only in **Denmark and Sweden — both said No** — so none of the 19 euro governments dared ask their citizens.
+- **2018 was a first.** For the first time ever, a **majority** of Europeans said their **voice counts** in the EU — and trust in the EU has long run **higher** than trust in national governments.
+- **In 2004, 55% thought the EU was founded just after WWI.** A vivid illustration of the **knowledge deficit** — and why Eurosceptics found an open goal.
+- **"Quintessentially anti-establishment."** Szczerbiak & Taggart's label for Italy's **Five Star Movement**; France's National Rally coined **"l'UMPS"** for the mainstream parties it accused of colluding with Brussels, and **La France Insoumise** called for a "**Sixth Republic**" to sweep away an establishment "fused with the EU elite."
+- **Ireland has voted on Europe eight times.** A constitutional duty to hold treaty referendums gives a country of ~4 million the power to stall treaties for the whole EU (as with Nice and Lisbon).
 
 ---
