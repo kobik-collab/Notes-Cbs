@@ -159,6 +159,7 @@ function renderSubject(subject, partSlug) {
   app.innerHTML = `
     <div class="reader">
       <div class="reader-left">
+        <a class="backbtn" href="#/">← Back to subjects</a>
         <div class="crumbs"><a href="#/">Subjects</a> &nbsp;›&nbsp; ${esc(subject.name)}</div>
         <div class="subject-head"><h1>${esc(subject.name)}</h1></div>
         ${listHtml}
@@ -276,6 +277,7 @@ function drawDeck() {
 
   const header = `
     <div class="fc-head">
+      <a class="backbtn" href="#/${esc(subject.slug)}/${esc(part.slug)}">← Back</a>
       <div class="crumbs">
         <a href="#/">Subjects</a> &nbsp;›&nbsp;
         <a href="#/${esc(subject.slug)}/${esc(part.slug)}">${esc(subject.name)}</a> &nbsp;›&nbsp;
@@ -380,6 +382,7 @@ function loadMermaid() {
 async function renderMap(subject, map) {
   app.innerHTML = `
     <div class="mapview">
+      <a class="backbtn" href="#/${esc(subject.slug)}">← Back</a>
       <div class="crumbs">
         <a href="#/">Subjects</a> &nbsp;›&nbsp;
         <a href="#/${esc(subject.slug)}">${esc(subject.name)}</a> &nbsp;›&nbsp;
