@@ -1,0 +1,105 @@
+{
+  "subject": "political-science",
+  "subjectName": "Political Science",
+  "lectureSlug": "eu-iv-eu-competition-policy-auw",
+  "lectureTitle": "EU IV: EU Competition Policy (AUW)",
+  "part": "Part III · The European Union as a Political System",
+  "readings": "Wilks (2014), Competition Policy: Defending the Economic Constitution, in Wallace, Pollack and Young (eds), Policy Making in the EU, 7th ed., ch. 6",
+  "cardTypes": {
+    "definition": "Define",
+    "reverse": "Name it",
+    "compare": "Compare",
+    "mechanism": "Mechanism"
+  },
+  "cards": [
+    {
+      "id": "eu4-01",
+      "type": "definition",
+      "front": "What is **EU competition policy**?",
+      "back": "Rules that keep **effective competition between firms**, stopping both firms and governments from rigging the market.",
+      "tags": ["competition-policy", "definition"],
+      "source": "Wilks ch.6"
+    },
+    {
+      "id": "eu4-02",
+      "type": "compare",
+      "front": "**Competition policy** vs **competitiveness policy**?",
+      "back": "Competition policy is a **referee** that constrains firms. Competitiveness policy is a **booster** that promotes industry.",
+      "tags": ["competition-policy", "competitiveness"],
+      "source": "Wilks ch.6"
+    },
+    {
+      "id": "eu4-03",
+      "type": "definition",
+      "front": "Why is competition policy an **exclusive competence**?",
+      "back": "Only the EU sets these rules (Art. 3 TFEU), which makes it the EU's **most supranational** policy.",
+      "tags": ["exclusive-competence", "supranational"],
+      "source": "Wilks ch.6"
+    },
+    {
+      "id": "eu4-04",
+      "type": "definition",
+      "front": "What is the **economic constitution** (Wilks)?",
+      "back": "Competition rules seen as the EU's foundational, quasi constitutional order that **guarantees a competitive market**, disciplining firms and governments.",
+      "hint": "Ordoliberalism.",
+      "tags": ["economic-constitution", "ordoliberalism", "wilks"],
+      "source": "Wilks ch.6"
+    },
+    {
+      "id": "eu4-05",
+      "type": "reverse",
+      "front": "Which treaty article bans **cartels**, and which bans **abuse of a dominant position**?",
+      "back": "**Art. 101 TFEU** bans cartels (collusion). **Art. 102 TFEU** bans abuse of dominance.",
+      "tags": ["cartels", "abuse-of-dominance", "articles"],
+      "source": "Wilks ch.6"
+    },
+    {
+      "id": "eu4-06",
+      "type": "definition",
+      "front": "What is **state aid** control?",
+      "back": "Rules stopping **governments** from selectively subsidizing firms and distorting competition (Arts. 107 to 109 TFEU).",
+      "tags": ["state-aid", "definition"],
+      "source": "Wilks ch.6"
+    },
+    {
+      "id": "eu4-07",
+      "type": "definition",
+      "front": "What is **merger control**?",
+      "back": "The Commission can **block or condition** mergers that would substantially harm competition: a one stop shop for Europe's biggest deals.",
+      "tags": ["merger-control", "definition"],
+      "source": "Wilks ch.6"
+    },
+    {
+      "id": "eu4-08",
+      "type": "mechanism",
+      "front": "How does the **leniency programme** break cartels?",
+      "back": "The **first** cartel member to confess and hand over evidence gets **immunity**, so members race to defect. This makes cartels unstable from within.",
+      "tags": ["leniency", "cartels", "mechanism"],
+      "source": "Wilks ch.6"
+    },
+    {
+      "id": "eu4-09",
+      "type": "compare",
+      "front": "**Ex post** antitrust vs **ex ante** regulation (the DMA)?",
+      "back": "Antitrust is **ex post**: investigate conduct after the fact. The **DMA** is **ex ante**: set rules in advance for gatekeepers.",
+      "tags": ["dma", "ex-ante", "ex-post"],
+      "source": "Wilks ch.6 / lecture (AUW)"
+    },
+    {
+      "id": "eu4-10",
+      "type": "reverse",
+      "front": "In the DMA, what is a **gatekeeper**?",
+      "back": "A large digital platform designated for **ex ante** obligations, because its market power is **self reinforcing**.",
+      "tags": ["gatekeeper", "dma"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu4-11",
+      "type": "compare",
+      "front": "What do the **three theories** of competition policy each look for?",
+      "back": "**Liberal intergovernmentalism**: state preferences and bargaining. **Supranationalism**: Commission expertise and spillover. **Ideas (constructivism)**: changing norms about legitimate markets.",
+      "tags": ["theories", "li", "supranationalism", "constructivism"],
+      "source": "lecture (AUW)"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "subject": "political-science",
+  "subjectName": "Political Science",
+  "lectureSlug": "eu-v-european-citizenship-and-identity-auw",
+  "lectureTitle": "EU V: European Citizenship and Identity (AUW)",
+  "part": "Part III · The European Union as a Political System",
+  "readings": "McCormick (2021), Understanding the EU, pp. 88 to 109 · Szczerbiak and Taggart (2024), Euroscepticism and anti establishment parties in Europe, JEI 46(8)",
+  "cardTypes": {
+    "definition": "Define",
+    "reverse": "Name it",
+    "compare": "Compare",
+    "mechanism": "Mechanism"
+  },
+  "cards": [
+    {
+      "id": "eu5-01",
+      "type": "definition",
+      "front": "What is **EU citizenship**?",
+      "back": "Rights tied to Union membership that are **additional to, not a replacement for**, national citizenship (Lisbon Art. 20).",
+      "tags": ["eu-citizenship", "definition"],
+      "source": "McCormick"
+    },
+    {
+      "id": "eu5-02",
+      "type": "definition",
+      "front": "What is the **democratic deficit**?",
+      "back": "The **gap** between the actions of the EU institutions and the ability of ordinary citizens to **directly influence** them.",
+      "tags": ["democratic-deficit", "definition"],
+      "source": "McCormick"
+    },
+    {
+      "id": "eu5-03",
+      "type": "definition",
+      "front": "What is the **knowledge deficit**?",
+      "back": "Most citizens **do not understand how the EU works**, which makes public opinion unstable and easy to mislead.",
+      "tags": ["knowledge-deficit", "definition"],
+      "source": "McCormick"
+    },
+    {
+      "id": "eu5-04",
+      "type": "compare",
+      "front": "**Permissive consensus** vs **constraining dissensus**?",
+      "back": "Permissive consensus: citizens leave integration to the elites. Constraining dissensus: public opinion now **limits** what leaders can do (Hooghe and Marks).",
+      "tags": ["permissive-consensus", "constraining-dissensus"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu5-05",
+      "type": "compare",
+      "front": "**Hard** vs **soft Euroscepticism**?",
+      "back": "Hard: opposition to EU integration **in principle** (toward leaving). Soft: opposition to the **current direction**, with membership still accepted.",
+      "tags": ["euroscepticism", "hard-soft"],
+      "source": "Szczerbiak and Taggart"
+    },
+    {
+      "id": "eu5-06",
+      "type": "reverse",
+      "front": "What are the **four mechanisms** that explain why a citizen supports or opposes the EU?",
+      "back": "**Utility** (what do I gain), **identity** (who are we), **cues** (what trusted actors say), **benchmarking** (compared with what).",
+      "tags": ["attitudes", "four-mechanisms"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu5-07",
+      "type": "definition",
+      "front": "How does **constructivism** treat European identity?",
+      "back": "As **constructed, contested and changeable**, not a fixed fact to be measured.",
+      "tags": ["constructivism", "identity"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu5-08",
+      "type": "compare",
+      "front": "**Civic** vs **exclusionary** construction of Europe?",
+      "back": "Civic: Europe defined by **shared values** (freedom, democracy, rule of law). Exclusionary: Europe as a **bounded cultural community** threatened by outsiders.",
+      "tags": ["civic", "exclusionary", "identity"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu5-09",
+      "type": "reverse",
+      "front": "What are the three types of **multi level identity**?",
+      "back": "**Nested** (Russian doll), **cross cutting** (overlapping markers), and **blended** (marble cake).",
+      "tags": ["multi-level-identity", "typology"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu5-10",
+      "type": "mechanism",
+      "front": "What is the **two way relationship** between identity and integration?",
+      "back": "**Identity shapes integration** (what seems legitimate) and **integration shapes identity** (through membership and socialization).",
+      "tags": ["constructivism", "identity", "integration"],
+      "source": "lecture (AUW)"
+    },
+    {
+      "id": "eu5-11",
+      "type": "reverse",
+      "front": "What is the **European Citizens' Initiative**?",
+      "back": "A channel letting **1 million citizens from at least 7 member states** invite the Commission to propose a law.",
+      "tags": ["eci", "participation"],
+      "source": "McCormick"
+    }
+  ]
+}

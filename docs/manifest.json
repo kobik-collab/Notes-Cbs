@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T19:24:47.651Z",
+  "generatedAt": "2026-10-04T13:25:25.872Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -260,13 +260,21 @@
           "slug": "eu-iv-eu-competition-policy-auw",
           "title": "EU IV: EU Competition Policy (AUW)",
           "pdf": "pdfs/political-science/eu-iv-eu-competition-policy-auw.pdf",
-          "sizeKB": 584
+          "sizeKB": 584,
+          "flashcards": {
+            "json": "flashcards/political-science/eu-iv-eu-competition-policy-auw.json",
+            "count": 11
+          }
         },
         {
           "slug": "eu-v-european-citizenship-and-identity-auw",
           "title": "EU V: European Citizenship and Identity (AUW)",
           "pdf": "pdfs/political-science/eu-v-european-citizenship-and-identity-auw.pdf",
-          "sizeKB": 475
+          "sizeKB": 475,
+          "flashcards": {
+            "json": "flashcards/political-science/eu-v-european-citizenship-and-identity-auw.json",
+            "count": 11
+          }
         }
       ],
       "hasFlashcards": true,
@@ -284,6 +292,13 @@
           "part": "Part II · International Relations",
           "order": 2,
           "mmd": "mindmaps/political-science/part-2-international-relations.mmd"
+        },
+        {
+          "slug": "part-3-european-union",
+          "title": "The European Union",
+          "part": "Part III · The European Union as a Political System",
+          "order": 3,
+          "mmd": "mindmaps/political-science/part-3-european-union.mmd"
         }
       ]
     }

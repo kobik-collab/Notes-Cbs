@@ -1,0 +1,84 @@
+%% title: The European Union
+%% part: Part III · The European Union as a Political System
+%% order: 3
+flowchart TB
+  EU["European Union: a political system that is neither an IO nor a state (sui generis)"]:::core
+  SUPRA["Supranational vs intergovernmental: the core tension"]:::concept
+  EU --> SUPRA
+
+  subgraph THEO["Why integration happens (EU I)"]
+    NF["Neofunctionalism: integration through spillover"]:::theo
+    LI["Liberal intergovernmentalism: states bargain"]:::theo
+  end
+  EU -->|explained two ways| NF
+  EU -->|explained two ways| LI
+
+  subgraph EVOL["Evolution (EU I)"]
+    DEEPEN["Deepening: more shared powers"]:::evo
+    WIDEN["Widening: more member states"]:::evo
+  end
+  EU -->|grows by| DEEPEN
+  EU -->|grows by| WIDEN
+  NF -->|spillover drives| DEEPEN
+
+  subgraph INST["Institutions (EU II)"]
+    COMM["Commission: proposes law and guards the treaties"]:::inst
+    COUNCIL["Council of the EU and European Council"]:::inst
+    EP["European Parliament: elected"]:::inst
+    CJEU["Court of Justice: interprets EU law"]:::inst
+    OLP["Ordinary Legislative Procedure and QMV"]:::inst
+    COMP["Competences: conferral, subsidiarity, proportionality"]:::inst
+    COMM --> OLP
+    EP --> OLP
+    COUNCIL --> OLP
+  end
+  EU -->|acts through| COMM
+  COMM -->|supranational| SUPRA
+  COUNCIL -->|intergovernmental| SUPRA
+
+  subgraph MARKET["Internal market (EU III)"]
+    FREE["Four freedoms: goods, persons, services, capital"]:::mkt
+    NEG["Negative integration: remove barriers"]:::mkt
+    POS["Positive integration: common rules"]:::mkt
+    CASSIS["Mutual recognition: Cassis de Dijon"]:::mkt
+    NEG --> CASSIS
+  end
+  EU -->|delivers the| FREE
+  CJEU -->|created mutual recognition in| CASSIS
+  CASSIS -->|is a form of| NEG
+
+  subgraph COMPET["Competition policy (EU IV)"]
+    COMPOL["Competition policy: keep the playing field level"]:::comp
+    ECONCON["The economic constitution (ordoliberalism)"]:::comp
+    TOOLS["Cartels, abuse of dominance, mergers, state aid"]:::comp
+    DGCOMP["DG COMP: investigator, prosecutor and judge"]:::comp
+    COMPOL --> TOOLS
+    COMPOL --> ECONCON
+    TOOLS --> DGCOMP
+  end
+  COMPOL -->|protects the| FREE
+  COMPOL -->|an exclusive competence, so highly| SUPRA
+
+  subgraph CITIZEN["Citizenship and identity (EU V)"]
+    CIT["EU citizenship: rights added to national citizenship"]:::cit
+    DEFICIT["The democratic deficit"]:::cit
+    IDENTITY["European identity: civic vs exclusionary"]:::cit
+    EUROSCEP["Euroscepticism: hard vs soft"]:::cit
+    DISSENSUS["Permissive consensus to constraining dissensus"]:::cit
+    CIT --> DEFICIT
+    IDENTITY --> EUROSCEP
+    DISSENSUS --> EUROSCEP
+  end
+  EU -->|represents| CIT
+  DEFICIT -->|citizens struggle to influence| COMM
+  EUROSCEP -->|public opinion now constrains| EU
+  DISSENSUS -->|politicizes| EU
+
+  classDef core fill:#1f4e79,color:#ffffff,stroke:#12324f;
+  classDef concept fill:#eef1f5,stroke:#5b6572,color:#1a1a1a;
+  classDef theo fill:#e8eafb,stroke:#3949ab,color:#1f2a6b;
+  classDef evo fill:#fdf0dc,stroke:#b06a00,color:#5f3a00;
+  classDef inst fill:#eaf1f8,stroke:#1f4e79,color:#12324f;
+  classDef mkt fill:#e6f4e6,stroke:#2f7d32,color:#1b4d1e;
+  classDef comp fill:#fce4ec,stroke:#c2185b,color:#6d0f34;
+  classDef cit fill:#e3f5f2,stroke:#0d7a6f,color:#08463f;
