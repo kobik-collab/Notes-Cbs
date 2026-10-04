@@ -8,11 +8,8 @@
   "cardTypes": {
     "definition": "Define",
     "reverse": "Name it",
-    "mechanism": "Mechanism",
-    "theory-match": "Match the theory",
-    "apply": "Apply it",
     "compare": "Compare",
-    "synthesis": "Big picture"
+    "mechanism": "Mechanism"
   },
   "cards": [
     {
@@ -62,624 +59,66 @@
     },
     {
       "id": "l5-06",
-      "type": "reverse",
-      "front": "Which of Pitkin's senses is a legislature that **looks like** the population it serves?",
-      "back": "**Descriptive** representation (\"standing for\"), the argument for quotas.",
-      "hint": "Standing for.",
-      "tags": ["pitkin", "descriptive", "reverse"],
+      "type": "compare",
+      "front": "Within substantive representation, contrast the **delegate** and **trustee** models.",
+      "back": "1) **Delegate:** follows instructions, mirroring constituents' expressed wishes. 2) **Trustee:** uses their own judgment of the constituents' best interests. Both are \"acting for\".",
+      "hint": "Follow the mandate vs use your own judgment.",
+      "tags": ["pitkin", "delegate", "trustee", "substantive", "compare"],
       "source": "OD ch.6"
     },
     {
       "id": "l5-07",
-      "type": "reverse",
-      "front": "Which of Pitkin's senses is a monarch or flag that people **identify with**?",
-      "back": "**Symbolic** representation.",
-      "hint": "Identify with.",
-      "tags": ["pitkin", "symbolic", "reverse"],
+      "type": "compare",
+      "front": "Contrast **proportional representation** with **majoritarian / plurality** electoral systems.",
+      "back": "1) **Proportional (PR):** seats ≈ vote share (large districts, a threshold) → **multiparty**, **few wasted votes**, more women and minorities, but coalition instability. 2) **Majoritarian / plurality:** whoever leads a single member district wins the seat → **two parties**, clear accountability, but **wasted votes** and **disproportionality**.",
+      "hint": "Seats match votes vs winner takes the seat.",
+      "tags": ["electoral-systems", "pr", "majoritarian", "plurality", "compare"],
       "source": "OD ch.6"
     },
     {
       "id": "l5-08",
-      "type": "reverse",
-      "front": "Which of Pitkin's senses is elections that **authorise and hold a representative accountable**?",
-      "back": "**Formalistic** representation.",
-      "hint": "The institutional before and after.",
-      "tags": ["pitkin", "formalistic", "reverse"],
+      "type": "definition",
+      "front": "What is **proportionality** (and its opposite, **disproportionality**) in an electoral system?",
+      "back": "**Proportionality** is how closely a party's **seat share matches its vote share**. **Disproportionality** is the gap: under plurality a party can win many seats on roughly 35% of the vote, and small spread out parties win almost none (**wasted votes**).",
+      "hint": "Seat share versus vote share.",
+      "tags": ["electoral-systems", "proportionality", "wasted-votes", "definition"],
       "source": "OD ch.6"
     },
     {
       "id": "l5-09",
       "type": "reverse",
-      "front": "Which of Pitkin's senses is an MP who **acts in your interests**?",
-      "back": "**Substantive** representation (\"acting for\").",
-      "hint": "Acting for.",
-      "tags": ["pitkin", "substantive", "reverse"],
+      "front": "Which law states that single member district plurality produces two parties while PR produces multiparty systems?",
+      "back": "**Duverger's Law**.",
+      "hint": "SMD → two, PR → many.",
+      "tags": ["duverger", "electoral-systems", "reverse"],
       "source": "OD ch.6"
     },
     {
       "id": "l5-10",
-      "type": "compare",
-      "front": "Within substantive representation, contrast the **delegate** and **trustee** models.",
-      "back": "1) **Delegate:** follows instructions, mirroring constituents' expressed wishes. 2) **Trustee:** uses their own judgment of the constituents' best interests. Both are \"acting for\".",
-      "hint": "Follow the mandate vs use your own judgment.",
-      "tags": ["pitkin", "delegate-trustee", "substantive", "compare"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-11",
-      "type": "theory-match",
-      "front": "Which Pitkin sense does **PR** most boost, and which does **SMD** emphasise?",
-      "back": "**PR** boosts **descriptive** representation (lists and quotas seat more women and minorities). **SMD** emphasises the **formalistic** local link (one district representative you can vote out).",
-      "hint": "Lists and quotas vs one local name.",
-      "tags": ["pitkin", "pr", "smd", "theory-match"],
-      "source": "OD ch.6 / lecture (FK)"
-    },
-    {
-      "id": "l5-12",
-      "type": "reverse",
-      "front": "Who argued that for most people voting is technically **irrational**?",
-      "back": "**Downs** (1957). One vote almost never decides the outcome.",
-      "hint": "1957; the seed of the collective action problem.",
-      "tags": ["participation", "downs", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-13",
-      "type": "definition",
-      "front": "Why is participation a **collective action problem**?",
-      "back": "Individuals rationally choose not to vote, yet all suffer if nobody does.",
-      "hint": "Rational to abstain, everyone loses.",
-      "tags": ["participation", "collective-action", "definition"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-14",
       "type": "mechanism",
-      "front": "If voting is individually irrational, why do people vote anyway?",
-      "back": "1) **Expressive and solidaristic** reasons. 2) Charismatic leaders. 3) To avoid the **emotional cost** of not voting (guilt, exclusion).",
-      "hint": "Expression, leaders, guilt.",
-      "tags": ["participation", "turnout", "mechanism"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-15",
-      "type": "mechanism",
-      "front": "How do institutions shape voter turnout?",
-      "back": "1) Complex systems depress turnout among the less educated. 2) **PR and mixed systems raise it** (fewer wasted votes). 3) Parties and interest groups lower the cost of finding and acting on your interests.",
-      "hint": "Complexity down, PR up, parties lower cost.",
-      "tags": ["participation", "turnout", "institutions", "mechanism"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-16",
-      "type": "definition",
-      "front": "Name the four families in the electoral system menu.",
-      "back": "1) **SMD plurality (first past the post)**. 2) **Majoritarian**. 3) **Proportional representation (PR)**. 4) **Mixed / semiproportional**.",
-      "hint": "FPTP · majoritarian · PR · mixed.",
-      "tags": ["electoral-systems", "menu", "definition"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-17",
-      "type": "reverse",
-      "front": "Which electoral system: most votes in each single member district wins, no majority needed?",
-      "back": "**SMD plurality**, also called **first past the post**.",
-      "hint": "FPTP.",
-      "tags": ["electoral-systems", "fptp", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-18",
-      "type": "mechanism",
-      "front": "What are the strengths and weaknesses of **first past the post**?",
-      "back": "**Strengths:** strong voter representative link, single party government, clear accountability. **Weaknesses:** **wasted votes**, **disproportionality** (a party can win big on ~35% pluralities), gerrymandering, fewer women and minorities.",
-      "hint": "Accountability vs wasted votes.",
-      "tags": ["electoral-systems", "fptp", "mechanism"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-19",
-      "type": "definition",
-      "front": "What is **gerrymandering**?",
-      "back": "Drawing single member district boundaries to rig outcomes, packing and cracking opponents into losing configurations.",
-      "hint": "Rigged district lines.",
-      "tags": ["fptp", "gerrymandering", "definition"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-20",
-      "type": "reverse",
-      "front": "The term \"gerrymander\" combines which governor's name with what animal shape?",
-      "back": "Governor **Elbridge Gerry** plus a **salamander** shaped Massachusetts district (1812).",
-      "hint": "Gerry plus salamander.",
-      "tags": ["gerrymandering", "history", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-21",
-      "type": "reverse",
-      "front": "Which electoral family requires the winner to clear an absolute majority (50%+1)?",
-      "back": "**Majoritarian** systems (the two round runoff or the Alternative Vote).",
-      "hint": "Needs 50%+1.",
-      "tags": ["electoral-systems", "majoritarian", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-22",
-      "type": "mechanism",
-      "front": "Walk through an **Alternative Vote** count with A 40%, B 35%, C 25%.",
-      "back": "Voters **rank** candidates 1, 2, 3. Count first preferences; nobody has 50%. **Eliminate last placed C** and transfer C's ballots to next choices (say +18%→B, +7%→A). New totals: A 47%, B 53% → **B wins**, though A led the first count.",
-      "hint": "Eliminate last, transfer, repeat until 50%.",
-      "tags": ["av", "ranked-choice", "majoritarian", "mechanism"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-23",
-      "type": "compare",
-      "front": "Contrast the **two round system** and the **Alternative Vote**.",
-      "back": "Both need 50%+1. 1) **Two round (France):** if no majority, top candidates meet in a **second election** a week or two later. 2) **Alternative Vote:** one ballot, rank candidates, eliminate the last and transfer **instantly** until one passes 50%.",
-      "hint": "Two separate elections vs one instant runoff.",
-      "tags": ["majoritarian", "two-round", "av", "france", "compare"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-24",
-      "type": "apply",
-      "front": "What did **Maine 2018** demonstrate about ranked choice voting?",
-      "back": "The first US Congress seat decided by the Alternative Vote: Golden won **50.5 to 49.5** after **trailing on the first count**, so it rewarded the broadly acceptable candidate over the biggest minority.",
-      "hint": "Golden won after trailing first.",
-      "tags": ["av", "maine-2018", "case", "apply"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-25",
-      "type": "reverse",
-      "front": "Which electoral system gives seats equal to vote share, usually with a threshold?",
-      "back": "**Proportional representation (PR)**.",
-      "hint": "Seats match vote share.",
-      "tags": ["electoral-systems", "pr", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-26",
-      "type": "mechanism",
-      "front": "What are the strengths and weaknesses of **PR**?",
-      "back": "**Strengths:** few wasted votes, **higher turnout**, far **more women and minorities** (lists and quotas). **Weaknesses:** no identifiable individual representative, **coalition instability**, small extremist parties gain outsized leverage.",
-      "hint": "Diverse representation vs coalition instability.",
-      "tags": ["electoral-systems", "pr", "mechanism"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-27",
-      "type": "compare",
-      "front": "Contrast **closed list** and **open list** PR: who sets the candidate order?",
-      "back": "1) **Closed list:** the **party** fixes the order → more party control, discipline, and easy quotas (Israel). 2) **Open list:** voters pick a **specific candidate** whose own votes decide → more voter choice but weaker, personalist parties (Brazil).",
-      "hint": "Party sets the rank vs voters set the rank.",
-      "tags": ["pr", "closed-list", "open-list", "compare"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-28",
-      "type": "reverse",
-      "front": "Which electoral family gives two ballots, a district candidate plus a party list?",
-      "back": "**Mixed / semiproportional** systems.",
-      "hint": "District ballot plus list ballot.",
-      "tags": ["electoral-systems", "mixed", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-29",
-      "type": "compare",
-      "front": "Contrast Germany's **compensatory** and Japan's **noncompensatory** mixed systems.",
-      "back": "Both give a district vote plus a list vote. 1) **Compensatory (Germany):** the list tier tops seats up to full proportionality → highly proportional, multiparty. 2) **Noncompensatory (Japan):** the tiers stay **separate** → less proportional, more majoritarian.",
-      "hint": "Top up to proportional vs keep the tiers separate.",
-      "tags": ["mixed", "compensatory", "noncompensatory", "germany", "japan", "compare"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-30",
-      "type": "apply",
-      "front": "What did Germany's **2023 electoral reform** change?",
-      "back": "It **capped the Bundestag at 630** and **scrapped overhang and compensatory seats**. Seats now follow the **list vote**, and a district win no longer guarantees a seat (*Zweitstimmendeckung*), so many now call it **\"personalised PR\"** rather than truly mixed.",
-      "hint": "Capped at 630; seats follow the list vote.",
-      "tags": ["mixed", "germany", "reform-2023", "apply"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-31",
-      "type": "reverse",
-      "front": "Which law says SMD produces two parties and PR produces multiparty systems?",
-      "back": "**Duverger's Law**.",
-      "hint": "SMD → two, PR → many.",
-      "tags": ["duverger", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-32",
-      "type": "mechanism",
-      "front": "By what two mechanisms does **SMD** push toward two parties (Duverger)?",
-      "back": "1) **Mechanical effect:** small parties win **no seats** and wither. 2) **Psychological effect:** voters stop **wasting** votes on no hopers and defect to viable ones. Under PR both pressures vanish → multiparty survives.",
+      "front": "By what two mechanisms does single member district plurality push toward two parties (Duverger)?",
+      "back": "1) **Mechanical effect:** small parties win **no seats** and wither. 2) **Psychological effect:** voters stop **wasting** votes on unviable parties and defect to the viable ones. Under PR both pressures vanish → multiparty survives.",
       "hint": "Mechanical (no seats) plus psychological (no wasted votes).",
       "tags": ["duverger", "smd", "pr", "mechanism"],
       "source": "OD ch.6"
     },
     {
-      "id": "l5-33",
-      "type": "apply",
-      "front": "India runs a national multiparty system under FPTP, and France's two bloc system collapsed in 2017. What do these show about Duverger's Law?",
-      "back": "It is **not deterministic**; it holds in **established** democracies, not new or diverse ones. 1) **India:** diversity plus federalism plus non strategic identity voting (Moser & Scheiner). 2) **France 2017:** Macron's one year old party broke a near two party system.",
-      "hint": "Established vs diverse; France's 2017 shock.",
-      "tags": ["duverger", "limits", "india", "france", "apply"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-34",
+      "id": "l5-11",
       "type": "definition",
-      "front": "Name the five functions parties perform (FK deck).",
-      "back": "1) **Mobilise** citizens. 2) **Recruit** the political elite. 3) **Simplify** choices. 4) **Organise government**. 5) **Provide opposition**.",
-      "hint": "Mobilise · recruit · simplify · govern · oppose.",
-      "tags": ["parties", "functions", "definition"],
-      "source": "OD ch.6 / lecture (FK)"
-    },
-    {
-      "id": "l5-35",
-      "type": "reverse",
-      "front": "What single feature distinguishes parties from interest groups?",
-      "back": "**Parties seek office**; interest groups only seek influence.",
-      "hint": "Office vs influence.",
-      "tags": ["parties", "interest-groups", "reverse"],
+      "front": "Name the three **party system** types by how many parties can realistically win.",
+      "back": "1) **Dominant party:** many compete freely but one wins every election. 2) **Two party:** only two can realistically win. 3) **Multiparty:** more than two can win, forcing coalitions.",
+      "hint": "Dominant · two party · multiparty.",
+      "tags": ["party-systems", "dominant", "two-party", "multiparty", "definition"],
       "source": "OD ch.6"
     },
     {
-      "id": "l5-36",
-      "type": "reverse",
-      "front": "Which party system type: many parties compete freely but one wins every election? Give a case.",
-      "back": "**Dominant party** system. Case: the **ANC** in South Africa (won all six elections after apartheid; share fell to 57.5% in 2019).",
-      "hint": "One party always wins.",
-      "tags": ["party-systems", "dominant", "anc", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-37",
-      "type": "reverse",
-      "front": "Which party system type has only two parties that can realistically win? Give a case.",
-      "back": "**Two party** system. Case: the **US** (no significant third party since the 1850s) and the UK.",
-      "hint": "Only two can win.",
-      "tags": ["party-systems", "two-party", "us", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-38",
-      "type": "reverse",
-      "front": "Which party system type has more than two parties that can win, forcing coalitions? Give a case.",
-      "back": "**Multiparty** system. Case: **Italy**.",
-      "hint": "More than two can win.",
-      "tags": ["party-systems", "multiparty", "italy", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-39",
-      "type": "apply",
-      "front": "What is the thin line between a **dominant party** system and **electoral authoritarianism**?",
-      "back": "The test is **how** the party keeps winning: genuine **popularity** (still democratic) versus **rigging the rules, using state resources, and intimidating rivals** (authoritarian).",
-      "hint": "Popularity vs rigging.",
-      "tags": ["party-systems", "dominant", "authoritarianism", "apply"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-40",
+      "id": "l5-12",
       "type": "compare",
-      "front": "Contrast the **sociological** and **institutional** explanations of party system size.",
-      "back": "1) **Sociological:** parties grow from social **cleavages**, so the number of parties mirrors the number of deep divisions. 2) **Institutional (Duverger):** the **electoral rules** shape the count (SMD → two, PR → many).",
-      "hint": "Cleavages (bottom up) vs rules (top down).",
+      "front": "Contrast the **sociological** and **institutional** explanations of how many parties a system has.",
+      "back": "1) **Sociological:** parties grow out of social **cleavages** (durable divisions such as **economic** capital versus labour and **religious**), so the party count mirrors the number of deep divisions. 2) **Institutional (Duverger):** the **electoral rules** drive the count (plurality → two, PR → many).",
+      "hint": "Cleavages bottom up vs rules top down.",
       "tags": ["party-systems", "cleavages", "sociological", "institutional", "compare"],
       "source": "OD ch.6"
-    },
-    {
-      "id": "l5-41",
-      "type": "definition",
-      "front": "Which two classic 19th century cleavages shaped European party systems?",
-      "back": "1) **Economic (capital versus labour)**: universal with industrialisation. 2) **Religious**: present in some countries only (Germany's CDU/CSU, but not all Catholic France).",
-      "hint": "Class everywhere; religion only sometimes.",
-      "tags": ["cleavages", "economic", "religious", "definition"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-42",
-      "type": "theory-match",
-      "front": "Match the mobilisation type: a party wins by offering ideas, ideology, and policy.",
-      "back": "**Programmatic** mobilisation. It thrives in established, richer democracies.",
-      "hint": "Ideas and manifestos.",
-      "tags": ["mobilisation", "programmatic", "theory-match"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-43",
-      "type": "theory-match",
-      "front": "Match the mobilisation type: a party trades material benefits for votes through local brokers.",
-      "back": "**Patronage / clientelist** mobilisation. It thrives in poorer, newer, statist economies.",
-      "hint": "Jobs, cash, favours.",
-      "tags": ["mobilisation", "clientelist", "theory-match"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-44",
-      "type": "theory-match",
-      "front": "Match the mobilisation type: a personalist leader frames \"the people\" against a \"corrupt elite\".",
-      "back": "**Populist** mobilisation. It thrives anywhere in a \"crisis of party democracy\".",
-      "hint": "Anti elite personalism.",
-      "tags": ["mobilisation", "populist", "theory-match"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-45",
-      "type": "theory-match",
-      "front": "Who argued voters mostly vote by social identity, not by weighing policy (the \"folk theory\" critique)?",
-      "back": "**Achen & Bartels**. So pure programmatic appeal is partly a myth.",
-      "hint": "Folk theory critique.",
-      "tags": ["mobilisation", "achen-bartels", "theory-match"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-46",
-      "type": "definition",
-      "front": "What are the two ideology axes parties map onto (FK / Von Beyme)?",
-      "back": "1) **Horizontal: economic Left and Right** (redistribution). 2) **Vertical: cultural GAL TAN**. A party's position is the pair of coordinates.",
-      "hint": "Economics plus culture.",
-      "tags": ["ideology", "gal-tan", "von-beyme", "definition"],
-      "source": "OD ch.6 / lecture (FK)"
-    },
-    {
-      "id": "l5-47",
-      "type": "definition",
-      "front": "What do **GAL** and **TAN** stand for?",
-      "back": "**GAL** = Green/Alternative/Libertarian (progressive, cosmopolitan). **TAN** = Traditional/Authoritarian/Nationalist.",
-      "hint": "The cultural value axis.",
-      "tags": ["ideology", "gal-tan", "definition"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-48",
-      "type": "reverse",
-      "front": "On which axis and end does today's populist far right mainly mobilise?",
-      "back": "On the cultural axis, the **TAN** end (Farage, Salvini, AfD, RN, Fidesz).",
-      "hint": "The TAN end of the second axis.",
-      "tags": ["ideology", "gal-tan", "far-right", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-49",
-      "type": "synthesis",
-      "front": "Diagnose the \"crisis of party democracy\": its symptoms and two competing explanations.",
-      "back": "**Symptoms:** only ~20% trust parties (though ~80% value democracy); falling loyalty, membership, and turnout; rising **volatility**; anti system parties. **Explanations:** **dealignment** (detach from all parties) versus **realignment** (switch allegiance); catch all parties becoming **\"cartel parties\" (Mair)** that collude at the centre.",
-      "hint": "Low trust · dealign vs realign · cartel parties.",
-      "tags": ["crisis-party-democracy", "dealignment", "mair", "synthesis"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-50",
-      "type": "compare",
-      "front": "Contrast **dealignment** and **realignment**.",
-      "back": "1) **Dealignment:** voters **detach from all parties**. 2) **Realignment:** voters **switch** their allegiance to different parties.",
-      "hint": "Detach from all vs switch.",
-      "tags": ["dealignment", "realignment", "compare"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-51",
-      "type": "reverse",
-      "front": "Who coined \"cartel parties\" for catch all parties colluding at the centre?",
-      "back": "**Mair**.",
-      "hint": "Cartel parties theorist.",
-      "tags": ["cartel-parties", "mair", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-52",
-      "type": "apply",
-      "front": "What does **The PopuList** (Rooduijn et al. 2024) show about anti establishment voting in Europe?",
-      "back": "Across 31 countries the combined anti establishment vote **roughly doubled**, from ~12% (1993) to ~31% (2022), driven mainly by **far right populists**.",
-      "hint": "Doubled to ~31%, mostly far right.",
-      "tags": ["populism", "populist-data", "apply"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-53",
-      "type": "apply",
-      "front": "Why is the **US** a partial exception to the dealignment story?",
-      "back": "Not dealignment but partisan **sorting and polarisation (Abramowitz)**, racial realignment, and Trump's **status threat** populism (**Mutz 2018**).",
-      "hint": "Sorting and status threat, not detachment.",
-      "tags": ["us", "polarisation", "abramowitz", "mutz", "apply"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-54",
-      "type": "compare",
-      "front": "Contrast **pluralism** and **neocorporatism** as interest group models.",
-      "back": "1) **Pluralism (US):** **many** competing groups around a **neutral** state; easy entry but fragmented clout. 2) **Neocorporatism (Germany, N. Europe):** a **few** hierarchical **peak associations** negotiate **binding** deals; more influence but less participatory.",
-      "hint": "Many and loose vs few and binding.",
-      "tags": ["interest-groups", "pluralism", "neocorporatism", "compare"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-55",
-      "type": "reverse",
-      "front": "Who said the pluralist heaven's chorus \"sings with a strong upper class accent\"?",
-      "back": "**Schattschneider**: who gets organised is skewed toward the well off.",
-      "hint": "Heavenly chorus jab.",
-      "tags": ["interest-groups", "pluralism", "schattschneider", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-56",
-      "type": "reverse",
-      "front": "Who argued that in pluralism **business is inherently privileged**?",
-      "back": "**Lindblom**.",
-      "hint": "Privileged position of business.",
-      "tags": ["interest-groups", "pluralism", "lindblom", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-57",
-      "type": "definition",
-      "front": "What is a **peak association**?",
-      "back": "A body uniting a whole sector to negotiate with the state (peak labour, peak industry, peak employers).",
-      "hint": "One voice per sector.",
-      "tags": ["interest-groups", "peak-association", "definition"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-58",
-      "type": "definition",
-      "front": "What is **state corporatism**?",
-      "back": "The mandated, authoritarian version of corporatism, imposed by the state rather than voluntary.",
-      "hint": "Corporatism imposed from above.",
-      "tags": ["interest-groups", "state-corporatism", "definition"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-59",
-      "type": "definition",
-      "front": "What is **social capital**?",
-      "back": "Networks plus norms of reciprocity that underpin civil society.",
-      "hint": "Networks and reciprocity.",
-      "tags": ["social-capital", "definition"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-60",
-      "type": "theory-match",
-      "front": "Match the position on civil society: civic **decline**.",
-      "back": "**Putnam**, in *Bowling Alone*.",
-      "hint": "Bowling Alone.",
-      "tags": ["social-capital", "putnam", "theory-match"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-61",
-      "type": "theory-match",
-      "front": "Match the position: mass membership bodies gave way to **managed advocacy**.",
-      "back": "**Skocpol**.",
-      "hint": "From members to managed advocacy.",
-      "tags": ["social-capital", "skocpol", "theory-match"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-62",
-      "type": "theory-match",
-      "front": "Match the position: civic activity has just **moved to new forms**.",
-      "back": "**Dalton**, in \"Kicking in Groups\" (movements, single issue groups).",
-      "hint": "Kicking in Groups.",
-      "tags": ["social-capital", "dalton", "theory-match"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-63",
-      "type": "definition",
-      "front": "State the **Powell trade off**.",
-      "back": "**Diverse representation and participation** versus **clear accountability and governability**. Every design chooses a point on this line; there is no free lunch.",
-      "hint": "Representation ⇄ accountability.",
-      "tags": ["powell", "trade-off", "definition"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-64",
-      "type": "apply",
-      "front": "Which designs sit at each end of the Powell trade off?",
-      "back": "1) **Open to diversity (PR, multiparty, pluralism):** maximise representation but blur accountability. 2) **Majoritarian (first past the post, two party):** clear accountability but wasted votes and worse representation of minorities.",
-      "hint": "PR end vs majoritarian end.",
-      "tags": ["powell", "trade-off", "apply"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-65",
-      "type": "reverse",
-      "front": "What is the chapter's most robust empirical finding about PR and women?",
-      "back": "**PR represents women far better than SMD** (Nordic 42.5% versus US House 23.4%; India adds reserved seats).",
-      "hint": "Women in legislatures.",
-      "tags": ["powell", "women", "pr", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-66",
-      "type": "mechanism",
-      "front": "How does **Iversen & Soskice** link the electoral system to redistribution?",
-      "back": "1) **PR:** the middle class allies with the poor → **bigger** welfare states. 2) **Majoritarian:** the middle allies with the rich → **smaller** welfare states. So electoral systems shape policy, not just seats.",
-      "hint": "PR → middle plus poor → bigger welfare.",
-      "tags": ["iversen-soskice", "redistribution", "welfare", "mechanism"],
-      "source": "OD ch.6 (link to Lecture 4)"
-    },
-    {
-      "id": "l5-67",
-      "type": "apply",
-      "front": "What is the empirical tell from Iversen & Soskice (1945 to 1998)?",
-      "back": "Counting years of left versus right government: under **PR the right governed only 26%** of the time; under **majoritarian, 75%**. Same democracies, opposite tilt.",
-      "hint": "26% vs 75% right government.",
-      "tags": ["iversen-soskice", "redistribution", "apply"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-68",
-      "type": "reverse",
-      "front": "Which case: UKIP won 12.6% of the vote but only 1 seat, while the SNP won fewer votes yet 56 seats?",
-      "back": "**UK** (SMD / first past the post, two party): extreme **disproportionality** and wasted votes.",
-      "hint": "FPTP disproportionality.",
-      "tags": ["cases", "uk", "fptp", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-69",
-      "type": "reverse",
-      "front": "Which case: the whole country is one district with a 3.25% threshold and held three elections in 2019?",
-      "back": "**Israel** (pure closed list PR): hyper multiparty **instability** under extreme diversity.",
-      "hint": "One district, tiny threshold.",
-      "tags": ["cases", "israel", "pr", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-70",
-      "type": "reverse",
-      "front": "Which case: open list PR with no threshold produced 30 parties by 2018?",
-      "back": "**Brazil**: weak party **fragmentation** plus populism (Rousseff impeached 2016, Bolsonaro won 2018).",
-      "hint": "Fragmentation and populism.",
-      "tags": ["cases", "brazil", "open-list", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-71",
-      "type": "reverse",
-      "front": "Which case: FPTP plus federalism, with 120 of ~600 seats reserved for lower castes and tribes?",
-      "back": "**India**: Duverger's limits in a diverse democracy plus reserved seat representation (BJP 2014: 31% of vote → 52% of seats).",
-      "hint": "Diverse federation, reserved seats.",
-      "tags": ["cases", "india", "fptp", "reverse"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-72",
-      "type": "apply",
-      "front": "Germany and Japan both run mixed systems, yet Germany is multiparty and Japan was LDP dominated. Explain.",
-      "back": "1) **Germany:** compensatory PR plus a 5% threshold tops seats to proportionality → stable multiparty (Greens 1983, AfD 2017). 2) **Japan:** noncompensatory (1994 reform, tiers kept separate) → more majoritarian; the **LDP dominated 1955 to 1993**.",
-      "hint": "Compensatory top up vs separate tiers.",
-      "tags": ["cases", "germany", "japan", "mixed", "apply"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-73",
-      "type": "apply",
-      "front": "What four questions should you run for any electoral system case?",
-      "back": "1) Which system? 2) How do votes become seats? 3) How many parties result (Duverger)? 4) Who gets left out, and what is traded off (representation versus accountability)?",
-      "hint": "System → votes to seats → party count → who is left out.",
-      "tags": ["template", "exam-move", "apply"],
-      "source": "OD ch.6"
-    },
-    {
-      "id": "l5-74",
-      "type": "synthesis",
-      "front": "Tie the lecture together: the chain from participation to representation and the two spine questions.",
-      "back": "**Chain:** electoral system → party system → interest group system decides whose interests get represented, and the **electoral system is the master lever**. **Spine questions:** 1) Why participate (a collective action problem institutions shape)? 2) Whose interests get represented (the chain)? Underneath sits the **Powell trade off**, and it all starts from **Pitkin's** question of what representation means.",
-      "hint": "Electoral → party → interest group; why participate plus who is represented.",
-      "tags": ["synthesis", "chain", "powell", "pitkin", "big-picture"],
-      "source": "OD ch.6 / lecture (FK)"
     }
   ]
 }

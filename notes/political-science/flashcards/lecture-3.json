@@ -8,498 +8,117 @@
   "cardTypes": {
     "definition": "Define",
     "reverse": "Name it",
-    "mechanism": "Mechanism",
-    "theory-match": "Match the theory",
-    "apply": "Apply it",
     "compare": "Compare",
-    "synthesis": "Big picture"
+    "mechanism": "Mechanism"
   },
   "cards": [
     {
       "id": "l3-01",
-      "type": "definition",
-      "front": "What is a **state** in comparative politics?",
-      "back": "The ongoing **administrative apparatus** that governs a territory. It is the *most enduring* of state, regime, and government.",
-      "hint": "The permanent apparatus.",
-      "tags": ["state", "od-ch3"],
+      "type": "compare",
+      "front": "Distinguish **state**, **regime**, and **government** by how enduring each is.",
+      "back": "Most to least enduring:\n1) **State** → the ongoing administrative apparatus that governs a territory\n2) **Regime** → the type of rule\n3) **Government** → the current occupants of office",
+      "hint": "Apparatus → type → occupants.",
+      "tags": ["state", "regime", "government", "od-ch3"],
       "source": "OD ch.3"
     },
     {
       "id": "l3-02",
       "type": "definition",
       "front": "What is a **regime**?",
-      "back": "The formal **and informal** institutions that define the **type** of government. More enduring than a government, less than the state.",
+      "back": "The formal **and informal** institutions that define the **type** of government, classified by its **ideology**. More enduring than a government, less than the state.",
       "hint": "The type of rule.",
-      "tags": ["regime", "od-ch3"],
+      "tags": ["regime", "ideology", "od-ch3"],
       "source": "OD ch.3"
     },
     {
       "id": "l3-03",
-      "type": "definition",
-      "front": "What is a **government**?",
-      "back": "The **current occupants** of political office. It is the *least enduring* of the three: state, regime, government.",
-      "hint": "The current officials.",
-      "tags": ["government", "od-ch3"],
+      "type": "compare",
+      "front": "What distinguishes a **citizen** from a **subject**?",
+      "back": "A **citizen** has **rights and duties** and belongs to a self governing political community. A **subject** has **duties (obedience) only**, with no mechanism to protect any rights.",
+      "hint": "Rights and duties vs duties only.",
+      "tags": ["citizen", "subject", "od-ch3"],
       "source": "OD ch.3"
     },
     {
       "id": "l3-04",
-      "type": "compare",
-      "front": "Rank **state**, **regime**, and **government** from most to least enduring, with an example.",
-      "back": "Most to least enduring:\n1) **State** (the apparatus)\n2) **Regime** (the type of rule)\n3) **Government** (the current officials)\n\n*Example:* the US has had **46 administrations but one democratic regime** since 1789; Nigeria has had **8 regimes**.",
-      "hint": "Apparatus → type → occupants.",
-      "tags": ["state", "regime", "government", "od-ch3"],
-      "source": "OD ch.3 / lecture (FK)"
-    },
-    {
-      "id": "l3-05",
-      "type": "definition",
-      "front": "What is a **citizen**?",
-      "back": "A member of the political community who has **rights and duties** (unlike a subject, who has duties only).",
-      "hint": "Rights and duties.",
-      "tags": ["citizen", "od-ch3"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-06",
-      "type": "definition",
-      "front": "What is a **subject**?",
-      "back": "A person who has **duties (obedience) only**, with no mechanism to protect any rights. Europeans were subjects of absolutist monarchs.",
-      "hint": "Duties only.",
-      "tags": ["subject", "od-ch3"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-07",
-      "type": "mechanism",
-      "front": "What historical shift turned **subjects** into **citizens**?",
-      "back": "**Sovereignty moved from the monarch to \"the people.\"** After the **French Revolution** people addressed each other as *\"citizen,\"* replacing obedience to an absolutist king with membership carrying rights.",
-      "hint": "Sovereignty moves to the people.",
-      "tags": ["citizen", "subject", "popular-sovereignty", "od-ch3"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-08",
-      "type": "reverse",
-      "front": "Name the concept: **organised, nongovernmental, nonviolent activity by groups larger than families or firms.**",
-      "back": "**Civil society.** It was enabled by religious pluralism and capitalism, and is impossible under absolutism.",
-      "hint": "Bigger than the family, smaller than the state.",
-      "tags": ["civil-society", "od-ch3"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-09",
       "type": "definition",
       "front": "What is **popular sovereignty**?",
-      "back": "The idea that authority comes from the people. Even dictators claim to rule *on behalf of* the people; theocracy claims God willed the exception.",
+      "back": "The idea that ultimate authority comes from **the people**. Even dictators claim to rule *on behalf of* the people; theocracy is the exception, claiming authority comes from **God**.",
       "hint": "Authority flows from the people.",
       "tags": ["popular-sovereignty", "od-ch3"],
       "source": "OD ch.3"
     },
     {
-      "id": "l3-10",
+      "id": "l3-05",
       "type": "definition",
-      "front": "In Marshall's scheme, what are **civil rights**?",
-      "back": "**Individual freedom and fair treatment.** The first of Marshall's three rights of citizenship.",
-      "hint": "Freedom and fair treatment.",
-      "tags": ["marshall", "civil-rights", "od-ch3"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-11",
-      "type": "definition",
-      "front": "In Marshall's scheme, what are **political rights**?",
-      "back": "**Participation and the vote.** The second of Marshall's three rights of citizenship.",
-      "hint": "Participation and the vote.",
-      "tags": ["marshall", "political-rights", "od-ch3"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-12",
-      "type": "definition",
-      "front": "In Marshall's scheme, what are **social rights**?",
-      "back": "**Welfare and socioeconomic equality.** The third of Marshall's three rights of citizenship.",
-      "hint": "Welfare and equality.",
-      "tags": ["marshall", "social-rights", "od-ch3"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-13",
-      "type": "definition",
-      "front": "According to Marshall, what does **\"full\" citizenship** require?",
-      "back": "*Enough* **social** equality to make civil and political equality real. Virtually no country fully provides all three rights.",
-      "hint": "Social equality makes the rest real.",
-      "tags": ["marshall", "citizenship-rights", "od-ch3"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-14",
-      "type": "mechanism",
-      "front": "What test separates each rung of the **V Dem \"Regimes of the World\" ladder**?",
-      "back": "Climb by adding one thing at each step:\n1) **Closed autocracy** → add multiparty elections\n2) **Electoral autocracy** → make elections free and fair\n3) **Electoral democracy** → add rights, legal equality, checks on the executive\n4) **Liberal democracy**",
-      "hint": "Elections? → free and fair? → rights and checks?",
-      "tags": ["v-dem", "regimes-of-the-world", "ladder", "measure"],
-      "source": "lecture (FK) / Lührmann et al. 2018"
-    },
-    {
-      "id": "l3-15",
-      "type": "reverse",
-      "front": "Which V Dem rung has **no multiparty elections at all**?",
-      "back": "**Closed autocracy.** The bottom rung of the Regimes of the World ladder.",
-      "hint": "No elections.",
-      "tags": ["v-dem", "closed-autocracy", "ladder"],
-      "source": "lecture (FK) / Lührmann et al. 2018"
-    },
-    {
-      "id": "l3-16",
-      "type": "reverse",
-      "front": "Which V Dem rung holds **multiparty elections that are not free and fair**?",
-      "back": "**Electoral autocracy.** It sits above closed autocracy and below electoral democracy. Classic case: **Mexico under the PRI**.",
-      "hint": "Elections yes, fairness no.",
-      "tags": ["v-dem", "electoral-autocracy", "ladder"],
-      "source": "lecture (FK) / Lührmann et al. 2018"
-    },
-    {
-      "id": "l3-17",
-      "type": "reverse",
-      "front": "Which V Dem rung has **free and fair elections but only partial rights and checks**?",
-      "back": "**Electoral democracy.** One rung below liberal democracy, which adds full rights, legal equality, and checks on the executive.",
-      "hint": "Fair elections, partial rights.",
-      "tags": ["v-dem", "electoral-democracy", "ladder"],
-      "source": "lecture (FK) / Lührmann et al. 2018"
-    },
-    {
-      "id": "l3-18",
-      "type": "reverse",
-      "front": "Which V Dem rung adds **rights, legal equality, and checks on the executive** to free and fair elections?",
-      "back": "**Liberal democracy.** The top rung of the Regimes of the World ladder.",
-      "hint": "The top rung.",
-      "tags": ["v-dem", "liberal-democracy", "ladder"],
-      "source": "lecture (FK) / Lührmann et al. 2018"
-    },
-    {
-      "id": "l3-19",
-      "type": "synthesis",
-      "front": "What single question orders **every** regime type in the chapter?",
-      "back": "**\"How is power shared between citizens and the state?\"**\n\n**Liberal democracy** shares it widely (limited government plus Marshall's rights) and is the **benchmark**. Every other regime tilts power toward the state and restricts full citizenship to a select group. For each type ask: *who has power, and what rights do citizens get?*",
-      "hint": "One axis: citizens vs the state.",
-      "tags": ["red-thread", "power-sharing", "synthesis"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-20",
-      "type": "definition",
-      "front": "What is **liberal democracy**?",
+      "front": "What is a **liberal democracy**?",
       "back": "**Democracy (rule by the people) plus liberalism (individual rights):** a *limited* state that protects rights and holds free, competitive elections.",
       "hint": "Democracy plus liberalism.",
       "tags": ["liberal-democracy", "od-ch3"],
       "source": "OD ch.3"
     },
     {
-      "id": "l3-21",
-      "type": "synthesis",
-      "front": "What are **Dahl's 8 guarantees** of liberal democracy?",
-      "back": "Freedom of **association** · freedom of **expression** · right to **vote** · broad **office eligibility** · leaders' right to **compete** · alternative **information** · **free and fair elections** · institutions making policy **depend on votes**.",
+      "id": "l3-06",
+      "type": "reverse",
+      "front": "Which eight guarantees form **Dahl's working definition** of liberal democracy (polyarchy)?",
+      "back": "Freedom of **association** · freedom of **expression** · right to **vote** · broad **office eligibility** · leaders' right to **compete** · alternative **information** · **free and fair elections** · institutions that make policy **depend on votes**.",
       "hint": "The eight part working definition.",
-      "tags": ["dahl", "8-guarantees", "liberal-democracy"],
+      "tags": ["dahl", "polyarchy", "8-guarantees", "liberal-democracy"],
       "source": "OD ch.3"
     },
     {
-      "id": "l3-22",
+      "id": "l3-07",
       "type": "compare",
-      "front": "Distinguish the **three varieties of democracy**, with a country for each.",
-      "back": "**Liberal** → political rights (**UK**).\n**Social democracy** → adds economic regulation and social rights (**Sweden**); a variant *within* liberal democracy.\n**Participatory** → direct involvement beyond voting (**Switzerland**).",
-      "hint": "Rights → social rights → direct participation.",
-      "tags": ["varieties-of-democracy", "liberal", "social", "participatory"],
+      "front": "Contrast **democracy**, **authoritarianism**, and **totalitarianism** by how power is shared.",
+      "back": "**Democracy** shares power widely: broad rights, competitive elections, a limited state.\n**Authoritarianism** concentrates power in a party, leader, or elite while tolerating some private and civil life.\n**Totalitarianism** seeks **total control** of society and **eliminates civil society** altogether.",
+      "hint": "Widely shared → concentrated → total.",
+      "tags": ["democracy", "authoritarianism", "totalitarianism", "od-ch3"],
       "source": "OD ch.3"
     },
     {
-      "id": "l3-23",
-      "type": "theory-match",
-      "front": "Which theory says **free individuals contract to be governed, and government is legitimate only while it preserves their natural rights**?",
-      "back": "**Social contract theory.** Key thinkers: **Hobbes, Locke, Montesquieu, Rousseau.** It is the intellectual root of liberalism.",
-      "hint": "Hobbes, Locke, Montesquieu, Rousseau.",
-      "tags": ["social-contract", "liberalism", "od-ch3"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-24",
+      "id": "l3-08",
       "type": "definition",
-      "front": "Which **three rights** did Locke say a legitimate government must preserve?",
-      "back": "**Life, liberty, and property.** Jefferson reworded this as *\"life, liberty and the pursuit of happiness.\"*",
-      "hint": "Life, liberty, property.",
-      "tags": ["locke", "natural-rights", "liberalism"],
+      "front": "What is a **totalitarian state**?",
+      "back": "A state that controls **nearly all of society** and **eliminates civil society**. It is the practical endpoint of both communism and fascism.",
+      "hint": "Total control, no civil society.",
+      "tags": ["totalitarian-state", "communism", "fascism", "od-ch3"],
       "source": "OD ch.3"
     },
     {
-      "id": "l3-25",
-      "type": "synthesis",
-      "front": "List the **seven ideology based regime types** and who holds power in each.",
+      "id": "l3-09",
+      "type": "reverse",
+      "front": "Name the **seven ideology based regime types** and who holds power in each.",
       "back": "1) **Liberal democracy** → the elected **legislature**\n2) **Communism** → the **vanguard party**\n3) **Fascism** → a **supreme leader**\n4) **Modernizing authoritarianism** → a **modern educated elite**\n5) **Personalist** → an **individual ruler**\n6) **Electoral authoritarianism** → the **ruling party**\n7) **Theocracy** → **God** via the clergy",
       "hint": "Legislature, party, leader, elite, ruler, ruling party, God.",
-      "tags": ["taxonomy", "seven-types", "exam-core"],
+      "tags": ["taxonomy", "seven-types", "od-ch3"],
       "source": "OD ch.3"
     },
     {
-      "id": "l3-26",
-      "type": "theory-match",
-      "front": "Which regime rests on **Marx's historical materialism**, with a vanguard party ruling toward a classless, stateless society?",
-      "back": "**Communism.** Economic forces drive history through *feudalism → capitalism → socialism → communism*; a **vanguard party** rules meanwhile.",
-      "hint": "Historical materialism.",
-      "tags": ["communism", "marx", "historical-materialism"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-27",
+      "id": "l3-10",
       "type": "definition",
-      "front": "What is **historical materialism**?",
-      "back": "The Marxist idea that **material and economic forces drive history**, pushing societies through stages toward communism.",
-      "hint": "Economics drives history.",
-      "tags": ["historical-materialism", "marx", "communism"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-28",
-      "type": "definition",
-      "front": "In Marxism, what is the **dictatorship of the proletariat**?",
-      "back": "The **socialism** stage: collective ownership plus rule by the working **class**, which precedes stateless, classless **communism**.",
-      "hint": "The socialism stage.",
-      "tags": ["dictatorship-of-the-proletariat", "communism", "marx"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-29",
-      "type": "reverse",
-      "front": "Name Lenin's concept: an **elite party that leads the proletariat** toward revolution.",
-      "back": "**The vanguard party.** In communist practice it, not the workers, actually holds power.",
-      "hint": "Lenin's elite party.",
-      "tags": ["vanguard-party", "lenin", "communism"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-30",
-      "type": "theory-match",
-      "front": "Which regime is **antiliberal and anticommunist**, holds society is organic, and says the **state creates the nation**?",
-      "back": "**Fascism.** A **supreme leader** embodies the nation; the individual exists only for the state, so citizens have **duties, not rights**.",
-      "hint": "The state makes the nation.",
-      "tags": ["fascism", "organic-society", "supreme-leader"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-31",
-      "type": "definition",
-      "front": "What is **corporatism**?",
-      "back": "**One state controlled organisation per social sector** (one union, one business association). A hallmark of fascism.",
-      "hint": "One organisation per sector.",
-      "tags": ["corporatism", "fascism", "od-ch3"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-32",
-      "type": "theory-match",
-      "front": "Which regime claims legitimacy from **development, not rights**, saying a modern elite must guide progress?",
-      "back": "**Modernizing authoritarianism.** Its **technocratic legitimacy** rests on **modernization theory**: democracy would only interfere with development.",
-      "hint": "Development before rights.",
-      "tags": ["modernizing-authoritarianism", "technocratic-legitimacy", "modernization-theory"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-33",
-      "type": "reverse",
-      "front": "What are the **four institutional forms** of modernizing authoritarianism?",
-      "back": "1) **one party** (civilian; **Tanzania**)\n2) **military** (coup; **Brazil**)\n3) **bureaucratic authoritarian**\n4) **personalist**",
-      "hint": "Party, military, bureaucratic, personal.",
-      "tags": ["modernizing-authoritarianism", "four-forms", "od-ch3"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-34",
-      "type": "definition",
-      "front": "What is **technocratic legitimacy**?",
-      "back": "The right to rule based on **expertise**. It underpins modernizing authoritarianism.",
-      "hint": "Rule by expertise.",
-      "tags": ["technocratic-legitimacy", "modernizing-authoritarianism"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-35",
-      "type": "theory-match",
-      "front": "Which regime forms in the **weakest states**, where one leader captures everything, even the party or military that raised him?",
-      "back": "**Personalist regime.** It runs on **neopatrimonial** loyalty rather than institutions: weak, unstable, unpredictable. Common in Africa (Mobutu, Marcos, Abacha).",
-      "hint": "One man captures the state.",
-      "tags": ["personalist", "neopatrimonial", "weak-states"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-36",
-      "type": "definition",
-      "front": "What is **neopatrimonialism**?",
-      "back": "Rule through **personal patron and client loyalty** rather than through institutions. It is the mechanism of personalist regimes.",
-      "hint": "Loyalty, not institutions.",
-      "tags": ["neopatrimonial", "personalist", "od-ch3"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-37",
-      "type": "theory-match",
-      "front": "Which regime holds **real elections but rigs the rules so the ruling party never loses**, while calling itself democratic?",
-      "back": "**Electoral authoritarianism**, a **hybrid**. It blends democratic (elections) and modernizing authoritarian legitimacy behind a democratic veneer.",
+      "front": "What is **electoral (competitive) authoritarianism**?",
+      "back": "A **hybrid** regime that holds **real elections but rigs the rules so the ruling party never loses**, while proclaiming itself democratic. It blends democratic and authoritarian sources of legitimacy.",
       "hint": "A democratic shell over a rigged game.",
-      "tags": ["electoral-authoritarianism", "hybrid-regime"],
+      "tags": ["electoral-authoritarianism", "hybrid-regime", "od-ch3"],
       "source": "OD ch.3"
     },
     {
-      "id": "l3-38",
-      "type": "mechanism",
-      "front": "Why did **electoral authoritarianism** spread after the Cold War?",
-      "back": "Open authoritarianism **lost international legitimacy** after the Cold War, so autocrats adopted a **democratic veneer**: real elections that they rig, letting them claim democratic credentials while keeping power (see Mexico's PRI).",
-      "hint": "Open dictatorship lost legitimacy.",
-      "tags": ["electoral-authoritarianism", "cold-war", "hybrid-regime"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-39",
-      "type": "theory-match",
-      "front": "Which regime is **ruled by religious authorities on behalf of God**, so sovereignty belongs to God, not the people?",
-      "back": "**Theocracy.** Its modern ideology is **Islamism**: sharia as the basis of government. **Iran** is the world's only true theocracy.",
+      "id": "l3-11",
+      "type": "definition",
+      "front": "What is a **theocracy**?",
+      "back": "A regime **ruled by religious authorities on behalf of God**, so ultimate sovereignty belongs to **God, not the people**. Its modern ideology is **Islamism**: sharia as the basis of government.",
       "hint": "God is sovereign.",
       "tags": ["theocracy", "islamism", "od-ch3"],
       "source": "OD ch.3"
     },
     {
-      "id": "l3-40",
-      "type": "definition",
-      "front": "What is **Islamism**?",
-      "back": "A 19th and 20th century **reaction to Western imperialism** (not traditional) holding that **sharia** should be the basis of government.",
-      "hint": "A modern reaction, not tradition.",
-      "tags": ["islamism", "sharia", "theocracy"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-41",
-      "type": "synthesis",
-      "front": "Define the key **Islamist terms**: sharia, ijtihad vs taqlid, shura, umma, jihad.",
-      "back": "**Sharia** = religious law.\n**Ijtihad** = individual interpretation vs **taqlid** = blind acceptance.\n**Shura** = consultation (the opening for quasi democracy).\n**Umma** = the community of the faithful.\n**Jihad** = struggle.",
-      "hint": "Law, interpretation, consultation, community, struggle.",
-      "tags": ["islamism", "sharia", "shura", "umma", "jihad"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-42",
-      "type": "reverse",
-      "front": "What are the **three kinds of jihad**, from most to least important?",
-      "back": "1) inner struggle (most important)\n2) righting injustice in the umma\n3) armed defence (least important)",
-      "hint": "Inner struggle ranks first.",
-      "tags": ["jihad", "islamism", "theocracy"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-43",
-      "type": "definition",
-      "front": "What is a **totalitarian state**?",
-      "back": "A state that controls **nearly all of society** and **eliminates civil society**. The practical endpoint of both communism and fascism.",
-      "hint": "Total control, no civil society.",
-      "tags": ["totalitarian-state", "communism", "fascism"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-44",
-      "type": "reverse",
-      "front": "Match each ruler to a regime: (a) educated modern elite; (b) vanguard party; (c) supreme leader; (d) clergy acting for God.",
-      "back": "(a) **Modernizing authoritarianism**\n(b) **Communism**\n(c) **Fascism**\n(d) **Theocracy**",
-      "hint": "Elite, party, leader, clergy.",
-      "tags": ["taxonomy", "who-has-power", "reverse"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-45",
-      "type": "apply",
-      "front": "Which country is the **first liberal democracy**, evolving gradually with no single written constitution?",
-      "back": "**United Kingdom**, the *\"cradle of democracy.\"* It grew through **Magna Carta (1215)** → **Glorious Revolution (1688)** → **Bill of Rights (1689)**. Power rests on **parliamentary sovereignty** (a strong *informal* institution) plus the slow buildup of all three Marshall rights (franchise 1832; women 1918; devolution 1997; Supreme Court 2005).",
-      "hint": "Gradual, unwritten, Parliament supreme.",
-      "tags": ["uk", "liberal-democracy", "parliamentary-sovereignty", "case"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-46",
-      "type": "apply",
-      "front": "Which case shows **communism in practice becoming a totalitarian state**, diverging from Marx's theory?",
-      "back": "**Russia/USSR**, the first *\"communist\"* regime. Revolution came in the \"wrong country\" (agrarian). **Lenin** added the vanguard party (**October 1917**); **Stalin** built a totalitarian state (**2 to 20 million deaths**); **Gorbachev's** reforms ended it (**December 1991**). Chain: **Marx → Lenin → Stalin**. Russia is now electoral authoritarian.",
-      "hint": "Marx → Lenin → Stalin.",
-      "tags": ["russia", "ussr", "communism", "totalitarian-state", "case"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-47",
-      "type": "apply",
-      "front": "Which case shows a **fascist leader elected rather than seizing power by coup**?",
-      "back": "**Germany, the rise of the Nazis.** Hitler's party won **37% (1932)** amid depression; the **Reichstag fire (1933)** led to the Enabling Act and dictatorship. Nazism fused fascism with **racism** → the **Holocaust (~6 million Jews)**, which delegitimised fascism globally, though **neofascism** persists (Le Pen).",
-      "hint": "Elected, then Reichstag fire.",
-      "tags": ["germany", "nazism", "fascism", "case"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-48",
-      "type": "apply",
-      "front": "Which case is **military modernizing authoritarianism** whose legitimacy rested on development?",
-      "back": "**Brazil (1964 to 1985).** A US backed coup installed a **technocratic military** staking legitimacy on the **\"Brazilian Miracle\"** and anticommunism. When growth stalled, civil society revived and **democracy was restored in 1985**. Lesson: no growth means no legitimacy.",
-      "hint": "Military; the Brazilian Miracle.",
-      "tags": ["brazil", "modernizing-authoritarianism", "military", "case"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-49",
-      "type": "apply",
-      "front": "Which case is **civilian one party modernizing authoritarianism** under Africa's \"philosopher king\"?",
-      "back": "**Tanzania under Julius Nyerere.** He justified a **one party** state by claiming Africa lacked class divisions. His *ujamaa* socialism ruined agriculture but achieved **near universal literacy**; he **voluntarily resigned (1985)**. It shows the development versus democracy tradeoff.",
-      "hint": "Nyerere; ujamaa; one party.",
-      "tags": ["tanzania", "modernizing-authoritarianism", "one-party", "case"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-50",
-      "type": "apply",
-      "front": "Which case is a **personalist regime** where a general looted the state through oil patronage?",
-      "back": "**Nigeria under General Abacha (1993 to 1998).** After the military annulled the **1993 election**, Abacha seized power, gutted the courts, hanged the poet **Ken Saro Wiwa**, and looted **~$3 billion** via **neopatrimonial** oil patronage. His sudden **1998 death** opened the way to democracy since **1999**.",
-      "hint": "One general, oil money, ~$3bn.",
-      "tags": ["nigeria", "abacha", "personalist", "neopatrimonial", "case"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-51",
-      "type": "apply",
-      "front": "Which case is the **classic electoral authoritarian regime**, a party that ruled about 71 years via rigged elections?",
-      "back": "**Mexico under the PRI.** It ruled about **71 years** through regular but **rigged elections**, a democratic veneer over **clientelism, corporatism, and fraud** (Tlatelolco Massacre 1968); presidents were limited to one **sexenio**. **Vicente Fox (PAN) broke the monopoly in 2000**.",
-      "hint": "71 years, rigged, broken in 2000.",
-      "tags": ["mexico", "pri", "electoral-authoritarianism", "case"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-52",
-      "type": "apply",
-      "front": "Which case built the **first modern theocracy** with a cleric Supreme Leader above elected bodies?",
-      "back": "**Iran, the Islamic Republic** (Khomeini's **1979 revolution**). A cleric **Supreme Leader** plus a **Guardian Council (12 clergy)** vet all candidates and laws, sitting *above* an elected president and parliament (**Majlis**). The **1979 constitution** makes **Allah sovereign** and sharia the sole law.",
-      "hint": "Supreme Leader plus Guardian Council.",
-      "tags": ["iran", "theocracy", "guardian-council", "case"],
-      "source": "OD ch.3"
-    },
-    {
-      "id": "l3-53",
+      "id": "l3-12",
       "type": "mechanism",
-      "front": "How does the **Interests / Beliefs / Structures** lens explain **regime change**?",
-      "back": "**Interests** → elites expand or restrict democracy to maximise power (democratise post 1990 for aid; **backslide** when threatened).\n**Beliefs** → democratic ideals spread in the 19th and 20th centuries; fascism and communism caused reversals; recent **populism** erodes liberal values.\n**Structures** → industrialisation enabled democracy; Cold War blocs sustained autocracy; globalisation and inequality now strain it.",
-      "hint": "The I/B/S lens applied to change.",
-      "tags": ["regime-change", "interests-beliefs-structures", "backsliding"],
-      "source": "lecture (FK)"
-    },
-    {
-      "id": "l3-54",
-      "type": "synthesis",
-      "front": "Why do regimes rarely work exactly as their **ideology** claims?",
-      "back": "**No regime matches its ideology perfectly.** Regimes routinely **diverge**, and **informal institutions** (patronage, factions, clientelism, parliamentary sovereignty) often explain how they really work, especially in weak states. Even so, about **90% of constitutions mention \"democracy\"** (Elkins et al. 2014): liberal democracy is the benchmark everyone answers to.",
-      "hint": "Ideology on paper vs informal reality.",
-      "tags": ["ideology", "informal-institutions", "benchmark", "synthesis"],
-      "source": "OD ch.3"
+      "front": "What test separates each rung of the **V Dem \"Regimes of the World\" ladder**?",
+      "back": "Climb by adding one thing at each step:\n1) **Closed autocracy** → add multiparty elections\n2) **Electoral autocracy** → make elections free and fair\n3) **Electoral democracy** → add rights, legal equality, checks on the executive\n4) **Liberal democracy**",
+      "hint": "Elections? → free and fair? → rights and checks?",
+      "tags": ["v-dem", "regimes-of-the-world", "ladder", "measure"],
+      "source": "lecture (FK) / Lührmann et al. 2018"
     }
   ]
 }

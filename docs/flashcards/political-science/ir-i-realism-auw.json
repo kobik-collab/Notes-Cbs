@@ -4,25 +4,22 @@
   "lectureSlug": "ir-i-realism-auw",
   "lectureTitle": "IR I: Realism (AUW)",
   "part": "Part II · International Relations",
-  "readings": "PG ch. 1 (The Globalization of International Relations) + ch. 2 (Realist Theories) · Goldstein & Pevehouse",
+  "readings": "PG ch. 1 (The Globalization of International Relations) + ch. 2 (Realist Theories) · Goldstein and Pevehouse",
   "cardTypes": {
     "definition": "Define",
     "reverse": "Name it",
-    "mechanism": "Mechanism",
-    "theory-match": "Match the theory",
-    "apply": "Apply it",
     "compare": "Compare",
-    "synthesis": "Big picture"
+    "mechanism": "Mechanism"
   },
   "cards": [
     {
       "id": "iri-01",
       "type": "definition",
-      "front": "What is **international relations (IR)**?",
-      "back": "**IR** = the relationships among the world's governments, tangled up with other actors, other relationships (economics, culture), and history and geography.",
-      "hint": "Relationships among the world's governments.",
+      "front": "What is **anarchy** in IR?",
+      "back": "The lack of a central authority that can enforce rules above states: *no world police*. Not chaos, since strong **norms** (respect borders, an embassy counts as home soil) keep the system orderly.",
+      "hint": "No world police, not chaos.",
       "tags": [
-        "ir",
+        "anarchy",
         "definition",
         "pg-ch1"
       ],
@@ -31,356 +28,21 @@
     {
       "id": "iri-02",
       "type": "definition",
-      "front": "Why does the IR field need **theories**?",
-      "back": "Because **facts don't explain themselves**. A theory turns *what happened* into *why*, like a pair of glasses that highlights certain causes.",
-      "hint": "Facts don't explain themselves.",
+      "front": "What is **self help** in realism?",
+      "back": "Because no authority guarantees survival under anarchy, each state must provide its **own security**, by building its own capabilities (internal) or forming alliances (external).",
+      "hint": "Provide your own security.",
       "tags": [
-        "theory",
-        "pg-ch1"
+        "self-help",
+        "anarchy",
+        "pg-ch2"
       ],
-      "source": "PG ch.1"
+      "source": "PG ch.2"
     },
     {
       "id": "iri-03",
-      "type": "definition",
-      "front": "What are the two big halves of the IR field?",
-      "back": "**International security** (war and peace) and **international political economy (IPE)** (trade, money, relations between rich and poor states).",
-      "hint": "Security and IPE.",
-      "tags": [
-        "ir",
-        "ipe",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-04",
-      "type": "definition",
-      "front": "What is the **collective goods problem**?",
-      "back": "How can a group serve its **collective interest** when each member is tempted to put its **own** interest first and **free ride** on others' contributions?",
-      "hint": "The group project problem.",
-      "tags": [
-        "collective-goods",
-        "free-riding",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-05",
-      "type": "definition",
-      "front": "Why is the collective goods problem harder internationally than inside a country?",
-      "back": "Inside a country a **government** forces contributions (taxes). Internationally there is **no world government**, so nothing compels states to pay and free riding is easier.",
-      "hint": "No world government to force contributions.",
-      "tags": [
-        "collective-goods",
-        "anarchy",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-06",
-      "type": "theory-match",
-      "front": "Which collective goods solution says *someone is the boss, obey those above you*?",
-      "back": "**Dominance**: a **power hierarchy** imposes order top down (a government without a government). Upside: order and stability. Downside: oppression and resentment.",
-      "hint": "The boss.",
-      "tags": [
-        "dominance",
-        "collective-goods",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-07",
-      "type": "theory-match",
-      "front": "Which collective goods solution says *I help if you help, I hit back if you cheat*?",
-      "back": "**Reciprocity**: **tit for tat**, rewarding cooperation and punishing cheating. Upside: robust and self enforcing. Downside: it can spiral downward.",
-      "hint": "Tit for tat.",
-      "tags": [
-        "reciprocity",
-        "collective-goods",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-08",
-      "type": "theory-match",
-      "front": "Which collective goods solution says *we are family, so I give without keeping score*?",
-      "back": "**Identity**: a shared sense of **we** makes members sacrifice for the group. Upside: deep cooperation. Downside: it can demonise an out group.",
-      "hint": "Family.",
-      "tags": [
-        "identity",
-        "collective-goods",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-09",
-      "type": "apply",
-      "front": "How does nuclear non proliferation use all three collective goods solutions at once?",
-      "back": "1) **Dominance**: the UNSC big five keep the bomb (a power hierarchy). 2) **Reciprocity**: the NPT bargain, you stay non nuclear, we disarm. 3) **Identity**: Sweden and Japan chose not to build one.",
-      "hint": "UNSC · NPT · Sweden and Japan.",
-      "tags": [
-        "non-proliferation",
-        "collective-goods",
-        "case"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-10",
-      "type": "definition",
-      "front": "What four ingredients make up a **state**?",
-      "back": "**Territory + government + sovereignty** (answers to no higher authority) **+ recognition** by other states.",
-      "hint": "Territory, government, sovereignty, recognition.",
-      "tags": [
-        "state",
-        "sovereignty",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-11",
-      "type": "compare",
-      "front": "How does a **state** differ from a **nation**?",
-      "back": "A **state** is a territory with a government and sovereignty. A **nation** is a group sharing an identity. A **nation state** is one where the population shares a national identity.",
-      "hint": "Territory and rule vs shared identity.",
-      "tags": [
-        "state",
-        "nation",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-12",
-      "type": "reverse",
-      "front": "Which non state actor has **national governments** as its members?",
-      "back": "**IGOs** (intergovernmental organisations). Examples: UN, NATO, WTO, EU.",
-      "hint": "Governments join.",
-      "tags": [
-        "non-state-actors",
-        "igo",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-13",
-      "type": "reverse",
-      "front": "Which non state actor has **individuals and groups** as its members?",
-      "back": "**NGOs** (non governmental organisations). Examples: Amnesty, Red Cross, Greenpeace.",
-      "hint": "People join.",
-      "tags": [
-        "non-state-actors",
-        "ngo",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-14",
-      "type": "reverse",
-      "front": "Which non state actor is made of **firms operating across borders**?",
-      "back": "**MNCs** (multinational corporations). Examples: ExxonMobil, Toyota, Walmart.",
-      "hint": "Firms across borders.",
-      "tags": [
-        "non-state-actors",
-        "mnc",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-15",
-      "type": "definition",
-      "front": "What is **sovereignty**?",
-      "back": "A state's right to do as it likes **inside** its own borders: the **norm of non interference**, with no higher authority above it.",
-      "hint": "Right to rule inside your borders.",
-      "tags": [
-        "sovereignty",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-16",
-      "type": "definition",
-      "front": "What is **anarchy** in IR?",
-      "back": "The lack of a central government that can enforce rules above states: *no world police*. Each state must ultimately look after itself.",
-      "hint": "No world police.",
-      "tags": [
-        "anarchy",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-17",
-      "type": "compare",
-      "front": "Why is **anarchy** not the same as chaos?",
-      "back": "Anarchy means no enforcer above states, not disorder. The system stays orderly through strong shared **norms**: territorial integrity (respect borders) and diplomatic norms (an embassy counts as home soil).",
-      "hint": "No enforcer, but strong norms.",
-      "tags": [
-        "anarchy",
-        "norms",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-18",
-      "type": "theory-match",
-      "front": "Which level of analysis explains events through a **leader's choices or psychology**?",
-      "back": "The **individual** level: particular people's choices and psychology, such as great or reckless leaders and crisis decisions.",
-      "hint": "The person.",
-      "tags": [
-        "levels-of-analysis",
-        "individual",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-19",
-      "type": "theory-match",
-      "front": "Which level of analysis explains events through **groups inside a state**, like regime type or public opinion?",
-      "back": "The **domestic** level: groups inside a state, such as public opinion, regime type, ethnic conflict, and bureaucracies.",
-      "hint": "The country's insides.",
-      "tags": [
-        "levels-of-analysis",
-        "domestic",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-20",
-      "type": "theory-match",
-      "front": "Which level of analysis explains events through the **distribution of power among states**?",
-      "back": "The **interstate** or systemic level: states interacting, such as the balance of power, alliances, and polarity. Realism lives mostly here.",
-      "hint": "States vs states.",
-      "tags": [
-        "levels-of-analysis",
-        "systemic",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-21",
-      "type": "theory-match",
-      "front": "Which level of analysis explains events through **worldwide forces** like technology and the environment?",
-      "back": "The **global** level: planet wide forces such as technology, the environment, and the legacy of imperialism.",
-      "hint": "The whole planet.",
-      "tags": [
-        "levels-of-analysis",
-        "global",
-        "pg-ch1"
-      ],
-      "source": "PG ch.1"
-    },
-    {
-      "id": "iri-22",
-      "type": "definition",
-      "front": "What is **realism**?",
-      "back": "A broad tradition, really a **family** of theories, that explains IR mainly in terms of **power**.",
-      "hint": "Explains IR through power.",
-      "tags": [
-        "realism",
-        "definition",
-        "pg-ch2"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-23",
-      "type": "synthesis",
-      "front": "What are realism's five core assumptions?",
-      "back": "1) **States** are the key actors. 2) Each is a **unitary** actor (one voice, domestic politics a black box). 3) Each is a **rational** actor maximising its interests. 4) The system is **anarchic**. 5) **Power politics** trumps morality, ideology, and economics.",
-      "hint": "States · unitary · rational · anarchy · power over morals.",
-      "tags": [
-        "realism",
-        "assumptions",
-        "pg-ch2"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-24",
-      "type": "apply",
-      "front": "How can a realist call the decision to go to war **rational** without saying war is good?",
-      "back": "**Rational is not the same as good or moral.** A rational choice is just the best **cost benefit** bet given the incentives. If the expected costs of not fighting exceed those of fighting, war can be rational.",
-      "hint": "Cost benefit, not ethics.",
-      "tags": [
-        "rational-actor",
-        "realism",
-        "war"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-25",
-      "type": "compare",
-      "front": "How do **realists** and **idealists** differ on human nature and the international system?",
-      "back": "**Idealists** see human nature as basically good and the system as a **community** that can cooperate. **Realists** see human nature as **selfish** and the system as **anarchy**, studying the world as it is, not as it ought to be.",
-      "hint": "Selfish and anarchy vs good and community.",
-      "tags": [
-        "realism",
-        "idealism",
-        "liberalism"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-26",
-      "type": "reverse",
-      "front": "Which thinker gave realism the line *the strong do what they can, the weak suffer what they must*?",
-      "back": "**Thucydides**, writing about 2,400 years ago: realism's oldest one liner.",
-      "hint": "An ancient Greek historian.",
-      "tags": [
-        "realism",
-        "lineage",
-        "thucydides"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-27",
-      "type": "reverse",
-      "front": "In realism's lineage, who is famous for *national interest defined as power*?",
-      "back": "**Morgenthau**, the founder of modern **classical realism**.",
-      "hint": "Founder of classical realism.",
-      "tags": [
-        "realism",
-        "lineage",
-        "morgenthau"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-28",
-      "type": "reverse",
-      "front": "Which thinker described the anarchic **state of nature** that inspired realism?",
-      "back": "**Hobbes**. (Machiavelli is the other classic influence, stressing expedient power.)",
-      "hint": "The state of nature philosopher.",
-      "tags": [
-        "realism",
-        "lineage",
-        "hobbes"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-29",
       "type": "mechanism",
       "front": "What are the five links of the **realist causal chain**?",
-      "back": "1) **Anarchy** (no world sovereign) → 2) **uncertainty** (states can't trust each other) → 3) **self help** (arm, ally) → 4) attention to **relative power** → 5) **competition** (alliances, arms races, war).",
+      "back": "1) **Anarchy** (no world sovereign) → 2) **uncertainty** (states cannot trust each other) → 3) **self help** (arm, ally) → 4) attention to **relative power** → 5) **competition** (alliances, arms races, war).",
       "hint": "Anarchy → uncertainty → self help → relative power → competition.",
       "tags": [
         "causal-chain",
@@ -388,92 +50,24 @@
         "self-help",
         "mechanism"
       ],
-      "source": "PG ch.2 / deck"
-    },
-    {
-      "id": "iri-30",
-      "type": "apply",
-      "front": "Denmark boosted conscription and Nordic defence ties under Trump's Greenland threats, though both are NATO allies. Which link of the realist chain is this?",
-      "back": "The **anarchy to uncertainty** link: a state can't fully trust another to keep its word, so even between allies Denmark could not rely on US respect for its sovereignty. Its response, arming and allying, is textbook **self help**.",
-      "hint": "The trust cannot be assumed link.",
-      "tags": [
-        "greenland",
-        "denmark",
-        "self-help",
-        "case"
-      ],
       "source": "deck"
     },
     {
-      "id": "iri-31",
-      "type": "compare",
-      "front": "What is the difference between power as **influence** and power as **capability**?",
-      "back": "**Power as influence** = getting another to do what it would not otherwise do (but circular, we rarely know the otherwise). **Power as capability** = the **resources** behind influence, which is easier to measure.",
-      "hint": "Getting you to act vs the resources behind it.",
+      "id": "iri-04",
+      "type": "mechanism",
+      "front": "Why can arming to feel safer leave everyone less safe (the **security dilemma**)?",
+      "back": "When a state **arms to feel safer**, it makes others feel less safe, so they arm too, and everyone ends up less secure. A direct product of anarchy, and the engine of arms races.",
+      "hint": "Your defence looks like my threat.",
       "tags": [
-        "power",
-        "influence",
-        "capability",
-        "pg-ch2"
+        "security-dilemma",
+        "arms-race",
+        "anarchy",
+        "mechanism"
       ],
       "source": "PG ch.2"
     },
     {
-      "id": "iri-32",
-      "type": "definition",
-      "front": "What is the best single yardstick for a state's power as capability?",
-      "back": "Total **GDP**, because it bundles size, wealth, and technology, though it is only a rough estimator.",
-      "hint": "It bundles size, wealth, and tech.",
-      "tags": [
-        "power",
-        "capability",
-        "gdp",
-        "pg-ch2"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-33",
-      "type": "definition",
-      "front": "What is **fungibility** of power?",
-      "back": "How far one power resource **converts into** another. **Money** is the most fungible because it can buy the rest.",
-      "hint": "Money buys the rest.",
-      "tags": [
-        "power",
-        "fungibility",
-        "pg-ch2"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-34",
-      "type": "compare",
-      "front": "How does the textbook sort the **elements of power**?",
-      "back": "Two axes: **time horizon** (long term vs short term) and **tangibility** (material vs non material). Long term tangible: GDP, population, territory. Short term tangible: military forces. Intangibles include reputation, soft power, legitimacy, and loyalty.",
-      "hint": "Long or short × material or not.",
-      "tags": [
-        "power",
-        "capabilities",
-        "pg-ch2"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-35",
-      "type": "apply",
-      "front": "At Pearl Harbor Japan had the military edge yet the US overwhelmed it. What lesson about power does this teach?",
-      "back": "**Long term power beats short term power.** Japan had the short term military edge, but the US's greater long term resources (economic potential) let it build up and overwhelm Japan. Capabilities are not just what you have now, but what you can generate.",
-      "hint": "Now vs what you can generate.",
-      "tags": [
-        "pearl-harbor",
-        "power",
-        "long-term",
-        "case"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-36",
+      "id": "iri-05",
       "type": "compare",
       "front": "What is the difference between **relative gains** and **absolute gains**?",
       "back": "A **liberal** asks *do I gain?* (absolute gains). A **realist** asks *do I gain more than my rival?* (relative gains), because today's cooperation can fund tomorrow's threat.",
@@ -487,88 +81,23 @@
       "source": "PG ch.2"
     },
     {
-      "id": "iri-37",
-      "type": "apply",
-      "front": "A deal gives you +10 but your rival +20. Why might a realist refuse it?",
-      "back": "Because a realist weighs **relative gains**. The rival's larger gain shifts the future **balance of power** against you, so the +10 is not worth it even though you gain in absolute terms.",
-      "hint": "The gap shapes tomorrow's balance.",
-      "tags": [
-        "relative-gains",
-        "balance-of-power",
-        "case"
-      ],
-      "source": "PG ch.2 / deck"
-    },
-    {
-      "id": "iri-38",
-      "type": "mechanism",
-      "front": "Why can arming to feel safer leave everyone less safe (the **security dilemma**)?",
-      "back": "When a state **arms to feel safer**, it makes others feel less safe, so they arm too, and everyone ends up less secure. You buy a gun; your neighbour buys two; both are more armed and no safer. It is a product of anarchy and drives arms races.",
-      "hint": "Your defence looks like my threat.",
-      "tags": [
-        "security-dilemma",
-        "arms-race",
-        "anarchy",
-        "mechanism"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-39",
+      "id": "iri-06",
       "type": "definition",
       "front": "What is the **balance of power**?",
       "back": "A distribution in which **no single state can dominate**, because when power concentrates, others have an incentive to **counter** it.",
       "hint": "No one state can dominate.",
       "tags": [
         "balance-of-power",
+        "definition",
         "pg-ch2"
       ],
       "source": "PG ch.2"
     },
     {
-      "id": "iri-40",
-      "type": "compare",
-      "front": "What is the difference between **internal** and **external** balancing?",
-      "back": "**Internal balancing** = build up your own capabilities. **External balancing** = form **alliances**. A **balancer** throws its weight against whoever is strongest (Britain in Europe for centuries).",
-      "hint": "Arm yourself vs make friends.",
-      "tags": [
-        "balancing",
-        "balance-of-power",
-        "pg-ch2"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-41",
-      "type": "compare",
-      "front": "What is the difference between **balancing** and **bandwagoning**?",
-      "back": "**Balancing** = counter the strongest state. **Bandwagoning** = join the winner instead. After WWII most states joined the US bloc rather than balancing it, a puzzle for pure balance of power theory.",
-      "hint": "Oppose the strong vs join the winner.",
-      "tags": [
-        "balancing",
-        "bandwagoning",
-        "compare"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-42",
-      "type": "apply",
-      "front": "Why did US allies balance the USSR even though US power was greater?",
-      "back": "Because states often balance **threats, not raw power**. US power was greater but less **threatening** than the Soviet Union's, so allies balanced the Soviets.",
-      "hint": "States balance threats, not raw power.",
-      "tags": [
-        "balancing",
-        "threat",
-        "case"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-43",
+      "id": "iri-07",
       "type": "compare",
       "front": "What are the three **polarity** types?",
-      "back": "**Multipolar** (five or six powers, flat hierarchy, war prone). **Bipolar** (two blocs, e.g. Cold War, often stable). **Unipolar or hegemony** (one dominant state, steepest hierarchy).",
+      "back": "**Multipolar** (five or six powers, flat hierarchy, war prone). **Bipolar** (two blocs, often judged stable). **Unipolar or hegemony** (one dominant state, steepest hierarchy).",
       "hint": "Many, two, or one pole.",
       "tags": [
         "polarity",
@@ -578,109 +107,22 @@
       "source": "PG ch.2"
     },
     {
-      "id": "iri-44",
-      "type": "reverse",
-      "front": "Which polarity best preserves peace, according to the textbook?",
-      "back": "**Hegemony** preserves peace best, then **bipolarity**, and multipolar equality worst. The counterintuitive finding is **peace by inequality**.",
-      "hint": "Peace by inequality.",
-      "tags": [
-        "polarity",
-        "stability",
-        "hegemony"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-45",
-      "type": "theory-match",
-      "front": "Which theory says the biggest wars come when a **rising power** threatens to overtake the top state?",
-      "back": "**Power transition theory**, nicknamed the **Thucydides Trap**. The current example is the US and China.",
-      "hint": "Rising power vs top dog.",
-      "tags": [
-        "power-transition",
-        "thucydides-trap",
-        "us-china"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-46",
-      "type": "definition",
-      "front": "What is a **hegemon**?",
-      "back": "A state with such a **preponderance of power** that it can single handedly set the rules of the system (Britain in the 1800s, the US after 1945).",
-      "hint": "One power sets the rules.",
-      "tags": [
-        "hegemony",
-        "pg-ch2"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-47",
-      "type": "definition",
-      "front": "What does **hegemonic stability theory** claim?",
-      "back": "The system is most orderly when power is most **concentrated**: the hegemon supplies order like a stand in government, deterring aggression and underwriting free trade.",
-      "hint": "Order is best under concentrated power.",
-      "tags": [
-        "hegemonic-stability",
-        "hegemony",
-        "pg-ch2"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-48",
-      "type": "apply",
-      "front": "Why would the strongest state supply order that benefits everyone?",
-      "back": "Because as the **biggest trader and producer** it gains most from an open, stable system it dominates. The downside: weaker states see hegemony as infringing their sovereignty.",
-      "hint": "It profits most from the order.",
-      "tags": [
-        "hegemony",
-        "hegemonic-stability",
-        "pg-ch2"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-49",
-      "type": "theory-match",
-      "front": "Which type of realism traces the drive for power to **human nature**?",
-      "back": "**Classical realism** (Morgenthau, 1948): human nature and ambition create a timeless struggle for power.",
-      "hint": "It is in our nature.",
+      "id": "iri-08",
+      "type": "compare",
+      "front": "**Classical** vs **structural (neorealism)** vs **neoclassical** realism: where does the drive for power come from?",
+      "back": "**Classical** (Morgenthau): **human nature** and ambition. **Structural or neorealism** (Waltz): the **anarchic structure** itself forces self help. **Neoclassical** (Zakaria, Rose): structure pushes, but **domestic politics** filters the push.",
+      "hint": "Nature vs structure vs structure plus domestics.",
       "tags": [
         "realism-family",
         "classical",
-        "morgenthau"
-      ],
-      "source": "PG ch.2 / deck"
-    },
-    {
-      "id": "iri-50",
-      "type": "theory-match",
-      "front": "Which type of realism traces the drive for power to the **anarchic structure**, not human nature?",
-      "back": "**Structural realism** or **neorealism** (Waltz, 1979): the anarchic structure itself forces states into self help.",
-      "hint": "It is the situation, not our nature.",
-      "tags": [
-        "realism-family",
         "neorealism",
-        "waltz"
+        "neoclassical",
+        "compare"
       ],
-      "source": "PG ch.2 / deck"
+      "source": "PG ch.2 · deck"
     },
     {
-      "id": "iri-51",
-      "type": "theory-match",
-      "front": "Which type of realism adds **domestic factors** as an intervening variable?",
-      "back": "**Neoclassical realism** (Zakaria, Rose, 1998): structure pushes, but domestic politics (leaders, perceptions) filters the push.",
-      "hint": "Structure pushes, domestics filter.",
-      "tags": [
-        "realism-family",
-        "neoclassical"
-      ],
-      "source": "PG ch.2 / deck"
-    },
-    {
-      "id": "iri-52",
+      "id": "iri-09",
       "type": "compare",
       "front": "What is the difference between **offensive** and **defensive** realism?",
       "back": "**Defensive realism** (Waltz): states are **security maximisers** seeking enough power to be safe; grabbing too much triggers balancing. **Offensive realism** (Mearsheimer): states are **power maximisers** who seek to dominate because more is always safer.",
@@ -689,118 +131,50 @@
         "offensive-realism",
         "defensive-realism",
         "mearsheimer",
-        "waltz"
-      ],
-      "source": "PG ch.2 / deck"
-    },
-    {
-      "id": "iri-53",
-      "type": "mechanism",
-      "front": "How does **offensive realism** reason from anarchy to striking first?",
-      "back": "1) Under **anarchy** you can never be sure of others' **intentions**, so judge their **capabilities**. 2) Any state able to hurt you is a potential threat. 3) The only way to be certain you are safe is to be **more powerful than everyone else**, so states expand and may strike first.",
-      "hint": "Can't read intentions → judge capability → out power everyone → strike first.",
-      "tags": [
-        "offensive-realism",
-        "pre-emption",
-        "mearsheimer",
-        "mechanism"
-      ],
-      "source": "deck"
-    },
-    {
-      "id": "iri-54",
-      "type": "definition",
-      "front": "What is an **alliance** in realist terms?",
-      "back": "A coalition of states coordinating, usually by treaty, against a **common threat**. Realists call them marriages of convenience, made and broken on **national interest**.",
-      "hint": "Marriages of convenience.",
-      "tags": [
-        "alliance",
-        "national-interest",
-        "pg-ch2"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-55",
-      "type": "definition",
-      "front": "What was **NATO** built to do?",
-      "back": "A US led alliance (1949) built to **deter the Soviet Union**; its Cold War rival was the **Warsaw Pact**.",
-      "hint": "US led, anti Soviet, 1949.",
-      "tags": [
-        "nato",
-        "alliance",
-        "pg-ch2"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-56",
-      "type": "reverse",
-      "front": "NATO's collective defence article was first invoked after which event?",
-      "back": "**Article V** was first invoked after **9/11**: Europe defending the US, the reverse of NATO's original design.",
-      "hint": "Invoked once, after 9/11.",
-      "tags": [
-        "nato",
-        "article-v",
-        "pg-ch2"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-57",
-      "type": "apply",
-      "front": "How do the West and Russia each read **NATO's eastward expansion**?",
-      "back": "Classic **security dilemma**. The West sees expansion as **securing democracies** (defensive). Russia sees **encroachment** on its borders (a threat). Each side's defensive move looks threatening to the other, with no enforcer above to reassure either.",
-      "hint": "Securing democracies vs encroachment.",
-      "tags": [
-        "nato-expansion",
-        "security-dilemma",
-        "russia",
-        "case"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-58",
-      "type": "mechanism",
-      "front": "In the **Prisoner's Dilemma**, why do two rational states end up worse off?",
-      "back": "Each reasons that **defecting dominates**: whatever the other does, defecting pays more. So both defect and reach (2,2), even though mutual cooperation (3,3) is better for both. Individually rational leads to collectively worse. Example: India and Pakistan both built the bomb.",
-      "hint": "Defect dominates → both worse than cooperation.",
-      "tags": [
-        "prisoners-dilemma",
-        "india-pakistan",
-        "cooperation",
-        "mechanism"
-      ],
-      "source": "PG ch.2"
-    },
-    {
-      "id": "iri-59",
-      "type": "compare",
-      "front": "What is the difference between **deterrence** and **compellence**?",
-      "back": "**Deterrence** = a threat to make an adversary **not act** (so an attack never happens). **Compellence** = a threat to **force** an adversary to act, doing something it otherwise would not.",
-      "hint": "Stop you acting vs make you act.",
-      "tags": [
-        "deterrence",
-        "compellence",
-        "strategy",
+        "waltz",
         "compare"
       ],
+      "source": "PG ch.2 · deck"
+    },
+    {
+      "id": "iri-10",
+      "type": "reverse",
+      "front": "Which theory says the biggest wars come when a **rising power** threatens to overtake the top state?",
+      "back": "**Power transition theory**, nicknamed the **Thucydides Trap**.",
+      "hint": "Rising power vs top dog.",
+      "tags": [
+        "power-transition",
+        "thucydides-trap",
+        "pg-ch2"
+      ],
       "source": "PG ch.2"
     },
     {
-      "id": "iri-60",
-      "type": "synthesis",
-      "front": "How do realists and liberals explain why deep cooperation (EU, WTO, NATO) exists despite anarchy?",
-      "back": "**Realist answer**: institutions just **reflect the interests and power of the strongest states**. **Liberal answer**: institutions can **change the incentives** and make cooperation easier. For realists, anarchy makes trust risky and even cooperation is judged by **relative** advantage.",
-      "hint": "Institutions reflect power vs institutions reshape incentives.",
+      "id": "iri-11",
+      "type": "definition",
+      "front": "What does **hegemonic stability theory** claim?",
+      "back": "The system is most orderly when power is most **concentrated**: the hegemon supplies order like a stand in government, deterring aggression and underwriting free trade.",
+      "hint": "Order is best under concentrated power.",
       "tags": [
-        "anarchy",
-        "synthesis",
-        "cooperation-puzzle",
-        "red-thread"
+        "hegemonic-stability",
+        "hegemony",
+        "definition",
+        "pg-ch2"
       ],
-      "source": "PG ch.1 + ch.2"
+      "source": "PG ch.2"
+    },
+    {
+      "id": "iri-12",
+      "type": "reverse",
+      "front": "What are the four **levels of analysis**?",
+      "back": "**Individual** (a leader's choices and psychology), **domestic** (groups inside a state), **interstate or systemic** (distribution of power among states), **global** (worldwide forces). Realism lives mostly at the systemic level.",
+      "hint": "Person, country, states, planet.",
+      "tags": [
+        "levels-of-analysis",
+        "typology",
+        "pg-ch1"
+      ],
+      "source": "PG ch.1"
     }
   ]
 }

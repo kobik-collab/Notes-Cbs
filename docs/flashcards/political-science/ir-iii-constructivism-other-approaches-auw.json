@@ -8,31 +8,15 @@
   "cardTypes": {
     "definition": "Define",
     "reverse": "Name it",
-    "mechanism": "Mechanism",
-    "theory-match": "Match the theory",
-    "apply": "Apply it",
     "compare": "Compare",
-    "synthesis": "Big picture"
+    "mechanism": "Mechanism"
   },
   "cards": [
     {
       "id": "iriii-01",
-      "type": "synthesis",
-      "front": "What is the lecture's red thread: where do interests and reality come from?",
-      "back": "1) **Realism** and **liberalism** take actors and interests as **given**. 2) **Constructivism** says meaning makes them (identities, norms, interaction). 3) **Critical theory** says **power and hierarchy** make that meaning. The arc: power → cooperation → meaning → power behind meaning.",
-      "hint": "Given, then made by meaning, then made by power.",
-      "tags": [
-        "red-thread",
-        "theory-arc",
-        "synthesis"
-      ],
-      "source": "deck / PG ch.3"
-    },
-    {
-      "id": "iriii-02",
       "type": "definition",
-      "front": "What is constructivism?",
-      "back": "An **approach**, not a theory, saying interests are not given but **socially constructed**: social context and interaction produce identities, then interests, then behaviour.",
+      "front": "What is **constructivism**?",
+      "back": "An **approach** (not a theory) saying interests are not given but **socially constructed**: social context and interaction produce **identities** → interests → behaviour. Built on the **identity principle**.",
       "hint": "Context → identity → interests → behaviour.",
       "tags": [
         "constructivism",
@@ -41,22 +25,10 @@
       "source": "PG §3.3 / deck"
     },
     {
-      "id": "iriii-03",
-      "type": "definition",
-      "front": "What is the identity principle?",
-      "back": "The claim that an actor's **identity**, meaning who it is in relation to others, drives behaviour more than its capabilities do.",
-      "hint": "Identity, not capability.",
-      "tags": [
-        "identity-principle",
-        "definition"
-      ],
-      "source": "PG §3.3 / deck"
-    },
-    {
-      "id": "iriii-04",
+      "id": "iriii-02",
       "type": "compare",
-      "front": "What is the difference between a social fact and a material fact?",
-      "back": "1) **Material fact**: brute matter, like a tank, a border, or a nuclear weapon. 2) **Social fact**: exists only because actors collectively recognise it, like money, sovereignty, alliances, or rights. Material facts do not tell us their meaning: is the tank threatening? is the border legitimate? Meaning is constructed.",
+      "front": "**Material fact** vs **social fact**?",
+      "back": "1) **Material fact**: brute matter, like a tank, a border, or a nuclear weapon. 2) **Social fact**: exists only because actors **collectively recognise** it, like money, sovereignty, or alliances. Matter alone does not tell us its meaning; meaning is constructed.",
       "hint": "Brute matter vs collectively recognised meaning.",
       "tags": [
         "social-facts",
@@ -66,23 +38,10 @@
       "source": "PG §3.3 / deck"
     },
     {
-      "id": "iriii-05",
-      "type": "theory-match",
-      "front": "Pirates went from feared raiders to theme park mascots, and war in Europe became 'unthinkable.' Which approach explains this, and what does it show?",
-      "back": "**Constructivism**: identities and what counts as threatening **change over time**; they are neither universal nor timeless.",
-      "hint": "Threats are not timeless.",
-      "tags": [
-        "constructivism",
-        "identity-change",
-        "theory-match"
-      ],
-      "source": "PG §3.3"
-    },
-    {
-      "id": "iriii-06",
+      "id": "iriii-03",
       "type": "reverse",
-      "front": "Who coined 'anarchy is what states make of it,' and when?",
-      "back": "**Alexander Wendt**, in **1992**.",
+      "front": "Who coined **'anarchy is what states make of it,'** when, and what does it claim?",
+      "back": "**Alexander Wendt**, in **1992**. Anarchy has **no fixed logic**: it does not dictate whether another state is friend or enemy; that meaning is built through **interaction and shared understandings**.",
       "hint": "The signature constructivist, 1992.",
       "tags": [
         "wendt",
@@ -92,37 +51,10 @@
       "source": "PG §3.3 / deck"
     },
     {
-      "id": "iriii-07",
-      "type": "definition",
-      "front": "What does 'anarchy is what states make of it' claim?",
-      "back": "Anarchy has **no fixed logic**. It does not dictate whether another state is friend or enemy; that meaning is built through **interaction and shared understandings**.",
-      "hint": "Anarchy dictates nothing on its own.",
-      "tags": [
-        "wendt",
-        "anarchy",
-        "definition"
-      ],
-      "source": "PG §3.3 / deck"
-    },
-    {
-      "id": "iriii-08",
+      "id": "iriii-04",
       "type": "compare",
-      "front": "How do the realist chain and the constructivist chain differ when both start from anarchy?",
-      "back": "Both start from **anarchy**. 1) **Realist chain**: anarchy → self help → power and insecurity → competition; asks 'what will happen to me?' 2) **Constructivist chain**: anarchy → interaction and shared meanings → friendship, rivalry, or enmity → different interests; asks 'is this legitimate, given who I am?' Same fact, opposite outcomes.",
-      "hint": "Same anarchy, opposite outcomes.",
-      "tags": [
-        "wendt",
-        "realism",
-        "constructivism",
-        "compare"
-      ],
-      "source": "deck (slide 9)"
-    },
-    {
-      "id": "iriii-09",
-      "type": "compare",
-      "front": "What is the difference between the logic of consequences and the logic of appropriateness?",
-      "back": "1) **Logic of consequences** (realists, neoliberals): 'what will happen to me if I act?', a cost benefit calculation. 2) **Logic of appropriateness** (constructivists): 'how should I behave, given who I am?' Constructivism adds the second: norms and identity, not just payoffs, guide action.",
+      "front": "**Logic of consequences** vs **logic of appropriateness**?",
+      "back": "1) **Logic of consequences** (realists, neoliberals): 'what will happen to me if I act?', a cost benefit calculation. 2) **Logic of appropriateness** (constructivists): 'how should I behave, given who I am?' Constructivism adds the second: **norms and identity**, not just payoffs, guide action.",
       "hint": "What happens to me? vs how should I act?",
       "tags": [
         "logic-of-appropriateness",
@@ -131,49 +63,10 @@
       "source": "PG §3.3"
     },
     {
-      "id": "iriii-10",
-      "type": "theory-match",
-      "front": "The US intervened in Somalia (1992) despite little strategic value. Which logic and which approach explain this?",
-      "back": "**Logic of appropriateness**, from **constructivism**: widened **norms** about who deserves protection, not cost benefit, drove the intervention.",
-      "hint": "Norms over cost benefit.",
-      "tags": [
-        "somalia",
-        "norms",
-        "theory-match"
-      ],
-      "source": "PG §3.3"
-    },
-    {
-      "id": "iriii-11",
-      "type": "theory-match",
-      "front": "The US fears North Korea's small nuclear arsenal but not Britain's far larger one. Which approach explains this?",
-      "back": "**Constructivism**. Threat comes from **shared history, alliance, and identity**, not raw capabilities. In IR, **identity beats capability**.",
-      "hint": "Identity, not warhead count.",
-      "tags": [
-        "constructivism",
-        "uk-nk-nukes",
-        "theory-match"
-      ],
-      "source": "deck / PG §3.3"
-    },
-    {
-      "id": "iriii-12",
-      "type": "mechanism",
-      "front": "What five questions does an actor run in the constructivist identity to interests chain?",
-      "back": "1) Who am I? 2) Who are you? 3) Are you one of us or them? 4) What kind of relationship is this? (friend, ally, rival, enemy, neutral, 'rogue state') 5) What should I want, fear, or do? Interests shift when identities and relationships shift.",
-      "hint": "Who am I? → who are you? → us or them? → relationship → what to do.",
-      "tags": [
-        "identity",
-        "interests",
-        "mechanism"
-      ],
-      "source": "deck"
-    },
-    {
-      "id": "iriii-13",
+      "id": "iriii-05",
       "type": "definition",
-      "front": "What is a norm in constructivism?",
-      "back": "A **shared expectation of appropriate behaviour** for an actor with a given identity, such as 'respect sovereignty' or 'do not defend racial supremacy'.",
+      "front": "What is a **norm** in constructivism?",
+      "back": "A **shared expectation of appropriate behaviour** for an actor with a given identity, such as 'respect sovereignty'. Norms shape legitimacy, interests, and behaviour, and actors in turn **reproduce, contest, and change** them.",
       "hint": "A shared expectation of appropriate behaviour.",
       "tags": [
         "norms",
@@ -182,10 +75,10 @@
       "source": "PG §3.3 / deck"
     },
     {
-      "id": "iriii-14",
+      "id": "iriii-06",
       "type": "definition",
-      "front": "What is a norm entrepreneur?",
-      "back": "An **individual** who spreads a norm by travelling, writing, and lobbying elites.",
+      "front": "What is a **norm entrepreneur**?",
+      "back": "An **individual** who spreads a norm by travelling, writing, and lobbying elites. Norms also spread through **social movements and NGOs** and **IOs** such as the UN and NATO.",
       "hint": "An individual who spreads a norm.",
       "tags": [
         "norm-entrepreneurs",
@@ -194,166 +87,22 @@
       "source": "PG §3.3 / deck"
     },
     {
-      "id": "iriii-15",
-      "type": "reverse",
-      "front": "Name the three carriers that spread norms.",
-      "back": "1) **norm entrepreneurs** 2) **social movements and NGOs** 3) **IOs** such as the UN and NATO.",
-      "hint": "Entrepreneurs, movements and NGOs, IOs.",
-      "tags": [
-        "norms",
-        "carriers",
-        "reverse"
-      ],
-      "source": "PG §3.3 / deck"
-    },
-    {
-      "id": "iriii-16",
-      "type": "theory-match",
-      "front": "Norm entrepreneurs delegitimise racial rule, a racial equality norm strengthens, and boycotts and sanctions follow. Which case and which approach?",
-      "back": "**South African apartheid**, explained by **constructivism**: changing ideas about legitimate rule reshaped how states calculated interests. Power politics alone cannot explain its fall.",
-      "hint": "Racial equality norm → sanctions.",
-      "tags": [
-        "apartheid",
-        "norms",
-        "theory-match"
-      ],
-      "source": "deck"
-    },
-    {
-      "id": "iriii-17",
-      "type": "theory-match",
-      "front": "Blair replaces Major (1997) with no change in Britain's strategic interests, yet Bosnia policy flips. What kind of test is this, and which approach wins?",
-      "back": "A **natural experiment**. With interests held constant, only **leadership and identity ideas** changed, so the policy flip favours **constructivism** over realism and liberalism.",
-      "hint": "Same interests, new leader, opposite policy.",
-      "tags": [
-        "blair-bosnia",
-        "natural-experiment",
-        "theory-match"
-      ],
-      "source": "PG §3.3"
-    },
-    {
-      "id": "iriii-18",
-      "type": "definition",
-      "front": "What is postmodernism in IR?",
-      "back": "An approach denying a **single objective reality**; it studies **texts and discourse**: how we talk and write about IR.",
-      "hint": "Discourse, no single reality.",
-      "tags": [
-        "postmodernism",
-        "discourse",
-        "definition"
-      ],
-      "source": "PG §3.3.2"
-    },
-    {
-      "id": "iriii-19",
-      "type": "definition",
-      "front": "What is deconstruction?",
-      "back": "Teasing apart a text to reveal what is **omitted or implicit**, exposing its hidden **subtext**.",
-      "hint": "Reveal the omitted subtext.",
-      "tags": [
-        "deconstruction",
-        "subtext",
-        "definition"
-      ],
-      "source": "PG §3.3.2"
-    },
-    {
-      "id": "iriii-20",
-      "type": "theory-match",
-      "front": "Which approach calls states 'fictions' and pointed to the 'unitary' USSR splitting into 15 pieces?",
-      "back": "**Postmodernism**: states are **stories** we tell to organise millions; the 'unitary' label masked the divergent realities that split the USSR.",
-      "hint": "States as stories.",
-      "tags": [
-        "postmodernism",
-        "states-as-fictions",
-        "theory-match"
-      ],
-      "source": "PG §3.3.2"
-    },
-    {
-      "id": "iriii-21",
-      "type": "apply",
-      "front": "How would you build a constructivist explanation of Putin's war on Ukraine?",
-      "back": "Do not ask whether Putin's claims are **true**; ask how Russia's leadership **constructs meaning**. Chain: **identity → threat perception → legitimacy → behaviour**. Who is 'Russia'? Who are Ukraine, NATO, and 'the West'? Which **norms** make force look legitimate? Identities and norms make invasion representable as **defence**, not aggression.",
-      "hint": "Not 'is it true?' but 'how is meaning built?'",
-      "tags": [
-        "putin-ukraine",
-        "constructivism",
-        "apply"
-      ],
-      "source": "deck"
-    },
-    {
-      "id": "iriii-22",
-      "type": "compare",
-      "front": "What are the main criticisms of constructivism?",
-      "back": "1) **Realists**: norms are just **covers for interests**. 2) **Liberals**: it neglects **formal institutions**. 3) Both: it is hard to tell a **genuine** identity from one **adopted strategically** for material gain (aid, trade, membership).",
-      "hint": "Covers for interests, ignores institutions, strategic identities.",
-      "tags": [
-        "constructivism",
-        "criticisms",
-        "compare"
-      ],
-      "source": "PG §3.3"
-    },
-    {
-      "id": "iriii-23",
-      "type": "definition",
-      "front": "What is critical IR theory?",
-      "back": "It adds **power** to constructivism, asking how a particular reality is made to look **natural** and **who benefits**.",
-      "hint": "Who made this look natural, and who benefits?",
-      "tags": [
-        "critical-theory",
-        "definition"
-      ],
-      "source": "deck / PG §3.4"
-    },
-    {
-      "id": "iriii-24",
+      "id": "iriii-07",
       "type": "mechanism",
-      "front": "What is critical theory's three step aim?",
-      "back": "Critical theory refuses to take institutions and power relations for granted. Its aim: 1) **expose domination** 2) **denaturalise** the order 3) **open possibilities for change**.",
+      "front": "What is **critical IR theory's** aim, and how does it shift the agenda?",
+      "back": "It adds **power** to constructivism, asking how an order is made to look **natural** and **who benefits**. Aim: 1) **expose domination** 2) **denaturalise** the order 3) **open change**. Shifts: anarchy → also **hierarchy**; given interests → how interests are **produced**; power as capabilities → **power over ideas**.",
       "hint": "Expose, denaturalise, open change.",
       "tags": [
         "critical-theory",
-        "denaturalise",
         "mechanism"
       ],
       "source": "deck / PG §3.4"
     },
     {
-      "id": "iriii-25",
-      "type": "synthesis",
-      "front": "What major shifts does critical theory make to the IR agenda?",
-      "back": "1) anarchy → also **hierarchy** 2) state interests → how interests are **produced** 3) power as capabilities → **power over ideas and knowledge** 4) 'who acts?' → 'who is **marginalised or silenced**?' 5) 'how does order work?' → '**whose** order is it?'",
-      "hint": "Hierarchy, produced interests, power over ideas, the silenced, whose order.",
-      "tags": [
-        "critical-theory",
-        "shifts",
-        "synthesis"
-      ],
-      "source": "deck"
-    },
-    {
-      "id": "iriii-26",
-      "type": "mechanism",
-      "front": "How do Marxist approaches reframe IR?",
-      "back": "They see IR and domestic politics as arising from **unequal relations between economic classes**. The unit shifts from state versus state to **class, capital, labour, and the global economy**. Key question: **who produces value, and who captures it?** Powerful classes exploit weaker ones by taking their **surplus**.",
-      "hint": "Class not state; who captures the surplus?",
-      "tags": [
-        "marxism",
-        "class",
-        "surplus",
-        "mechanism"
-      ],
-      "source": "PG §3.4 / deck"
-    },
-    {
-      "id": "iriii-27",
+      "id": "iriii-08",
       "type": "compare",
-      "front": "What is the difference between Marx and Lenin (the LO 3.4 point)?",
-      "back": "1) **Marx**: a **domestic** theory of class struggle; the **proletariat** should recapture the surplus; revolution expected in **advanced** capitalist countries. 2) **Lenin**: a theory of **imperialism**; capitalists profit from **colonies** and 'buy off' home workers, so revolution comes in the **poor periphery** (Russia 1917, China 1949).",
+      "front": "**Marx** vs **Lenin** on class and revolution?",
+      "back": "1) **Marx**: a **domestic** theory of class struggle; the **proletariat** should recapture the **surplus**; revolution expected in **advanced** capitalist countries. 2) **Lenin**: a theory of **imperialism**; capitalists profit from **colonies** and 'buy off' home workers, so revolution comes in the **poor periphery**.",
       "hint": "Rich countries (Marx) vs poor ones bought off by colonies (Lenin).",
       "tags": [
         "marx",
@@ -364,142 +113,37 @@
       "source": "PG §3.4 (LO 3.4)"
     },
     {
-      "id": "iriii-28",
+      "id": "iriii-09",
       "type": "reverse",
-      "front": "Contrary to Marx, which class actually led the great 20th century revolutions?",
-      "back": "The **peasantry**, not the proletariat (China being the largest revolution).",
-      "hint": "Not workers but farmers.",
-      "tags": [
-        "peasants",
-        "revolution",
-        "reverse"
-      ],
-      "source": "PG §3.4"
-    },
-    {
-      "id": "iriii-29",
-      "type": "reverse",
-      "front": "Which two Soviet rivals split over whether to spread revolution worldwide?",
-      "back": "**Trotsky** (spread revolution worldwide) lost to **Stalin** ('socialism in one country').",
-      "hint": "Trotsky vs Stalin.",
-      "tags": [
-        "trotsky",
-        "stalin",
-        "reverse"
-      ],
-      "source": "PG §3.4"
-    },
-    {
-      "id": "iriii-30",
-      "type": "reverse",
-      "front": "Which thinker defined hegemony as rule by consent, getting people to say 'this is just how the world works'?",
-      "back": "**Antonio Gramsci**, with the concept of **hegemony**.",
-      "hint": "Rule by consent, not force.",
-      "tags": [
-        "gramsci",
-        "hegemony",
-        "reverse"
-      ],
-      "source": "deck"
-    },
-    {
-      "id": "iriii-31",
-      "type": "definition",
-      "front": "What is hegemony (Gramsci)?",
-      "back": "Dominant power resting on **consent**, not only coercion: dominant ideas make an order look **normal, legitimate, and common sense**.",
-      "hint": "Power that need not draw its sword.",
-      "tags": [
-        "gramsci",
-        "hegemony",
-        "definition"
-      ],
-      "source": "deck"
-    },
-    {
-      "id": "iriii-32",
-      "type": "reverse",
-      "front": "Whose theory says the global economy is one hierarchy in which surplus flows inward, keeping the periphery poor?",
-      "back": "**Immanuel Wallerstein**, with **world systems** (dependency) theory.",
+      "front": "Whose theory casts the global economy as one hierarchy of **core · semi periphery · periphery**, with surplus flowing inward?",
+      "back": "**Immanuel Wallerstein**, with **world systems** (dependency) theory: the periphery is not 'not yet developed' but **kept** peripheral, channelling surplus to the core.",
       "hint": "Core, semi periphery, periphery.",
       "tags": [
         "wallerstein",
         "world-systems",
         "reverse"
       ],
-      "source": "deck"
+      "source": "deck / PG §3.4"
     },
     {
-      "id": "iriii-33",
-      "type": "compare",
-      "front": "What are the three zones of Wallerstein's world system?",
-      "back": "1) **Core**: exports **manufactures**; high wages and welfare; democratic. 2) **Semi periphery**: raw materials and mature manufactures; low wages; authoritarian. 3) **Periphery**: exports **raw materials**; low wages, no welfare; not democratic. Surplus flows inward, so the periphery stays peripheral.",
-      "hint": "Core, semi periphery, periphery; surplus flows in.",
-      "tags": [
-        "wallerstein",
-        "world-systems",
-        "dependency",
-        "compare"
-      ],
-      "source": "deck"
-    },
-    {
-      "id": "iriii-34",
-      "type": "reverse",
-      "front": "Which thinker argued the West dominates the East by inventing it, through Self and Other binaries?",
-      "back": "**Edward Said**, with **Orientalism** and the idea of '**othering**'.",
-      "hint": "Power through representation.",
-      "tags": [
-        "said",
-        "orientalism",
-        "reverse"
-      ],
-      "source": "deck"
-    },
-    {
-      "id": "iriii-35",
-      "type": "mechanism",
-      "front": "How does Orientalism turn representation into domination?",
-      "back": "Power works through **representation**. Binaries: **Self** (modern, rational, civilised, orderly) versus **Other** (backward, irrational, uncivilised, chaotic). Mechanism: 1) represent difference 2) **essentialise** groups 3) produce **hierarchy** 4) make unequal treatment seem reasonable. Representation constitutes the subjects we then act upon.",
-      "hint": "Represent → essentialise → hierarchy → seem reasonable.",
-      "tags": [
-        "said",
-        "orientalism",
-        "othering",
-        "mechanism"
-      ],
-      "source": "deck"
-    },
-    {
-      "id": "iriii-36",
+      "id": "iriii-10",
       "type": "definition",
-      "front": "What three enduring hierarchies did colonialism create, according to postcolonial theory?",
-      "back": "Colonialism left three enduring hierarchies: 1) **material** (wealth, borders, institutions) 2) **knowledge** (whose concepts count) 3) **social** ('West versus Rest').",
-      "hint": "Material, knowledge, social.",
+      "front": "What is **postcolonialism**, and what is **Said's Orientalism**?",
+      "back": "**Postcolonialism**: colonialism left enduring **material**, **knowledge**, and **social** hierarchies (the 'West versus Rest'). **Said's Orientalism**: power works through **representation**, building **Self vs Other** binaries → essentialise groups → produce hierarchy → make unequal treatment seem reasonable.",
+      "hint": "Enduring hierarchies; power through representation.",
       "tags": [
         "postcolonialism",
-        "hierarchies",
+        "said",
+        "orientalism",
         "definition"
       ],
       "source": "deck"
     },
     {
-      "id": "iriii-37",
-      "type": "definition",
-      "front": "What is the core claim of feminist and queer IR?",
-      "back": "Gender and sexuality are not just individual traits; they **structure the ideas, roles, and hierarchies** of IR. Strands agree gender matters but split on **how**.",
-      "hint": "Gender structures IR; strands split on how.",
-      "tags": [
-        "feminism",
-        "queer-ir",
-        "definition"
-      ],
-      "source": "PG §3.6 / deck"
-    },
-    {
-      "id": "iriii-38",
+      "id": "iriii-11",
       "type": "compare",
-      "front": "How do the three feminisms in IR differ?",
-      "back": "1) **Difference feminism**: realism reflects a **masculine** worldview; women are less warlike, so many women would **transform** the system. 2) **Liberal feminism**: the sexes are **equal**; just **include** women, who play the game the same way. 3) **Postmodern feminism**: gender is real but arbitrary; **deconstruct** the subtext.",
+      "front": "How do the **three feminisms** in IR differ?",
+      "back": "1) **Difference feminism**: realism reflects a **masculine** worldview; women are less warlike, so including many would **transform** IR. 2) **Liberal feminism**: the sexes are **equal**; just **include** women, who play the game the same way. 3) **Postmodern feminism**: gender is real but arbitrary; **deconstruct** the subtext.",
       "hint": "Transform, include, deconstruct.",
       "tags": [
         "feminism",
@@ -509,170 +153,16 @@
       "source": "PG §3.6 / deck"
     },
     {
-      "id": "iriii-39",
-      "type": "mechanism",
-      "front": "What is the 'masculinity of realism' critique (difference feminism)?",
-      "back": "Realism's **autonomy, sovereignty, and anarchy** mirror a **masculine psyche** (separation over connection). The public (masculine) versus private (feminine) split maps onto the international (anarchic) versus domestic (ordered) split, so realism constructs IR as 'a man's world'.",
-      "hint": "Separation psyche; a man's world.",
-      "tags": [
-        "masculinity-of-realism",
-        "feminism",
-        "mechanism"
-      ],
-      "source": "PG §3.6 / deck"
-    },
-    {
-      "id": "iriii-40",
+      "id": "iriii-12",
       "type": "compare",
-      "front": "What do the 'overlapping bell curves' and women leaders show about gender and war?",
-      "back": "Genders differ **on average** but overlap greatly. 1) **Liberal feminists** stress the overlap: leaders like Thatcher, Gandhi, Meir, and Merkel were **not** more peaceful. 2) **Difference feminists** stress the group shift: a roughly ten point **gender gap** in support for military action.",
-      "hint": "Average difference vs huge overlap.",
-      "tags": [
-        "feminism",
-        "gender-gap",
-        "compare"
-      ],
-      "source": "PG §3.6 / deck"
-    },
-    {
-      "id": "iriii-41",
-      "type": "theory-match",
-      "front": "Postmodern feminists cite the coded cable 'It's a boy' confirming the first hydrogen bomb. What does it illustrate?",
-      "back": "The **gendered subtext** of weapons talk (power, potency), which postmodern feminists **deconstruct**.",
-      "hint": "Gendered subtext of weapons.",
-      "tags": [
-        "postmodern-feminism",
-        "subtext",
-        "theory-match"
-      ],
-      "source": "PG §3.6 / deck"
-    },
-    {
-      "id": "iriii-42",
-      "type": "definition",
-      "front": "What is peace studies, and what makes it distinctive?",
-      "back": "An approach shifting IR to **individual, domestic, and transnational** relations; it rejects detached '**objectivity**,' valuing knowledge through **action and participation**.",
-      "hint": "Below the system level; rejects detached objectivity.",
-      "tags": [
-        "peace-studies",
-        "definition"
-      ],
-      "source": "PG §3.5"
-    },
-    {
-      "id": "iriii-43",
-      "type": "definition",
-      "front": "What is mediation?",
-      "back": "A **third party** helping two sides settle short of violence; the **UN** is the biggest mediator.",
-      "hint": "A third party helps two sides settle.",
-      "tags": [
-        "mediation",
-        "conflict-resolution",
-        "definition"
-      ],
-      "source": "PG §3.5"
-    },
-    {
-      "id": "iriii-44",
-      "type": "compare",
-      "front": "What are the four tools in the mediation toolkit (LO 3.5)?",
-      "back": "1) **good offices**: a neutral channel passing messages (Pakistan relaying US and China, 1971). 2) **arbitration**: both pre agree to a binding third party decision (Brčko in the Dayton process). 3) **confidence building measures**: gradually building trust. 4) **linkage**: bundling issues so one concession trades for another (Yalta 1945).",
-      "hint": "Good offices, arbitration, confidence building, linkage.",
-      "tags": [
-        "mediation",
-        "conflict-resolution",
-        "compare"
-      ],
-      "source": "PG §3.5 (LO 3.5)"
-    },
-    {
-      "id": "iriii-45",
-      "type": "compare",
-      "front": "What is the difference between negative peace and positive peace?",
-      "back": "1) **Negative peace**: the temporary **absence of war**, which all realism recognises. 2) **Positive peace**: removes the **underlying causes**, including **structural violence**. Positive peace is the deeper aim.",
-      "hint": "Absence of war vs removing its causes.",
-      "tags": [
-        "positive-peace",
-        "negative-peace",
-        "compare"
-      ],
-      "source": "PG §3.5"
-    },
-    {
-      "id": "iriii-46",
-      "type": "definition",
-      "front": "What is structural violence?",
-      "back": "Poverty, hunger, and oppression **built into social structures**, which kill more people than direct violence does.",
-      "hint": "Violence built into structures.",
-      "tags": [
-        "structural-violence",
-        "definition"
-      ],
-      "source": "PG §3.5"
-    },
-    {
-      "id": "iriii-47",
-      "type": "definition",
-      "front": "What is militarism?",
-      "back": "The **glorification** of war (films, toys, sport, speeches) plus the **structuring of society around war** (the military industrial complex).",
-      "hint": "Glorify war; organise society around it.",
-      "tags": [
-        "militarism",
-        "definition"
-      ],
-      "source": "PG §3.5"
-    },
-    {
-      "id": "iriii-48",
-      "type": "reverse",
-      "front": "Which concept is a unilateral refusal of violent leverage, exemplified by Gandhi, MLK, and Gene Sharp?",
-      "back": "**Nonviolence**, often the cost effective tool of the powerless; Gene Sharp's methods reached **Arab Spring** activists.",
-      "hint": "Gandhi, MLK, Gene Sharp.",
-      "tags": [
-        "nonviolence",
-        "gandhi",
-        "reverse"
-      ],
-      "source": "PG §3.5"
-    },
-    {
-      "id": "iriii-49",
-      "type": "theory-match",
-      "front": "Costa Rica has had no army since 1948 and post war Japan is demilitarised. Which claim do they rebut?",
-      "back": "That military **force is universal** and necessary. Costa Rica and post war Japan show realism's stress on force is not timeless.",
-      "hint": "Force is not universal.",
-      "tags": [
-        "militarism",
-        "costa-rica",
-        "theory-match"
-      ],
-      "source": "PG §3.5"
-    },
-    {
-      "id": "iriii-50",
-      "type": "synthesis",
-      "front": "Put realism, liberalism, constructivism, and critical theory side by side: core question and whether interests are given.",
+      "front": "Put **realism, liberalism, constructivism, and critical theory** side by side: core question and whether interests are given.",
       "back": "1) **Realism**: 'where is the **power**?' interests **given**. 2) **Liberalism**: 'what enables **cooperation**?' interests **given**. 3) **Constructivism**: 'how did actors come to **understand** their interests?' interests **socially constructed**. 4) **Critical theory**: 'how did this order become **normal**, and who benefits?' interests **produced by power and hierarchy**.",
       "hint": "Power, cooperation, meaning, power behind meaning.",
       "tags": [
         "four-theories",
-        "capstone",
-        "synthesis"
+        "compare"
       ],
       "source": "deck"
-    },
-    {
-      "id": "iriii-51",
-      "type": "theory-match",
-      "front": "Match each line to its approach: (a) 'the border is legitimate only because we treat it so' (b) 'who got to write the rules?' (c) 'the periphery is kept poor to feed the core.'",
-      "back": "(a) **Constructivism** (social facts) (b) **Gramsci** and critical theory (hegemony) (c) **Wallerstein** (world systems, dependency).",
-      "hint": "Social facts, hegemony, core and periphery.",
-      "tags": [
-        "mixed",
-        "theory-match",
-        "synthesis"
-      ],
-      "source": "deck / PG ch.3"
     }
   ]
 }

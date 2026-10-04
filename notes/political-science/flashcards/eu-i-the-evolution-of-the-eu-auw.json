@@ -8,11 +8,8 @@
   "cardTypes": {
     "definition": "Define",
     "reverse": "Name it",
-    "mechanism": "Mechanism",
-    "theory-match": "Match the theory",
-    "apply": "Apply it",
     "compare": "Compare",
-    "synthesis": "Big picture"
+    "mechanism": "Mechanism"
   },
   "cards": [
     {
@@ -25,49 +22,13 @@
         "integration",
         "definition"
       ],
-      "source": "Lecture / McCormick ch.3"
+      "source": "Lecture / McCormick"
     },
     {
       "id": "eu1-02",
-      "type": "reverse",
-      "front": "Whose 1958 definition says integration means actors shifting their loyalties, expectations and activities toward a new centre?",
-      "back": "**Ernst Haas (1958)**, in *The Uniting of Europe*.",
-      "hint": "The founder of neofunctionalism.",
-      "tags": [
-        "haas",
-        "definition"
-      ],
-      "source": "Lecture"
-    },
-    {
-      "id": "eu1-03",
-      "type": "reverse",
-      "front": "In Haas's definition, what three things shift to the new centre?",
-      "back": "**Loyalties, expectations and political activities.**",
-      "hint": "Toward institutions that demand jurisdiction over states.",
-      "tags": [
-        "haas",
-        "definition"
-      ],
-      "source": "Lecture"
-    },
-    {
-      "id": "eu1-04",
-      "type": "definition",
-      "front": "Why is Haas's own definition significant for the theory section?",
-      "back": "It is already **neofunctionalist**: it builds in the claim that integration changes actors' loyalties, pulling them upward.",
-      "hint": "The definition quietly loads the dice.",
-      "tags": [
-        "haas",
-        "neofunctionalism"
-      ],
-      "source": "Lecture"
-    },
-    {
-      "id": "eu1-05",
       "type": "definition",
       "front": "What does ***sui generis*** mean when applied to the EU?",
-      "back": "The EU is a new kind of political animal: neither a typical international organization nor a state.",
+      "back": "The EU is a new kind of political animal: **neither a typical international organization nor a state**. Its institutions wield real binding authority (unlike an ordinary IO), yet no single European sovereign replaces the member states.",
       "hint": "It fits neither box.",
       "tags": [
         "sui-generis",
@@ -76,34 +37,10 @@
       "source": "Lecture / McCormick"
     },
     {
-      "id": "eu1-06",
-      "type": "definition",
-      "front": "How is the EU unlike an ordinary international organization?",
-      "back": "Its institutions exercise real, binding authority where states have transferred or pooled power, sometimes by majority, so a state can be outvoted.",
-      "hint": "Ordinary IOs cannot bind members this way.",
-      "tags": [
-        "sui-generis",
-        "supranational"
-      ],
-      "source": "Lecture"
-    },
-    {
-      "id": "eu1-07",
-      "type": "definition",
-      "front": "How is the EU unlike a state?",
-      "back": "There is no single European sovereign government replacing the member states, who remain sovereign.",
-      "hint": "No single sovereign on top.",
-      "tags": [
-        "sui-generis",
-        "eu-nature"
-      ],
-      "source": "Lecture"
-    },
-    {
-      "id": "eu1-08",
+      "id": "eu1-03",
       "type": "compare",
       "front": "Compare **supranational** and **intergovernmental** governance.",
-      "back": "**Supranational** = authority above the states: common institutions (Commission, Court, Parliament, ECB) make binding rules, sometimes by majority. **Intergovernmental** = authority between the states: governments bargain as sovereign equals, each keeping a veto. The EU combines both.",
+      "back": "**Supranational** = authority above the states: common institutions (Commission, Court, Parliament, ECB) make binding rules, sometimes by majority, so a state can be outvoted. **Intergovernmental** = authority between the states: governments bargain as sovereign equals, each keeping a veto. The EU combines both.",
       "hint": "Above the states vs between the states.",
       "tags": [
         "supranational",
@@ -113,7 +50,7 @@
       "source": "Lecture"
     },
     {
-      "id": "eu1-09",
+      "id": "eu1-04",
       "type": "compare",
       "front": "Compare **deepening** and **widening**.",
       "back": "**Deepening** (vertical): scope and depth grow, more policy areas become European, authority moves upward. **Widening** (horizontal): territory grows, more states join. They often happen together but can pull against each other.",
@@ -126,635 +63,23 @@
       "source": "Lecture"
     },
     {
-      "id": "eu1-10",
-      "type": "reverse",
-      "front": "Which direction of integration is the vertical one, where authority moves upward into more policy areas?",
-      "back": "**Deepening.**",
-      "hint": "More shared authority.",
-      "tags": [
-        "deepening"
-      ],
-      "source": "Lecture"
-    },
-    {
-      "id": "eu1-11",
-      "type": "reverse",
-      "front": "Which direction of integration is the horizontal one, where more states join?",
-      "back": "**Widening.**",
-      "hint": "The club gets bigger.",
-      "tags": [
-        "widening"
-      ],
-      "source": "Lecture"
-    },
-    {
-      "id": "eu1-12",
-      "type": "apply",
-      "front": "Classify each as deepening, widening, both, or reversal: (a) Maastricht and the euro; (b) the 2004 big bang; (c) SEA plus Southern enlargement; (d) Brexit.",
-      "back": "(a) **Deepening**: same members, more shared authority. (b) **Widening**: 10 new members. (c) **Both**: single market push plus Greece, Spain, Portugal joining. (d) **Reversal**: a member leaves.",
-      "hint": "Vertical · horizontal · both · leftward.",
-      "tags": [
-        "deepening",
-        "widening",
-        "brexit",
-        "apply"
-      ],
-      "source": "Lecture"
-    },
-    {
-      "id": "eu1-13",
-      "type": "reverse",
-      "front": "Name the full set of possible directions for integration.",
-      "back": "**Deepening · widening · both · contestation · disintegration.**",
-      "hint": "The arrow can also point left.",
-      "tags": [
-        "deepening",
-        "widening",
-        "disintegration"
-      ],
-      "source": "Lecture"
-    },
-    {
-      "id": "eu1-14",
-      "type": "mechanism",
-      "front": "What three post war needs drove integration (McCormick)?",
-      "back": "1) Rebuild shattered **economies** (output had halved). 2) Provide **security** as the Cold War set in. 3) **Tame nationalism**, discredited by the war.",
-      "hint": "Economy → security → nationalism.",
-      "tags": [
-        "origins",
-        "mechanism"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-15",
-      "type": "reverse",
-      "front": "What was the linchpin of the whole post war project?",
-      "back": "Reconciliation between France and Germany.",
-      "hint": "Bind the two historic enemies.",
-      "tags": [
-        "origins"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-16",
-      "type": "apply",
-      "front": "Why was coal and steel chosen as the first area to pool?",
-      "back": "Coal and steel were the base of German (Ruhr) industrial power. Pooling them made West Germany reliant on neighbours and eased French fear of German revival.",
-      "hint": "The building blocks of war.",
-      "tags": [
-        "origins",
-        "coal-steel",
-        "apply"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-17",
-      "type": "reverse",
-      "front": "Which 1948 to 1951 US aid programme, channelled via the OEEC, pushed European governments to work together?",
-      "back": "The **Marshall Plan** (about $12.5 bn).",
-      "hint": "The economic scaffolding.",
-      "tags": [
-        "marshall-plan",
-        "origins"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-18",
-      "type": "reverse",
-      "front": "Which 1949 alliance gave the security shield under which integration could safely proceed?",
-      "back": "**NATO.**",
-      "hint": "An attack on one is an attack on all.",
-      "tags": [
-        "nato",
-        "origins"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-19",
-      "type": "apply",
-      "front": "What was the founders' false start in defence, and what killed it?",
-      "back": "The **European Defence Community** (proposed 1950). The **French National Assembly rejected it in 1954**: no British support, fear of German rearmament, and humiliation at Dien Bien Phu.",
-      "hint": "Defence first failed.",
-      "tags": [
-        "edc",
-        "origins",
-        "apply"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-20",
-      "type": "apply",
-      "front": "What lesson did the founders draw from the EDC's collapse?",
-      "back": "Integrate through **low politics economics first** (Monnet's step by step through concrete achievements), not high politics defence.",
-      "hint": "The sequence neofunctionalism later theorised.",
-      "tags": [
-        "edc",
-        "monnet",
-        "apply"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-21",
+      "id": "eu1-05",
       "type": "definition",
-      "front": "What was the Schuman Declaration (1950)?",
-      "back": "Place French and German coal and steel under a common **High Authority**, a first step toward federation making war materially impossible.",
-      "hint": "Drafted by Monnet, announced by Schuman.",
-      "tags": [
-        "schuman",
-        "origins"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-22",
-      "type": "reverse",
-      "front": "Which 1951/52 treaty created the first supranational European body, pooling coal and steel among the Six?",
-      "back": "The **European Coal and Steel Community (ECSC)**, by the Treaty of Paris.",
-      "hint": "First supranational transfer of powers.",
-      "tags": [
-        "ecsc",
-        "timeline"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-23",
-      "type": "reverse",
-      "front": "Name the six founding member states.",
-      "back": "**France, West Germany, Italy, Belgium, the Netherlands, Luxembourg.**",
-      "hint": "The original Six.",
-      "tags": [
-        "ecsc",
-        "founders"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-24",
-      "type": "definition",
-      "front": "What did the Treaties of Rome (1957) create and aim for?",
-      "back": "The **EEC and Euratom**, committing the Six to a **common market** within 12 years.",
-      "hint": "From coal and steel to a general market.",
-      "tags": [
-        "rome",
-        "eec",
-        "timeline"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-25",
-      "type": "definition",
-      "front": "What is the common market (four freedoms)?",
-      "back": "Free movement of **people, money, services** and goods, plus a common external tariff.",
-      "hint": "Four freedoms.",
-      "tags": [
-        "common-market",
-        "four-freedoms"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-26",
-      "type": "reverse",
-      "front": "What was completed ahead of schedule in 1968, alongside the CAP?",
-      "back": "The **customs union.**",
-      "hint": "A single external tariff.",
-      "tags": [
-        "customs-union",
-        "cap",
-        "timeline"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-27",
-      "type": "reverse",
-      "front": "In 1965 to 1966 de Gaulle boycotted the Council over Commission power, voting and the budget. Name this crisis.",
-      "back": "The **empty chair crisis.**",
-      "hint": "De Gaulle's empty chair.",
-      "tags": [
-        "empty-chair",
-        "de-gaulle"
-      ],
-      "source": "Lecture / McCormick"
-    },
-    {
-      "id": "eu1-28",
-      "type": "reverse",
-      "front": "Which 1966 compromise ended the empty chair crisis and reaffirmed the national veto?",
-      "back": "The **Luxembourg Compromise.**",
-      "hint": "The veto returns.",
-      "tags": [
-        "luxembourg-compromise",
-        "veto"
-      ],
-      "source": "Lecture / McCormick"
-    },
-    {
-      "id": "eu1-29",
-      "type": "apply",
-      "front": "Why does the empty chair crisis matter for integration theory?",
-      "back": "It contradicted neofunctionalism's assumption of automaticity: the state struck back. It became the first big evidence for the intergovernmental side. Haas later called his theory obsolescent (1976).",
-      "hint": "The state struck back.",
-      "tags": [
-        "empty-chair",
-        "neofunctionalism",
-        "apply"
-      ],
-      "source": "Lecture / McCormick"
-    },
-    {
-      "id": "eu1-30",
-      "type": "mechanism",
-      "front": "Trace the enlargement waves from 6 to 28 members.",
-      "back": "1) **1973**: UK, Ireland, Denmark. 2) **1981/86**: Greece, then Spain and Portugal. 3) **1995**: Austria, Finland, Sweden. 4) **2004**: 10 states (big bang). 5) **2007**: Bulgaria, Romania. 6) **2013**: Croatia, reaching 28.",
-      "hint": "6 → 9 → 12 → 15 → 25 → 27 → 28.",
-      "tags": [
-        "enlargement",
-        "widening",
-        "mechanism"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-31",
-      "type": "apply",
-      "front": "Why did the UK only join in 1973, not earlier?",
-      "back": "**De Gaulle vetoed it twice** (1963, 1967), fearing British membership meant US influence. The UK joined after he resigned.",
-      "hint": "Vetoed twice.",
-      "tags": [
-        "enlargement",
-        "uk",
-        "de-gaulle",
-        "apply"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-32",
-      "type": "reverse",
-      "front": "Which country's voters rejected membership in 1972 and again in 1994?",
-      "back": "**Norway.**",
-      "hint": "Twice said no.",
-      "tags": [
-        "enlargement",
-        "norway"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-33",
-      "type": "definition",
-      "front": "What did the 1981/86 Southern enlargement achieve politically?",
-      "back": "It anchored **new democracies** (Greece, Spain, Portugal) after dictatorship and reduced dominance by France and Germany.",
-      "hint": "Anchoring democracy.",
-      "tags": [
-        "enlargement",
-        "southern"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-34",
-      "type": "definition",
-      "front": "What was the 2004 big bang enlargement?",
-      "back": "10 states joined (8 post communist plus Cyprus and Malta), symbolising the end of the Cold War division of Europe.",
-      "hint": "The largest single wave.",
-      "tags": [
-        "enlargement",
-        "big-bang"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-35",
-      "type": "definition",
-      "front": "What are the Copenhagen criteria (1993)?",
-      "back": "Three conditions to join: 1) stable **democracy**, human rights, rule of law; 2) a functioning **market economy**; 3) capacity to adopt the **acquis**.",
-      "hint": "Democracy · market economy · acquis.",
-      "tags": [
-        "copenhagen-criteria",
-        "acquis"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-36",
-      "type": "definition",
-      "front": "What is the *acquis communautaire*?",
-      "back": "The whole existing body of **EU law** that applicants must adopt to join.",
-      "hint": "Everything already agreed.",
-      "tags": [
-        "acquis"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-37",
-      "type": "definition",
-      "front": "What is conditionality in enlargement?",
-      "back": "Enlargement drove **domestic change** in applicants: they had to reform to meet EU conditions before joining.",
-      "hint": "Reform to get in.",
-      "tags": [
-        "conditionality",
-        "enlargement"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-38",
-      "type": "definition",
-      "front": "What did the Single European Act (1986/87) aim to complete?",
-      "back": "The **single market by 31 December 1992** (scrap controls, harmonise standards, mutual recognition), and it made EMU an objective.",
-      "hint": "First big treaty change since Rome.",
-      "tags": [
-        "sea",
-        "single-market",
-        "deepening"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-39",
-      "type": "definition",
-      "front": "What did the Schengen Agreement (1985) do?",
-      "back": "Abolished internal border controls between members; later folded into EU law by the Amsterdam Treaty.",
-      "hint": "Open internal borders.",
-      "tags": [
-        "schengen"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-40",
-      "type": "reverse",
-      "front": "Which 1992/93 treaty created the European Union?",
-      "back": "The **Maastricht Treaty.**",
-      "hint": "From Community to Union.",
-      "tags": [
-        "maastricht",
-        "timeline"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-41",
-      "type": "reverse",
-      "front": "Name Maastricht's three pillars.",
-      "back": "1) the **European Community**; 2) **Common Foreign and Security Policy**; 3) **Justice and Home Affairs**.",
-      "hint": "EC · CFSP · JHA.",
-      "tags": [
-        "maastricht",
-        "three-pillars"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-42",
-      "type": "definition",
-      "front": "Which Maastricht pillars were intergovernmental, and what abolished them?",
-      "back": "Pillars 2 and 3 (**CFSP** and **JHA**) were intergovernmental; the **Treaty of Lisbon (2009)** abolished them.",
-      "hint": "Killed by Lisbon.",
-      "tags": [
-        "maastricht",
-        "three-pillars",
-        "lisbon"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-43",
-      "type": "definition",
-      "front": "Besides the pillars, what did Maastricht introduce?",
-      "back": "**EU citizenship**, the **Delors plan for EMU**, and new EP powers (**codecision**).",
-      "hint": "Citizenship, EMU, codecision.",
-      "tags": [
-        "maastricht",
-        "citizenship",
-        "emu"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-44",
-      "type": "reverse",
-      "front": "When did the euro arrive electronically, and when as notes and coins?",
-      "back": "**Electronic in 1999, notes and coins in 2002.**",
-      "hint": "Two dates.",
-      "tags": [
-        "euro",
-        "timeline"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-45",
-      "type": "reverse",
-      "front": "Which three states opted out of the euro?",
-      "back": "**Denmark, Sweden and the UK.**",
-      "hint": "Kept their own currency.",
-      "tags": [
-        "euro",
-        "opt-out"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-46",
-      "type": "definition",
-      "front": "Why is joining the euro a clear example of deepening?",
-      "back": "Members give up **national monetary policy** and become deeply interdependent, moving authority upward.",
-      "hint": "Surrendering monetary control.",
-      "tags": [
-        "euro",
-        "deepening"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-47",
-      "type": "definition",
-      "front": "What was the main purpose of the Treaty of Nice (2001)?",
-      "back": "To **resize the institutions** to prepare for a much larger membership.",
-      "hint": "Getting ready for widening.",
-      "tags": [
-        "nice",
-        "institutions"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-48",
-      "type": "mechanism",
-      "front": "How did the Treaty of Lisbon come about?",
-      "back": "A 2004 **Constitutional Treaty** was rejected by referendums in **France and the Netherlands (2005)**. Most of it was salvaged as the **Treaty of Lisbon (2009)**.",
-      "hint": "Constitution killed, then salvaged.",
-      "tags": [
-        "lisbon",
-        "constitution",
-        "mechanism"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-49",
-      "type": "definition",
-      "front": "What key changes did the Treaty of Lisbon (2009) bring?",
-      "back": "A permanent **European Council President**, a **High Representative**, pillars abolished, more **QMV**, and **Article 50** (right to leave).",
-      "hint": "President, High Rep, QMV, Article 50.",
-      "tags": [
-        "lisbon",
-        "deepening"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-50",
-      "type": "reverse",
-      "front": "Which treaty article created an explicit right to leave the EU?",
-      "back": "**Article 50**, in the Treaty of Lisbon.",
-      "hint": "Used by the UK.",
-      "tags": [
-        "article-50",
-        "lisbon",
-        "brexit"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-51",
-      "type": "definition",
-      "front": "What is the permissive consensus?",
-      "back": "The old, quietly elite driven phase where publics barely noticed and let elites decide on integration.",
-      "hint": "Publics let elites decide.",
-      "tags": [
-        "permissive-consensus"
-      ],
-      "source": "Lecture / McCormick"
-    },
-    {
-      "id": "eu1-52",
-      "type": "definition",
-      "front": "What is the politicization of European integration?",
-      "back": "Integration became loudly contested, tied to distribution, sovereignty, migration and identity. Euroscepticism emerged.",
-      "hint": "From quiet to loud.",
-      "tags": [
-        "politicization",
-        "euroscepticism"
-      ],
-      "source": "Lecture / McCormick"
-    },
-    {
-      "id": "eu1-53",
-      "type": "reverse",
-      "front": "Which 1992 event broke the permissive consensus?",
-      "back": "The **Danish 'no' to Maastricht (1992)**.",
-      "hint": "A referendum shock.",
-      "tags": [
-        "permissive-consensus",
-        "maastricht"
-      ],
-      "source": "Lecture / McCormick"
-    },
-    {
-      "id": "eu1-54",
-      "type": "definition",
-      "front": "What is the polycrisis (Juncker's word)?",
-      "back": "A cascade of overlapping crises hitting the EU from the late 2000s.",
-      "hint": "Many crises at once.",
-      "tags": [
-        "polycrisis"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-55",
-      "type": "synthesis",
-      "front": "Name McCormick's seven crises in rough order.",
-      "back": "1) **Constitutional Treaty** failure (2005); 2) **global financial crisis** (2007); 3) **euro / sovereign debt crisis** (2009); 4) **rule of law crisis** (Hungary, Poland); 5) **refugee crisis** (2014 to 2015); 6) **Brexit**; 7) **Covid 19** (2020).",
-      "hint": "Constitution · finance · euro · rule of law · refugees · Brexit · Covid.",
-      "tags": [
-        "polycrisis",
-        "seven-crises",
-        "synthesis"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-56",
-      "type": "apply",
-      "front": "What triggered the euro / sovereign debt crisis from 2009?",
-      "back": "Greece's deficit hit about **13%** versus the 3% limit. Bailouts by the EU, **ECB** and **IMF** came conditional on **austerity**, with Grexit fears.",
-      "hint": "Greek deficit and bailouts.",
-      "tags": [
-        "eurozone-crisis",
-        "apply"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-57",
-      "type": "reverse",
-      "front": "What did UK voters decide in June 2016, and when did the UK leave?",
-      "back": "**Leave won 52% to 48%** (72% turnout). The UK formally left in **January 2020**.",
-      "hint": "A narrow Leave win.",
-      "tags": [
-        "brexit",
-        "timeline"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-58",
-      "type": "apply",
-      "front": "What did Brexit reveal about who voted Leave and why?",
-      "back": "Leave support was highest among **older, less educated** voters, rode **low public knowledge** of the EU, and reflected a broader **rejection of globalization**.",
-      "hint": "Older, less educated, low knowledge.",
-      "tags": [
-        "brexit",
-        "apply"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-59",
-      "type": "synthesis",
-      "front": "What theoretical point does Brexit make, and what are the two readings of it?",
-      "back": "Point: integration is **not one directional**; the arrow can point left. Two readings: a **warning** of the costs of leaving and a chance for the 27 to deepen, or (Bellamy and Castiglione) a sign of **fragmentation and disintegration**.",
-      "hint": "The arrow can point left.",
-      "tags": [
-        "brexit",
-        "disintegration",
-        "synthesis"
-      ],
-      "source": "McCormick ch.3"
-    },
-    {
-      "id": "eu1-60",
-      "type": "theory-match",
-      "front": "Which theory says integration is semi automatic and expansive, driven by elites and supranational bureaucrats?",
-      "back": "**Neofunctionalism**, founded by **Ernst Haas** (1958).",
-      "hint": "Spillover carries it forward.",
+      "front": "What is **neofunctionalism** as a theory of integration?",
+      "back": "Integration is **incremental, elite driven, positive sum and self expanding**: once started it tends to carry itself forward, driven by **spillover** and by supranational institutions that acquire autonomy. Founded by **Ernst Haas** (1958).",
+      "hint": "Integration that runs ahead of what states planned.",
       "tags": [
         "neofunctionalism",
         "haas",
-        "theory-match"
+        "definition"
       ],
       "source": "Wiener et al. pp. 44 to 49"
     },
     {
-      "id": "eu1-61",
+      "id": "eu1-06",
       "type": "definition",
-      "front": "What is neofunctionalism's master concept?",
-      "back": "**Spillover**: integration in one area creates pressure to integrate others.",
+      "front": "What is **spillover**, neofunctionalism's master concept?",
+      "back": "Integration in one area creates **pressure to integrate others**: solving a problem in one sector throws up new problems solvable only by integrating the adjacent one.",
       "hint": "The expansive logic of sector integration.",
       "tags": [
         "neofunctionalism",
@@ -763,46 +88,10 @@
       "source": "Wiener et al. pp. 44 to 49"
     },
     {
-      "id": "eu1-62",
-      "type": "definition",
-      "front": "What are neofunctionalism's roots, and who revised it?",
-      "back": "Rooted in **Mitrany's functionalism**; revised by **Lindberg** and **Schmitter**.",
-      "hint": "From functionalism.",
-      "tags": [
-        "neofunctionalism",
-        "lineage"
-      ],
-      "source": "Wiener et al. pp. 44 to 49"
-    },
-    {
-      "id": "eu1-63",
-      "type": "definition",
-      "front": "In neofunctionalism, what is the character of the integration process?",
-      "back": "**Incremental, elite driven, positive sum and self expanding.** Actors stumble from one decision to the next, often under crisis pressure.",
-      "hint": "Stumbling forward.",
-      "tags": [
-        "neofunctionalism",
-        "spillover"
-      ],
-      "source": "Wiener et al. pp. 44 to 49"
-    },
-    {
-      "id": "eu1-64",
-      "type": "definition",
-      "front": "In neofunctionalism, what happens to institutions once created?",
-      "back": "They **acquire autonomy** and push for more integration, becoming engines of further integration.",
-      "hint": "Institutions seek more autonomy.",
-      "tags": [
-        "neofunctionalism",
-        "institutions"
-      ],
-      "source": "Wiener et al. pp. 44 to 49"
-    },
-    {
-      "id": "eu1-65",
+      "id": "eu1-07",
       "type": "mechanism",
-      "front": "Run spillover in its three types.",
-      "back": "1) **Functional**: integrating one sector creates practical problems solvable only by integrating the adjacent one. 2) **Political**: elites and interest groups shift lobbying and loyalties upward. 3) **Cultivated**: supranational institutions broker further integration, upgrading common interests.",
+      "front": "Run **spillover** in its three types.",
+      "back": "1) **Functional**: integrating one sector creates practical problems solvable only by integrating the adjacent one. 2) **Political**: elites and interest groups shift lobbying and loyalties upward to Brussels. 3) **Cultivated**: supranational institutions broker further integration, upgrading common interests.",
       "hint": "Technical problems · shifting loyalties · Eurocrats brokering.",
       "tags": [
         "spillover",
@@ -812,120 +101,23 @@
       "source": "Wiener et al. pp. 44 to 49"
     },
     {
-      "id": "eu1-66",
-      "type": "reverse",
-      "front": "Which spillover type: free movement of workers forces integrated social security and pension rules?",
-      "back": "**Functional spillover.**",
-      "hint": "Adjacent sector problems.",
-      "tags": [
-        "spillover",
-        "functional"
-      ],
-      "source": "Wiener et al. / Lecture"
-    },
-    {
-      "id": "eu1-67",
-      "type": "reverse",
-      "front": "Which spillover type: firms and unions move their lobbying to Brussels?",
-      "back": "**Political spillover.**",
-      "hint": "Loyalties move up.",
-      "tags": [
-        "spillover",
-        "political"
-      ],
-      "source": "Wiener et al. / Lecture"
-    },
-    {
-      "id": "eu1-68",
-      "type": "reverse",
-      "front": "Which spillover type: the Commission brokers a package deal that upgrades common interests?",
-      "back": "**Cultivated spillover.**",
-      "hint": "Eurocrats broker.",
-      "tags": [
-        "spillover",
-        "cultivated"
-      ],
-      "source": "Wiener et al. / Lecture"
-    },
-    {
-      "id": "eu1-69",
-      "type": "synthesis",
-      "front": "When did neofunctionalism look vindicated, when did it fail, and when did it revive?",
-      "back": "**Vindicated** into the mid 1960s (ECSC to EEC, early customs union, CAP). **Failed** at the empty chair crisis (1965 to 1966); Haas called it obsolescent (1976). It **revived** in the mid 1980s with the single market push.",
-      "hint": "Boom, bust, comeback.",
-      "tags": [
-        "neofunctionalism",
-        "empty-chair",
-        "synthesis"
-      ],
-      "source": "Wiener et al. pp. 44 to 49"
-    },
-    {
-      "id": "eu1-70",
-      "type": "theory-match",
-      "front": "Which theory calls integration a series of rational choices made by national leaders?",
-      "back": "**Liberal Intergovernmentalism (LI)**, founded by **Andrew Moravcsik** (1998).",
-      "hint": "States as masters of the treaty.",
+      "id": "eu1-08",
+      "type": "definition",
+      "front": "What is **liberal intergovernmentalism (LI)**?",
+      "back": "Integration is a series of **rational choices by national leaders**. States are the critical, unitary, boundedly rational actors and remain **masters of the treaty**; the EU is an international regime for policy coordination. Founded by **Andrew Moravcsik** (1998).",
+      "hint": "States hold the pen.",
       "tags": [
         "liberal-intergovernmentalism",
         "moravcsik",
-        "theory-match"
+        "definition"
       ],
       "source": "Wiener et al. pp. 64 to 70"
     },
     {
-      "id": "eu1-71",
-      "type": "definition",
-      "front": "In LI, what is the status of member states?",
-      "back": "States are the **masters of the treaty**; the EU is an international regime for policy coordination.",
-      "hint": "Governments hold the pen.",
-      "tags": [
-        "liberal-intergovernmentalism",
-        "states"
-      ],
-      "source": "Wiener et al. pp. 64 to 70"
-    },
-    {
-      "id": "eu1-72",
-      "type": "definition",
-      "front": "What are LI's two core assumptions?",
-      "back": "1) States are the **critical, unitary actors**. 2) They are **boundedly rational**, maximising utility.",
-      "hint": "Unitary and boundedly rational.",
-      "tags": [
-        "liberal-intergovernmentalism",
-        "assumptions"
-      ],
-      "source": "Wiener et al. pp. 64 to 70"
-    },
-    {
-      "id": "eu1-73",
-      "type": "definition",
-      "front": "What are LI's roots, and its status in the field today?",
-      "back": "Roots in **Hoffmann's intergovernmentalism** (1966); today LI is the field's **baseline theory**.",
-      "hint": "The standard everyone tests against.",
-      "tags": [
-        "liberal-intergovernmentalism",
-        "lineage"
-      ],
-      "source": "Wiener et al. pp. 64 to 70"
-    },
-    {
-      "id": "eu1-74",
-      "type": "definition",
-      "front": "Why is LI not the same as realism?",
-      "back": "It takes **domestic economic interests** seriously and treats institutions as useful, not just power politics.",
-      "hint": "Domestic interests matter.",
-      "tags": [
-        "liberal-intergovernmentalism",
-        "realism"
-      ],
-      "source": "Wiener et al. pp. 64 to 70"
-    },
-    {
-      "id": "eu1-75",
+      "id": "eu1-09",
       "type": "mechanism",
-      "front": "Run Moravcsik's three stage model of an integration decision.",
-      "back": "1) **National preferences** (a liberal theory): built bottom up from domestic economic interests. 2) **Interstate bargaining** (intergovernmental): hard bargaining over gains, power from asymmetrical interdependence. 3) **Institutional choice** (regime theory): institutions lock in credible commitments.",
+      "front": "Run **Moravcsik's three stage model** of an integration decision.",
+      "back": "1) **National preferences** (liberal): built bottom up from domestic economic interests. 2) **Interstate bargaining** (intergovernmental): hard bargaining over gains, power from asymmetrical interdependence. 3) **Institutional choice** (regime theory): institutions lock in credible commitments.",
       "hint": "Preferences → bargaining → institutions.",
       "tags": [
         "liberal-intergovernmentalism",
@@ -935,10 +127,10 @@
       "source": "Wiener et al. pp. 64 to 70"
     },
     {
-      "id": "eu1-76",
+      "id": "eu1-10",
       "type": "definition",
-      "front": "What is asymmetrical interdependence in LI?",
-      "back": "The state that needs the deal **least** is most powerful, because it can most credibly **walk away**.",
+      "front": "What is **asymmetrical interdependence** in LI?",
+      "back": "The state that needs the deal **least** is most powerful, because it can most credibly **walk away**. Outcomes therefore tend toward the lowest common denominator.",
       "hint": "The better outside option wins.",
       "tags": [
         "asymmetrical-interdependence",
@@ -947,99 +139,10 @@
       "source": "Wiener et al. pp. 64 to 70"
     },
     {
-      "id": "eu1-77",
-      "type": "reverse",
-      "front": "In LI, outcomes tend toward what, because big less dependent states dominate?",
-      "back": "The **lowest common denominator.**",
-      "hint": "The weakest ambition wins.",
-      "tags": [
-        "liberal-intergovernmentalism",
-        "bargaining"
-      ],
-      "source": "Wiener et al. pp. 64 to 70"
-    },
-    {
-      "id": "eu1-78",
+      "id": "eu1-11",
       "type": "compare",
-      "front": "In LI, what are the two ways states handle sovereignty when building institutions?",
-      "back": "1) **Pooling**: deciding together, e.g. qualified majority voting. 2) **Delegating**: handing authority to a body (Commission, ECB, ECJ). Both make commitments credible.",
-      "hint": "Pool vs delegate.",
-      "tags": [
-        "pooling",
-        "delegating",
-        "liberal-intergovernmentalism",
-        "compare"
-      ],
-      "source": "Wiener et al. pp. 64 to 70"
-    },
-    {
-      "id": "eu1-79",
-      "type": "definition",
-      "front": "In LI, why do states build institutions?",
-      "back": "To make **commitments credible** and stop each other defecting later, a prisoner's dilemma fix; institutions also cut transaction costs.",
-      "hint": "Locking in the deal.",
-      "tags": [
-        "credible-commitments",
-        "liberal-intergovernmentalism"
-      ],
-      "source": "Wiener et al. pp. 64 to 70"
-    },
-    {
-      "id": "eu1-80",
-      "type": "definition",
-      "front": "How does LI view the EU's supranational bodies?",
-      "back": "As **weak and endogenous** instruments; the real guarantee of commitment is domestic, empowering national executives and courts.",
-      "hint": "Weak, endogenous, domestic anchor.",
-      "tags": [
-        "liberal-intergovernmentalism",
-        "institutions"
-      ],
-      "source": "Wiener et al. pp. 64 to 70"
-    },
-    {
-      "id": "eu1-81",
-      "type": "synthesis",
-      "front": "What are the main critiques of LI?",
-      "back": "It explains **grand treaty bargains** well but is weak on **everyday politics**, treats institutions too thinly, and its unitary state assumption flattens domestic pluralism.",
-      "hint": "Great on treaties, weak on daily politics.",
-      "tags": [
-        "liberal-intergovernmentalism",
-        "critique",
-        "synthesis"
-      ],
-      "source": "Wiener et al. pp. 64 to 70"
-    },
-    {
-      "id": "eu1-82",
-      "type": "compare",
-      "front": "Explain the eurozone crisis the neofunctionalist way versus the LI way.",
-      "back": "**NF**: a functional gap (pooled monetary but national fiscal policy) created spillover; Commission and ECB pushed for Banking Union. **LI**: states bargained over who pays; the Northern bloc delayed support to force the South to accept the Fiscal Compact.",
-      "hint": "Functional gap vs distributional bargain.",
-      "tags": [
-        "eurozone-crisis",
-        "neofunctionalism",
-        "liberal-intergovernmentalism",
-        "compare"
-      ],
-      "source": "Lecture / worked case"
-    },
-    {
-      "id": "eu1-83",
-      "type": "reverse",
-      "front": "In the euro crisis, which institution breached its impartiality to demand a Banking Union?",
-      "back": "The **ECB.**",
-      "hint": "The central bank.",
-      "tags": [
-        "eurozone-crisis",
-        "ecb"
-      ],
-      "source": "Lecture / worked case"
-    },
-    {
-      "id": "eu1-84",
-      "type": "compare",
-      "front": "Put neofunctionalism and LI side by side on who is in charge and what drives integration.",
-      "back": "**Who's in charge**: NF elites and supranational institutions; LI states. **What drives it**: NF spillover (semi automatic, positive sum); LI rational state choices (preferences → bargaining → institutions). **Loyalties shift up?** NF yes; LI no.",
+      "front": "Put **neofunctionalism** and **LI** side by side on who is in charge and what drives integration.",
+      "back": "**Who is in charge**: NF elites and supranational institutions; LI states. **What drives it**: NF spillover (semi automatic, positive sum); LI rational state choices (preferences → bargaining → institutions). **Loyalties shift up?** NF yes; LI no.",
       "hint": "Runaway logic vs controlled bargains.",
       "tags": [
         "neofunctionalism",
@@ -1049,28 +152,17 @@
       "source": "Lecture / Wiener et al."
     },
     {
-      "id": "eu1-85",
-      "type": "synthesis",
-      "front": "What is the essay takeaway about the two theories?",
-      "back": "Treat them as **two lenses**, not right or wrong. NF is strongest where integration **outruns** what governments planned; LI is strongest at big **treaty bargains**.",
-      "hint": "Two lenses, not a winner.",
+      "id": "eu1-12",
+      "type": "compare",
+      "front": "Compare **permissive consensus** and **constraining dissensus**.",
+      "back": "**Permissive consensus**: the old, quietly elite driven phase where publics barely noticed and left integration to the elites. **Constraining dissensus**: public opinion is now mobilised and **limits** what leaders can do (Hooghe and Marks).",
+      "hint": "Publics let elites decide vs publics tie their hands.",
       "tags": [
-        "synthesis",
-        "two-lenses"
+        "permissive-consensus",
+        "constraining-dissensus",
+        "compare"
       ],
-      "source": "Lecture"
-    },
-    {
-      "id": "eu1-86",
-      "type": "synthesis",
-      "front": "What is the reusable four step exam template for integration theory?",
-      "back": "**Claim → mechanism → evidence → how the other theory explains the same facts.**",
-      "hint": "Always answer the rival theory.",
-      "tags": [
-        "synthesis",
-        "exam-template"
-      ],
-      "source": "Lecture"
+      "source": "Lecture / McCormick"
     }
   ]
 }

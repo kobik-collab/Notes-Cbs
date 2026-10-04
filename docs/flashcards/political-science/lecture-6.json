@@ -8,534 +8,117 @@
   "cardTypes": {
     "definition": "Define",
     "reverse": "Name it",
-    "mechanism": "Mechanism",
-    "theory-match": "Match the theory",
-    "apply": "Apply it",
     "compare": "Compare",
-    "synthesis": "Big picture"
+    "mechanism": "Mechanism"
   },
   "cards": [
     {
       "id": "l6-01",
-      "type": "definition",
-      "front": "What is an **institution**?",
-      "back": "The **rules and norms that enable or constrain actors**: the *rules of the game* (constitutions, laws, procedures, conventions).",
-      "hint": "Rules of the game.",
-      "tags": ["institution", "definition", "auw"],
+      "type": "compare",
+      "front": "**Institution** vs **organization**?",
+      "back": "**Institution** = the **rules and norms that enable or constrain actors** (the *rules of the game*). **Organization** = a **group of actors** (the *players*, e.g. a party, firm or union).",
+      "hint": "Rules of the game vs the players.",
+      "tags": ["institution", "organization", "compare", "auw"],
       "source": "Lecture (AUW)"
     },
     {
       "id": "l6-02",
       "type": "definition",
-      "front": "What is an **organization**?",
-      "back": "A **group of actors**: the *players* (for example a party, a firm, a union).",
-      "hint": "The players.",
-      "tags": ["organization", "definition", "auw"],
-      "source": "Lecture (AUW)"
-    },
-    {
-      "id": "l6-03",
-      "type": "reverse",
-      "front": "Which distinction does the whole lecture turn on?",
-      "back": "**Institution ≠ organization**: rules and norms (rules of the game) versus groups of actors (the players).",
-      "hint": "Rules versus players.",
-      "tags": ["institution", "organization", "reverse", "auw"],
-      "source": "Lecture (AUW)"
-    },
-    {
-      "id": "l6-04",
-      "type": "apply",
-      "front": "In Ayca's example, is the **Social Democratic Party** an institution or an organization?",
-      "back": "The **party is the organization** (a group of actors). The **institutions** are its constitutional rules, statutes and unwritten norms, for example whether an MP can defy the leadership and keep their seat.",
-      "hint": "The party versus the rules governing it.",
-      "tags": ["apply", "institution", "organization", "auw"],
-      "source": "Lecture (AUW)"
-    },
-    {
-      "id": "l6-05",
-      "type": "definition",
-      "front": "In the structure versus agency debate, what is **structure**?",
-      "back": "The **context that shapes action** (institutions, rules, power, culture). Outcomes are driven by the situation actors are in; actors are almost carried along.",
-      "hint": "The board and rules of the game.",
-      "tags": ["structure-agency", "definition"],
-      "source": "Lecture (AUW)"
-    },
-    {
-      "id": "l6-06",
-      "type": "definition",
-      "front": "In the structure versus agency debate, what is **agency**?",
-      "back": "Actors' **capacity to choose and act independently** (strategy, leadership, will). Outcomes are driven by what particular people decided to do.",
-      "hint": "The players' free moves.",
-      "tags": ["structure-agency", "definition"],
-      "source": "Lecture (AUW)"
-    },
-    {
-      "id": "l6-07",
-      "type": "compare",
-      "front": "What is New Institutionalism's middle position in the structure versus agency debate?",
-      "back": "**Both**: institutions are the key **structure that shapes agency**. They **enable and constrain** actors without fully determining them.",
-      "hint": "Institutions channel, they do not fully determine.",
-      "tags": ["structure-agency", "new-institutionalism", "compare"],
-      "source": "Lecture (AUW)"
-    },
-    {
-      "id": "l6-08",
-      "type": "compare",
-      "front": "Where do RCI, HI and SI sit on the structure versus agency spectrum?",
-      "back": "1) **SI** most structural (culture constitutes actors' identities and preferences). 2) **RCI** most agency (strategic actors within fixed rules). 3) **HI** in the middle (path dependence and power, but agency at critical junctures).",
-      "hint": "SI → HI → RCI, structural to agency.",
-      "tags": ["structure-agency", "rci", "hi", "si", "compare"],
-      "source": "Lecture (AUW)"
-    },
-    {
-      "id": "l6-09",
-      "type": "definition",
       "front": "What is **New Institutionalism**?",
-      "back": "A family of approaches (from the **1980s**) holding that **institutions shape political behaviour and outcomes**, reviving institutions as an explanation after behavioralism.",
+      "back": "A family of approaches (from the **1980s**) holding that **institutions shape political behaviour and outcomes**. The uniting claim: institutions are **not a neutral backdrop** · they structure what actors do (the schools then disagree on how).",
       "hint": "Institutions brought back in.",
       "tags": ["new-institutionalism", "definition", "hall-taylor"],
       "source": "Hall & Taylor (1996)"
     },
     {
-      "id": "l6-10",
-      "type": "reverse",
-      "front": "What single claim unites all three institutionalisms?",
-      "back": "Institutions are **not a neutral backdrop**: they **structure what actors do**. The schools then disagree on how.",
-      "hint": "Institutions matter; how is contested.",
-      "tags": ["new-institutionalism", "reverse", "hall-taylor"],
+      "id": "l6-03",
+      "type": "compare",
+      "front": "**Calculus** vs **cultural** approach to institutions?",
+      "back": "**Calculus:** actors are strategic utility maximisers with fixed, exogenous preferences · institutions give **certainty** about others · they persist as a **Nash equilibrium**. **Cultural:** behaviour is bounded by a worldview · actors are satisficers · institutions supply moral and cognitive templates · they persist because **taken for granted**.",
+      "hint": "Calculators vs role players.",
+      "tags": ["calculus", "cultural", "compare", "hall-taylor"],
       "source": "Hall & Taylor (1996)"
     },
     {
-      "id": "l6-11",
-      "type": "synthesis",
-      "front": "What are the **three waves** that make New Institutionalism 'new'?",
-      "back": "1) **Old institutionalism** (early 1900s): descriptive study of formal institutions. 2) **Behavioralism** (1960s and 1970s): institutions demoted to epiphenomena. 3) **New Institutionalism** (1980s and 1990s): brings institutions back in to do real explanatory work.",
-      "hint": "Old formalism → behavioralism → institutions back in.",
-      "tags": ["new-institutionalism", "behavioralism", "three-waves", "synthesis"],
-      "source": "Hall & Taylor (1996) / lecture"
-    },
-    {
-      "id": "l6-12",
-      "type": "definition",
-      "front": "What was **'old' institutionalism**?",
-      "back": "The **descriptive study of formal institutions** (constitutions, legal codes, the machinery of government). Static, atheoretical and country by country; it described rules without explaining behaviour.",
-      "hint": "Formal rules on paper, no explanation.",
-      "tags": ["old-institutionalism", "definition"],
-      "source": "Hall & Taylor (1996) / lecture"
-    },
-    {
-      "id": "l6-13",
-      "type": "definition",
-      "front": "What was **behavioralism**?",
-      "back": "The view that politics is a **science of observable behaviour** (attitudes, voting). It demoted institutions to **epiphenomena**, just the aggregate of individual choices.",
-      "hint": "Rules 'don't matter'; only behaviour.",
-      "tags": ["behavioralism", "definition"],
-      "source": "Hall & Taylor (1996) / lecture"
-    },
-    {
-      "id": "l6-14",
+      "id": "l6-04",
       "type": "compare",
-      "front": "What counts as an 'institution' for RCI, HI and SI?",
-      "back": "1) **RCI** (narrowest): rules of the game (constitutions, laws, court decisions). 2) **HI** (middle): the above plus procedures, routines, norms, conventions. 3) **SI** (broadest): the above plus symbol systems, cognitive scripts and frames of meaning.",
-      "hint": "Rules → plus routines → plus frames of meaning.",
+      "front": "How does the definition of an **institution** widen across RCI, HI and SI?",
+      "back": "1) **RCI** (narrowest): **rules of the game** (constitutions, laws, court decisions). 2) **HI** (middle): the above **plus procedures, routines, norms, conventions**. 3) **SI** (broadest): the above **plus symbol systems, cognitive scripts and frames of meaning**.",
+      "hint": "Rules → routines → frames of meaning.",
       "tags": ["widening-definition", "rci", "hi", "si", "compare"],
-      "source": "Hall & Taylor (1996) / lecture"
-    },
-    {
-      "id": "l6-15",
-      "type": "definition",
-      "front": "What is the **calculus approach** to institutions?",
-      "back": "Actors are **strategic utility maximisers** with fixed, exogenous preferences; institutions provide **certainty** about others through information and enforcement.",
-      "hint": "People as calculators.",
-      "tags": ["calculus", "definition", "hall-taylor"],
       "source": "Hall & Taylor (1996)"
     },
     {
-      "id": "l6-16",
-      "type": "definition",
-      "front": "What is the **cultural approach** to institutions?",
-      "back": "Behaviour is **bounded by a worldview**; actors are **satisficers** interpreting via meaning. Institutions provide moral and cognitive templates that shape identities and preferences.",
-      "hint": "People as role players.",
-      "tags": ["cultural", "definition", "hall-taylor"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-17",
-      "type": "compare",
-      "front": "How do the calculus and cultural approaches answer 'how do actors behave' and 'why do institutions persist'?",
-      "back": "**Calculus:** actors are strategic maximisers with fixed preferences; institutions persist as a **Nash equilibrium**. **Cultural:** actors interpret via a worldview; institutions persist because **taken for granted**.",
-      "hint": "Calculators versus role players.",
-      "tags": ["calculus", "cultural", "hall-taylor", "compare"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-18",
+      "id": "l6-05",
       "type": "reverse",
-      "front": "Which school is pure calculus, which is pure cultural, and which is both?",
-      "back": "**RCI** = pure calculus. **SI** = pure cultural. **HI** = both (eclectic).",
-      "hint": "RCI, SI, HI across the two archetypes.",
+      "front": "Which school is **pure calculus**, which is **pure cultural**, and which is **both**?",
+      "back": "**RCI** = pure calculus. **SI** = pure cultural. **HI** = both (eclectic), using calculus and cultural reasoning together.",
+      "hint": "RCI · SI · HI across the two archetypes.",
       "tags": ["reverse", "rci", "hi", "si", "calculus", "cultural"],
       "source": "Hall & Taylor (1996)"
     },
     {
-      "id": "l6-19",
-      "type": "theory-match",
-      "front": "Which institutionalism says institutions are **rules that structure strategic interaction among fixed preference utility maximisers**?",
-      "back": "**Rational choice institutionalism (RCI)**, the **calculus** school. Institutions persist because they are a **Nash equilibrium**.",
-      "hint": "Calculators, exogenous preferences, equilibrium.",
-      "tags": ["rci", "theory-match", "nash-equilibrium"],
+      "id": "l6-06",
+      "type": "definition",
+      "front": "What is **rational choice institutionalism (RCI)**?",
+      "back": "The **calculus** school: institutions are **rules that structure strategic interaction** among fixed preference utility maximisers · they reduce uncertainty and solve **collective action dilemmas**, enabling gains from exchange · they persist as a **Nash equilibrium**.",
+      "hint": "Rules that make cooperation pay.",
+      "tags": ["rci", "definition", "nash-equilibrium", "hall-taylor"],
       "source": "Hall & Taylor (1996)"
     },
     {
-      "id": "l6-20",
-      "type": "theory-match",
-      "front": "Which institutionalism says institutions **distribute power unevenly and lock countries onto paths**, with change at critical junctures?",
-      "back": "**Historical institutionalism (HI)**: power asymmetries, path dependence and critical junctures. It is **eclectic**, using both calculus and cultural approaches.",
-      "hint": "Tilted playing field; history matters.",
-      "tags": ["hi", "theory-match", "path-dependence", "power"],
+      "id": "l6-07",
+      "type": "definition",
+      "front": "What is **historical institutionalism (HI)**?",
+      "back": "The **eclectic** school: institutions **distribute power unevenly** (mobilization of bias) and lock countries onto **paths** · continuity is the norm through **path dependence**, with big change bunched at **critical junctures**.",
+      "hint": "Tilted playing field · history matters.",
+      "tags": ["hi", "definition", "path-dependence", "power", "hall-taylor"],
       "source": "Hall & Taylor (1996)"
     },
     {
-      "id": "l6-21",
-      "type": "theory-match",
-      "front": "Which institutionalism says institutions are **cultural frames of meaning** that constitute actors' identities and preferences?",
-      "back": "**Sociological institutionalism (SI)**, the **cultural** school. Organizations adopt practices for **legitimacy**, not efficiency; institutions persist because **taken for granted**.",
+      "id": "l6-08",
+      "type": "definition",
+      "front": "What is **sociological institutionalism (SI)**?",
+      "back": "The **cultural** school: institutions are **frames of meaning** (symbol systems, cognitive scripts, moral templates) that constitute actors' **identities and preferences** · organizations adopt practices for **legitimacy**, not efficiency · institutions persist because **taken for granted**.",
       "hint": "Culture is the institution.",
-      "tags": ["si", "theory-match", "legitimacy", "logic-of-appropriateness"],
+      "tags": ["si", "definition", "legitimacy", "frames-of-meaning", "hall-taylor"],
       "source": "Hall & Taylor (1996)"
     },
     {
-      "id": "l6-22",
-      "type": "reverse",
-      "front": "Which school's exemplar object of study is the **US Congress** (committees, rules of procedure)?",
-      "back": "**RCI**. The US Congress puzzle is why the school exists (Shepsle, Weingast, Ostrom, North).",
-      "hint": "The legislature puzzle.",
-      "tags": ["rci", "reverse", "exemplars"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-23",
-      "type": "reverse",
-      "front": "Which school's home turf is **welfare states, tax and labour compared across countries**?",
-      "back": "**HI** (Immergut, Steinmo, Skocpol, Thelen). Cross national public policy is its classic domain.",
-      "hint": "Comparative public policy.",
-      "tags": ["hi", "reverse", "exemplars"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-24",
-      "type": "reverse",
-      "front": "Which school studies **why education ministries worldwide look alike**?",
-      "back": "**SI** (Meyer & Rowan, DiMaggio & Powell, March & Olsen). It studies organizational forms and their diffusion.",
-      "hint": "Organizational forms and diffusion.",
-      "tags": ["si", "reverse", "exemplars"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-25",
-      "type": "mechanism",
-      "front": "Run the **US Congress puzzle** that gave RCI its reason to exist.",
-      "back": "1) Plain rational choice predicts endless **cycling**: any bill loses to a new majority, so no stable laws. 2) Yet Congress passes stable legislation. 3) Its **rules** structure the game: agenda control, committees and enforcement make **logrolling** stick, lowering transaction costs and capturing gains from exchange.",
-      "hint": "Cycling should happen; rules stop it.",
-      "tags": ["rci", "mechanism", "us-congress", "cycling", "collective-action"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-26",
-      "type": "reverse",
-      "front": "What is the concept: **a settled situation where no one gains by breaking ranks alone**?",
-      "back": "**Nash equilibrium**: RCI's account of why institutions persist, because deviating leaves you worse off.",
-      "hint": "Deviation costs you.",
-      "tags": ["rci", "reverse", "nash-equilibrium"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-27",
-      "type": "definition",
-      "front": "What is RCI's **equilibrium paradox**?",
-      "back": "If the status quo is **already a Nash equilibrium**, why would anyone agree to change it? RCI is strong on persistence but weak on origins and change.",
-      "hint": "Why leave an equilibrium?",
-      "tags": ["rci", "definition", "equilibrium-paradox"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-28",
-      "type": "definition",
-      "front": "What is a **collective action dilemma** (RCI's image of politics)?",
-      "back": "A situation where **individually rational choices produce a collectively bad result** (prisoner's dilemma, tragedy of the commons) unless an institution guarantees cooperation.",
-      "hint": "Individually rational, collectively bad.",
-      "tags": ["rci", "definition", "collective-action"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-29",
-      "type": "mechanism",
-      "front": "Explain HI's engine: **path dependence, lock in and critical junctures**. Why does the same pressure give different results across countries?",
-      "back": "Each country inherited a **different institutional track**. Past policy leads groups to organise and build interests that become **costly to shift** (**lock in**). So continuity is normal; big change is bunched at **critical junctures** (crisis or war) that open a branching point.",
-      "hint": "Same shock, different tracks.",
-      "tags": ["hi", "mechanism", "path-dependence", "critical-juncture", "lock-in"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-30",
-      "type": "reverse",
-      "front": "What is the concept: **a crisis moment that opens a branching point onto a new institutional path**?",
-      "back": "**Critical juncture** (HI). Between junctures, path dependence keeps continuity; HI's weak spot is explaining what triggers one.",
-      "hint": "The rare window when the track switches.",
-      "tags": ["hi", "reverse", "critical-juncture"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-31",
-      "type": "definition",
-      "front": "What is **path dependence** (HI)?",
-      "back": "Past choices **lock development onto a track that becomes costly to reverse**, so the longer you stay on it the less likely you are to leave.",
-      "hint": "Costly to switch tracks.",
-      "tags": ["hi", "definition", "path-dependence"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-32",
-      "type": "reverse",
-      "front": "What HI concept says institutions **distribute power unevenly, privileging some groups and demobilising others**?",
-      "back": "**Mobilization of bias** (power asymmetries): the 2nd and 3rd faces of power from Lecture 1. HI's signature move.",
-      "hint": "Tilted playing field.",
-      "tags": ["hi", "reverse", "power", "mobilization-of-bias"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-33",
-      "type": "theory-match",
-      "front": "Which school is **eclectic on behaviour**, using both the calculus and cultural approaches?",
-      "back": "**HI**. Actors sometimes strategically calculate, and sometimes strategies **ossify over time into worldviews** that shape identities.",
-      "hint": "Both calculators and role players.",
-      "tags": ["hi", "theory-match", "calculus", "cultural"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-34",
-      "type": "mechanism",
-      "front": "Explain SI's **logic of appropriateness**, and why you stop at a red light with no one around.",
-      "back": "1) Actors ask **'what fits my role, what is the done thing here?'** rather than 'what pays most?'. 2) Institutions supply the cognitive scripts you need to interpret the world, and even shape what you can imagine doing. 3) The empty red light proves institutions work non instrumentally.",
-      "hint": "'What's done?' not 'what pays?'",
-      "tags": ["si", "mechanism", "logic-of-appropriateness", "red-light"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-35",
-      "type": "reverse",
-      "front": "What is the concept: **organizations in a field come to look identical by copying the legitimate template**?",
-      "back": "**Isomorphism** (SI, DiMaggio & Powell). Forms diffuse for **legitimacy**, not efficiency (Meyer & Rowan: adopted as myths and ceremonies).",
-      "hint": "Firms, schools, ministries end up alike.",
-      "tags": ["si", "reverse", "isomorphism", "dimaggio-powell"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-36",
-      "type": "definition",
-      "front": "What are **frames of meaning** (SI's definition of institutions)?",
-      "back": "**Symbol systems, cognitive scripts and moral templates** that guide action. This dissolves the line between institutions and culture.",
-      "hint": "Institutions are culture.",
-      "tags": ["si", "definition", "frames-of-meaning"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-37",
-      "type": "mechanism",
-      "front": "For SI, why do organizations adopt a practice?",
-      "back": "For **legitimacy**, not efficiency: they adopt what is valued in the wider culture to look proper, **even when the practice is dysfunctional** for their real goals (Campbell: logic of appropriateness versus logic of instrumentality).",
-      "hint": "Legitimacy over efficiency.",
-      "tags": ["si", "mechanism", "legitimacy"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-38",
-      "type": "reverse",
-      "front": "What is SI's answer to **why institutions persist**?",
-      "back": "They are **taken for granted**: so obvious no one questions them, and no single person can change a collective convention alone.",
-      "hint": "So obvious no one questions it.",
-      "tags": ["si", "reverse", "taken-for-granted"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-39",
-      "type": "theory-match",
-      "front": "Whose signature critique is **'bloodless, action without agents, misses power'**?",
-      "back": "**SI**. It captures meaning and legitimacy but can miss power struggles and agency in institutional change.",
-      "hint": "No power, no agents.",
-      "tags": ["theory-match", "critiques", "si"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-40",
-      "type": "theory-match",
-      "front": "Whose signature critique is **thin motivation, exogenous preferences and functionalist origins**?",
-      "back": "**RCI**. You cannot deduce an institution's origins from its consequences, because unintended consequences are everywhere.",
-      "hint": "Too thin, too functionalist.",
-      "tags": ["theory-match", "critiques", "rci"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-41",
-      "type": "theory-match",
-      "front": "Whose signature critique is **vague on the precise causal mechanism and too inductive**?",
-      "back": "**HI**. The price of being eclectic; it leans heavily on digging through the historical record, so it is slow to build general theory.",
-      "hint": "Eclectic, so mechanism is fuzzy.",
-      "tags": ["theory-match", "critiques", "hi"],
-      "source": "Hall & Taylor (1996)"
-    },
-    {
-      "id": "l6-42",
+      "id": "l6-09",
       "type": "compare",
       "front": "How does each school explain **why institutions persist**?",
-      "back": "1) **RCI**: a **Nash equilibrium** (deviation costs you). 2) **HI**: **path dependence** (interests become costly to shift). 3) **SI**: **taken for granted** (no one can change a convention alone).",
+      "back": "1) **RCI**: a **Nash equilibrium** (deviating alone leaves you worse off). 2) **HI**: **path dependence** (interests become costly to shift). 3) **SI**: **taken for granted** (no one can change a collective convention alone).",
       "hint": "Nash · path dependence · taken for granted.",
       "tags": ["compare", "rci", "hi", "si", "persistence"],
       "source": "Hall & Taylor (1996)"
     },
     {
-      "id": "l6-43",
-      "type": "compare",
-      "front": "How does each school explain institutional **change**?",
-      "back": "1) **RCI**: a disrupted equilibrium driven by interests and few veto players. 2) **HI**: **critical junctures**, unintended consequences and agenda setters. 3) **SI**: societal shifts and new paradigms, adopting new templates for legitimacy via diffusion.",
-      "hint": "Broken equilibrium · critical juncture · paradigm shift.",
-      "tags": ["compare", "change-continuity", "rci", "hi", "si"],
-      "source": "Lecture (AUW)"
-    },
-    {
-      "id": "l6-44",
-      "type": "apply",
-      "front": "How would **RCI** explain **Brexit**?",
-      "back": "Brexit as strategic actors pursuing interests: **Cameron** gambled on a referendum to manage his party and kill **UKIP**, expecting Remain; voters split as economic losers versus winners; a binary vote stripped out veto players so 51.9% could flip policy. Blind spot: takes preferences as given.",
-      "hint": "Strategic gamble and interests.",
-      "tags": ["apply", "brexit", "rci"],
-      "source": "Lecture (AUW)"
-    },
-    {
-      "id": "l6-45",
-      "type": "apply",
-      "front": "How would **HI** explain **Brexit**?",
-      "back": "Brexit as a critical juncture releasing a path dependent tension: Britain the **awkward partner** (out of the 1957 EEC, joined 1973, opt outs on euro and Schengen), so exit was latent; released at a juncture (austerity after 2008, the 2015 refugee crisis). Blind spot: weak on the day's decision.",
-      "hint": "Critical juncture and path dependence.",
-      "tags": ["apply", "brexit", "hi"],
-      "source": "Lecture (AUW)"
-    },
-    {
-      "id": "l6-46",
-      "type": "apply",
-      "front": "How would **SI** explain **Brexit**?",
-      "back": "Brexit as a clash of identity frames: a national sovereignty identity (**take back control**) against a cosmopolitan one; a materialist to post materialist cultural backlash where identity trumped interest. Blind spot: weak on power and strategic agency.",
-      "hint": "Identity clash and value shift.",
-      "tags": ["apply", "brexit", "si"],
-      "source": "Lecture (AUW)"
-    },
-    {
-      "id": "l6-47",
-      "type": "synthesis",
-      "front": "How do the three Brexit explanations **combine** (cross fertilisation)?",
-      "back": "1) **HI** explains why Britain and why 2016 (path plus juncture). 2) **SI** explains why the identity cleavage existed to be mobilised. 3) **RCI** explains why Cameron gambled and how interests aggregated into 51.9%.",
-      "hint": "Same fact, three lenses, then combine.",
-      "tags": ["synthesis", "brexit", "cross-fertilisation"],
-      "source": "Lecture (AUW)"
-    },
-    {
-      "id": "l6-48",
+      "id": "l6-10",
       "type": "definition",
-      "front": "What is **institutional business power** (Busemeyer & Thelen)?",
-      "back": "Power that results when the **state delegates public functions to private business** and, through policy feedback and lock in, the state becomes **asymmetrically dependent** on business.",
-      "hint": "Delegate a public function, state grows dependent.",
-      "tags": ["definition", "busemeyer-thelen", "institutional-business-power", "hi"],
-      "source": "Busemeyer & Thelen (2020)"
-    },
-    {
-      "id": "l6-49",
-      "type": "definition",
-      "front": "What is **structural** business power?",
-      "back": "Business's privileged position as investor: the **exit or investment threat** (Lindblom).",
-      "hint": "The investor's exit threat.",
-      "tags": ["definition", "busemeyer-thelen", "structural-power"],
-      "source": "Busemeyer & Thelen (2020)"
-    },
-    {
-      "id": "l6-50",
-      "type": "definition",
-      "front": "What is **instrumental** business power?",
-      "back": "Direct influence through **lobbying and donations**.",
-      "hint": "Lobbying and money.",
-      "tags": ["definition", "busemeyer-thelen", "instrumental-power"],
-      "source": "Busemeyer & Thelen (2020)"
-    },
-    {
-      "id": "l6-51",
-      "type": "mechanism",
-      "front": "What **two conditions** set the strength of institutional business power?",
-      "back": "1) The **credibility of business's exit threat**. 2) The **depth of state dependence** (has the state lost the capacity to provide the service itself?). Both high means power is strongest.",
-      "hint": "Exit threat plus state dependence.",
-      "tags": ["mechanism", "busemeyer-thelen", "institutional-business-power"],
-      "source": "Busemeyer & Thelen (2020)"
-    },
-    {
-      "id": "l6-52",
-      "type": "compare",
-      "front": "Match the mechanism to each country in Busemeyer & Thelen: Germany, Sweden, USA.",
-      "back": "1) **Germany: Delegation**: the state shares regulatory space with employers (dual apprenticeship training); highest institutional power. 2) **Sweden: Deregulation**: the state retreats from provision (school vouchers, for profit free schools). 3) **USA: Accretion**: private actors invite themselves in (venture philanthropy, charter schools).",
-      "hint": "Delegation · Deregulation · Accretion.",
-      "tags": ["compare", "busemeyer-thelen", "germany", "sweden", "usa"],
-      "source": "Busemeyer & Thelen (2020)"
-    },
-    {
-      "id": "l6-53",
-      "type": "apply",
-      "front": "How would **RCI** and **SI** explain business power differently from Busemeyer & Thelen?",
-      "back": "1) **RCI**: business power is a credible **exit or holdup threat** in a principal agent game; delegation persists because it is efficient (but misses the temporal tilt and preference change). 2) **SI**: private provision spreads because it becomes **legitimate and taken for granted** (an isomorphic template diffusing), but under weights raw power.",
-      "hint": "Re run one outcome in all three schools.",
-      "tags": ["apply", "busemeyer-thelen", "rci", "si"],
-      "source": "Busemeyer & Thelen (2020)"
-    },
-    {
-      "id": "l6-54",
-      "type": "theory-match",
-      "front": "Why is Busemeyer & Thelen an **HI** study?",
-      "back": "It runs on **power, historical legacies, path dependence and lock in, policy feedback and critical junctures** (the 1982 German government change, Hurricane Katrina).",
-      "hint": "Power plus path dependence over time.",
-      "tags": ["theory-match", "busemeyer-thelen", "hi", "path-dependence"],
-      "source": "Busemeyer & Thelen (2020)"
-    },
-    {
-      "id": "l6-55",
-      "type": "definition",
-      "front": "What are **informal institutions**?",
-      "back": "Socially shared rules, usually unwritten, **created, communicated and enforced outside official channels**. They can matter as much as formal ones and are not necessarily undemocratic.",
-      "hint": "Unwritten, enforced outside official channels.",
-      "tags": ["definition", "informal-institutions", "auw"],
-      "source": "Lecture (AUW)"
-    },
-    {
-      "id": "l6-56",
-      "type": "apply",
-      "front": "Give examples of informal institutions, including one that is **not** undemocratic.",
-      "back": "**dedazo** (Mexico: the outgoing PRI president secretly picks his successor); **amakudari** (Japan: retired bureaucrats get corporate jobs); **clientelism** (Peronist Argentina). Not undemocratic: the **folkways of the US Senate** (Matthews 1959: apprenticeship, courtesy, reciprocity).",
-      "hint": "dedazo, amakudari, Senate folkways.",
-      "tags": ["apply", "informal-institutions", "dedazo", "amakudari"],
-      "source": "Lecture (AUW)"
-    },
-    {
-      "id": "l6-57",
-      "type": "synthesis",
-      "front": "What is Hall & Taylor's verdict, and which school is the **bridge**?",
-      "back": "None is wrong; each captures a **partial** truth, so they should **cross fertilise**. RCI = persistence, HI = power and history, SI = meaning and legitimacy. **HI is the bridge**: its arguments translate into RCI terms yet open toward SI.",
-      "hint": "Three partial truths; HI is the pivot.",
-      "tags": ["synthesis", "cross-fertilisation", "hall-taylor", "bridge"],
+      "front": "What is **path dependence**?",
+      "back": "HI's engine of continuity: past choices **lock development onto a track that becomes costly to reverse**, so the longer you stay on it the less likely you are to leave.",
+      "hint": "Costly to switch tracks.",
+      "tags": ["hi", "definition", "path-dependence"],
       "source": "Hall & Taylor (1996)"
     },
     {
-      "id": "l6-58",
-      "type": "synthesis",
-      "front": "What **two master splits** generate the three schools?",
-      "back": "1) **How do institutions work?** calculus versus cultural. 2) **What counts as an institution?** the widening definition. Together: **RCI** = calculus and narrow, **SI** = cultural and broad, **HI** = both and middle.",
-      "hint": "Calculus/cultural × narrow/broad.",
-      "tags": ["synthesis", "calculus", "cultural", "master-split"],
-      "source": "Hall & Taylor (1996) / lecture"
+      "id": "l6-11",
+      "type": "reverse",
+      "front": "What is the concept: **a crisis moment that opens a branching point onto a new institutional path**?",
+      "back": "**Critical juncture** (HI). Between junctures path dependence keeps continuity · HI's weak spot is explaining what actually triggers one.",
+      "hint": "The rare window when the track switches.",
+      "tags": ["hi", "reverse", "critical-juncture"],
+      "source": "Hall & Taylor (1996)"
+    },
+    {
+      "id": "l6-12",
+      "type": "mechanism",
+      "front": "How do actors behave under SI's **logic of appropriateness**, and how is **isomorphism** its visible result?",
+      "back": "1) Actors ask **'what fits my role, what is the done thing here?'** rather than 'what pays most?'. 2) Institutions supply the cognitive scripts for interpreting the world and shape what actors can even imagine doing. 3) Result: **isomorphism** · organizations in a field come to **look identical** by copying the legitimate template, for legitimacy rather than efficiency.",
+      "hint": "'What is done?' not 'what pays?' → look alike.",
+      "tags": ["si", "mechanism", "logic-of-appropriateness", "isomorphism"],
+      "source": "Hall & Taylor (1996)"
     }
   ]
 }

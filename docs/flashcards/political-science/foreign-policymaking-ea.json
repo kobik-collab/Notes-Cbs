@@ -8,19 +8,16 @@
   "cardTypes": {
     "definition": "Define",
     "reverse": "Name it",
-    "mechanism": "Mechanism",
-    "theory-match": "Match the theory",
-    "apply": "Apply it",
     "compare": "Compare",
-    "synthesis": "Big picture"
+    "mechanism": "Mechanism"
   },
   "cards": [
     {
       "id": "fp-01",
       "type": "definition",
       "front": "What is the **\"black box\"** in IR theory?",
-      "back": "It treats a state's internal politics as unopened: inputs (the international system) go in, policy comes out, with nothing examined between.",
-      "hint": "System in, policy out, nothing examined between.",
+      "back": "Grand IR theory treats a state's internal politics as unopened: inputs (the international system) go in, policy comes out, with nothing examined in between.",
+      "hint": "System in, policy out, nothing examined in between.",
       "tags": [
         "black-box",
         "fpa",
@@ -30,74 +27,9 @@
     },
     {
       "id": "fp-02",
-      "type": "definition",
-      "front": "What does **opening the black box** mean in this lecture?",
-      "back": "Examining the **domestic** processes inside a state, showing foreign policy is shaped by domestic and international variables that **interact**.",
-      "hint": "Look inside the state, not just the system.",
-      "tags": [
-        "black-box",
-        "fpa",
-        "definition"
-      ],
-      "source": "lecture (deck)"
-    },
-    {
-      "id": "fp-03",
-      "type": "theory-match",
-      "front": "Which theory keeps the state **black boxed** because only anarchy and power matter?",
-      "back": "**Structural realism (Waltz).** Regime type barely matters; what counts is anarchy, relative capabilities, and the survival imperative.",
-      "hint": "Anarchy · survival · Waltz.",
-      "tags": [
-        "structural-realism",
-        "waltz",
-        "black-box"
-      ],
-      "source": "lecture (deck)"
-    },
-    {
-      "id": "fp-04",
-      "type": "definition",
-      "front": "According to structural realism, why must any state prioritise its own security?",
-      "back": "Because international relations are **anarchic** and trust is limited, so every state (democracy or autocracy) must ensure its own survival.",
-      "hint": "Anarchy leaves survival to each state.",
-      "tags": [
-        "structural-realism",
-        "anarchy",
-        "definition"
-      ],
-      "source": "lecture (deck)"
-    },
-    {
-      "id": "fp-05",
-      "type": "theory-match",
-      "front": "Which theory cares about a state's regime character but still won't open domestic processes?",
-      "back": "**Liberal internationalism (Ikenberry).** It looks at the character of political systems but still doesn't examine internal processes closely.",
-      "hint": "Interdependence · IOs · Ikenberry.",
-      "tags": [
-        "liberal-internationalism",
-        "ikenberry",
-        "black-box"
-      ],
-      "source": "lecture (deck)"
-    },
-    {
-      "id": "fp-06",
-      "type": "definition",
-      "front": "What is the **\"Golden Arches\"** theory of peace?",
-      "back": "A tongue in cheek liberal claim that no two countries with **McDonald's** have gone to war, a stand in for trade **interdependence** deterring conflict.",
-      "hint": "No two countries with McDonald's fight.",
-      "tags": [
-        "golden-arches",
-        "liberal-internationalism",
-        "definition"
-      ],
-      "source": "lecture (deck)"
-    },
-    {
-      "id": "fp-07",
       "type": "reverse",
       "front": "Name the approach: the study of foreign policy as a product of domestic processes **and** international structure.",
-      "back": "**Foreign Policy Analysis (FPA).**",
+      "back": "**Foreign Policy Analysis (FPA).** It opens the black box, showing policy is shaped by domestic and international variables that **interact**.",
       "hint": "Three letters; opens the black box.",
       "tags": [
         "fpa",
@@ -107,7 +39,7 @@
       "source": "lecture (deck)"
     },
     {
-      "id": "fp-08",
+      "id": "fp-03",
       "type": "mechanism",
       "front": "How does **neoclassical realism** turn the same systemic pressure into different policies?",
       "back": "1) **Systemic start**: relative power and anarchy pressure every state. 2) **Domestic filter**: pressures pass through intervening variables (leaders' perceptions, state society relations, institutions). 3) **Divergent output**: the same pressure yields different policies across states.",
@@ -120,298 +52,20 @@
       "source": "lecture (deck)"
     },
     {
-      "id": "fp-09",
+      "id": "fp-04",
       "type": "reverse",
-      "front": "Name the bridge theory: keeps realism's systemic start but filters pressure through domestic variables.",
-      "back": "**Neoclassical realism.**",
-      "hint": "Structure pushes, domestic politics filters.",
-      "tags": [
-        "neoclassical-realism",
-        "reverse",
-        "bridge"
-      ],
-      "source": "lecture (deck)"
-    },
-    {
-      "id": "fp-10",
-      "type": "synthesis",
-      "front": "What are the **five families of domestic variable** that shape foreign policy?",
+      "front": "Name the **five families of domestic variable** that shape foreign policy.",
       "back": "1) **Individuals / core actors** (leaders). 2) **Ideas & ideologies** (the guiding paradigm). 3) **Bureaucratic cultures** (agencies, factions). 4) **Interest groups & constituencies** (lobbying). 5) **Public opinion** (mass attitudes, note salience).",
       "hint": "People · ideas · bureaucracies · interests · publics.",
       "tags": [
         "domestic-variables",
-        "synthesis",
-        "fpa"
-      ],
-      "source": "lecture (deck)"
-    },
-    {
-      "id": "fp-11",
-      "type": "reverse",
-      "front": "Who wrote *\"the history of the world is but the biography of great men\"*?",
-      "back": "**Carlyle (1840)**, giving the **\"great man theory of history\"** (the individuals / core actors variable).",
-      "hint": "Leaders as history's engine.",
-      "tags": [
-        "great-man-theory",
-        "carlyle",
-        "individuals"
-      ],
-      "source": "lecture (deck)"
-    },
-    {
-      "id": "fp-12",
-      "type": "definition",
-      "front": "What is the blind spot of the **great man theory**?",
-      "back": "Focusing on individuals **neglects structural forces**: an individual only focus **underestimates context**.",
-      "hint": "Leaders alone miss the structure.",
-      "tags": [
-        "great-man-theory",
-        "structural-counterweight",
-        "definition"
-      ],
-      "source": "lecture (deck)"
-    },
-    {
-      "id": "fp-13",
-      "type": "compare",
-      "front": "In the interest groups variable, how does **instrumental power** differ from **structural power**?",
-      "back": "**Instrumental power**: direct lobbying, campaigning, contributions, the **\"revolving door.\"** **Structural power**: business's leverage from its control over investment and jobs, working even without lobbying. One is what business **does**, the other what business **is**.",
-      "hint": "What business does vs what business is.",
-      "tags": [
-        "interest-groups",
-        "instrumental-power",
-        "structural-power",
-        "compare"
-      ],
-      "source": "lecture (deck)"
-    },
-    {
-      "id": "fp-14",
-      "type": "definition",
-      "front": "What is **salience** in public opinion?",
-      "back": "How much the public actually **attends to** an issue. For foreign policy it is usually **low** except in acute crisis or heavy losses (Durant & Diehl 1989).",
-      "hint": "How much the public is even paying attention.",
-      "tags": [
-        "salience",
-        "public-opinion",
-        "definition"
-      ],
-      "source": "lecture (deck)"
-    },
-    {
-      "id": "fp-15",
-      "type": "apply",
-      "front": "What does the **Vietnam** case show about public opinion?",
-      "back": "Disengagement was blamed on the war's growing unpopularity, but **salience** means opinion bites mainly under **heavy losses**. So public opinion is a real but **conditional** constraint.",
-      "hint": "Opinion bites mainly under heavy losses.",
-      "tags": [
-        "vietnam",
-        "salience",
-        "public-opinion",
-        "apply"
-      ],
-      "source": "lecture (deck)"
-    },
-    {
-      "id": "fp-16",
-      "type": "apply",
-      "front": "Beyond Trump himself, what **enabled** his style to drive US foreign policy?",
-      "back": "The **relative weakness of checks and balances** in the foreign policy arena, plus deeper trends: **party polarisation**, **party homogenisation**, and a **populist shift**. An individual only story underestimates this context.",
-      "hint": "Weak checks + polarisation + homogenisation + populism.",
-      "tags": [
-        "structural-counterweight",
-        "trump",
-        "apply"
-      ],
-      "source": "lecture (deck)"
-    },
-    {
-      "id": "fp-17",
-      "type": "apply",
-      "front": "How did **Truman (1945 to 53)** lead the US into engagement, per the deck?",
-      "back": "Through several variables interacting at once: **individual** commitment, shifts in **economic elites**, and **strategic** pressure from the USSR.",
-      "hint": "Several variables at once.",
-      "tags": [
-        "truman",
-        "domestic-variables",
-        "apply"
-      ],
-      "source": "lecture (deck)"
-    },
-    {
-      "id": "fp-18",
-      "type": "compare",
-      "front": "How does **Liberal Internationalism** differ from **militant / conservative internationalism (primacism)**?",
-      "back": "**LI**: post war open ended engagement and global leadership, building the UN, IMF, World Bank, GATT, NATO. **Primacism** (mainly Republicans, from the 1970s split): rejects LI's cooperative side and seeks US primacy via unilateral hard power, but keeps a moral purpose (democracy promotion, regime change).",
-      "hint": "Cooperative liberal order vs unilateral primacy (still moralistic).",
-      "tags": [
-        "liberal-internationalism",
-        "primacism",
-        "compare",
-        "prior-paradigm"
-      ],
-      "source": "Ashbee & Hurst 2020"
-    },
-    {
-      "id": "fp-19",
-      "type": "reverse",
-      "front": "Name the concept: US primacy as the organising aim, hard power used unilaterally, sidelining multilateralism.",
-      "back": "**Primacism.**",
-      "hint": "Primacy as the whole point.",
-      "tags": [
-        "primacism",
-        "reverse",
-        "conservative-internationalism"
-      ],
-      "source": "Ashbee & Hurst 2020"
-    },
-    {
-      "id": "fp-20",
-      "type": "definition",
-      "front": "Which institutions did **Liberal Internationalism** build after WWII?",
-      "back": "Internationally the **UN, IMF, World Bank, GATT, NATO**, and at home a **national security state** (National Security Act 1947: DoD, Joint Chiefs, NSC, CIA).",
-      "hint": "Global bodies plus a national security state.",
-      "tags": [
-        "liberal-internationalism",
-        "national-security-state",
-        "definition"
-      ],
-      "source": "Ashbee & Hurst 2020"
-    },
-    {
-      "id": "fp-21",
-      "type": "synthesis",
-      "front": "What are the five propositions of Trump's **populist nationalist paradigm** (Ashbee & Hurst)?",
-      "back": "1) **The nation is core** (ethnicity/culture, not ideals). 2) **Zero sum competition** for hegemony. 3) **Anti globalism** and global elites. 4) **Trade subordinated to the nation** (bilateral, not multilateral). 5) **Moral vision abandoned** (no regime change or democracy promotion).",
-      "hint": "Nation · zero sum · anti globalism · bilateral trade · no moral vision.",
-      "tags": [
-        "populist-nationalist-paradigm",
-        "trump",
-        "synthesis"
-      ],
-      "source": "Ashbee & Hurst 2020"
-    },
-    {
-      "id": "fp-22",
-      "type": "compare",
-      "front": "In the reading's formula, what is Trump's paradigm equal to?",
-      "back": "**Primacism + economic nationalism + \"principled realism\"** = conservative internationalism **minus the moral purpose**. He keeps unilateral hard power but drops democracy promotion and regime change.",
-      "hint": "Conservative internationalism minus the moral crusade.",
-      "tags": [
-        "trump",
-        "principled-realism",
-        "compare"
-      ],
-      "source": "Ashbee & Hurst 2020"
-    },
-    {
-      "id": "fp-23",
-      "type": "definition",
-      "front": "What is **transformational change** (Ashbee & Hurst)?",
-      "back": "A **lasting** shift across **four linked elements** (paradigm, interests, institutions, logics), not merely dramatic but passing change.",
-      "hint": "Must last, across four elements.",
-      "tags": [
-        "transformational-change",
-        "four-elements",
-        "definition"
-      ],
-      "source": "Ashbee & Hurst 2020"
-    },
-    {
-      "id": "fp-24",
-      "type": "synthesis",
-      "front": "What must shift in each of the **four elements** of transformational change?",
-      "back": "1) **Paradigm**: ideas/goals/instruments become **\"common sense\"** (Hall). 2) **Interests**: new interests and **coalitions** grip power (Skowronek). 3) **Institutions**: formal and informal **reordering**. 4) **Logics**: new enduring **chains of events / incentives** (path dependence).",
-      "hint": "Paradigm · interests · institutions · logics.",
-      "tags": [
-        "transformational-change",
-        "four-elements",
-        "synthesis"
-      ],
-      "source": "Ashbee & Hurst 2020"
-    },
-    {
-      "id": "fp-25",
-      "type": "apply",
-      "front": "Why is the **1940s Liberal Internationalism** shift the model of a completed transformation?",
-      "back": "All four elements shifted **and stuck**: paradigm (global leadership), interests (New Deal plus Wall Street coalition sideline isolationists), institutions (UN/IMF/NATO plus national security state), logics (enduring collective security). It is the yardstick for judging Trump.",
-      "hint": "All four shifted and endured.",
-      "tags": [
-        "li-transformation",
-        "case",
-        "apply",
-        "four-elements"
-      ],
-      "source": "Ashbee & Hurst 2020"
-    },
-    {
-      "id": "fp-26",
-      "type": "apply",
-      "front": "What is the verdict when the four element framework is run on **Trump (2017+)**?",
-      "back": "The **beginnings** of transformation, but **\"incipient, partial and variegated\"**: ideational shift strongest; institutional and interest shifts incomplete (core alliances intact); logics hardest to read this early.",
-      "hint": "Incipient, partial and variegated.",
-      "tags": [
-        "trump",
-        "case",
-        "apply",
-        "four-elements"
-      ],
-      "source": "Ashbee & Hurst 2020"
-    },
-    {
-      "id": "fp-27",
-      "type": "definition",
-      "front": "What is **embeddedness** in Ashbee & Hurst?",
-      "back": "Ideas become a lasting transformation only when **rooted in supportive interests and institutions**, so they outlive the leader.",
-      "hint": "Ideas need roots in interests + institutions.",
-      "tags": [
-        "embeddedness",
-        "definition"
-      ],
-      "source": "Ashbee & Hurst 2020"
-    },
-    {
-      "id": "fp-28",
-      "type": "apply",
-      "front": "Why was Trump's first term only **\"proto transformational\"**?",
-      "back": "His primacism was pursued inconsistently and **weakly embedded**: he **marginalised** the national security bureaucracy but did **not rebuild** it into a self sustaining machine for the new paradigm.",
-      "hint": "Ideas never got rooted in interests and institutions.",
-      "tags": [
-        "embeddedness",
-        "proto-transformational",
-        "apply"
-      ],
-      "source": "Ashbee & Hurst 2020"
-    },
-    {
-      "id": "fp-29",
-      "type": "reverse",
-      "front": "Name the concept: populism is a **\"crust\"** laid over other ideologies (Mudde).",
-      "back": "A **\"thin\" ideology.**",
-      "hint": "A thin crust on thicker ideologies.",
-      "tags": [
-        "thin-ideology",
-        "mudde",
-        "populism",
+        "levels-of-analysis",
         "reverse"
       ],
-      "source": "Ashbee & Hurst 2020"
+      "source": "lecture (deck)"
     },
     {
-      "id": "fp-30",
-      "type": "synthesis",
-      "front": "What two reasons does the reading give that Trump's change may **not stick**?",
-      "back": "1) Populism is a **thin ideology** (a crust), so the administration could be pulled **back** toward conservative internationalism. 2) The US stays **locked into** its key post war security institutions.",
-      "hint": "Thin ideology + locked into institutions.",
-      "tags": [
-        "thin-ideology",
-        "embeddedness",
-        "synthesis"
-      ],
-      "source": "Ashbee & Hurst 2020"
-    },
-    {
-      "id": "fp-31",
+      "id": "fp-05",
       "type": "mechanism",
       "front": "How is a negotiation **one game played at two levels** in Putnam's model?",
       "back": "One game, two levels: **Level I** = bargaining between negotiators at the international table. **Level II** = domestic discussions about whether to **ratify** the deal. The leader sits at **both boards at once**, joined by the **win set**.",
@@ -419,14 +73,12 @@
       "tags": [
         "two-level-game",
         "putnam",
-        "mechanism",
-        "level-i",
-        "level-ii"
+        "mechanism"
       ],
       "source": "Putnam 1988"
     },
     {
-      "id": "fp-32",
+      "id": "fp-06",
       "type": "definition",
       "front": "What is the **win set** in Putnam's model?",
       "back": "The set of all Level I deals that would win **ratification** at Level II.",
@@ -439,9 +91,9 @@
       "source": "Putnam 1988"
     },
     {
-      "id": "fp-33",
+      "id": "fp-07",
       "type": "definition",
-      "front": "In Putnam, when is an international deal possible?",
+      "front": "In Putnam's model, when is an international deal possible?",
       "back": "Only where the two **win sets overlap**. Bigger win sets make agreement more likely, but risk a deal your public dislikes.",
       "hint": "Where the two win sets overlap.",
       "tags": [
@@ -452,7 +104,7 @@
       "source": "Putnam 1988"
     },
     {
-      "id": "fp-34",
+      "id": "fp-08",
       "type": "reverse",
       "front": "Name the idea: being **tied down at home** is a bargaining asset abroad.",
       "back": "The **Schelling conjecture**: a **smaller win set** can give a negotiator **more** bargaining power.",
@@ -460,50 +112,61 @@
       "tags": [
         "schelling-conjecture",
         "putnam",
-        "reverse",
-        "win-set"
+        "reverse"
       ],
       "source": "Putnam 1988"
     },
     {
-      "id": "fp-35",
+      "id": "fp-09",
       "type": "compare",
       "front": "In Putnam, how does **voluntary defection** differ from **involuntary defection**?",
-      "back": "**Voluntary defection**: a rational leader **reneges** by choice. **Involuntary defection**: the leader **can't deliver** because **ratification fails at home**. It shows domestic and international politics are entangled, not separate.",
-      "hint": "Won't deliver vs can't deliver.",
+      "back": "**Voluntary defection**: a rational leader **reneges** by choice. **Involuntary defection**: the leader **cannot deliver** because **ratification fails at home**. It shows domestic and international politics are entangled, not separate.",
+      "hint": "Will not deliver vs cannot deliver.",
       "tags": [
         "defection",
         "putnam",
-        "compare",
-        "two-level-game"
+        "compare"
       ],
       "source": "Putnam 1988"
     },
     {
-      "id": "fp-36",
-      "type": "synthesis",
-      "front": "Along which **four dimensions** does the domestic vs international balance vary systematically?",
-      "back": "1) **Time period**: domestic variables matter less in acute crisis. 2) **State size**: small states have fewer options. 3) **Regime type**: liberal democracies are more exposed to domestic pressure. 4) **Policy arena**: some issues, especially **trade**, draw more domestic engagement.",
-      "hint": "Time/crisis · size · regime · arena (esp. trade).",
+      "id": "fp-10",
+      "type": "definition",
+      "front": "What is **transformational change** (Ashbee & Hurst)?",
+      "back": "A **lasting** shift across **four linked elements** (paradigm, interests, institutions, logics), not merely dramatic but passing change.",
+      "hint": "Must last, across four elements.",
       "tags": [
-        "varying-balance",
-        "synthesis",
-        "domestic-international"
+        "transformational-change",
+        "four-elements",
+        "definition"
       ],
-      "source": "lecture (deck)"
+      "source": "Ashbee & Hurst 2020"
     },
     {
-      "id": "fp-37",
-      "type": "synthesis",
-      "front": "What single **red thread** question should you ask of any foreign policy episode?",
-      "back": "Which **domestic variables** are in play, how do they **interact** with the international situation, and is the change **transformational** or just a passing shift?",
-      "hint": "Theory sets the stage; home decides the play.",
+      "id": "fp-11",
+      "type": "definition",
+      "front": "What is **embeddedness** in Ashbee & Hurst?",
+      "back": "Ideas become a lasting transformation only when **rooted in supportive interests and institutions**, so they outlive the leader.",
+      "hint": "Ideas need roots in interests and institutions.",
       "tags": [
-        "bridge",
-        "red-thread",
-        "synthesis"
+        "embeddedness",
+        "transformational-change",
+        "definition"
       ],
-      "source": "lecture (deck)"
+      "source": "Ashbee & Hurst 2020"
+    },
+    {
+      "id": "fp-12",
+      "type": "reverse",
+      "front": "Name the concept: populism is a **\"crust\"** laid over other ideologies (Mudde).",
+      "back": "A **\"thin\" ideology.**",
+      "hint": "A thin crust on thicker ideologies.",
+      "tags": [
+        "thin-ideology",
+        "mudde",
+        "reverse"
+      ],
+      "source": "Ashbee & Hurst 2020"
     }
   ]
 }

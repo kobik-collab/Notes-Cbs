@@ -8,69 +8,57 @@
   "cardTypes": {
     "definition": "Define",
     "reverse": "Name it",
-    "mechanism": "Mechanism",
-    "theory-match": "Match the theory",
-    "apply": "Apply it",
     "compare": "Compare",
-    "synthesis": "Big picture"
+    "mechanism": "Mechanism"
   },
   "cards": [
     {
       "id": "l4-01",
-      "type": "synthesis",
-      "front": "What single question does every system of government answer?",
-      "back": "**How is executive power organised and held accountable?** That is: how the executive is **chosen**, **checked**, and **removed**. Place each system on Lijphart's **majoritarian** to **consensus** line, measured by the number of **veto players** (Tsebelis).",
-      "hint": "Chosen · checked · removed.",
-      "tags": ["red-thread", "lijphart", "veto-players", "synthesis"],
-      "source": "lecture (FK) / OD ch.5"
+      "type": "definition",
+      "front": "What defines **parliamentarism** (the Westminster model)?",
+      "back": "Executive and legislature are **fused**: parliament chooses the chief executive (**PM**), who is both the majority party leader and a sitting legislator. A **ceremonial head of state** stays out of politics.",
+      "hint": "Fusion of executive and legislature.",
+      "tags": ["parliamentarism", "westminster", "fusion", "definition"],
+      "source": "OD ch.5"
     },
     {
       "id": "l4-02",
       "type": "definition",
-      "front": "What is the **head of state**?",
-      "back": "The **symbolic** role of the executive that represents the country, such as a monarch or ceremonial president.",
-      "hint": "Symbolic; represents the country.",
-      "tags": ["executive", "head-of-state", "definition"],
+      "front": "What defines **presidentialism**?",
+      "back": "Executive and legislature are **elected separately with separate powers** (the **separation of powers**). The president is **directly elected** and serves a **fixed term**; branches generally cannot remove each other.",
+      "hint": "Separation of powers; directly elected, fixed term.",
+      "tags": ["presidentialism", "separation-of-powers", "fixed-term", "definition"],
       "source": "OD ch.5"
     },
     {
       "id": "l4-03",
       "type": "definition",
-      "front": "What is the **head of government**?",
-      "back": "The role of the executive that **runs policy and the government**, such as a prime minister, or the president in the US.",
-      "hint": "Runs policy and the government.",
-      "tags": ["executive", "head-of-government", "definition"],
+      "front": "What defines **semi presidentialism**?",
+      "back": "Executive power is **split**: a **directly elected president** (head of state, with real powers) plus a **PM** (head of government) backed by the parliamentary majority. Originated in France in 1958.",
+      "hint": "Split executive: elected president + PM.",
+      "tags": ["semi-presidentialism", "split-executive", "definition"],
       "source": "OD ch.5"
     },
     {
       "id": "l4-04",
-      "type": "reverse",
-      "front": "Which branch of government is essential to every state?",
-      "back": "The **executive**. The legislature and judiciary exist mainly to **limit** it.",
-      "hint": "The one branch every state must have.",
-      "tags": ["executive", "reverse"],
+      "type": "compare",
+      "front": "Compare parliamentary, presidential, and semi presidential systems on powers, how the executive is chosen, and removal.",
+      "back": "**Powers:** fused · separated · split. **Chosen:** parliament names PM · president directly elected · president elected and PM named by parliament. **Removed:** vote of no confidence · impeachment only · PM by no confidence while president keeps a fixed term.",
+      "hint": "Fused · separated · split.",
+      "tags": ["comparison", "three-systems", "compare"],
       "source": "OD ch.5"
     },
     {
       "id": "l4-05",
-      "type": "definition",
-      "front": "What is a **majoritarian** democracy (Lijphart)?",
-      "back": "A democracy that **concentrates power**: single party executive dominating the legislature, unicameral, easily amended constitution, so **few veto players** (example: UK).",
-      "hint": "Concentrates power; few veto players.",
-      "tags": ["majoritarian", "lijphart", "definition"],
+      "type": "compare",
+      "front": "**Majoritarian** vs **consensus** democracy (Lijphart)?",
+      "back": "Majoritarian **concentrates power**: single party executive, dominant over the legislature, unicameral, flexible constitution → **few veto players**. Consensus **disperses power**: coalition executives, balanced branches, bicameral, rigid constitution → **many veto players**.",
+      "hint": "Concentrate vs disperse power.",
+      "tags": ["majoritarian", "consensus", "lijphart", "compare"],
       "source": "OD ch.5"
     },
     {
       "id": "l4-06",
-      "type": "definition",
-      "front": "What is a **consensus** democracy (Lijphart)?",
-      "back": "A democracy that **disperses power**: coalition executives, balanced executive and legislature, bicameral, rigid constitution, so **many veto players** (example: US, Germany).",
-      "hint": "Disperses power; many veto players.",
-      "tags": ["consensus", "lijphart", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-07",
       "type": "reverse",
       "front": "Which concept means any actor whose agreement is needed to change policy?",
       "back": "A **veto player**, from **Tsebelis**.",
@@ -79,454 +67,58 @@
       "source": "OD ch.5"
     },
     {
+      "id": "l4-07",
+      "type": "mechanism",
+      "front": "According to Tsebelis, how does adding veto players change policy?",
+      "back": "**Less policy change.** Each player prefers a set of policies over the **status quo**; a new policy passes only if it sits inside **every** player's set (the **winset**). 1) More players shrink the winset. 2) Greater **ideological distance** between them shrinks it further → gridlock.",
+      "hint": "More players → smaller winset → less change.",
+      "tags": ["veto-players", "winset", "tsebelis", "mechanism"],
+      "source": "OD ch.5"
+    },
+    {
       "id": "l4-08",
-      "type": "theory-match",
-      "front": "According to Tsebelis, what does adding more veto players do to policy?",
-      "back": "**Less policy change.** More veto players, and greater **ideological distance** between them, shrink the winset, producing gridlock.",
-      "hint": "More players → less change.",
-      "tags": ["veto-players", "tsebelis", "theory-match"],
+      "type": "definition",
+      "front": "What is the **separation of powers** (Montesquieu)?",
+      "back": "The principle that the executive, legislature, and judiciary are **elected or constituted separately and hold separate powers**, so each can check the others. It is the defining feature of presidentialism.",
+      "hint": "Separate branches that check each other.",
+      "tags": ["separation-of-powers", "montesquieu", "definition"],
       "source": "OD ch.5"
     },
     {
       "id": "l4-09",
       "type": "mechanism",
-      "front": "How does the veto players winset diagram show when a new policy can pass?",
-      "back": "Each circle is one player's set of policies it prefers to the **status quo**. A policy passes only if it sits inside **every** circle (the **winset** overlap). 1) One player → huge winset. 2) Add players → it shrinks. 3) Enough players → it vanishes → gridlock.",
-      "hint": "Policy must sit inside every circle.",
-      "tags": ["veto-players", "winset", "tsebelis", "mechanism"],
-      "source": "OD ch.5 (figure)"
-    },
-    {
-      "id": "l4-10",
-      "type": "definition",
-      "front": "What is **vertical accountability** (O'Donnell)?",
-      "back": "**Citizens hold the state accountable**, mainly through elections.",
-      "hint": "Citizens → state.",
-      "tags": ["accountability", "vertical", "odonnell", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-11",
-      "type": "definition",
-      "front": "What is **horizontal accountability** (O'Donnell)?",
-      "back": "**State institutions check each other**, for example courts striking down a law passed by the legislature.",
-      "hint": "State → state.",
-      "tags": ["accountability", "horizontal", "odonnell", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-12",
-      "type": "apply",
-      "front": "Courts strike down a law passed by parliament. Which type of accountability is this?",
-      "back": "**Horizontal accountability**: state institutions checking each other, a distinction from **O'Donnell**. (Punishing the government at the ballot box would be **vertical**.)",
-      "hint": "Institutions checking institutions.",
-      "tags": ["accountability", "horizontal", "odonnell", "apply"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-13",
-      "type": "mechanism",
-      "front": "What two independent axes make up Lijphart's map of democracies?",
-      "back": "1) **Executives and Parties** axis: consensus (coalitions, balanced) to majoritarian (single party, concentrated). 2) **Federal to Unitary** axis: decentralised to centralised. A democracy is a **point** on both, not one switch. The UK sits far majoritarian; the US is majoritarian and very federal.",
-      "hint": "Two axes, not one switch.",
-      "tags": ["lijphart", "majoritarian", "consensus", "mechanism"],
-      "source": "OD ch.5 (figure)"
-    },
-    {
-      "id": "l4-14",
-      "type": "definition",
-      "front": "What defines **parliamentarism** (the Westminster model)?",
-      "back": "Executive and legislature are **fused**: parliament chooses the chief executive (**PM**), who is both the majority party leader and a sitting legislator.",
-      "hint": "Fusion of executive and legislature.",
-      "tags": ["parliamentarism", "westminster", "fusion", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-15",
-      "type": "definition",
-      "front": "In parliamentarism, is the PM directly elected by citizens?",
-      "back": "**No.** Citizens vote for **parliament**, and the majority names the PM. A **ceremonial head of state** (monarch or elected president) stays out of politics.",
-      "hint": "Citizens vote for parliament, not the PM.",
-      "tags": ["parliamentarism", "pm", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-16",
-      "type": "reverse",
-      "front": "Which system: powers fused, the chief executive is a party leader sitting in the legislature, removed by no confidence, usually no fixed term?",
-      "back": "**Parliamentarism** (Westminster). Classic cases: **UK, Germany, India**.",
-      "hint": "Fusion + no confidence.",
-      "tags": ["parliamentarism", "reverse", "identify"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-17",
-      "type": "mechanism",
-      "front": "How is a PM removed from office in a parliamentary system?",
-      "back": "By a **vote of no confidence**. The PM then either 1) resigns, so the party picks a new leader, or 2) asks the head of state to call **new elections**. The PM can also **dissolve** parliament. Usually there are no fixed terms.",
+      "front": "How is a PM removed through a **vote of no confidence**?",
+      "back": "Parliament votes that it no longer backs the PM. The PM then either 1) resigns, so the party picks a new leader, or 2) asks the head of state to call **new elections**; the PM may instead **dissolve** parliament. Such votes succeed only about **5%** of the time, but even losing one signals fatal weakness.",
       "hint": "No confidence → resign or new elections.",
       "tags": ["no-confidence", "dissolution", "parliamentarism", "mechanism"],
       "source": "OD ch.5"
     },
     {
-      "id": "l4-18",
-      "type": "definition",
-      "front": "How often do votes of no confidence succeed?",
-      "back": "Only about **5%** of the time, but even losing one signals fatal weakness.",
-      "hint": "A rare but deadly signal.",
-      "tags": ["no-confidence", "parliamentarism", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-19",
+      "id": "l4-10",
       "type": "mechanism",
-      "front": "What makes a PM either very strong or weak?",
-      "back": "The **party system**. 1) A disciplined **single majority** makes the PM the **most powerful democratic executive in the world**, passing laws almost automatically. 2) **No majority** forces a **coalition**, small parties become veto players, and stability drops (Sweden 2018: 133 days to form a government).",
-      "hint": "Single majority vs coalition.",
-      "tags": ["parliamentarism", "party-system", "coalition", "mechanism"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-20",
-      "type": "definition",
-      "front": "What defines **presidentialism**?",
-      "back": "Executive and legislature are **elected separately with separate powers**: the **separation of powers** (Montesquieu). The defining feature is separation, not that one person leads both roles.",
-      "hint": "Separation of powers (Montesquieu).",
-      "tags": ["presidentialism", "separation-of-powers", "montesquieu", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-21",
-      "type": "definition",
-      "front": "How is a president chosen and how long do they serve?",
-      "back": "The president is **directly elected** and serves a **fixed term**. Branches generally cannot remove each other.",
-      "hint": "Directly elected, fixed term.",
-      "tags": ["presidentialism", "fixed-term", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-22",
-      "type": "mechanism",
-      "front": "Why is it so hard to remove a president?",
-      "back": "1) The branches **cannot sack each other**. 2) The only route is a hard **impeachment**. 3) The president holds a **fixed term** regardless of losing support.",
-      "hint": "Fixed term; impeachment only.",
-      "tags": ["presidentialism", "impeachment", "fixed-term", "mechanism"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-23",
-      "type": "mechanism",
-      "front": "Why does policymaking stall in presidential systems?",
-      "back": "Separation of powers means lawmaking needs **both** the president and a legislative majority. These are **built in veto players**. Under **divided government** neither can force the other, producing **gridlock** (example: the US Senate 60 vote filibuster).",
-      "hint": "Two elected veto players + divided government.",
-      "tags": ["presidentialism", "gridlock", "veto-players", "mechanism"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-24",
-      "type": "theory-match",
-      "front": "What did **Samuels** argue about policy change in presidential systems?",
-      "back": "They **change the status quo less and more slowly** than parliamentary systems.",
-      "hint": "Presidentialism = slower change.",
-      "tags": ["samuels", "presidentialism", "theory-match"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-25",
-      "type": "reverse",
-      "front": "Which system: separated powers, one directly elected person is both head of state and government, fixed term, removal only by impeachment?",
-      "back": "**Presidentialism.** Classic cases: **USA, Brazil**.",
-      "hint": "Separation + same person + impeachment.",
-      "tags": ["presidentialism", "reverse", "identify"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-26",
-      "type": "mechanism",
-      "front": "Why is the legislature more powerful in presidential than in parliamentary systems?",
-      "back": "Under separation of powers a legislator **cannot also sit in the cabinet**, so members have **no ministerial promotion to earn** and stay independent. In parliamentary systems ministers **are** legislators, so ambitious members toe the party line to win cabinet posts, weakening the legislature.",
-      "hint": "Can a legislator become a minister?",
-      "tags": ["legislature", "separation-of-powers", "cabinet", "mechanism"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-27",
-      "type": "definition",
-      "front": "What is **coalitional presidentialism**?",
-      "back": "A presidential system where a **fragmented legislature** forces the president to build an informal **party coalition** and act a little like a PM (classic case: **Brazil**).",
-      "hint": "President must build a coalition; Brazil.",
-      "tags": ["coalitional-presidentialism", "brazil", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-28",
-      "type": "definition",
-      "front": "What defines **semi presidentialism**?",
-      "back": "Executive power is **split**: a **directly elected president** (head of state, real powers) plus a **PM** (head of government) backed by the parliamentary majority.",
-      "hint": "Split executive: elected president + PM.",
-      "tags": ["semi-presidentialism", "split-executive", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-29",
-      "type": "definition",
-      "front": "Where and when did semi presidentialism originate?",
-      "back": "In **France in 1958**, under **de Gaulle**, with the Fifth Republic. It spread from 10 systems in 1990 to 52 in 2018.",
-      "hint": "France 1958, de Gaulle.",
-      "tags": ["semi-presidentialism", "france", "de-gaulle", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-30",
-      "type": "mechanism",
-      "front": "What is **cohabitation** and what must the president do?",
-      "back": "Cohabitation is when the president and the legislative majority come from **different parties**. The president must appoint a **PM from the opposing majority** and retreat to their own domain. French norm: 1) the president runs foreign policy and defence, 2) the PM runs domestic policy.",
-      "hint": "President + majority from different parties.",
-      "tags": ["cohabitation", "france", "semi-presidentialism", "mechanism"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-31",
-      "type": "theory-match",
-      "front": "What is **Elgie's** key question for judging a semi presidential system?",
-      "back": "**Can the president dismiss the PM?** If yes, unstable (Russia). If no, genuine power sharing, as stable as parliamentarism (France).",
-      "hint": "Can the president fire the PM?",
-      "tags": ["elgie", "semi-presidentialism", "france", "russia", "theory-match"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-32",
-      "type": "reverse",
-      "front": "Which system: a directly elected president with real powers plus a PM answerable to parliament, where cohabitation is possible?",
-      "back": "**Semi presidentialism** (the split executive). Classic cases: **France, Russia**.",
-      "hint": "Two heads: elected president + PM.",
-      "tags": ["semi-presidentialism", "reverse", "identify"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-33",
-      "type": "compare",
-      "front": "Compare parliamentary, presidential, and semi presidential systems on powers, how the executive is chosen, removal, and veto players.",
-      "back": "**Powers:** fused · separated · split. **Chosen:** parliament names PM · directly elected · president elected, PM by parliament. **Removed:** no confidence · impeachment only · PM by no confidence, president fixed. **Veto players:** few · built in · depends. **Cases:** UK · USA · France.",
-      "hint": "Fused · separated · split.",
-      "tags": ["comparison", "three-systems", "compare"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-34",
-      "type": "compare",
-      "front": "How do parliamentary and presidential systems differ on accountability?",
-      "back": "1) **Parliamentarism:** clearest **vertical** accountability (voters know whom to blame) but a weak **horizontal** check under a single majority. 2) **Presidentialism:** strong **horizontal** accountability (separation of powers) but this can hurt effective policymaking.",
-      "hint": "Vertical clarity vs horizontal check.",
-      "tags": ["accountability", "vertical", "horizontal", "compare"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-35",
-      "type": "theory-match",
-      "front": "Who argued that presidentialism is inherently crisis prone, and in what work?",
-      "back": "**Linz**, in **The Perils of Presidentialism** (1990).",
-      "hint": "Linz, 1990.",
-      "tags": ["linz", "perils-of-presidentialism", "theory-match"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-36",
-      "type": "synthesis",
-      "front": "What are Linz's three perils of presidentialism?",
-      "back": "1) **Dual legitimacy:** two independently elected branches with no democratic tie breaker. 2) **Winner take all:** presidents over read their mandate and refuse to compromise. 3) **Inflexible fixed terms:** a failing president cannot be removed. Danger peaks for new democracies under coalitional presidentialism.",
+      "front": "What are **Linz's** three perils of presidentialism?",
+      "back": "1) **Dual legitimacy:** two independently elected branches with no democratic tie breaker. 2) **Winner take all:** presidents over read their mandate and refuse to compromise. 3) **Inflexible fixed terms:** a failing president cannot be removed. His claim: presidentialism is inherently crisis prone (*The Perils of Presidentialism*, 1990).",
       "hint": "Dual legitimacy · winner take all · fixed terms.",
-      "tags": ["linz", "perils-of-presidentialism", "stability", "synthesis"],
+      "tags": ["linz", "perils-of-presidentialism", "presidentialism", "mechanism"],
       "source": "OD ch.5"
     },
     {
-      "id": "l4-37",
-      "type": "synthesis",
-      "front": "How does **Cheibub** (2007) rebut Linz?",
-      "back": "He argues the **society**, not the institution, is the problem: presidential systems tend to exist in societies where democracy of any type is unstable, so the correlation is spurious. Semi presidentialism is empirically **no less stable than parliamentarism**, provided the president cannot sack the PM.",
-      "hint": "Society, not institution.",
-      "tags": ["cheibub", "linz", "stability-debate", "synthesis"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-38",
-      "type": "definition",
-      "front": "What is **judicial review**?",
-      "back": "The power of courts to strike down a law as **unconstitutional**, making the judiciary a **veto player** and a check on the majority.",
-      "hint": "Courts can strike laws down.",
-      "tags": ["judicial-review", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-39",
-      "type": "definition",
-      "front": "Why is judicial review controversial?",
-      "back": "Because it lets **unelected judges override elected majorities**. Defenders (Dahl) note judges are appointed by elected officials and courts claim to protect minorities.",
-      "hint": "The unelected judges problem.",
-      "tags": ["judicial-review", "dahl", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-40",
-      "type": "theory-match",
-      "front": "What did **Tate and Vallinder** name the trend of courts entering ever more political fights?",
-      "back": "The **judicialisation of politics**.",
-      "hint": "Courts pulled into more politics.",
-      "tags": ["judicialisation", "tate-vallinder", "theory-match"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-41",
+      "id": "l4-11",
       "type": "compare",
-      "front": "How do common law and code law differ in judicial review?",
-      "back": "1) **Common law** (Britain and its colonies, including the US): judges **follow precedent** → **decentralised and concrete** review, so any court can rule inside a real case. 2) **Code law** (Roman, Napoleon; French and Iberian colonies): a written **code** is supreme and precedent ignored → **centralised and abstract** review by one constitutional court.",
-      "hint": "Precedent vs written code.",
-      "tags": ["common-law", "code-law", "judicial-review", "compare"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-42",
-      "type": "reverse",
-      "front": "Which legal family produces decentralised, concrete review where any court can rule inside a real case?",
-      "back": "**Common law**, built on **precedent**.",
-      "hint": "Precedent based.",
-      "tags": ["common-law", "judicial-review", "reverse"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-43",
-      "type": "mechanism",
-      "front": "Why does a professional bureaucracy create a **principal agent problem**?",
-      "back": "Merit based **professionalisation** gives bureaucrats **expertise**, which is their own independent power. So the **agents** (officials) can pursue their own interests rather than the **principal's** (elected leaders and the public), causing inefficiency or corruption such as expanding budgets or taking bribes.",
-      "hint": "Expertise = independent power = the gap.",
-      "tags": ["principal-agent", "bureaucracy", "mechanism"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-44",
-      "type": "definition",
-      "front": "What is an **iron triangle**?",
-      "back": "A closed policy loop of **bureaucrats, legislators, and business** in one sector that serves insiders and keeps outsiders out.",
-      "hint": "Closed loop of insiders.",
-      "tags": ["iron-triangle", "bureaucracy", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-45",
-      "type": "reverse",
-      "front": "What is the Japanese practice of officials taking jobs in firms they once regulated?",
-      "back": "**Amakudari** (descent from heaven).",
-      "hint": "Descent from heaven; Japan.",
-      "tags": ["amakudari", "japan", "bureaucracy", "reverse"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-46",
-      "type": "definition",
-      "front": "What is **New Public Management** (NPM)?",
-      "back": "A 1980s reform (Reagan, Thatcher) that imported **markets, competition, and customer satisfaction** into government.",
-      "hint": "Markets and competition in government.",
-      "tags": ["npm", "bureaucracy", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-47",
-      "type": "definition",
-      "front": "What did a UK study find about New Public Management's results?",
-      "back": "A **one third staff cut** but slightly **higher costs** and slightly **worse, less fair service**.",
-      "hint": "Fewer staff, but costlier and worse.",
-      "tags": ["npm", "bureaucracy", "definition"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-48",
-      "type": "compare",
-      "front": "How do unitary and federal systems differ on sovereignty?",
-      "back": "1) **Unitary** (France, UK, Denmark): the centre holds **sole sovereignty**, and local powers are **delegated and revocable**. 2) **Federal** (US, Germany): sovereignty is **constitutionally shared** with subunits, which limits majorities, protects minorities, and adds veto players.",
+      "front": "How do **unitary** and **federal** systems differ on sovereignty?",
+      "back": "1) **Unitary:** the centre holds **sole sovereignty**, and local powers are **delegated and revocable**. 2) **Federal:** sovereignty is **constitutionally shared** with subunits, which limits majorities, protects minorities, and adds **veto players**.",
       "hint": "Sole vs shared sovereignty.",
       "tags": ["federal", "unitary", "sovereignty", "compare"],
       "source": "OD ch.5"
     },
     {
-      "id": "l4-49",
-      "type": "reverse",
-      "front": "What is federalism called when all subunits have equal powers?",
-      "back": "**Symmetrical** federalism (example: US).",
-      "hint": "All subunits equal.",
-      "tags": ["symmetrical", "federal", "reverse"],
+      "id": "l4-12",
+      "type": "mechanism",
+      "front": "What is **cohabitation** in a semi presidential system?",
+      "back": "When the president and the legislative majority come from **different parties**. The president must appoint a **PM from the opposing majority** and retreat to their own domain: 1) the president runs foreign policy and defence, 2) the PM runs domestic policy.",
+      "hint": "President + majority from different parties.",
+      "tags": ["cohabitation", "semi-presidentialism", "mechanism"],
       "source": "OD ch.5"
-    },
-    {
-      "id": "l4-50",
-      "type": "reverse",
-      "front": "What is federalism called when some subunits get special powers?",
-      "back": "**Asymmetrical** federalism.",
-      "hint": "Some subunits get more.",
-      "tags": ["asymmetrical", "federal", "reverse"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-51",
-      "type": "reverse",
-      "front": "What is reversible decentralisation within a unitary state called?",
-      "back": "**Devolution** (example: UK to Scotland, Wales, and Northern Ireland).",
-      "hint": "Reversible, within a unitary state.",
-      "tags": ["devolution", "unitary", "reverse"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-52",
-      "type": "theory-match",
-      "front": "What did **Riker** argue about federalism's stability?",
-      "back": "It is inherently **unstable**, tending toward either centralisation or secession.",
-      "hint": "Unstable: centralise or split.",
-      "tags": ["riker", "federal", "theory-match"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-53",
-      "type": "apply",
-      "front": "What makes federalism real in practice rather than only on paper?",
-      "back": "The **politics behind it**: 1) **revenue control** and 2) **upper house strength**, not paper rules. The **US Senate** is strong, the German **Bundesrat** weak. Mexico's **PRI** centralised a paper federal state; **Russia** is a federal shell after Putin gutted regional autonomy.",
-      "hint": "Revenue + upper house = the reality test.",
-      "tags": ["federal", "revenue", "party-system", "apply"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-54",
-      "type": "compare",
-      "front": "Match each case to its one line lesson: USA, Brazil, France, Russia, Japan.",
-      "back": "1) **USA:** presidential separation of powers plus weak parties → gridlock. 2) **Brazil:** coalitional presidentialism, strong formal powers but ineffective. 3) **France:** semi presidential done right, cohabitation works. 4) **Russia:** semi presidential gone dominant → electoral authoritarianism. 5) **Japan:** bureaucratic power via iron triangles and amakudari.",
-      "hint": "US · Brazil · France · Russia · Japan.",
-      "tags": ["cases", "usa", "brazil", "france", "russia", "japan", "compare"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-55",
-      "type": "apply",
-      "front": "Give the two go to illustrations that the party system, not the constitution, drives how a government works.",
-      "back": "1) **UK versus India:** same Westminster rules, but India's party system decides. Congress dominance made PMs less constrained; after 1989 coalitions forced constant bargaining (3 PMs in 30 years, then 12). 2) **Thatcher versus Reagan:** with a compliant majority Thatcher reshaped economic policy far more than Reagan, who faced a hostile Congress.",
-      "hint": "UK vs India; Thatcher vs Reagan.",
-      "tags": ["rules-vs-outcomes", "party-system", "uk", "india", "apply"],
-      "source": "OD ch.5"
-    },
-    {
-      "id": "l4-56",
-      "type": "synthesis",
-      "front": "Why do proportional democracies redistribute more than majoritarian ones (Iversen and Soskice)?",
-      "back": "With three classes (lower, middle, upper): 1) in a **proportional** system the **middle class allies with the lower class** to redistribute from the rich → bigger welfare states. 2) In a **majoritarian** system the middle class allies with the **upper class** to avoid heavy taxes → less redistribution.",
-      "hint": "Which class does the middle class ally with?",
-      "tags": ["iversen-soskice", "redistribution", "proportional", "synthesis"],
-      "source": "deck / OD ch.5"
-    },
-    {
-      "id": "l4-57",
-      "type": "apply",
-      "front": "What reusable template classifies and evaluates any system of government?",
-      "back": "1) **How is the executive chosen?** Parliament, direct election, or elected president plus PM. 2) **How is it removed?** No confidence, impeachment, or mixed. 3) **How many veto players?** Place it on Lijphart's majoritarian to consensus line. 4) **What is the trade off?** Weigh accountability, policymaking, and stability (Linz versus Cheibub). Always add: rules do not equal outcomes.",
-      "hint": "Chosen → removed → veto players → trade off.",
-      "tags": ["template", "exam-move", "apply"],
-      "source": "OD ch.5 / lecture"
     }
   ]
 }
