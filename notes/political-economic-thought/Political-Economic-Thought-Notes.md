@@ -17,6 +17,7 @@
 - **[Exercise Class 3: The Pros & Cons of Democracy](#ex3-pet)** — [Montesquieu: *The Spirit of the Laws* (Bks II·III·VIII)](#ex3-montesquieu) · [nature vs principle of government](#ex3-nature-principle) · [the three governments](#ex3-types) · [virtue as democracy's principle](#ex3-virtue) · [corruption of democracy](#ex3-corruption) · [Tocqueville: *Democracy in America*](#ex3-tocqueville) · [sovereignty of the people](#ex3-sovereignty) · [what maintains the republic](#ex3-maintains) · [the tutelary despotism](#ex3-tutelary) · [Montesquieu vs Tocqueville](#ex3-compare) · [CNN: the second impeachment](#ex3-cnn) · [★ Prep-question answers](#ex3-questions) · [★ Fun facts](#ff-ex3)
 - **[Module 6: Reactions to Liberalism — Conservatism & Classical Political Economy (1790–1830)](#module-6-pet)** — [historical context: the social question](#m6-context) · [Adam Smith recap](#m6-smith-recap) · [**Malthus**](#m6-malthus) · [★ population & the Malthusian trap](#m6-population) · [poor laws & Malthus's solutions](#m6-poorlaws) · [market gluts & Say's Law](#m6-gluts) · [**Ricardo**](#m6-ricardo) · [★ differential rent & diminishing returns](#m6-rent) · [distribution & the iron law of wages](#m6-distribution) · [free trade & the Corn Laws](#m6-freetrade) · [★ the value debate (LTV · the "Ricardian detour" · Say)](#m6-value) · [Malthus vs Ricardo](#m6-malthusricardo) · [**Burke** & conservatism](#m6-burke) · [the French-Revolution context](#m6-burke-context) · [★ Burke's core ideas](#m6-burke-ideas) · [Burke take-aways](#m6-burke-takeaway) · [★ Study-question answers](#m6-questions) · [★ Fun facts](#ff-module6-pet)
 - **[Exercise Class 4: Growth & Limits to Growth in Early Industrial Capitalism](#ex4-pet)** — [the classical growth story](#ex4-recap) · [Smith on growth](#ex4-smith) · [★ the stationary state](#ex4-stationary) · [Malthus & Ricardo on sustained growth](#ex4-malthusricardo) · [**Mill**: what is political economy?](#ex4-mill) · [★ production vs distribution](#ex4-distribution) · [★ the stationary state *welcomed*](#ex4-mill-stationary) · [Zweig: forerunners of limits to growth](#ex4-zweig) · [★ the Jevons paradox & the Coal Question](#ex4-jevons) · [*Snowpiercer*](#ex4-snowpiercer) · [★ working-question answers](#ex4-questions) · [★ Fun facts](#ff-ex4)
+- **[Module 7: From Political Economy to (Micro)Economics (1871–1933)](#module-7-pet)** — [the great divide: social science vs history](#m7-divide) · [context: Germany · England · US](#m7-context) · [two traditions of economic science](#m7-traditions) · [the German Historical School (List · Roscher · Schmoller)](#m7-historical-school) · [★ the Methodenstreit (1883)](#m7-methodenstreit) · [★ the water-diamond paradox](#m7-waterdiamond) · [Bentham & the forerunners](#m7-forerunners) · [★ marginalism & the marginal revolution](#m7-marginalism) · [★ Jevons](#m7-jevons) · [★ Marshall & neoclassical economics](#m7-marshall) · [★ how supply & demand set price (the scissors)](#m7-curves) · [★ classical vs neo-](#m7-classical-neo) · [critique of neoclassical economics](#m7-critique) · [★ Study-question answers](#m7-questions) · [★ Fun facts](#ff-module7-pet)
 
 ---
 
@@ -2834,5 +2835,274 @@ Tocqueville reasons by **cases and comparisons** (America ↔ France; democracy 
 - **"Brief greatness or longer mediocrity."** Jevons's grim choice for coal-burning Britain — and he effectively chose to **burn it fast.** Yet this pro-growth, pro-empire economist handed the **degrowth** movement its sharpest weapon.
 - **From "cowboy economy" to "spaceship Earth"** — Boulding's image (via Zweig) for the whole shift the classicals foresaw: from the open frontier to a finite, closed system with nowhere left to expand.
 - ***Snowpiercer* is a stationary-state parable on rails** — a closed, finite system where the elite police a fixed "ecological balance" by culling the poor. The question the film (and the class) leaves you with: *manage the hierarchy, or break the train?*
+
+---
+
+<a id="module-7-pet"></a>
+# Module 7: From Political Economy to (Micro)Economics (1871–1933)
+
+**Readings:** **Backhouse**, *The Penguin History of Economics* (2023), pp. 185–205 *(the split between history & theory; the marginal revolution)* · W. S. **Jevons**, *The Theory of Political Economy* (1871, 3rd ed. 1888), **chs I + III** · Alfred **Marshall**, *Principles of Economics* (1890, 8th ed. 1920), **Bk V ch. III** *(the reading list says "ch. II"; the supplied text is Bk V ch. III, "Equilibrium of Normal Demand & Supply").* *(Lecturer: Joachim Lund — deck "From Political Economy to (Micro)Economics.")*
+
+**Theme of the module.** This is where **modern (micro)economics is born.** Two things happen at once in the late 19th century. **(1) A great methodological divide** opens between the **German Historical School** (economics as *history* — inductive, empirical, institutional, state-friendly) and **Anglo-Austrian theory** (economics as *science* — deductive, abstract, market-friendly), climaxing in the **Methodenstreit** of 1883. **(2) The marginal revolution** (1871: **Jevons** & **Menger**; 1874: **Walras**) throws out the classical **labour theory of value** and replaces it with **marginal utility** — value is set by the **last unit consumed**, by the **individual at the margin.** **Marshall** then fuses utility (demand) with cost of production (supply) into the **neoclassical synthesis** — the "**scissors**." Economics detaches from *political* economy and from morals, and becomes the science of **utility maximization** and **Homo Oeconomicus.**
+
+<div class="heart">★ <strong>The heart of the module — from classical to neoclassical:</strong>
+<br>• <strong>Classical political economy (Smith → Ricardo → Mill → Marx):</strong> value is <strong>objective</strong> — it comes from the <strong>cost side</strong> (labour / cost of production); the subject is about <strong>classes, distribution, growth and limits</strong> (the stationary state); it is <em>political</em> economy, entangled with morals.
+<br>• <strong>Neoclassical (micro)economics (Jevons · Menger · Walras · Marshall):</strong> value is <strong>subjective</strong> — it comes from the <strong>demand side</strong>, from the <strong>marginal utility</strong> of the last unit to an individual consumer; the subject <strong>isolates the smallest units</strong> and the <strong>moment of decision at the margin</strong> (= <em>micro</em>economics; macro = the sum of micro); it aspires to be an <strong>exact science</strong> stripped of morals, about <strong>utility maximization.</strong>
+<br>• <strong>The hinge is the <a href="#m7-waterdiamond">water-diamond paradox</a>:</strong> Smith could not solve it with the labour theory of value; marginalism solves it in one line — water is abundant, so its <strong>marginal</strong> utility (and price) is near zero, even though its <em>total</em> usefulness is huge.
+<br>• <strong>Marshall's settlement:</strong> value is governed by <strong>both</strong> utility (demand) <em>and</em> cost of production (supply) — "as reasonably dispute whether it is the upper or the under blade of a <strong>pair of scissors</strong> that cuts a piece of paper."</div>
+
+**Key concepts to apply:** *positivism (Comte) vs historicism (Ranke)* · *sources vs facts* · *nomothetic vs idiographic · deductive vs inductive* · *the German Historical School (List · Roscher · Schmoller) · institutionalism* · *the Methodenstreit (Schmoller vs Menger, 1883)* · *value in use vs value in exchange · the water-diamond paradox* · *labour theory of value vs subjective / marginal utility theory* · *total utility vs the final degree of utility (marginal utility) · diminishing marginal utility* · *marginalism · the marginal revolution (Jevons · Menger · Walras)* · *utility maximization · Homo Oeconomicus · methodological individualism* · *Marshall's neoclassical synthesis · partial equilibrium · the scissors · market / short-run / long-run period · money as a measuring rod* · *(critique) institutionalism · "bring the state back in" · no pure competition.*
+
+---
+
+<a id="m7-divide"></a>
+## The great divide: social science vs history
+
+***Core:*** the lecture opens on a **19th-century methodological split** that still shapes the social sciences — between a **law-seeking** science modelled on physics and a **source-interpreting** history. Economics ends up on the *science* side.
+
+- **Two goals, two time-directions.** *Social science* knows the historical background and tries to **explain the present** (sociology, political science) **or even predict the future** (economics). *History* knows the **outcome** and tries to explain **how we got there** — it is about **transition and causation.**
+- **Sources vs facts** — the deepest disagreement:
+  - *Social science insists:* something **did** happen; we can read the **facts/data** in the literature; facts provide the basis for **theory building.**
+  - *History insists:* we **cannot know exactly** what happened or why; we only have **sources**, which are **not facts** but material for **interpretation.**
+- **The two 19th-century "isms" behind this:**
+
+| | **Positivism** (Comte, 1798–1857) | **Historicism** (Ranke, 1795–1886) |
+|---|---|---|
+| **Ontology** | there **is** a world to be discovered by scientific means | historical events must be judged **on their own merits**, not by our norms |
+| **Method** | detect **natural laws** in society's evolution (data) | **source criticism**, a pluralism of sources, interpretation |
+| **Yields** | general, quantitative data | specific, qualitative understanding |
+
+- **Why "laws of history" feel absurd — the joke that makes the point.** Henrik Nissen's spoof "**Nissen's Law**" (1981): *"whenever a state wins uncontested military hegemony in Western/Central Europe, it attacks Russia, and the following winter is unusually cold"* — Charles XII (1708), Napoleon (1812), Hitler (1941). Three data points look like a "law," but of course it is nonsense. *In plain terms:* historical regularities are not natural laws — which is exactly the historians' complaint against economic "laws."
+
+<a id="m7-context"></a>
+## Context: Germany vs England vs the US (the second industrial revolution)
+
+***Core:*** the two economic traditions grow out of **two very different national situations** during the **second industrial revolution** (railways, chemicals, electricity, steel).
+
+- **England — "trapped by success."** The "**workshop of the world**," the first mover, with a global empire and a liberal, free-trade creed (**Corn Laws abolished 1846**; **Cobden Treaty 1860**). Complacent; the model to be explained.
+- **Germany — catch-up & nation-building.** A latecomer with global ambitions, still largely agricultural, with persisting **mercantilist regulation** and a **large state bureaucracy** acting as **patron.** This is the home of **Gerschenkron's** point: the more **backward** the economy, the bigger the **role of the state** in catching up — which pushes German economists toward **protection and institutions.**
+- **The US — the new giant (1860–1914).** From farming to the **largest industrial state**: the **"American system of manufacturing"** (interchangeable parts, "armory practice"), **Fordism** (assembly lines) and **Taylorism** (efficiency), railways and the telegraph, great fortunes (Morgan, Rockefeller, Carnegie), mass immigration — all behind a **weak federal state** that was **protectionist** yet **anti-trust** (**Sherman Act 1890**).
+- **The protectionist paradox** (a lecture puzzle): *more* international competition tends to produce *more* protectionism — the loser of free competition reaches for the tariff.
+
+<a id="m7-traditions"></a>
+## Two traditions of 19th-century economic science
+
+***Core:*** the deck's framing — the century's economics splits into two projects asking two different questions.
+
+| | **German Historical School / Historical Economics** | **Anglo-Saxon / Austrian classical & neoclassical theory** |
+|---|---|---|
+| **Question** | *why* did capitalism emerge **in particular countries** (Britain first), and how can **latecomers** (Germany) catch up & survive? | *how* does capitalism **function** — what are its **"laws"**? |
+| **Emphasis** | the **uniqueness** of national experiences; institutions | **universal** theory; the market mechanism |
+| **Policy lean** | **state intervention**, protection | the **forces of the market**, free trade |
+| **Becomes** | **institutionalism** | **neoclassical microeconomics** |
+
+---
+
+<a id="m7-historical-school"></a>
+## The German Historical School (List · Roscher · Schmoller)
+
+***Core:*** an **evolutionary, dynamic** approach that **questioned the relevance of British classical doctrine** to Germany — stressing that economic institutions, history and the state differ from country to country.
+
+- **Friedrich List — *The National System of Political Economy* (1841).** The policy voice: **free trade *inside* a country, protectionism *on the outside*** to shelter **infant industry** until it can compete. Against English individualism he stressed **collective action**: *"the association of individuals for a common end is the most efficacious mode towards the happiness of individuals."* (Contrast Smith's invisible hand and P. Leroux's warning that English individualism turns men into "rapacious wolves.")
+- **Wilhelm Roscher — *Principles of Political Economy* (1854); the "older" school.** Founded the movement (1843). The **historical method** is essential to understand the differences between economic systems; classical theory is inappropriate to Germany's conditions. (In practice the older school's work still looked a lot like Smith or Mill.)
+- **Gustav Schmoller — *Political Economy and its Method* (1894); the "younger" school.** Far more radical. **Sceptical of "laws of history"**; insisted economics must rest on **detailed empirical and historical observation** before generalizing; wanted to broaden economics toward **economic sociology.** Conservative (a Hohenzollern loyalist) **but a committed social reformer** — founder-figure of the **Verein für Sozialpolitik** ("Union for Social Policy," 1872), whose members were nicknamed "**academic socialists**" (piecemeal studies → factory laws, social insurance, working hours).
+
+<a id="m7-methodenstreit"></a>
+## ★ The Methodenstreit (1883) — the clash over method
+
+***Core:*** the open war that **defined the dividing line** in economics: **Gustav Schmoller** (historical/institutional) vs **Carl Menger** (theoretical/marginalist). It **split the German-speaking profession.**
+
+| **Schmoller — historical / institutional** | **Menger — classical / marginalist** |
+|---|---|
+| Empirical | Theoretical |
+| Concrete | Abstract |
+| Inductive | Deductive |
+| Dynamic | Static |
+| Qualitative | Quantitative |
+| **Idiographic** (the specific, unique) | **Nomothetic** (the general law) |
+
+- **Menger's attack (1883).** He wanted a **rigid separation**: **theoretical economics** states "**exact laws**" built on **abstractions** — **pure self-interest, omniscience, free movement.** To test such theory against messy reality is a **category mistake**: *"pure self-interest cannot exist any more than can pure oxygen."* Two seeds that later define **Austrian economics**: **methodological individualism** (start from the individual, never from aggregates) and **spontaneous order.** Menger also rejected **mathematical** economics: maths shows relations between **quantities**, not the **essence** of phenomena.
+- **Schmoller** reviewed Menger scathingly; the feud turned bitter. Backhouse's verdict: the fight was **as much about policy** (Schmoller for protection, Menger against) and academic turf as about logic — the two could have agreed that **different questions need different methods.**
+- <a id="m7-settlement"></a>**The settlement (today's consensus).** Sound economics needs **both**: **(1)** collecting **statistical information** *and* **(2)** building **analytical tools and theory** to handle it. (The lecture notes, pointedly, that **Marx** had *already* combined general static "laws" with dynamic institutional analysis in *Capital* — the subject of Lecture 8.)
+
+---
+
+<a id="m7-waterdiamond"></a>
+## ★ The water-diamond paradox (the preconditions for marginalism)
+
+***Core:*** the famous puzzle that classical value theory **could not solve** — and that marginal utility **does.**
+
+- **Smith's statement.** The word *value* has **two meanings**: **value in use** (how useful a thing is) and **value in exchange** (its purchasing power). They can come apart completely: *"Nothing is more useful than **water**; but it will purchase scarcely anything… A **diamond**, on the contrary, has scarcely any use-value; but a very great quantity of other goods may be had in exchange for it."*
+- **Smith's own answer: the labour theory of value.** Value in exchange is set by the **"toil and trouble"** of acquiring a thing — the **labour/cost** embodied in it. Diamonds are dear because they are hard to find; water is cheap because it is easy to get. This locates value on the **cost/production side** and leaves use-value hanging.
+- **Why it is the hinge.** The paradox is exactly what marginalism dissolves (see below): value is not about **total** usefulness or **cost**, but about the **usefulness of the last unit** — and because water is abundant, the utility (and price) of **one more** glass is almost nothing.
+
+<a id="m7-forerunners"></a>
+## Bentham & the forerunners of marginalism
+
+***Core:*** the raw material of marginalism — **utilitarian psychology** plus a scattering of thinkers who had already glimpsed **diminishing** utility.
+
+- **Jeremy Bentham's utilitarianism (1748–1832).** Utility = the capacity to **increase pleasure and reduce pain.** Jevons adopts this wholesale: *"to satisfy our wants to the utmost with the least effort… to maximise pleasure, is the problem of Economics"* (Jevons, p. 37). **Pleasure and pain are the "objects of the calculus of economics."**
+- **The forerunners who saw diminishing utility** (each spotted it in one corner): **Bentham** — diminishing utility **of money**; **Ricardo** — diminishing returns on **marginal lands**; **Senior** — diminishing utility **of commodities**; **Mill** — diminishing utility **of production** (marginal costs); and, in Germany, **Gossen** and, in France, **Cournot** and the engineers (Dupuit). None quite put the whole thing together.
+
+<a id="m7-marginalism"></a>
+## ★ The marginal revolution — what marginalism is
+
+***Core:*** the breakthrough of **1871–74**. Value is no longer embodied by labour; it is set **at the margin** by the **marginal utility** of the last unit — a **subjective, demand-side** theory that founds **microeconomics.**
+
+- **The breakthrough, almost simultaneously and independently:**
+  - **W. S. Jevons**, *The Theory of Political Economy* (**1871**) — a general value theory on utility.
+  - **Carl Menger**, *Principles of Economics* (**1871**) — **subjective** value theory (Vienna).
+  - **Léon Walras**, *Elements of Pure Economics* (**1874**) — value from **scarcity** ("*rareté*"), and **general equilibrium.**
+  - **Alfred Marshall**, *Principles of Economics* (**1890**) — the **neoclassical synthesis** (supply + demand).
+- **What marginalism *is* (deck):**
+  - It **definitively replaces the labour theory of value with marginal utility theory.**
+  - **Value is set at the margin:** demand depends on the **marginal utility** of the last unit, which is **subjective** and (given diminishing utility) **falls as quantity rises.** This **solves the water-diamond paradox** in one stroke.
+  - Method is **deductive**; it **presupposes free competition and complete information.**
+  - It **isolates the smallest units in the economy and the moment of decision at the margin** — this *is* **microeconomics** ("macro = the sum of micro decisions").
+  - It **detaches economics from "political economy"** and from morals: an **exact science** in which "morals have little to do with economic decisions." It's about **utility maximization** by **Homo Oeconomicus.** (It also rejects Ricardo/Mill's moral claim that land rent is "unproductive/immoral.")
+- **The trio compared** (same core, three routes):
+
+| | **Jevons** (Britain) | **Menger** (Austria) | **Walras** (Lausanne) |
+|---|---|---|---|
+| **Starts from** | **utilitarian** pleasure/pain | the **essence** of needs (Aristotelian); **not** a utilitarian | **scarcity** ("*rareté*"); **not** a utilitarian |
+| **Method** | **mathematical** (calculus) | **verbal**, essences & causes; anti-maths | **mathematical**, simultaneous equations |
+| **Signature** | value = **final degree of utility** | **subjective** value; goods hierarchy; markets **not** in equilibrium (limited knowledge, entrepreneurs) | **general equilibrium** across all markets; **tâtonnement** ("groping") toward equilibrium |
+
+<a id="m7-jevons"></a>
+## ★ William Stanley Jevons (1835–1882) — value depends entirely on utility
+
+***Core:*** Jevons breaks with Ricardo and makes **utility** the whole basis of value, in a deliberately **mathematical** economics.
+
+- **"Economics deals with quantities, and must therefore be a mathematical science."** A chemist/meteorologist by training and a methodologist (*The Principles of Science*, 1874), he was optimistic that economic quantities could be **measured** (account books, price lists, bank returns).
+- **His central, "somewhat novel" opinion:** *"value depends entirely upon utility."* Against Ricardo (value = cost of production), Jevons says utility — specifically the benefit of the **last unit consumed** — governs value.
+- **The key concept: total utility vs the *final degree of utility*.** The **final degree of utility** = the utility of the **last increment** of a good = what we now call **marginal utility.** The **law of the variation of utility**: the final degree of utility **diminishes** as you consume more. (So the hundredth litre of water is worth almost nothing to you.)
+- **Jevons's chain — how cost and value connect only *indirectly*:**
+  1. **Cost of production determines supply;**
+  2. **supply determines the final degree of utility;**
+  3. **the final degree of utility determines value.**
+  → **Labour does not determine value directly** — it only influences value by **changing supply.** The **focus shifts to the individual consumer.**
+- **The maximization condition** (utilitarian calculus): a consumer maximizes utility when the **ratio of the marginal utilities** of two goods equals the **ratio of their prices**; a worker works until the **pain of the last hour** equals the **pleasure** its wage buys. Jevons calls this "a natural law of utility variation" and explicitly **calls for a law of supply and demand.**
+- *(Applied Jevons — from earlier modules:* **The Coal Question (1865)** and the **Jevons paradox**; and his **sunspot theory** of the trade cycle — statistical, inductive work he kept separate from the abstract theory.)*
+
+<a id="m7-marshall"></a>
+## ★ Alfred Marshall (1842–1924) & neoclassical economics
+
+***Core:*** Marshall **fuses** marginal utility (demand) with cost of production (supply) into the **neoclassical synthesis** — the foundation of microeconomics until the 1950s. His watchword: **be realistic.**
+
+- **The synthesis.** Marginalism (utility) explains **why people act** — but "we still need to explain the **price** of a commodity." His answer: **value is subjective and, on its own, not so important; supply and demand are *equally* important.** He grafts Jevons's utility theory onto his own supply-and-demand apparatus.
+- **The scissors** (the module's signature quote, *Principles* Bk V ch. III): *"We might as reasonably dispute whether it is the **upper or the under blade of a pair of scissors** that cuts a piece of paper, as whether value is governed by **utility** or **cost of production.**"* Demand (utility) is one blade, supply (cost) the other; **neither alone** cuts.
+- **Partial-equilibrium analysis.** To take **time** seriously, Marshall refuses Walras's all-at-once **general** equilibrium and instead studies **one market at a time** ("partial equilibrium" — the "holy cross"). Which blade dominates depends on the **period** (defined by what is free to change, not the calendar):
+
+| **Period** | What can adjust | Who governs price |
+|---|---|---|
+| **Market period** | nothing — stock is fixed | **demand** alone (esp. perishables like fish) |
+| **Short run** | output, via unskilled labour & machinery (rising cost) | **supply and demand together** |
+| **Long run** | everything — skilled labour, plant, methods | mainly **cost of production** (more output, falling cost) |
+
+→ Rule of thumb: *the **shorter** the period, the more **demand** matters; the **longer** the period, the more **cost of production** matters.*
+- **Equilibrium.** Where the **demand price equals the supply price**, output has "no tendency either to be increased or diminished" — the **equilibrium-amount** and **equilibrium-price.** A **stable** equilibrium behaves like a **pendulum** (or a stone hanging from a string): displace it, and market forces swing it back.
+
+<a id="m7-curves"></a>
+#### How the supply-and-demand curves are established (study question)
+
+***Core:*** build each curve from one blade of the scissors, then read price and quantity off their crossing point.
+
+- The **demand curve** comes from **(diminishing) marginal utility**: because each extra unit is worth less, buyers will only take **more** at a **lower** price → the curve slopes **downward.**
+- The **supply curve** comes from the **cost of production** (and, in the short run, **rising** marginal cost as output expands) → sellers will offer **more** only at a **higher** price → the curve slopes **upward.**
+- **Equilibrium** is where they **cross** — the **scissors** — fixing the **equilibrium price P\*** and **quantity Q\*.** (Marshall's convention, still used: **price on the y-axis, quantity on the x-axis.**)
+
+![Illustrative diagram of Marshall's supply-and-demand "scissors": a downward-sloping demand curve (driven by marginal utility) and an upward-sloping supply curve (driven by cost of production) crossing at the equilibrium price P* and quantity Q*.](figures/m7-supply-demand-scissors.png)
+
+*How to read it (illustrative diagram).* The **blue** line is **demand** — low marginal utility of extra units means buyers only take more as the price falls. The **red** line is **supply** — rising production costs mean sellers only offer more as the price rises. They meet at the **equilibrium** (**P\***, **Q\***): the one price at which the amount people want to buy equals the amount firms want to sell. Move the price above P\* and supply exceeds demand (it falls back); below P\*, demand exceeds supply (it rises) — the pendulum returns to the cross.
+
+<a id="m7-science"></a>
+#### Economics as a science — and the measuring rod of money
+
+- **Marshall's definition:** economics is "**a study of mankind in the ordinary business of life**" — needs, wishes, incentives, motives, choices (so, partly **psychology**).
+- **How to measure the unmeasurable?** **Money.** The **price we are willing to pay** for something expresses our **individual utility** at the margin — and since money is an **exact scale**, Marshall concludes **economics can be the most exact of the social sciences** (compare Jevons: "economics deals with quantities, so it must be mathematical"). But he is cautious: "**economics is less exact than the natural sciences**, but progress is being made towards greater precision."
+- **The evolutionary temper.** Marshall preferred **biological** to **mechanical** metaphors — motto *"**Natura non facit saltum**"* ("nature makes no jumps": change is **gradual, continuous**). He saw **firms** passing through a **life cycle** (young & vigorous → old & displaced): *an industry is like a forest — the same even as every tree changes.* He also noted **external economies** (economies of scale) and the realities of **monopoly and duopoly.** Tellingly, he buried his **diagrams in footnotes** and **algebra in an appendix** — he wanted the book readable by **businessmen.**
+
+<a id="m7-classical-neo"></a>
+## ★ What is "classical" and what is "neo-" in neoclassical economics? (study question)
+
+***Core:*** "neoclassical" = **marginalism**, *plus* what survived of the classics. Stanley Brue's definition: *"basically **marginalism** with a judicious recognition of the **surviving contributions of the classical school**"* (individual freedom of enterprise, private property, the market mechanism).
+
+| | **Classical** (Smith · Malthus · Ricardo · Mill · Marx) | **Neoclassical** (Jevons · Menger · Walras · Marshall) |
+|---|---|---|
+| **Theory of value** | **objective** — labour / cost of production | **subjective** — **marginal utility** |
+| **Side of the market** | **supply / production** | **demand / the consumer** |
+| **Unit of analysis** | **classes** (landlords, capitalists, workers) & distribution | the **individual** at the **margin** (micro) |
+| **Big question** | **growth** and its **limits** (the stationary state) | **price & allocation** via **equilibrium** |
+| **Human model & morals** | *political* economy, entangled with ethics | **Homo Oeconomicus**, utility maximization, "value-free" |
+
+- **Marshall is the "neo-":** he keeps the classical **supply/cost** blade and adds the new **utility/demand** blade — hence *neo-classical.* (Transitional figures **Mill** and **Marx** keep the **labour theory of value** → they count as **classical**, even while adding new ideas on distribution and crises.)
+
+<a id="m7-critique"></a>
+## Critique of neoclassical economics
+
+***Core:*** the assumptions that make the theory elegant are also its weak points — the charges that institutionalists and later Keynes press.
+
+- **History matters** — the early **institutionalist** reply: abstract universal "laws" ignore how institutions and context actually shape economies.
+- **"Bring the state back in"** — the state is not a distortion but the **protector of capitalism** (Gerschenkron, the historical school).
+- **It cannot explain growth or crises** — the model tends to **static equilibrium**; **Keynes** will argue economies can sit in an **unemployment disequilibrium** that the market does not self-correct.
+- **No empirical evidence — only assumptions.** Above all, **"pure competition" does not exist:** real markets tend toward **capital concentration, cartels and monopoly** — exactly what Marshall half-admitted with external economies and De Beers.
+
+### Cases & examples
+- **"Nissen's Law"** (1981 spoof) — Charles XII (1708), Napoleon (1812), Hitler (1941): why three data points are not a law of history.
+- **Smith's water & diamonds** — the paradox of value in use vs value in exchange.
+- **List's infant industry** — free trade inside, protection outside (the German catch-up programme).
+- **The Methodenstreit, 1883** — Schmoller vs Menger as the emblem of the history-vs-theory split.
+- **Marshall's "pair of scissors"** and the **fish market** (perishables → price set by demand) vs **wheat** (storable → sellers hold out) — the period analysis.
+- **De Beers** (monopoly) / **Apple & Microsoft** (duopoly) — Marshall's own reality checks against "pure competition."
+
+### Key terms
+| Term | Meaning |
+|---|---|
+| Positivism / Historicism | Comte: society has discoverable laws / Ranke: judge the past on its own terms, via sources |
+| Nomothetic / Idiographic | seeking general laws / describing the specific and unique |
+| Deductive / Inductive | reasoning from theory to cases / generalizing from observed facts |
+| German Historical School | economics as history & institutions; state-friendly (List, Roscher, Schmoller) |
+| Methodenstreit (1883) | the Schmoller–Menger "struggle over method" that split German economics |
+| Value in use / value in exchange | usefulness / purchasing power (the two senses of "value") |
+| Water-diamond paradox | the useful thing (water) is cheap, the useless one (diamond) dear |
+| Labour theory of value | value comes from the labour/cost embodied in a good (classical) |
+| Marginal utility / final degree of utility | the utility of the **last unit** consumed (Jevons's term) |
+| Diminishing marginal utility | each extra unit is worth less than the one before |
+| Marginalism | value is set **at the margin** by marginal utility, not by labour |
+| Homo Oeconomicus | the rational, self-interested utility-maximizing individual |
+| Methodological individualism | all analysis must start from the individual |
+| Neoclassical synthesis | Marshall's fusion of marginal utility (demand) + cost of production (supply) |
+| Partial equilibrium | analysing one market at a time (to handle time), not all at once |
+| The scissors | value is set by **both** blades — utility and cost of production |
+| Equilibrium price / amount | where demand price = supply price; no tendency to change |
+| Market / short-run / long-run period | nothing adjusts → only output adjusts → everything adjusts |
+| Tâtonnement | Walras's "groping" trial-and-error toward general equilibrium |
+
+<a id="m7-questions"></a>
+### ★ Study-question answers (Joachim)
+
+1. **What is the water-diamond paradox?** Smith's puzzle that **value in use and value in exchange come apart**: water is supremely useful yet almost free, while a diamond is nearly useless yet hugely expensive. Classical **labour value** "explained" it by cost (diamonds are hard to get); **marginalism** solves it properly — price follows **marginal utility**, and because water is **abundant**, the utility (and price) of *one more* unit is near zero. See [the paradox](#m7-waterdiamond).
+
+2. **What is "classical" and what is "neo-" in neoclassical economics?** The "**neo-**" is **marginalism** — subjective **marginal-utility** value, the individual consumer, equilibrium, micro, Homo Oeconomicus. The "**classical**" that survives is **supply/cost of production**, private property, free enterprise and the market. Marshall's "neo-classical" economics **keeps the classical cost blade and adds the utility blade** (Brue: "marginalism with a judicious recognition of the surviving contributions of the classical school"). See [classical vs neo-](#m7-classical-neo).
+
+3. **What is marginalism?** The doctrine that **economic value is determined at the margin** — by the **marginal (final-degree) utility of the last unit**, which **diminishes** as quantity rises — **not** by labour or cost. It is **subjective**, **deductive**, assumes **free competition and full information**, isolates the **individual's decision at the margin** (hence *micro*economics), and reduces economics to **utility maximization.** It arrives in **1871** (Jevons, Menger) and **1874** (Walras). See [marginalism](#m7-marginalism).
+
+4. **What were Jevons's main contributions? And Marshall's?** **Jevons:** declared **"value depends entirely upon utility"**, introduced the **final degree of utility** (= marginal utility) and the **law of its diminution**, replaced the labour theory of value with the chain **cost → supply → final degree of utility → value**, insisted economics is a **mathematical** science of pleasure/pain (Bentham), and shifted the focus to the **individual consumer.** **Marshall:** the **neoclassical synthesis** — **supply *and* demand** jointly set price (the **scissors**), **partial-equilibrium** and **period** analysis to handle time, the modern **supply-demand diagram** and **equilibrium price**, **money as a measuring rod** for utility, and the textbook (*Principles*, 1890) that founded **microeconomics** to the 1950s. See [Jevons](#m7-jevons) · [Marshall](#m7-marshall).
+
+5. **How are the supply-demand curves established?** The **demand curve** is built from **diminishing marginal utility** (buyers take more only as price falls → downward slope); the **supply curve** from **cost of production / rising marginal cost** (sellers offer more only as price rises → upward slope); **price and quantity** are fixed where they **cross** — Marshall's **scissors** — at the stable **equilibrium (P\*, Q\*)**, with **price on the y-axis and quantity on the x-axis.** See [how the curves are established](#m7-curves).
+
+<a id="ff-module7-pet"></a>
+## ★ Fun facts & memorable details (Module 7: Marginalism & Neoclassical Economics)
+
+> Sticky bits from the "political economy → (micro)economics" lecture.
+
+- **The scissors that settled a century-old fight.** Marshall ended the "utility vs labour" value war with one image: asking whether utility or cost sets value is like asking **which blade of the scissors cuts the paper.** Both do.
+- **"Pure self-interest cannot exist any more than can pure oxygen."** Menger's jab (1883) defending abstract theory — economic "laws" are built on idealisations, so you cannot refute them by pointing at messy reality.
+- **1871, twice.** The marginal revolution's two founding books — **Jevons's** *Theory of Political Economy* and **Menger's** *Principles* — appeared in the **same year**, independently, in different countries and languages. Walras joined in 1874; the three only discovered each other in the **mid-1870s.**
+- **The socialist marginalist.** **Walras** called himself a **socialist** on the strength of his plan to **tax rising land rents** — using the same marginalist toolkit his Austrian admirers would wield against socialism.
+- **Nissen's Law.** A Danish historian's deadpan "law" — win hegemony in Europe, invade Russia, freeze — skewering the idea that history obeys natural laws (Charles XII, Napoleon, Hitler).
+- **Marshall hid the maths.** Trained as a mathematician, he still buried his **diagrams in footnotes and algebra in an appendix** so **businessmen** could read the *Principles* — and refused to publish a growth model because he wasn't sure about the equations.
+- **"Nature makes no jumps."** Marshall's motto *Natura non facit saltum* — change is gradual; an **industry is like a forest**, the same even as every tree is born, grows and dies.
+- **Economics loses its first name.** By 1900 "**political economy**" was giving way to "**economics**" — the new science had detached itself from politics *and* from morals: now it was about **utility maximization** and **Homo Oeconomicus.**
 
 ---

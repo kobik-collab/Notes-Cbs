@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T13:32:36.942Z",
+  "generatedAt": "2026-10-06T10:45:07.308Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -48,7 +48,7 @@
       "full": {
         "title": "Political & Economic Thought — Full notes",
         "pdf": "pdfs/political-economic-thought/Political-Economic-Thought-Notes.pdf",
-        "sizeKB": 6137
+        "sizeKB": 6585
       },
       "parts": [
         {
@@ -104,6 +104,12 @@
           "title": "Exercise Class 4: Growth and Limits to Growth in Early Industrial Capitalism",
           "pdf": "pdfs/political-economic-thought/exercise-class-4-growth-and-limits-to-growth-in-early-indust.pdf",
           "sizeKB": 461
+        },
+        {
+          "slug": "module-7-from-political-economy-to-micro-economics-1871-1933",
+          "title": "Module 7: From Political Economy to (Micro)Economics (1871–1933)",
+          "pdf": "pdfs/political-economic-thought/module-7-from-political-economy-to-micro-economics-1871-1933.pdf",
+          "sizeKB": 586
         }
       ]
     },
