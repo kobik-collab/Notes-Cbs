@@ -15,6 +15,7 @@
 - **[Lecture 3: Elasticities & Taxes (Ch. 2 recap · §6.4)](#lecture-3-micro)** — [why elasticity?](#micro3-why) · [★ price elasticity of demand](#micro3-ped) · [computing & the point-elasticity trick](#micro3-computing) · [elastic / inelastic / unit-elastic](#micro3-naming) · [cross-price](#micro3-cross) · [income elasticity & Engel curves](#micro3-income) · [supply elasticity](#micro3-supply) · [elasticity over time](#micro3-time) · [★ taxes: the wedge, incidence & equivalence](#micro3-taxes) · [formula sheet](#micro3-formulas) · [★ practice problems (with solutions)](#micro3-practice) · [★ Fun facts](#ff-micro3)
 - **[Lecture 4: Consumer Choice (Ch. 5)](#lecture-4-micro)** — [modelling choice: the 3 ingredients](#micro4-why) · [preferences & rationality axioms](#micro4-preferences) · [utility & utility functions](#micro4-utility) · [★ marginal utility](#micro4-mu) · [indifference curves & their 3 types](#micro4-indiff) · [★ marginal rate of substitution (MRS)](#micro4-mrs) · [budget constraint & MRT](#micro4-budget) · [★ the optimum: MRS = MRT](#micro4-optimum) · [comparative statics · interior vs corner · Cobb-Douglas shortcut](#micro4-comparative) · [behavioral economics](#micro4-behavioral) · [cases](#micro4-cases) · [formula sheet](#micro4-formulas) · [★ practice problems (with solutions)](#micro4-practice) · [★ Fun facts](#ff-micro4)
 - **[Lecture 5: Applying Consumer Theory (Ch. 5 · §6.5)](#lecture-5-micro)** — [★ deriving the demand curve](#micro5-demand) · [solving it analytically: substitution & Lagrangian](#micro5-analytical) · [the dual: expenditure minimization](#micro5-dual) · [★ income & substitution effects](#micro5-is) · [normal good](#micro5-normal) · [inferior good](#micro5-inferior) · [Giffen goods](#micro5-giffen) · [★ application: labour supply](#micro5-labor) · [formula sheet](#micro5-formulas) · [★ practice problems (with solutions)](#micro5-practice) · [★ Fun facts](#ff-micro5)
+- **[Lecture 6: Firms & Production (Ch. 3–4)](#lecture-6-micro)** — [the firm & perfect competition](#micro6-firm) · [inputs & the production function](#micro6-production) · [short run vs long run](#micro6-timing) · [★ marginal product & diminishing returns](#micro6-mpl) · [returns to scale](#micro6-returns) · [★ short-run costs (MC · ATC · AVC · AFC)](#micro6-costs) · [revenue & profit](#micro6-rewards) · [★ profit maximisation: MR = MC = p](#micro6-profitmax) · [the shutdown rule](#micro6-shutdown) · [long-run entry & zero profit](#micro6-longrun) · [★ optimal inputs: isoquants, isocost & cost minimisation](#micro6-inputs) · [formula sheet](#micro6-formulas) · [★ practice problems (with solutions)](#micro6-practice) · [★ Fun facts](#ff-micro6)
 
 ---
 
@@ -1232,5 +1233,233 @@ $$\textbf{Total effect} \;=\; \textbf{substitution effect} \;+\; \textbf{income 
 - **"They can only afford rice."** The heart of the Giffen paradox: when your staple gets pricier, you're too poor to buy anything *but* the staple — so you buy **more** of it.
 - **A pay rise can make you work less.** The **backward-bending labour supply curve**: past some wage, you're rich enough to "buy back" your own time. Lottery winners who quit their jobs are the income effect made visible.
 - **Every price change is secretly two changes.** Splitting the substitution effect from the income effect is one of the most useful moves in all of microeconomics — it's why we can tell a normal good from an inferior one from a Giffen good just by signing an arrow.
+
+---
+
+<a id="lecture-6-micro"></a>
+# Lecture 6: Firms and Production (Chapters 3–4)
+
+**Required reading:** Friberg, **Ch. 3 — From technology to costs** (production functions, costs, isoquants & cost minimization) · **Ch. 4 — Supply by price-taking firms** (profit, MR = MC, shutdown, long-run supply). *Lecturer: L. Butera — deck **"Lecture 6: Production."*** *(The lecture is titled "Chapter 4 / Firms & production"; the production-and-cost machinery is actually Friberg **Ch. 3**, and the profit/supply half is **Ch. 4** — this note covers both.)*
+
+**Résumé.** Lectures 4–5 were the **consumer**; now it's the **firm.** The firm is the mirror image of the consumer: where the consumer maximised **utility** subject to a **budget**, the firm **minimises cost** subject to a **production function**, and then **maximises profit.** The lecture runs the whole chain **technology → cost → supply**: build the **production function** Q = f(K, L); derive **short-run product** (marginal product, diminishing returns) and **cost curves** (MC, ATC, AVC, AFC); add **revenue** to get the **profit-maximising rule MR = MC = p** and the firm's **supply curve**; add the **shutdown rule**; let **free entry** drive the **long run** to **zero profit**; and finally solve the **optimal input mix** (L\*, K\*) with **isoquants and isocosts** (the exact analogue of the consumer's indifference-curve optimum).
+
+<div class="heart">★ <strong>The heart of the lecture — the firm as a two-stage optimiser.</strong>
+<br>• <strong>Stage 1 — cost minimisation (how to produce):</strong> for any target output, pick the input mix where the <strong>isoquant is tangent to the lowest isocost</strong> — <strong>MRTS = w/r</strong>, i.e. the <strong>last-dollar rule</strong> MP<sub>L</sub>/w = MP<sub>K</sub>/r. This gives the <strong>cost function C(q).</strong>
+<br>• <strong>Stage 2 — profit maximisation (how much to produce):</strong> produce where <strong>marginal revenue = marginal cost.</strong> A <strong>price-taking</strong> firm has MR = p, so the rule is <strong>p = MC</strong> — and the firm's <strong>supply curve is its MC curve</strong> (above min AVC).
+<br>• <strong>The time dimension:</strong> in the <strong>short run</strong> capital is <strong>fixed</strong> (so there are fixed costs, and a shutdown decision); in the <strong>long run</strong> everything is variable and <strong>free entry drives economic profit to zero</strong> (p = MC = min ATC).</div>
+
+**Key concepts / "modes" to use:** *perfect competition & the price taker* · *production function Q = f(K,L); Cobb-Douglas Q = √(KL)* · *short run vs long run (K fixed vs all variable)* · *marginal product MP<sub>L</sub> = ∂Q/∂L; law of diminishing marginal returns* · *returns to scale (CRS · IRS · DRS); the exponent-sum shortcut* · *FC · VC · TC; ATC · AVC · AFC; **MC = dTC/dq**; MC cuts ATC & AVC at their minima* · *TR = pq; π = TR − TC; MR = dTR/dq* · *the output rule **MR = MC = p**; the firm's supply curve* · *the shutdown rule (p < min AVC)* · *free entry → long-run zero economic profit; opportunity cost & economic rent* · *isoquants · MRTS = MP<sub>L</sub>/MP<sub>K</sub> · isocost wL + rK = C · the tangency / last-dollar rule.*
+
+---
+
+<a id="micro6-firm"></a>
+## The firm, and the perfectly-competitive benchmark
+
+***Core:*** the whole lecture lives in **perfect competition**, whose assumptions make each firm a **price taker** — it can sell as much as it likes at the market price **p**, but nothing above it.
+
+- **The five assumptions:** **(1)** a very large number of firms (no one firm moves the price); **(2)** **identical (homogeneous)** products; **(3)** **complete, symmetric information**; **(4)** **negligible transaction costs**; **(5)** **free entry and exit** (in the long run).
+- **The consequence — the firm's demand curve is *horizontal* at p.** Raise your price a cent and you sell **zero** (buyers switch to an identical rival); so the firm **takes p as given.** *(Why nearly flat and not perfectly flat? The firm faces the market's residual demand; with many rivals that residual is hugely elastic — soybean example: market demand is only moderately elastic, yet one farm faces a "super-elastic," almost flat demand.)*
+- **The firm** = the decision-maker that chooses **what** and **how** to produce; modelled as a single actor with one objective — **maximise profit** (and, as a sub-step, **minimise cost**).
+
+<a id="micro6-production"></a>
+## Inputs and the production function
+
+***Core:*** production turns **inputs** into **output.** We simplify the firm's many inputs to two: **capital K** and **labour L.**
+
+- **Factors of production:** **labour** (human time/effort), **capital** (things *used but not used up* — buildings, machines, servers; includes **intangible** capital like patents), plus **land** and **raw/intermediate materials.**
+- **The production function** gives the maximum output from given inputs:
+
+  **Q = f(K, L).**
+
+  The lecture's running form is **Cobb-Douglas**, e.g. **Q = √(KL) = K^½ L^½.** It can also be written as a **table** (output for each K-row × L-column).
+
+<a id="micro6-timing"></a>
+## Short run vs long run (timing matters)
+
+***Core:*** the distinction is about **what can be varied**, not the calendar.
+
+| | **Short run (SR)** | **Long run (LR)** |
+|---|---|---|
+| **Inputs** | **at least one is fixed** — we assume **capital K is fixed** | **all inputs variable** |
+| **Costs** | **fixed costs exist** (rent, machines) | **all costs variable** |
+| **Example** | a sandwich shop can hire an extra pair of hands fast, but **can't add an oven** overnight | it can build a whole new sandwich station |
+
+*In plain terms:* the SR is "stuck with your factory"; the LR is "you can rebuild the factory (or leave the industry)."
+
+<a id="micro6-mpl"></a>
+## ★ Short-run production: marginal product & diminishing returns
+
+***Core:*** with **K fixed**, keep adding **labour** and output rises — but each extra worker eventually adds **less** than the last.
+
+- **Marginal product of labour (MP<sub>L</sub>)** = the extra output from one more unit of labour, holding K fixed = the **partial derivative**:
+
+  **MP<sub>L</sub> = ∂Q/∂L.** For Q = √(KL): **MP<sub>L</sub> = ½√(K/L).**
+- **The law of diminishing marginal returns:** beyond some point, adding more of a **variable** input to **fixed** inputs makes **MP<sub>L</sub> fall.** (Too many cooks crowd the one kitchen.)
+- **Crucial distinction — diminishing *marginal* product ≠ *falling* output.** Total output is still **rising**; it is the **increments** that shrink (and only once MP<sub>L</sub> goes **negative** does total output actually fall).
+
+![Two panels. Top: total product rises then eventually falls as more workers crowd the fixed capital. Bottom: the marginal product of labour (output added by each extra worker) rises at first, peaks, then declines — diminishing marginal returns begin after the 3rd worker — and eventually turns negative.](figures/l6-marginal-product.png)
+
+*How to read it.* **Top:** total product climbs steeply at first, then flattens and finally **turns down** once extra workers get in each other's way. **Bottom:** the **marginal** product (one worker's *addition*) **rises** through the first three workers, then **diminishes** (the amber line), and goes **negative** past the point where total product peaks. *The onset of diminishing marginal returns is where the marginal-product bars start shrinking — here, after the 3rd worker.*
+
+<a id="micro6-returns"></a>
+## Returns to scale (a long-run, all-inputs question)
+
+***Core:*** scale **all** inputs up by the same factor **α** and ask what happens to **output.**
+
+| | Definition (double all inputs ⇒ …) | Formula | Why |
+|---|---|---|---|
+| **Constant returns (CRS)** | output **doubles** | f(αK, αL) = α·f(K,L) | replication |
+| **Increasing returns (IRS)** | output **more than doubles** | f(αK, αL) > α·f(K,L) | specialisation; one big plant beats two small |
+| **Decreasing returns (DRS)** | output **less than doubles** | f(αK, αL) < α·f(K,L) | coordination gets harder as the firm grows |
+
+- **Worked checks:** **Q = √(KL)** → f(αK,αL) = (αK)^½(αL)^½ = **α·√(KL)** → **CRS.** **Q = K²L²** → (αK)²(αL)² = **α⁴·K²L²** → **IRS.**
+- **Cobb-Douglas shortcut:** **sum the exponents.** Sum **= 1 → CRS; > 1 → IRS; < 1 → DRS.**
+- *(Don't confuse with **economies of scale**, a **cost** idea: falling **long-run ATC** as output grows — linked to IRS but not identical.)*
+
+<a id="micro6-costs"></a>
+## ★ The short-run cost curves
+
+***Core:*** total cost splits into a part that **varies** with output and a part that **doesn't**, and dividing by Q gives the per-unit curves.
+
+- **Total cost** **TC = VC + FC** — **variable cost** (labour, materials, electricity: rises with Q) + **fixed cost** (rent, equipment: paid regardless in the SR).
+- **Per-unit costs** (divide by Q): **ATC = AVC + AFC**, where **ATC = TC/Q**, **AVC = VC/Q**, **AFC = FC/Q.**
+- **Marginal cost** — the cost of **one more unit:**
+
+  **MC = ΔTC/ΔQ = dTC/dq** (the derivative of total cost).
+- **The shapes (and the one fact that always shows up on exams):**
+  - **AFC** falls continuously (a fixed cost spread over more and more units).
+  - **ATC and AVC are U-shaped:** spreading fixed cost pulls ATC **down**, rising MC pulls it **up** → a U.
+  - **★ MC cuts ATC and AVC at their *minimum* points.** *Intuition (the height analogy):* a new unit **cheaper** than the current average pulls the average **down**; **dearer** than the average pulls it **up** — so marginal crosses average exactly at the average's lowest point.
+
+![The short-run cost curves: a rising marginal-cost curve (MC) passing through the minimum of both the U-shaped average-total-cost curve (ATC) and the average-variable-cost curve (AVC), with average fixed cost (AFC) declining throughout.](figures/l6-cost-curves.png)
+
+*How to read it (illustrative diagram).* **MC** (red) slopes up. **AVC** (green) and **ATC** (blue) are **U-shaped**, with ATC sitting above AVC by the falling **AFC** (grey dashed) gap. The two marked dots are the key fact: **MC passes exactly through the bottom of AVC and the bottom of ATC.** Left of each minimum, MC is **below** the average and drags it down; right of it, MC is **above** and pushes it up.
+
+<a id="micro6-rewards"></a>
+## The rewards of doing business: revenue & profit
+
+***Core:*** the other half of the firm's problem — what it **earns.**
+
+- **Total revenue** **TR = p × Q.**
+- **Profit** **π = TR − TC.**
+- **Marginal revenue** — the revenue from **one more unit sold:** **MR = ΔTR/ΔQ = dTR/dq.** For a **price taker**, every extra unit sells at the same market price, so **MR = p.**
+
+<a id="micro6-profitmax"></a>
+## ★ Profit maximisation: MR = MC = p
+
+***Core:*** keep producing an extra unit as long as it **brings in more than it costs** — stop when the last unit's **revenue equals its cost.**
+
+- **The output rule** (three equivalent statements): **(1)** profit is maximised; **(2)** marginal profit is zero; **(3)** **MR = MC.** Formally, maximise π(q) = TR(q) − TC(q): set dπ/dq = MR − MC = 0 → **MR = MC.**
+- **For a price-taking firm MR = p**, so the rule collapses to
+
+  **p = MC** → and therefore **the firm's supply curve *is* its marginal-cost curve** (the upward-sloping part, above min AVC).
+- **Worked example (Friberg):** C(q) = 10 + q², price p = 12. Maximise 12q − (10 + q²): FOC 12 − 2q = 0 → **q\* = 6.** Profit **π = (p − ATC)·q = (12 − 46/6)·6 = 26 > 0.** (At p = 10 → q\* = 5; at p = 14 → q\* = 7 — tracing out the MC/supply curve.)
+
+![Profit maximisation for a price-taking firm: the horizontal price line p = MR meets the rising marginal-cost curve at the optimal quantity where p = MC; profit is the shaded rectangle between price and average total cost; the firm shuts down below the minimum of average variable cost.](figures/l6-profit-max.png)
+
+*How to read it (illustrative diagram).* The flat black line is **p = MR** (the price taker's "demand"). The firm slides out along its **MC** curve and stops where **p = MC** (the dot). **Profit** is the shaded box: height **(p − ATC)** times width **q\***. If the price line sits **below min AVC** (the green dot), the firm can't even cover its variable costs and **shuts down.**
+
+<a id="micro6-shutdown"></a>
+## The shutdown rule (short run)
+
+***Core:*** a firm losing money should keep going **only if producing loses *less* than closing.**
+
+- In the SR, **fixed costs are unavoidable (sunk)** — you pay the rent whether you open or not. So the firm compares **revenue to *variable* cost**, not total cost.
+- **Shutdown rule:** **shut down if price < minimum AVC** (i.e. if pq < VC — revenue can't even cover variable costs). If **p ≥ min AVC**, keep producing: the excess **pq − VC** ("variable profit") at least **reduces** the loss on fixed costs.
+- So the firm's SR **supply curve = MC above min AVC**, and **zero** below it. (Shutdown is a **SR** decision; in the LR all costs are avoidable, so a loss-maker simply **exits.**)
+
+<a id="micro6-longrun"></a>
+## Long-run competition: free entry drives profit to zero
+
+***Core:*** the same rule **MR = MC** still picks output, but now **free entry and exit** pin down the **price.**
+
+- In the LR **all costs are variable** (no fixed cost; ATC = AVC) and **firms can enter or exit.** Positive economic profit **attracts entry**; entry **shifts market supply out** and **pushes the price down.** Entry stops only when **profit = 0.**
+- **Long-run equilibrium condition:** price is driven to the **minimum of ATC**, where
+
+  **p = MR = MC = min ATC**, and **economic profit = 0.**
+
+  The **LR market supply curve** is therefore **flat at min ATC** (with identical firms, free entry and constant input prices).
+- **"Zero profit" means zero *economic* profit.** **Economic cost = accounting cost + opportunity cost**; at the zero-profit point every input (including the owner's time and capital) earns exactly its **next-best return** — the firm is doing fine, just not *better* than its alternatives. A return to owning a **scarce** input (prime Champagne land) is an **economic rent**, and can make the LR supply curve slope **up.** *(Learning-by-doing — chips, aircraft — can even make it slope **down**.)*
+
+<a id="micro6-inputs"></a>
+## ★ Optimal input choice: isoquants, isocosts & cost minimisation
+
+***Core:*** *how* to produce a given output most cheaply — the exact analogue of the consumer's optimum, with **isoquants** playing the role of indifference curves and **isocosts** the role of the budget line.
+
+- **Isoquant** — all **(L, K) combinations that make the same output Q** ("iso" = equal). Shapes mirror the consumer's: **perfect substitutes** → straight line; **perfect complements** → L-shaped (rickshaws need exactly one driver each); the usual **imperfect substitutes** → **convex**, bowed toward the origin.
+- **The slope of an isoquant = the marginal rate of technical substitution (MRTS)** — how much **K** you can drop when you add one **L**, holding output constant:
+
+  **MRTS = MP<sub>L</sub> / MP<sub>K</sub>** (derived by totally differentiating Q = f(K,L) and setting dQ = 0).
+- **Isocost line** — all input combinations costing the **same total**, **C = wL + rK** (w = wage, r = rental rate of capital). Rearranged: **K = C/r − (w/r)·L** → **intercept C/r, slope −w/r.**
+- **Cost minimisation (three equivalent rules):**
+  1. **Lowest-isocost rule:** pick the input bundle where the **lowest isocost** still touches the target isoquant.
+  2. **Tangency rule:** where the **isoquant is tangent to the isocost** → slopes equal → **MRTS = w/r.**
+  3. **Last-dollar rule:** **MP<sub>L</sub>/w = MP<sub>K</sub>/r** — the **last dollar** spent on each input buys the **same extra output.** *(The same algebra, via the Lagrangian: MP<sub>L</sub>/w = MP<sub>K</sub>/r = λ.)*
+- **Mapping each target Q to its minimised cost gives the cost function C(q)** — closing the loop back to the cost curves above.
+
+![Long-run cost minimisation: three isoquants (Q = 4, 6, 8) bowed toward the origin, with a straight isocost line tangent to the Q = 6 isoquant at the cost-minimising input bundle (L*, K*), where the marginal rate of technical substitution equals the input-price ratio w/r.](figures/l6-isoquant-isocost.png)
+
+*How to read it (illustrative diagram).* Each blue curve is an **isoquant** — a fixed output level, more toward the top-right = more output. The red line is an **isocost** (all input mixes costing the same C). To make **Q = 6** as cheaply as possible, slide to the **lowest** isocost that still touches that isoquant — the **tangency** point **(L\*, K\*)**, where the isoquant's slope (**MRTS = MP<sub>L</sub>/MP<sub>K</sub>**) equals the isocost's slope (**w/r**).
+
+- **Comparative statics — why factories differ by country.** Same technology, same r, but **Japan** has a **high wage** → a **steeper** isocost → the tangency uses **more capital, less labour** (automation). **Bangladesh** has a **low wage** → **flatter** isocost → **more labour, less capital** (labour-intensive garments). Relative **input prices** pick the technique.
+
+### Cases & examples
+- **The CPH sandwich shop** — a new office opens next door: in the **SR** you hire hands (variable), but can't add ovens (fixed) → diminishing marginal product; in the **LR** you build a new station.
+- **The Wisconsin Cheeseman** — "why not 500 boxes? why not 1500?" → the firm settles at **MR = MC.**
+- **Japan vs Bangladesh** — same technology, different wages → capital-intensive vs labour-intensive input mix (comparative statics of cost minimisation).
+- **The electricity supply curve** — the market supply stacks sources by MC ("merit order": wind/hydro cheapest, then nuclear, then fossil), so it is flat at low output and steep at the top.
+- **Champagne land** — the forgone grape revenue is the **opportunity cost** of any other use; the premium for scarce land is **economic rent.**
+- **The Black Death** — plague cut the workforce → each survivor had more land/capital → **MP<sub>L</sub> and real wages rose** (marginal product drives wages).
+
+<a id="micro6-formulas"></a>
+### Formula sheet
+| Concept | Formula |
+|---|---|
+| Production function | Q = f(K, L); Cobb-Douglas Q = K^a L^b |
+| Marginal product of labour | MP<sub>L</sub> = ∂Q/∂L (for Q = √(KL): ½√(K/L)) |
+| Returns to scale | f(αK, αL) = α·f ⇒ CRS; > α·f ⇒ IRS; < α·f ⇒ DRS (Cobb-Douglas: a + b vs 1) |
+| Total / average costs | TC = VC + FC; ATC = TC/Q; AVC = VC/Q; AFC = FC/Q |
+| Marginal cost | MC = dTC/dq |
+| MC–AC relation | MC cuts ATC and AVC at their minima |
+| Revenue, profit | TR = pQ; π = TR − TC; MR = dTR/dq |
+| Output rule | MR = MC; price taker ⇒ **p = MC** (supply = MC above min AVC) |
+| Shutdown (SR) | produce iff **p ≥ min AVC** |
+| Long-run equilibrium | **p = MC = min ATC**, economic profit = 0 |
+| Isocost | C = wL + rK ⇒ K = C/r − (w/r)L |
+| MRTS (isoquant slope) | MRTS = MP<sub>L</sub>/MP<sub>K</sub> |
+| Cost-min (tangency / last dollar) | MRTS = w/r ⇔ **MP<sub>L</sub>/w = MP<sub>K</sub>/r** |
+
+<a id="micro6-practice"></a>
+### ★ Practice problems (with solutions)
+
+**Problem 1 — short-run firm (the lecture's example).** A firm has **TC = 2q² + 50q + 50** and faces a market price **p = 100.**
+*(a)* Find FC, VC, AFC, AVC, ATC and MC. *(b)* How much does the firm produce, and what profit does it make?
+
+> **Solution.** **(a)** **FC = 50**; **VC = 2q² + 50q**; **AFC = 50/q**; **AVC = 2q + 50**; **ATC = 2q + 50 + 50/q**; **MC = dTC/dq = 4q + 50.**
+> **(b)** Price taker ⇒ **p = MC**: 100 = 4q + 50 → **q\* = 12.5.** Then TR = 100(12.5) = 1250; TC = 2(12.5²) + 50(12.5) + 50 = 312.5 + 625 + 50 = 987.5 → **π = 1250 − 987.5 = 262.5 > 0.** (Since p = 100 > min AVC, the firm produces.)
+
+**Problem 2 — long run with free entry.** Same cost function TC = 2q² + 50q + 50; market demand **p = 210 − Q.** Find the **long-run** price, each firm's output, the number of firms, and each firm's profit.
+
+> **Solution.** Free entry drives price to **min ATC.** Minimise ATC = 2q + 50 + 50/q: dATC/dq = 2 − 50/q² = 0 → q² = 25 → **q\* = 5**, giving **min ATC = 2(5) + 50 + 50/5 = 70.** So the **LR price = 70.** Market quantity from demand: Q = 210 − 70 = **140.** Number of firms **n = Q / q\* = 140 / 5 = 28.** Each firm's profit **π = (p − ATC)·q = (70 − 70)·5 = 0** — zero economic profit, as required. *(Entry has pushed the price down from 100 to 70 and wiped out the short-run profit.)*
+
+**Problem 3 — returns to scale & cost minimisation.**
+*(a)* Does **Q = K^(1/3) L^(1/2)** show increasing, constant or decreasing returns to scale?
+*(b)* A firm produces with **Q = √(KL)**, wage **w = 4**, rental rate **r = 1.** In what proportion should it use L and K?
+
+> **Solution.** **(a)** Sum of exponents = 1/3 + 1/2 = **5/6 < 1 → decreasing returns to scale.**
+> **(b)** MP<sub>L</sub> = ½√(K/L), MP<sub>K</sub> = ½√(L/K) → MRTS = MP<sub>L</sub>/MP<sub>K</sub> = **K/L.** Tangency: MRTS = w/r → **K/L = 4/1** → **K = 4L.** The firm uses **four units of capital per unit of labour** (capital-intensive, because labour is relatively dear).
+
+<a id="ff-micro6"></a>
+### ★ Fun facts & memorable details (Lecture 6: Firms & Production)
+
+> Sticky bits from the production lecture.
+
+- **The firm is a consumer in a mirror.** Indifference curve ↔ **isoquant**; budget line ↔ **isocost**; MRS = price ratio ↔ **MRTS = w/r.** Learn one optimum, you've learned both.
+- **Marginal cuts average at the bottom — always.** Whether it's cost curves or your grade-point average, the **marginal** value crosses the **average** exactly at the average's minimum. Add something below your average and it drops; above, it rises.
+- **You can rationally run at a loss.** In the short run, as long as price covers **average variable cost**, staying open loses **less** than closing — because the rent is sunk either way. The shutdown line is **min AVC**, not min ATC.
+- **"Zero profit" is a success, not a failure.** Long-run zero *economic* profit means every input — including the owner — is earning exactly its best alternative return. It only looks like zero because the **opportunity cost** is already counted.
+- **The Black Death raised wages.** Kill a third of the workforce and each survivor works more land → higher **marginal product** → higher real wages. A grim demonstration that **wages track marginal product.**
+- **Why Japanese factories are robotic and Bangladeshi ones aren't.** Same technology — different **wages.** High wages tilt the isocost toward **capital**; low wages toward **labour.** The technique follows the price of the input.
+- **One big plant can beat two small ones.** That's **increasing returns to scale** (specialisation) — and, on the cost side, the **economies of scale** that let a few firms dominate aircraft, pharma and chips.
 
 ---
