@@ -18,6 +18,7 @@
 - **[Module 6: Reactions to Liberalism — Conservatism & Classical Political Economy (1790–1830)](#module-6-pet)** — [historical context: the social question](#m6-context) · [Adam Smith recap](#m6-smith-recap) · [**Malthus**](#m6-malthus) · [★ population & the Malthusian trap](#m6-population) · [poor laws & Malthus's solutions](#m6-poorlaws) · [market gluts & Say's Law](#m6-gluts) · [**Ricardo**](#m6-ricardo) · [★ differential rent & diminishing returns](#m6-rent) · [distribution & the iron law of wages](#m6-distribution) · [free trade & the Corn Laws](#m6-freetrade) · [★ the value debate (LTV · the "Ricardian detour" · Say)](#m6-value) · [Malthus vs Ricardo](#m6-malthusricardo) · [**Burke** & conservatism](#m6-burke) · [the French-Revolution context](#m6-burke-context) · [★ Burke's core ideas](#m6-burke-ideas) · [Burke take-aways](#m6-burke-takeaway) · [★ Study-question answers](#m6-questions) · [★ Fun facts](#ff-module6-pet)
 - **[Exercise Class 4: Growth & Limits to Growth in Early Industrial Capitalism](#ex4-pet)** — [the classical growth story](#ex4-recap) · [Smith on growth](#ex4-smith) · [★ the stationary state](#ex4-stationary) · [Malthus & Ricardo on sustained growth](#ex4-malthusricardo) · [**Mill**: what is political economy?](#ex4-mill) · [★ production vs distribution](#ex4-distribution) · [★ the stationary state *welcomed*](#ex4-mill-stationary) · [Zweig: forerunners of limits to growth](#ex4-zweig) · [★ the Jevons paradox & the Coal Question](#ex4-jevons) · [*Snowpiercer*](#ex4-snowpiercer) · [★ working-question answers](#ex4-questions) · [★ Fun facts](#ff-ex4)
 - **[Module 7: From Political Economy to (Micro)Economics (1871–1933)](#module-7-pet)** — [the great divide: social science vs history](#m7-divide) · [context: Germany · England · US](#m7-context) · [two traditions of economic science](#m7-traditions) · [the German Historical School (List · Roscher · Schmoller)](#m7-historical-school) · [★ the Methodenstreit (1883)](#m7-methodenstreit) · [★ the water-diamond paradox](#m7-waterdiamond) · [Bentham & the forerunners](#m7-forerunners) · [★ marginalism & the marginal revolution](#m7-marginalism) · [★ Jevons](#m7-jevons) · [★ Marshall & neoclassical economics](#m7-marshall) · [★ how supply & demand set price (the scissors)](#m7-curves) · [★ classical vs neo-](#m7-classical-neo) · [critique of neoclassical economics](#m7-critique) · [★ Study-question answers](#m7-questions) · [★ Fun facts](#ff-module7-pet)
+- **[Exercise Class 5: Economic Culture — the Market in American Fiction](#ex5-pet)** — [the assignment](#ex5-pet) · [*Farmer Boy*: money as stored work (labour theory of value)](#ex5-farmerboy) · [*Butcher's Crossing*: the market's betrayal](#ex5-butchers) · [★ the implication for Father Wilder](#ex5-implication) · [★ Assignment answers](#ex5-questions) · [★ Fun facts](#ff-ex5)
 
 ---
 
@@ -3104,5 +3105,95 @@ Tocqueville reasons by **cases and comparisons** (America ↔ France; democracy 
 - **Marshall hid the maths.** Trained as a mathematician, he still buried his **diagrams in footnotes and algebra in an appendix** so **businessmen** could read the *Principles* — and refused to publish a growth model because he wasn't sure about the equations.
 - **"Nature makes no jumps."** Marshall's motto *Natura non facit saltum* — change is gradual; an **industry is like a forest**, the same even as every tree is born, grows and dies.
 - **Economics loses its first name.** By 1900 "**political economy**" was giving way to "**economics**" — the new science had detached itself from politics *and* from morals: now it was about **utility maximization** and **Homo Oeconomicus.**
+
+---
+
+<a id="ex5-pet"></a>
+# Exercise Class 5: Economic Culture — the Market in American Fiction
+
+**Readings:** extract from **Laura Ingalls Wilder**, *Farmer Boy* (1933), "The Value of a Half-dollar" (set 1866/67) · extract from **John Williams**, *Butcher's Crossing* (1960), pp. 244–49 (set in the 1870s). *(Exercise class — Joachim Lund.)*
+
+**The assignment (Joachim).** *"Read and reflect on the texts by Laura Ingalls Wilder (1933) and John Williams (1960). Then discuss which economic ideas and assumptions you can detect in the texts. Consider the implications of John Williams' text for Laura Ingalls Wilder's father-in-law's economic deliberations."*
+
+**Why these two texts.** This class reads two pieces of **American fiction as economic documents** — "economic culture." They stage the exact clash the course has been building toward: the **classical, agrarian, labour-based** idea of value (Modules [3](#m3-smith)–[6](#module-6-pet)) against the **marginalist, market-driven, subjective** idea of value ([Module 7](#module-7-pet)). *Farmer Boy* gives us a father preaching that **money *is* stored work** on a stable family farm; *Butcher's Crossing* shows a **market that destroys the value of a year's brutal labour overnight** — and the natural world with it.
+
+<div class="heart">★ <strong>The red thread — two theories of value, dramatized:</strong>
+<br>• <strong>Farmer Boy = the labour theory of value (and the yeoman ideal).</strong> Father Wilder: "<em>No, this is work, son.</em>" The half-dollar is worth what it is because it <strong>embodies the labour</strong> of a bushel of potatoes (Smith's "<a href="#m7-waterdiamond">toil and trouble</a>"; Module 6's classical value). Add <strong>thrift</strong> and <strong>capital accumulation</strong> (save the coin → buy a pig → sell piglets) and you get <strong>independence and wealth.</strong> Value is <strong>objective, stable and moral.</strong>
+<br>• <strong>Butcher's Crossing = the market's verdict (marginalist value).</strong> A year's labour — and a man's life — produces three thousand prime hides that are suddenly <strong>worth almost nothing</strong>: "<em>the bottom's dropped out of the whole market.</em>" Value turns out to be <strong>subjective and demand-driven</strong> (fashion shifted: "<em>everybody that wants one has a buffalo robe; and nobody wants any more</em>"), wrecked by <strong>overproduction</strong> ("<em>you flood the market with hides and ruin the market</em>") and the <strong>destruction of the commons</strong> (the buffalo exterminated, the land "<em>stunk up</em>," the meat left "<em>to rot in the sun</em>").
+<br>• <strong>The implication:</strong> Williams is a direct refutation of Father Wilder's faith. In a real <strong>market economy</strong>, hard work and prudence <strong>guarantee nothing</strong> — value is set by forces the producer cannot see or control.</div>
+
+**Key concepts to apply:** *labour theory of value vs subjective/marginal value* · *value in use vs value in exchange (the [water-diamond paradox](#m7-waterdiamond))* · *thrift · deferred gratification · saving → capital accumulation* · *the Jeffersonian yeoman / self-sufficient farm* · *market gluts / overproduction vs [Say's Law](#m6-gluts)* · *speculation & boom-bust · risk & uncertainty* · *the tragedy of the commons · resource depletion · the "[cowboy economy](#ex4-zweig)"* · *the disjunction of labour and reward.*
+
+---
+
+<a id="ex5-farmerboy"></a>
+## *Farmer Boy* — money as stored work (the agrarian labour theory of value)
+
+***Core:*** on the Fourth of July 1866, the rich upstate-New-York farmer teaches nine-year-old Almanzo that a coin is not a thing to spend but **congealed labour** — and that wealth comes from **work, thrift and reinvestment.**
+
+- **The lesson — a folk labour theory of value.** Asked for a nickel, Father hands over a **half-dollar** and asks "*What is this?*" — "*A half-dollar.*" — "***No, this is work, son.***" He then walks Almanzo through the whole labour process of a **bushel of potatoes** (plow → cut seed → plant → hoe *twice* → dig → wash → scrub → basket), which the potato buyer pays exactly **a half-dollar** for. *"So this half-dollar represents all of the work that goes into growing a bushel of potatoes."* → This is **Smith's "toil and trouble"** / the **classical labour theory of value** (Module [6](#m6-value)) in a child's catechism: the real cost and worth of a thing is the **labour embodied** in it.
+- **Thrift and deferred gratification.** The coin could become **lemonade** now, or something more. Almanzo chooses to **save** it — "*No, I think I'm going to save it and buy a suckling pig instead.*" Consumption is deferred; the Protestant/producerist ethic of **saving over spending.**
+- **Capital accumulation — the pig as investment.** Father's pitch: "*buy a suckling pig… raise that pig, and then raise piglets and sell them to earn more money.*" The half-dollar becomes **capital** that reproduces itself — Smith's virtuous circle of **saving → investment → more wealth** ([Module 3](#m3-smith)), at the family scale.
+- **The yeoman ideal & a stable, moral economy.** The farm is **self-sufficient and diversified** (potatoes, pigs), producing goods with real **use-value** (you can *eat* them), sold into **local, stable markets**. Underneath is the **Jeffersonian** assumption that diligent work on one's own land reliably yields **wealth and independence** — the economy is orderly, fair, and under the producer's control.
+
+<a id="ex5-butchers"></a>
+## *Butcher's Crossing* — the market's betrayal
+
+***Core:*** the buffalo hunters come back from a year in the mountains expecting a fortune — and discover the **market has annihilated the value** of everything they suffered for. Value was never in the hides; it was in **demand**, and demand has vanished.
+
+- **The collapse of value — subjective, demand-driven worth.** The hide trader **McDonald**: "*the bottom's dropped out of the whole market; the hide business is finished. For good.*" Why? **Fashion / tastes changed**: "*it looks like everybody that wants one has a buffalo robe; and nobody wants any more. Why they wanted them in the first place, I don't know.*" → Value is **not** the labour inside the hides; it is the **subjective marginal utility buyers happen to place on them** ([Module 7](#m7-marginalism)). "*Prime hides last year… in just one year?*" — worth a fortune, then worthless.
+- **Value in exchange vs value in use (the [water-diamond paradox](#m7-waterdiamond)).** Buffalo hides are a pure **exchange-value** luxury (a fashion robe); when fashion moves on, their worth evaporates. Contrast Father Wilder's **potatoes and pigs** — things with intrinsic **use-value** that are *always* worth something because you can eat them. Williams dramatizes Smith's two senses of value and shows which one the frontier bet on.
+- **Overproduction / market gluts.** McDonald's accusation: "*you flood the market with hides and ruin the market.*" Too many sellers chasing a boom **drive the price to nothing** — the **general glut** Malthus feared, against **[Say's Law](#m6-gluts)** ("supply creates its own demand"). The hunters are **agents of their own ruin**.
+- **Speculation and boom-bust.** McDonald had **speculated** — buying hides "*last fall, all the money I had*," and betting on **land**: "*you used to say when the railroad came through, the land would be like gold.*" Both bets blew up. Capitalism here is **volatile and cyclical**, not the steady ascent of the farm.
+- **The disjunction of labour and reward.** A year of lethal toil (Schneider **drowned**; the hides mostly **lost in the river**) yields hides now worth "*thirty, forty cents apiece*," then nothing. **Effort guaranteed nothing**; the market, not the worker, decides. Even the shrewd **trader is bankrupted** — nobody controls it.
+- **The tragedy of the commons & waste.** The buffalo are an **unowned common resource**, slaughtered to extinction for a transient boom; the meat is left "*to rot in the sun… for the flies and the timber wolves,*" the land "*stunk up… with what you kill.*" This is a **tragedy of the commons** ([Lecture 1 PS](#ansell-chain)) and the **"cowboy economy"** of limitless extraction from [Exercise Class 4](#ex4-zweig) — profit achieved by **destroying natural capital**.
+
+<a id="ex5-implication"></a>
+## ★ The implication of Williams for Father Wilder's deliberations
+
+***Core (the assignment's core):*** *Butcher's Crossing* is a frontal challenge to the worldview Father Wilder teaches on the Fourth of July. Where Wilder sees a **stable, moral, labour-based** economy that reliably rewards work, Williams reveals a **volatile, amoral, market** economy in which value is **subjective**, labour can be made **worthless overnight**, and the pursuit of profit **destroys both the resource and the producer.**
+
+- **Labour theory of value → refuted by the market.** Father: "*this half-dollar represents all of the work.*" But the hunters' hides embody a **year of brutal work** and are worth **nothing** — because value is set by **demand at the margin**, not by labour. Williams stages the very shift Module [7](#m7-classical-neo) describes: **from the classical/labour theory to the marginalist/subjective theory of value.**
+- **"Work reliably stores value" → only if the market holds.** Wilder assumes the potato buyer will **always** pay a half-dollar. Williams shows the buyer can vanish ("*the business is finished. For good.*"). Father's model quietly depends on **stable demand and stable prices** — exactly what a speculative, single-commodity market destroys.
+- **Prudence and reinvestment → no guarantee of security.** Almanzo reinvests in a pig; McDonald reinvested "*all the money I had.*" One is safe, the other ruined — not because of effort or thrift, but because of **which market you are exposed to.** The farm's **diversified use-value** is resilient; the hunt's **single-commodity exchange-value** is fragile.
+- **The self-made yeoman → at the mercy of forces he cannot see.** Wilder's economy is **controllable** by the diligent individual. Williams' is governed by **fashion, gluts, timing and speculation** — "*what could go wrong in one year?*" The producer is **not** the master of his fate.
+- **A moral economy → an amoral one that consumes nature.** Wilder's farm **renews** itself (crops, piglets); Miller's hunt **exterminates** its resource and rots the rest. Williams adds the **ecological** verdict the farm ethos ignores: unchecked market extraction destroys the **commons** on which all production ultimately rests ([Exercise 4](#ex4-zweig)).
+- **The synthesis for the course.** Put together, the two texts *are* the move from **Module 6 to Module 7**: Wilder voices the **classical** economy (labour value, the independent producer, a world of real goods); Williams voices the **neoclassical/market** reality (subjective value, price volatility, the consumer's whim) — plus the **limits-to-growth / tragedy-of-the-commons** warning that the market's triumph can come at the cost of the natural world.
+
+### Key terms
+| Term | Meaning |
+|---|---|
+| Labour theory of value | A thing is worth the labour embodied in it (Smith, Ricardo; Father Wilder's "this is work") |
+| Subjective / marginal value | A thing is worth what buyers will pay at the margin (Jevons, Menger; the hide market) |
+| Value in use vs value in exchange | Usefulness (potatoes) vs purchasing power (buffalo hides) — the water-diamond paradox |
+| Thrift / deferred gratification | Saving and postponing consumption (save the coin, skip the lemonade) |
+| Capital accumulation | Reinvesting surplus so it grows (the suckling pig → piglets) |
+| Yeoman ideal | The self-sufficient, independent family farmer (Jeffersonian) |
+| Market glut / overproduction | Too much supply collapses the price ("you flood the market and ruin it"); vs Say's Law |
+| Speculation / boom-bust | Betting on future prices (hides, railroad land); volatile cycles |
+| Tragedy of the commons | An unowned resource (buffalo) over-exploited to destruction |
+| Cowboy economy | Boulding's image of limitless extraction from an open frontier (Ex. 4) |
+
+<a id="ex5-questions"></a>
+### ★ Assignment answers (Joachim)
+
+1. **Which economic ideas and assumptions can you detect in each text?**
+   - ***Farmer Boy*:** a **labour theory of value** ("this is work, son" — the coin = the labour in a bushel of potatoes); **thrift and deferred gratification**; **saving → capital accumulation** (the pig that breeds piglets); the **self-sufficient yeoman** producing real **use-value**; and the background assumption of a **stable, fair market** in which diligent work reliably yields **wealth and independence.**
+   - ***Butcher's Crossing*:** a **subjective / market theory of value** (worth is set by **demand**, which collapsed when the fashion for buffalo robes passed); **overproduction / market gluts** ("you flood the market… and ruin the market"); **speculation and boom-bust** (hides and railroad land); **risk, uncertainty and the disjunction of labour from reward** (a year's work, and Schneider's life, for nothing); and the **tragedy of the commons / resource destruction** (the buffalo exterminated, the meat left to rot).
+
+2. **What are the implications of Williams' text for Father Wilder's economic deliberations?** Williams **undercuts Father Wilder's entire worldview.** The hunters prove that **work does not reliably store value** — value is whatever the **volatile market** will pay, and it can vanish "*in just one year.*" Father's faith that thrift, labour and reinvestment bring security assumes **stable demand and prices** and a producer **in control of his fate** — assumptions a speculative, single-commodity market destroys (even the canny trader is ruined). The farm's **diversified use-value** is resilient where the hunt's **pure exchange-value** is fragile; and Williams adds the **ecological** charge the farm ethos ignores — unchecked market extraction **destroys the commons** itself. In short, *Butcher's Crossing* dramatizes the shift from the **classical labour theory of value** that Father Wilder preaches to the **marginalist, market-driven** reality of [Module 7](#module-7-pet) — and warns of its costs.
+
+<a id="ff-ex5"></a>
+## ★ Fun facts & memorable details (Exercise Class 5: The Market in American Fiction)
+
+> Sticky bits from the "economics in fiction" class.
+
+- **"No, this is work, son."** The entire classical labour theory of value, compressed into a father's answer to a nine-year-old on the Fourth of July.
+- **A potato beats a buffalo hide.** Potatoes have **use-value** (you can eat them); buffalo robes had only **exchange-value** (fashion) — which is why the farm survives and the hunt is ruined. Smith's water-diamond paradox, played out on the frontier.
+- **"Prime hides last year — prime hides, in just one year?"** The whole value of a year's labour evaporates between seasons. The market keeps no memory of how hard you worked.
+- **"You flood the market with hides and ruin the market."** Malthus's dreaded **general glut**, 60 years before Keynes — overproduction turning a boom into a bust.
+- **The buffalo as a tragedy of the commons.** An unowned herd slaughtered to near-extinction for a fashion that had already passed — and the meat left "to rot in the sun." Profit by destroying the natural capital everything else depends on.
+- **Even the shrewd trader goes broke.** McDonald "bought and paid for this last fall — all the money I had." In a real market, prudence is no guarantee; the house can lose too.
+- **Almanzo the capitalist-in-training.** He turns down the lemonade to buy a pig that will breed piglets — a child modelling **saving and reinvestment** while his cousin spends his nickel on a drink.
 
 ---
