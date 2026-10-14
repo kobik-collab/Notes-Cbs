@@ -41,11 +41,11 @@
     },
     {
       "id": "l1-04",
-      "type": "reverse",
-      "front": "Whose framework sets out the **three dimensions of power**?",
-      "back": "**Lukes (1974).** He built on **Dahl (1957)** and **Bachrach & Baratz (1962)** to add the third, ideological dimension.",
-      "hint": "1974.",
-      "tags": ["power", "three-faces", "lukes"],
+      "type": "compare",
+      "front": "**Empirical** vs **normative** theory?",
+      "back": "**Empirical** theory explains what **does** happen (describe, explain the cause, predict). **Normative** theory argues what **ought** to happen (values, justice). Comparative politics is mostly empirical, but normative concerns shape which questions get asked.",
+      "hint": "Is vs ought.",
+      "tags": ["empirical", "normative", "od-ch1"],
       "source": "OD ch.1"
     },
     {

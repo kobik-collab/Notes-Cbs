@@ -39,10 +39,10 @@
     },
     {
       "id": "iriii-03",
-      "type": "reverse",
-      "front": "Who coined **'anarchy is what states make of it,'** when, and what does it claim?",
-      "back": "**Alexander Wendt**, in **1992**. Anarchy has **no fixed logic**: it does not dictate whether another state is friend or enemy; that meaning is built through **interaction and shared understandings**.",
-      "hint": "The signature constructivist, 1992.",
+      "type": "definition",
+      "front": "What does the constructivist claim **'anarchy is what states make of it'** mean?",
+      "back": "Anarchy has **no fixed logic**: it does not dictate whether another state is a friend or an enemy. That meaning is **built through interaction and shared understandings**, so states can remake it (Wendt).",
+      "hint": "Anarchy has no built in script.",
       "tags": [
         "wendt",
         "anarchy",
@@ -115,8 +115,8 @@
     {
       "id": "iriii-09",
       "type": "reverse",
-      "front": "Whose theory casts the global economy as one hierarchy of **core · semi periphery · periphery**, with surplus flowing inward?",
-      "back": "**Immanuel Wallerstein**, with **world systems** (dependency) theory: the periphery is not 'not yet developed' but **kept** peripheral, channelling surplus to the core.",
+      "front": "Which approach casts the global economy as one hierarchy of **core · semi periphery · periphery**, with surplus flowing inward?",
+      "back": "**World systems (dependency) theory:** the periphery is not 'not yet developed' but **kept** peripheral, channelling surplus to the core (a Marxist strand, Wallerstein).",
       "hint": "Core, semi periphery, periphery.",
       "tags": [
         "wallerstein",

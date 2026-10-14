@@ -50,11 +50,11 @@
     },
     {
       "id": "l5-05",
-      "type": "reverse",
-      "front": "Who distinguished four senses of representation (formalistic, descriptive, symbolic, substantive)?",
-      "back": "**Hanna Pitkin**, in *The Concept of Representation* (1967).",
-      "hint": "1967 book on representation.",
-      "tags": ["pitkin", "representation", "reverse"],
+      "type": "compare",
+      "front": "**Descriptive** vs **substantive** representation?",
+      "back": "**Descriptive:** the representative **resembles** the represented (shares their gender, class or ethnicity), so the assembly mirrors society. **Substantive:** the representative **acts for** their interests, whatever they look like. A body can be descriptive without being substantive, and the reverse.",
+      "hint": "Looks like them vs acts for them.",
+      "tags": ["descriptive", "substantive", "representation"],
       "source": "OD ch.6"
     },
     {
