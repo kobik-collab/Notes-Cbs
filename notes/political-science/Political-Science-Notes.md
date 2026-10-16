@@ -1901,6 +1901,19 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 
 **Three things liberalism is NOT (deck).** Liberalism *in IR* ≠ **economic liberalism** (free markets) ≠ **liberalism in domestic politics** (a left–right ideology). In IR it is a **theory of cooperation under anarchy.**
 
+### ★ Liberalism at a glance — the scaffold *(same frame as realism)*
+
+> *The whole theory on one page, named by function. Each part is unpacked in the lettered sections below — use this as the map.*
+
+- **① Rules / assumptions:** rational, self-interested states under anarchy (keeps realism's start) — **but** interests *overlap*, so cooperation is often the rational choice, not conflict. *(The **institutionalist** branch concedes realism's unitary/rational/anarchy; the **internationalist** branch breaks "unitary" by opening the domestic black box.)*
+- **② Branches (types):** **Liberal institutionalism** (Keohane & Nye — *international* level) · **Liberal internationalism** (Kant — *domestic* level). → [§B](#ir2-branches)
+- **③ Mechanisms — one chain per branch** *(the exam's core — keep them apart):*
+  - **Institutionalism:** master chain **self-interest → mutual benefits → reasoned cooperation → stable**; the *final* arrow ("stable") is locked by **four mechanisms** — **shadow of the future · information/monitoring · reciprocity/enforcement · interdependence.** → [§C](#ir2-institutionalism)
+  - **Internationalism:** chain **domestic interests → (filtered by institutions) → state preferences → foreign policy → international outcome**, running through the **Kantian triangle** (democracy · interdependence · IOs). → [§E](#ir2-internationalism)
+- **④ Key concepts:** absolute gains (vs realism's relative gains) · international regime (Krasner) · complex interdependence (sensitivity vs vulnerability) · collective security · democratic peace · IGOs/NGOs/UN/international law (ch. 7). → [§D](#ir2-regimes), [§G](#ir2-ch7)
+- **⑤ Why it's weak:** cooperation stays **fragile** — states still cheat & free-ride; institutions lean on a **hegemon** and **fail against great-power aggression** (the veto); interdependence raises war's price but **didn't stop 1914.**
+- **⑥ Critics:** **realists** — institutions just **mirror the distribution of power** (Mearsheimer), and states fear **relative** gains; **constructivists** — liberalism takes preferences as **given**: *where do they come from?* → [§H realism vs liberalism](#ir2-compare)
+
 ### Key concepts / "modes" to use
 - **The cooperation puzzle** — why cooperate under anarchy? (the question realism can't answer well).
 - **Two branches:** **liberal institutionalism** (Keohane, Nye — international level) vs **liberal internationalism** (Kant — domestic/unit level).
