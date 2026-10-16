@@ -9,7 +9,9 @@
     "definition": "Define",
     "reverse": "Name it",
     "compare": "Compare",
-    "mechanism": "Mechanism"
+    "mechanism": "Mechanism",
+    "case": "Case",
+    "rebuttal": "Rebuttal"
   },
   "cards": [
     {
@@ -18,7 +20,11 @@
       "front": "Why is **security** called a **contested concept**?",
       "back": "There is only **thin agreement** (security = **freedom from threats to core values**, for individuals and groups). Almost everything beyond this thin core is deeply disputed.",
       "hint": "Freedom from threats to core values.",
-      "tags": ["security", "contested-concept", "bilgin"],
+      "tags": [
+        "security",
+        "contested-concept",
+        "bilgin"
+      ],
       "source": "Bilgin ch.14 / deck"
     },
     {
@@ -27,7 +33,11 @@
       "front": "What **three things** about security are deeply disputed?",
       "back": "1) The **referent**: whose security? 2) The **types of threat**: military vs non military. 3) The **role of the state**: protector or itself a threat?",
       "hint": "Whose? which threats? the state's role?",
-      "tags": ["security", "contested-concept", "bilgin"],
+      "tags": [
+        "security",
+        "contested-concept",
+        "bilgin"
+      ],
       "source": "Bilgin ch.14 / deck"
     },
     {
@@ -36,7 +46,10 @@
       "front": "What is the **referent object** of security?",
       "back": "The **referent object** is **who or what is to be secured**. It is the biggest disagreement in the field, and it is not fixed: the same event looks different depending on whose security you centre.",
       "hint": "Who or what is to be secured?",
-      "tags": ["referent-object", "bilgin"],
+      "tags": [
+        "referent-object",
+        "bilgin"
+      ],
       "source": "Bilgin ch.14 / deck"
     },
     {
@@ -45,7 +58,12 @@
       "front": "Compare the **four referent objects** of security and what each one fears.",
       "back": "1) **National** (the state) → invasion, rival great powers. 2) **Societal** (the community) → migration, cultural erosion. 3) **Human** (the individual) → poverty, disease, one's own government. 4) **Global** (humanity) → climate change, pandemics, nuclear war.",
       "hint": "State · community · individual · humanity.",
-      "tags": ["referent-object", "typology", "bilgin", "compare"],
+      "tags": [
+        "referent-object",
+        "typology",
+        "bilgin",
+        "compare"
+      ],
       "source": "Bilgin ch.14 / deck"
     },
     {
@@ -54,7 +72,12 @@
       "front": "Contrast the state as **protector** (Hobbes) with the state as **war maker** (Tilly).",
       "back": "**Protector (Hobbes):** the individual gives up freedom for security, handing the state the monopoly of violence; a threat is an existential threat to the state. **War maker (Tilly):** states earned statehood through war, \"war made the state and the state made war\"; no war means no modern state.",
       "hint": "Give up freedom for safety vs the state that lives by war.",
-      "tags": ["state", "hobbes", "tilly", "compare"],
+      "tags": [
+        "state",
+        "hobbes",
+        "tilly",
+        "compare"
+      ],
       "source": "deck"
     },
     {
@@ -63,7 +86,12 @@
       "front": "Name **Tilly's four activities** of the state and what each one neutralises.",
       "back": "1) **War making** → rivals outside the territory. 2) **State making** → rivals inside. 3) **Protection** → the enemies of its clients. 4) **Extraction** → the means (tax, men) for the first three. Hence the state as a **protection racket**.",
       "hint": "Outside, inside, clients, means.",
-      "tags": ["tilly", "four-activities", "state", "mechanism"],
+      "tags": [
+        "tilly",
+        "four-activities",
+        "state",
+        "mechanism"
+      ],
       "source": "deck"
     },
     {
@@ -72,7 +100,11 @@
       "front": "What is **securitisation** (Wæver, Copenhagen School)?",
       "back": "Security treated as a **speech act**: an issue becomes a security issue only because an actor **frames** it as an existential threat, moving it beyond normal politics.",
       "hint": "Security as a speech act.",
-      "tags": ["securitisation", "waever", "speech-act"],
+      "tags": [
+        "securitisation",
+        "waever",
+        "speech-act"
+      ],
       "source": "deck"
     },
     {
@@ -81,7 +113,11 @@
       "front": "Run the **five steps** of the securitisation chain.",
       "back": "1) A problem exists. 2) An actor frames it as an existential threat (the **securitising move**, a speech act). 3) The **audience accepts** the framing. 4) The issue becomes security. 5) **Exceptional measures** become legitimate, beyond normal politics. The move that matters is step 2 → 3.",
       "hint": "Problem → claim → acceptance → security → exception.",
-      "tags": ["securitisation", "waever", "mechanism"],
+      "tags": [
+        "securitisation",
+        "waever",
+        "mechanism"
+      ],
       "source": "deck"
     },
     {
@@ -90,7 +126,11 @@
       "front": "What is the **security dilemma** (Herz, 1950)?",
       "back": "Self help defence can be self defeating: your build up frightens the other side, triggering an arms race, so everyone ends up less safe, even though each acted defensively.",
       "hint": "Your shield looks like a sword.",
-      "tags": ["security-dilemma", "herz", "mechanism"],
+      "tags": [
+        "security-dilemma",
+        "herz",
+        "mechanism"
+      ],
       "source": "Bilgin ch.14 / deck"
     },
     {
@@ -99,7 +139,11 @@
       "front": "Compare **national**, **international**, and **collective** security by referent.",
       "back": "1) **National**: the state is referent. 2) **International**: the society of states is referent. 3) **Collective** security: aggression against one is aggression against all. Unlike an alliance (defence against an external enemy), collective security polices its own members.",
       "hint": "State · society of states · all against the aggressor.",
-      "tags": ["collective-security", "referent", "compare"],
+      "tags": [
+        "collective-security",
+        "referent",
+        "compare"
+      ],
       "source": "Bilgin ch.14"
     },
     {
@@ -108,7 +152,12 @@
       "front": "What are **Waltz's three images** (levels of analysis) for the causes of war?",
       "back": "From Waltz, Man, the State, and War (1959): 1) the **individual** (human nature plus cost benefit calculation; **Fearon**). 2) the **domestic** level (regime type, ideologies; **Putnam's** two level games). 3) the **systemic** level (anarchy breeds fear; nothing stops wars). Anarchy is the necessary condition.",
       "hint": "Individual, domestic, systemic.",
-      "tags": ["levels-of-analysis", "three-images", "waltz", "mechanism"],
+      "tags": [
+        "levels-of-analysis",
+        "three-images",
+        "waltz",
+        "mechanism"
+      ],
       "source": "PG ch.5 / deck"
     },
     {
@@ -117,8 +166,65 @@
       "front": "Name the **five types of war** and the core of each.",
       "back": "1) **Hegemonic**: for control of the entire world order. 2) **Total**: to conquer and occupy another state. 3) **Limited**: objectives short of surrender or occupation. 4) **Civil**: factions within one state. 5) **Guerrilla**: irregular forces with no front lines.",
       "hint": "Order · occupy · limited aims · within a state · no front lines.",
-      "tags": ["types-of-war", "pg-ch5", "reverse"],
+      "tags": [
+        "types-of-war",
+        "pg-ch5",
+        "reverse"
+      ],
       "source": "PG ch.5"
+    },
+    {
+      "id": "iriv-13",
+      "type": "case",
+      "front": "**Case:** Which episode shows **securitisation** is a political choice?",
+      "back": "**Kilis, Türkiye, 2016.** Rockets from IS held Syria killed 20 or more over five months while the government said they were 'falling from the sky'. In August 2016, preparing a ground incursion, it suddenly declared them **terrorism threatening national security**. Same rockets, opposite label. Link: an issue becomes 'security' only when an actor **frames** it that way and an **audience accepts** the framing.",
+      "hint": "Same rockets, relabelled when useful.",
+      "tags": [
+        "kilis",
+        "securitisation",
+        "case"
+      ],
+      "source": "PG ch.5 · notes"
+    },
+    {
+      "id": "iriv-14",
+      "type": "case",
+      "front": "**Case:** How do **landmines and the ICBL** show the **referent object** of security shifting?",
+      "back": "**Non state** campaigners reframed landmines from a military tool into a **human security** harm to individuals, producing the **1997 Mine Ban Treaty** and a Nobel Prize. Link: shows the **agency of non state actors** and a move of the referent from the **state** to the **individual**.",
+      "hint": "Civilians, not states, as the thing secured.",
+      "tags": [
+        "landmines",
+        "icbl",
+        "human-security",
+        "case"
+      ],
+      "source": "notes"
+    },
+    {
+      "id": "iriv-15",
+      "type": "case",
+      "front": "**Case:** Which case shows the **four types of threat** overlapping at once?",
+      "back": "The **South China Sea**: **territorial** (Spratlys, EEZs) plus **economic** (oil, gas, fisheries) plus **strategic** (about a third of global shipping) plus **military** (China's runways on Fiery Cross Reef, a show of force without a declared war). Link: real security problems rarely fit one neat category.",
+      "hint": "Land, money, shipping, runways.",
+      "tags": [
+        "south-china-sea",
+        "threats",
+        "case"
+      ],
+      "source": "PG ch.5 · notes"
+    },
+    {
+      "id": "iriv-16",
+      "type": "rebuttal",
+      "front": "**Rebuttal:** *What counts as security?* Realism vs **critical security studies**. Why might the critical view explain more?",
+      "back": "**Realism** defines security as the **state** surviving **military** threats from outside. Critics ask **whose** security and **who defines** the threat, pointing to **human security** (Iran 1953, landmines) and **securitisation** (Kilis) that a state centric lens misses. Concession: realism still best captures **great power war** and hard military balances.",
+      "hint": "Whose security, and defined by whom?",
+      "tags": [
+        "realism-vs-critical",
+        "security",
+        "rebuttal"
+      ],
+      "source": "notes"
     }
   ]
 }

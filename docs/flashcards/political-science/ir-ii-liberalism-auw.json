@@ -9,7 +9,9 @@
     "definition": "Define",
     "reverse": "Name it",
     "compare": "Compare",
-    "mechanism": "Mechanism"
+    "mechanism": "Mechanism",
+    "case": "Case",
+    "rebuttal": "Rebuttal"
   },
   "cards": [
     {
@@ -164,6 +166,59 @@
         "compare"
       ],
       "source": "deck (AUW) · PG ch.2, ch.3"
+    },
+    {
+      "id": "irii-13",
+      "type": "case",
+      "front": "**Case:** Which episode shows **reciprocity** eliciting cooperation between rivals with no world enforcer?",
+      "back": "**Nixon and China, 1969 to 1972.** The US relaxed its trade embargo; three days later China released detained US citizens and reciprocated further, culminating in **Nixon's 1972 visit**. Link: **tit for tat** let two rivals build cooperation step by step under anarchy, exactly as liberal institutionalism predicts.",
+      "hint": "Relax embargo, prisoners freed, 1972 visit.",
+      "tags": [
+        "nixon-china",
+        "reciprocity",
+        "case"
+      ],
+      "source": "PG ch.7 · notes"
+    },
+    {
+      "id": "irii-14",
+      "type": "case",
+      "front": "**Case:** Why is the **European Union** the liberal institutionalist showcase?",
+      "back": "States shared interests but also had incentives to defect, so they built **institutions**: common rules, forums, monitoring, courts, issue linkage and repeated interaction. These lowered cheating and fear, turning centuries of war into **stable peace**. Link: institutions **change incentives** so that cooperation becomes each state's own interest.",
+      "hint": "Rules and courts turned war into peace.",
+      "tags": [
+        "european-union",
+        "institutionalism",
+        "case"
+      ],
+      "source": "PG ch.7 · notes"
+    },
+    {
+      "id": "irii-15",
+      "type": "case",
+      "front": "**Case:** Contrast **collective security working vs failing** with two episodes.",
+      "back": "**Works. Gulf War 1990 to 1991:** Iraq's blatant annexation of Kuwait united the great powers behind a **UN authorised** response. **Fails. Iraq War 2003:** the Security Council split (France's veto threat) and the US, UK and Australia acted **without UN authorisation**. Link: collective security holds only when the great powers agree; the **veto** paralyses it when they do not.",
+      "hint": "Kuwait united them; 2003 split them.",
+      "tags": [
+        "collective-security",
+        "gulf-war",
+        "iraq-war",
+        "case"
+      ],
+      "source": "PG ch.7 · notes"
+    },
+    {
+      "id": "irii-16",
+      "type": "rebuttal",
+      "front": "**Rebuttal:** *Can states cooperate under anarchy?* Liberalism vs **realism**. Why might liberalism explain more?",
+      "back": "**Realism** says institutions merely reflect the **power** of the strongest and that cooperation is fragile (relative gains, cheating). **Liberalism** replies that durable bodies like the **EU and WTO** keep delivering mutual gains for decades through monitoring and reciprocity, which pure power politics cannot explain. Concession: realism better explains **breakdowns** when survival is at stake, as in the UNSC split over Iraq.",
+      "hint": "Institutions outlast the power that built them.",
+      "tags": [
+        "liberalism-vs-realism",
+        "cooperation",
+        "rebuttal"
+      ],
+      "source": "PG ch.7 · notes"
     }
   ]
 }

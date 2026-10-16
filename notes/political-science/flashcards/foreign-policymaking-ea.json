@@ -9,7 +9,9 @@
     "definition": "Define",
     "reverse": "Name it",
     "compare": "Compare",
-    "mechanism": "Mechanism"
+    "mechanism": "Mechanism",
+    "case": "Case",
+    "rebuttal": "Rebuttal"
   },
   "cards": [
     {
@@ -167,6 +169,59 @@
         "reverse"
       ],
       "source": "Ashbee & Hurst 2020"
+    },
+    {
+      "id": "fp-13",
+      "type": "case",
+      "front": "**Case:** How does **Trump era US foreign policy (2017 onward)** test **transformational change**?",
+      "back": "A populist nationalist paradigm sidelined the foreign policy establishment, with withdrawals (**Paris, TPP, UNESCO**) and a gutted State Department, yet **core alliances stayed intact**. Weak **embeddedness** in supportive interests and institutions leads Ashbee and Hurst to judge it only **'proto transformational'**: incipient, partial and variegated. Link: lasting change needs paradigm plus interests plus institutions plus logics, not just a leader.",
+      "hint": "Big noise, shallow roots.",
+      "tags": [
+        "trump",
+        "transformational-change",
+        "embeddedness",
+        "case"
+      ],
+      "source": "Ashbee & Hurst · notes"
+    },
+    {
+      "id": "fp-14",
+      "type": "case",
+      "front": "**Case:** What is the benchmark of a **completed** transformational change?",
+      "back": "The **1940s Liberal Internationalism** shift: a new **paradigm** (global leadership) plus **interests** (a New Deal and Wall Street coalition) plus **institutions** (UN, IMF, World Bank, GATT, NATO, and the national security state via the 1947 National Security Act) plus enduring **logics**. Because it was **embedded**, it outlasted its founders. This is the yardstick against which Trump is measured.",
+      "hint": "UN, IMF, NATO: built to last.",
+      "tags": [
+        "liberal-internationalism",
+        "transformational-change",
+        "case"
+      ],
+      "source": "Ashbee & Hurst · notes"
+    },
+    {
+      "id": "fp-15",
+      "type": "case",
+      "front": "**Case:** Which episode shows a **changed logic**, the world routing around Washington?",
+      "back": "**Japan reviving the TPP without the US.** After the US withdrew, partners kept the trade pact alive and built **around, not through, Washington**. Link: illustrates the 'logics' element of transformational change. Incentives and patterns can shift even when one state abandons the formal institution.",
+      "hint": "Trade deal survives the US exit.",
+      "tags": [
+        "tpp",
+        "logics",
+        "case"
+      ],
+      "source": "notes"
+    },
+    {
+      "id": "fp-16",
+      "type": "rebuttal",
+      "front": "**Rebuttal:** *What explains a state's foreign policy?* Structural theory vs **FPA and neoclassical realism**. Why open the black box?",
+      "back": "**Structural realism** (Waltz) and **liberal internationalism** (Ikenberry) treat the state as a **black box**: systemic pressure sets policy. But the **same** pressure produced very different US policies under Trump, so **neoclassical realism** filters it through **domestic variables** (leaders, state society relations, institutions). Concession: in acute crisis or for small states, **systemic** pressure dominates and the box matters less.",
+      "hint": "Same pressure, different policies.",
+      "tags": [
+        "fpa-vs-structural",
+        "neoclassical-realism",
+        "rebuttal"
+      ],
+      "source": "Ashbee & Hurst · notes"
     }
   ]
 }

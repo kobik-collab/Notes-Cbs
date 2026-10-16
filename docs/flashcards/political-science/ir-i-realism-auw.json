@@ -9,7 +9,9 @@
     "definition": "Define",
     "reverse": "Name it",
     "compare": "Compare",
-    "mechanism": "Mechanism"
+    "mechanism": "Mechanism",
+    "case": "Case",
+    "rebuttal": "Rebuttal"
   },
   "cards": [
     {
@@ -175,6 +177,61 @@
         "pg-ch1"
       ],
       "source": "PG ch.1"
+    },
+    {
+      "id": "iri-13",
+      "type": "case",
+      "front": "**Case:** Which real episode shows the realist **Prisoner's Dilemma** and **relative gains** in action?",
+      "back": "The **India and Pakistan nuclear race**. Neither could trust the other to stay non nuclear, so both defected: India tested in 1998 and Pakistan followed within weeks. Each armed to avoid falling behind its rival (relative gains), leaving both more armed but no safer. Link: under **anarchy**, self help drives competition even when both sides would prefer mutual restraint.",
+      "hint": "1998 tit for tat tests.",
+      "tags": [
+        "india-pakistan",
+        "prisoners-dilemma",
+        "relative-gains",
+        "case"
+      ],
+      "source": "PG ch.2 · notes"
+    },
+    {
+      "id": "iri-14",
+      "type": "case",
+      "front": "**Case:** How does **US and China** rivalry illustrate **power transition theory** (the Thucydides Trap)?",
+      "back": "A **rising power** (China) unsettles the **top state** (the US), so the two balance one another in tech, trade and the **South China Sea**. Realism predicts the greatest danger of war comes exactly when a challenger nears the leader. Link: shifts in **relative power**, not ideology, drive the competition.",
+      "hint": "Rising challenger vs the top dog.",
+      "tags": [
+        "us-china",
+        "power-transition",
+        "thucydides-trap",
+        "case"
+      ],
+      "source": "PG ch.2 · notes"
+    },
+    {
+      "id": "iri-15",
+      "type": "case",
+      "front": "**Case:** Give an example of **balancing** against a rising power (and the puzzle it raises).",
+      "back": "As China's capabilities grow, its **neighbours balance it**: Japan has deepened security deals with **South Korea and the Philippines**. This fits the realist prediction that concentrated power provokes others to **counter** it, preserving a **balance of power**. Puzzle: not everyone balances. After WWII most states **bandwagoned** with the US instead, which pure balance of power theory struggles to explain.",
+      "hint": "Neighbours gang up on the strong.",
+      "tags": [
+        "balancing",
+        "balance-of-power",
+        "china",
+        "case"
+      ],
+      "source": "PG ch.2 · notes"
+    },
+    {
+      "id": "iri-16",
+      "type": "rebuttal",
+      "front": "**Rebuttal (P6 to P7):** *Why do states go to war?* Realism vs **liberalism**. Why might realism explain more?",
+      "back": "**Liberalism** blames missing institutions, trade or democracy. **Realism** replies that even democracies with deep trade ties **arm and fight** when survival is at stake, because **anarchy** has no enforcer and states weigh **relative gains**. Realism explains war's **persistence** across very different regimes, where liberal fixes keep failing. Concession: liberalism better explains **durable cooperation**, as in the EU.",
+      "hint": "Anarchy persists across regime types.",
+      "tags": [
+        "realism-vs-liberalism",
+        "war",
+        "rebuttal"
+      ],
+      "source": "PG ch.2 · notes"
     }
   ]
 }

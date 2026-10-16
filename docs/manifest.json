@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T18:59:41.664Z",
+  "generatedAt": "2026-10-16T13:22:28.823Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -131,7 +131,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 14663
+        "sizeKB": 14675
       },
       "parts": [
         {
@@ -178,7 +178,7 @@
           "slug": "lecture-5",
           "title": "Lecture 5: Participation and Representation (FK)",
           "pdf": "pdfs/political-science/lecture-5.pdf",
-          "sizeKB": 3134,
+          "sizeKB": 3146,
           "flashcards": {
             "json": "flashcards/political-science/lecture-5.json",
             "count": 12
@@ -201,7 +201,7 @@
           "sizeKB": 1162,
           "flashcards": {
             "json": "flashcards/political-science/ir-i-realism-auw.json",
-            "count": 12
+            "count": 16
           }
         },
         {
@@ -211,7 +211,7 @@
           "sizeKB": 509,
           "flashcards": {
             "json": "flashcards/political-science/ir-ii-liberalism-auw.json",
-            "count": 12
+            "count": 16
           }
         },
         {
@@ -221,7 +221,7 @@
           "sizeKB": 721,
           "flashcards": {
             "json": "flashcards/political-science/ir-iii-constructivism-other-approaches-auw.json",
-            "count": 12
+            "count": 16
           }
         },
         {
@@ -231,7 +231,7 @@
           "sizeKB": 564,
           "flashcards": {
             "json": "flashcards/political-science/ir-iv-international-security-auw.json",
-            "count": 12
+            "count": 16
           }
         },
         {
@@ -241,7 +241,7 @@
           "sizeKB": 471,
           "flashcards": {
             "json": "flashcards/political-science/foreign-policymaking-ea.json",
-            "count": 12
+            "count": 16
           }
         },
         {

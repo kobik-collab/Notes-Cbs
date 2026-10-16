@@ -360,6 +360,8 @@ main {
 .type-apply        { --fc-accent: #2f7d32; --fc-soft: #e6f4e6; }
 .type-compare      { --fc-accent: #3949ab; --fc-soft: #e8eafb; }
 .type-synthesis    { --fc-accent: #c2185b; --fc-soft: #fce4ec; }
+.type-case         { --fc-accent: #a15c00; --fc-soft: #fbf0df; }
+.type-rebuttal     { --fc-accent: #a32f2f; --fc-soft: #fbe7e7; }
 
 .fc-controls { display: flex; align-items: center; justify-content: center; gap: 10px; margin-top: 18px; flex-wrap: wrap; }
 .fc-controls .btn { min-width: 96px; justify-content: center; }

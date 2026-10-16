@@ -9,7 +9,9 @@
     "definition": "Define",
     "reverse": "Name it",
     "compare": "Compare",
-    "mechanism": "Mechanism"
+    "mechanism": "Mechanism",
+    "case": "Case",
+    "rebuttal": "Rebuttal"
   },
   "cards": [
     {
@@ -163,6 +165,60 @@
         "compare"
       ],
       "source": "deck"
+    },
+    {
+      "id": "iriii-13",
+      "type": "case",
+      "front": "**Case:** Which puzzle shows that **identity, not capabilities**, defines threats?",
+      "back": "**British vs North Korean nuclear weapons.** The US fears **North Korea's** small arsenal but not **Britain's** far larger one. Capabilities cannot explain the difference; what matters is the **social relationship** (ally vs adversary). Link: threats are **socially constructed**, the signature constructivist claim.",
+      "hint": "Big UK arsenal, small NK arsenal, opposite fears.",
+      "tags": [
+        "british-vs-nk-nukes",
+        "identity",
+        "threat",
+        "case"
+      ],
+      "source": "PG ch.3 · notes"
+    },
+    {
+      "id": "iriii-14",
+      "type": "case",
+      "front": "**Case:** How does the fall of **South African apartheid** show **norms** reshaping interests?",
+      "back": "Racial hierarchy was once embedded, then **norm entrepreneurs** and movements strengthened a global **norm of racial equality**, making white minority rule hard to justify and producing **boycotts, sanctions and isolation**. Link: changing ideas about **legitimate rule** changed states' interest calculations. Power politics alone cannot explain apartheid's collapse.",
+      "hint": "Norm entrepreneurs delegitimised racist rule.",
+      "tags": [
+        "apartheid",
+        "norms",
+        "norm-entrepreneur",
+        "case"
+      ],
+      "source": "PG ch.3 · notes"
+    },
+    {
+      "id": "iriii-15",
+      "type": "case",
+      "front": "**Case:** Which 'natural experiment' shows **ideas, not interests**, driving policy?",
+      "back": "**Blair's Bosnia U turn, 1997.** Blair replaced Major with **no change in strategic interests**, yet UK policy flipped toward funding and arrests for the Yugoslavia tribunal. With material interests held constant, the change came from **identity and leadership ideas**. Link: interests are shaped by meaning, not fixed by material facts.",
+      "hint": "Same interests, new PM, flipped policy.",
+      "tags": [
+        "blair-bosnia",
+        "identity",
+        "case"
+      ],
+      "source": "notes"
+    },
+    {
+      "id": "iriii-16",
+      "type": "rebuttal",
+      "front": "**Rebuttal:** *Why are some states seen as threats?* Constructivism vs **realism**. Why might constructivism explain more?",
+      "back": "**Realism** says states fear **capabilities** under anarchy. But that cannot explain why the US fears **North Korea** over **Britain**, or why war became **unthinkable** inside Europe. **Constructivism** answers through **shared meanings and identity** ('anarchy is what states make of it'). Concession: realists reply that norms may be **covers for interests**, and genuine identity is hard to separate from strategic posturing.",
+      "hint": "Capabilities cannot explain who we fear.",
+      "tags": [
+        "constructivism-vs-realism",
+        "identity",
+        "rebuttal"
+      ],
+      "source": "PG ch.3 · notes"
     }
   ]
 }
