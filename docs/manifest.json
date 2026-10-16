@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T13:22:28.823Z",
+  "generatedAt": "2026-10-16T15:48:19.478Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -131,7 +131,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 14675
+        "sizeKB": 14701
       },
       "parts": [
         {
@@ -208,7 +208,7 @@
           "slug": "ir-ii-liberalism-auw",
           "title": "IR II: Liberalism (AUW)",
           "pdf": "pdfs/political-science/ir-ii-liberalism-auw.pdf",
-          "sizeKB": 509,
+          "sizeKB": 532,
           "flashcards": {
             "json": "flashcards/political-science/ir-ii-liberalism-auw.json",
             "count": 16
