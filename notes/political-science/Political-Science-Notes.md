@@ -1953,12 +1953,21 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 <a id="ir2-regimes"></a>
 #### D. International regimes & collective security *(§3.2.3–3.2.4)*
 
-***Core:*** **regimes** are how liberalism operationalises cooperation in an issue area; **collective security** is the security-side application (all against any aggressor).
-- **International regime** = rules/norms/procedures where expectations **converge** in an issue area (arms control, trade, oceans). Regimes **increase transparency** (cheating is riskier) and **facilitate/empower** states rather than constrain them — they "open up new possibilities with more favorable cost–benefit ratios."
-- **Hegemonic stability (a realist–liberal blend):** regimes are often most effective when power is **concentrated** (a **hegemon** to enforce them) — but once expectations converge, regimes can **outlive the hegemon** ("take on a life of their own"; US economic regimes survived US relative decline in the 1970s). Regimes often **embed** in permanent institutions (**UN, NATO, IMF**).
-- **Collective security** (grows out of liberal institutionalism; Kant's federation): a **broad alliance of most major actors** jointly opposing **aggression by any actor.** Success needs **(1)** members to **keep commitments** (no free-riding) and **(2)** agreement on **what counts as aggression.** It **fails against great-power aggression** (the veto).
-  - **League of Nations** — failed (no US; members unwilling to bear costs → Japan, Italy in the 1930s). **UN** = its successor.
-  - **[Gulf War 1990–91](#case-gulfwar)** — collective security *worked* (Iraq's blatant conquest of Kuwait united the great powers). **[Iraq 2003](#case-iraq2003)** — it *split* the great powers (France threatened a veto; US/UK/Australia acted anyway).
+***Core:*** two linked ideas, best kept apart. A **regime** is how liberalism operationalises cooperation in **one issue area**; **collective security** is that same logic applied to the **hardest** issue of all — stopping aggression (*all* against *any* aggressor).
+
+**1. International regimes** *(§3.2.3)*
+- **What it is:** the **rules, norms and procedures where state expectations converge** in a single issue area — arms control, trade, the law of the sea. *(Fuller Krasner definition in [section C](#ir2-institutionalism); a regime ≠ an IO — it's the shared rulebook, which may or may not sit inside a formal body.)*
+- **What it does:** a regime **empowers rather than constrains.** It raises **transparency** (cheating is riskier) and "opens up new possibilities with more favourable cost–benefit ratios," so states join because it **helps** them pursue their interests, not because anyone forces them.
+- **Hegemonic stability (a realist–liberal blend):** regimes work best when power is **concentrated** — a **hegemon** willing to enforce the rules and bear the costs. *But* once expectations have converged, a regime can **outlive the hegemon that built it** ("take on a life of their own": US economic regimes survived America's relative decline in the 1970s), and it often **embeds** in a permanent institution (**UN, NATO, IMF**).
+
+**2. Collective security** *(§3.2.4)*
+- **What it is:** the **security-side application** of regime logic (Kant's federation): a **broad alliance of most major powers** that pledges to oppose **aggression by *any* state** — "all against one," unlike an ordinary alliance aimed at a *named* external enemy.
+- **Two conditions to work:** **(1)** members actually **keep their commitments** (no free-riding when the bill comes due); **(2)** they **agree on what counts as aggression.**
+- **Its built-in limit:** it **cannot act against a great power** — the **veto** (or that power's own weight) blocks any united response.
+- **Evidence:**
+  - **League of Nations** — *failed*: the US never joined and members would not bear the costs, so **Japan and Italy** went unchecked in the 1930s. The **UN** is its successor.
+  - **[Gulf War 1990–91](#case-gulfwar)** — *worked*: Iraq's blatant conquest of Kuwait **united** the great powers behind a UN-authorised response.
+  - **[Iraq 2003](#case-iraq2003)** — *split* the great powers (France threatened a veto; the US, UK and Australia acted anyway) — collective security failing exactly where great powers **disagree**.
 
 <a id="ir2-internationalism"></a>
 #### E. ★ Liberal internationalism & the Kantian triangle *(§3.2.1 + deck)*
