@@ -2102,33 +2102,6 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 
 **The red thread.** *Where do interests and "the way things are" come from?* Realism/liberalism take them as given; **constructivism** says they're **made through meaning**; **critical theory** says that meaning is **made through power and hierarchy.** For any event ask: *what identities and norms make this action thinkable — and whose interests does the "normal" order serve?*
 
-### ★ Constructivism & critical theory at a glance — the scaffold *(same frame as realism & liberalism)*
-
-> *The whole lecture on one page, named by function — **2 families, ~8 approaches.** Each is unpacked in the lettered sections below; use this as the map.*
-
-- **① Core move / assumptions:** reject realism & liberalism's premise that **interests are given.** Shift the question from **material facts → social meaning.** Two angles: *how is meaning made?* (constructivism) and *how does power make meaning look "natural"?* (critical).
-- **② Families (types):**
-  - **A. Social constructivism — "meaning":** social constructivism · postmodernism. → [§A](#ir3-constructivism)
-  - **B. Critical IR theory — "power behind meaning":** Marxism (Marx/Lenin) · Gramsci · Wallerstein · postcolonialism/Said · feminism ×3 · peace studies. → [§B](#ir3-critical)
-- **③ Mechanisms — one per family:**
-  - **Constructivism:** chain **social context + interaction → identity → interests → behaviour**; *"anarchy is what states make of it"* (Wendt); norms shift via **norm entrepreneurs → legitimacy changes → interests change.** → [§anarchy](#ir3-anarchy), [§norms](#ir3-norms)
-  - **Critical:** **denaturalise the order** — *expose domination → ask who benefits / who's silenced.* No single chain; each strand supplies its own (class · hegemony · core–periphery · Orientalism · gender). → [§B](#ir3-critical)
-- **④ Key concepts:** social vs material facts · identity → interests · norms · logic of appropriateness vs consequences · hegemony (Gramsci) · core/periphery (Wallerstein) · Orientalism (Said) · positive peace / structural violence.
-- **⑤ Why it's weak:** often better at **explaining after the fact than predicting**; hard to tell a **genuine** identity from one **adopted strategically** for material gain; critical theory can slide into **critique without a testable theory.**
-- **⑥ Critics:** **realists** — norms are just **covers for interests**; **liberals** — it **neglects formal institutions.** → [§ four theories compared](#ir3-compare)
-
-**The critical-strand menu (family B) — each asks "whose order is this, and who's silenced?":**
-
-| Strand | One-line claim |
-|---|---|
-| **Marx** | domestic **class struggle** — labour makes the surplus, capital captures it |
-| **Lenin** | **imperialism** — colonial profits buy off the core's workers → war among empires |
-| **Gramsci** | **hegemony** = rule by **consent**; dominant ideas pass as "common sense" |
-| **Wallerstein** | **world-systems** — core / semi-periphery / periphery; surplus flows **inward** |
-| **Said** | **Orientalism** — power through **representation** (Self/Other binaries) |
-| **Feminism ×3** | **difference · liberal · postmodern** — gender structures the ideas & hierarchies of IR |
-| **Peace studies** | **positive peace** removes **structural violence**, not just the absence of war |
-
 ### Key concepts / "modes" to use
 - **Constructivism** — interests/identities are **socially constructed**, not given; draws on the **identity principle**.
 - **Social facts vs material facts** — a tank/border/nuke is *material*; its **meaning** (threatening? legitimate?) is a **social fact**.
@@ -2143,6 +2116,17 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 ---
 
 ## A. Social constructivism *(PG §3.3 + deck)*
+
+### ★ Constructivism at a glance — the scaffold *(same frame as realism & liberalism)*
+
+> *Use as the map; each item is unpacked in the sub-sections below.*
+
+- **① Core move / assumptions:** reject the realist/liberal premise that **interests are given** — interests are **socially constructed.** Shift from **material facts → social meaning** (a tank is material; whether it's *threatening* is a **social fact**).
+- **② Sub-approaches:** **social constructivism** (the main one) · **postmodernism** (discourse, deconstruction, states as "fictions"). → [§what it is](#ir3-constructivism), [§postmodernism](#ir3-postmodern)
+- **③ Mechanism:** chain **social context + interaction → identity → interests → behaviour**; *"anarchy is what states make of it"* (Wendt — same anarchy → friendship *or* enmity); norms shift via **norm entrepreneurs → legitimacy changes → interests change.** → [§anarchy](#ir3-anarchy), [§norms](#ir3-norms)
+- **④ Key concepts:** social vs material facts · identity → interests · norms · **logic of appropriateness** vs logic of consequences.
+- **⑤ Why it's weak:** better at **explaining after the fact than predicting**; hard to tell a **genuine** identity from one **adopted strategically** for material gain (aid, trade, membership).
+- **⑥ Critics:** **realists** — norms are just **covers for interests**; **liberals** — it **neglects formal institutions.**
 
 <a id="ir3-puzzle"></a>
 #### The puzzle — why does the same world produce different "realities"? (deck)
@@ -2196,6 +2180,29 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 
 <a id="ir3-critical"></a>
 ## B. Critical IR theory — adding power & hierarchy *(deck + PG §3.4)*
+
+### ★ Critical theory at a glance — the scaffold *(same frame as constructivism above)*
+
+> *Constructivism asks **how** meaning is made; critical theory adds **power** — who made the order look natural, and who's silenced? Use as the map.*
+
+- **① Core move / assumptions:** refuse to take the existing order for granted — **expose domination → denaturalise the order → open change.** The shifts: anarchy → also **hierarchy**; power-as-capabilities → **power over ideas/knowledge**; "who acts?" → **"who's marginalised?"**; "how does order work?" → **"whose order is it?"**
+- **② Strands:** Marx · Lenin · Gramsci · Wallerstein · postcolonialism/Said · feminism ×3 · peace studies *(see the menu table below).*
+- **③ Mechanism:** **no single chain** — the common move is **denaturalise + ask who benefits.** Each strand supplies its own logic (class exploitation · hegemony/consent · core–periphery surplus flow · Orientalist representation · gendered hierarchy).
+- **④ Key concepts:** hegemony (Gramsci) · core/periphery (Wallerstein) · Orientalism (Said) · class/surplus (Marx/Lenin) · structural violence / positive peace.
+- **⑤ Why it's weak:** often **critique more than testable theory** — strong at diagnosing power, weaker at **prediction.**
+- **⑥ Critics:** mainstream IR — it's **normative / explanatory-thin** and hard to **operationalise or falsify.**
+
+**The strand menu — each asks "whose order is this, and who's silenced?":**
+
+| Strand | One-line claim |
+|---|---|
+| **Marx** | domestic **class struggle** — labour makes the surplus, capital captures it |
+| **Lenin** | **imperialism** — colonial profits buy off the core's workers → war among empires |
+| **Gramsci** | **hegemony** = rule by **consent**; dominant ideas pass as "common sense" |
+| **Wallerstein** | **world-systems** — core / semi-periphery / periphery; surplus flows **inward** |
+| **Said** | **Orientalism** — power through **representation** (Self/Other binaries) |
+| **Feminism ×3** | **difference · liberal · postmodern** — gender structures the ideas & hierarchies of IR |
+| **Peace studies** | **positive peace** removes **structural violence**, not just the absence of war |
 
 ***Core (deck):*** constructivism asks *how* realities are constructed; **critical approaches add the question of power** — *how are particular realities made to appear **natural**, and **who benefits**?* Critical theory refuses to take existing institutions, categories and power relations **for granted**: it aims to **expose domination → denaturalise the order → open possibilities for change.**
 - **The major shifts (deck):** anarchy → also examine **hierarchy** · state interests → ask **how interests are produced** · power-as-capabilities → also **power over ideas & knowledge** · "who acts?" → **who is marginalised/silenced?** · "how does order work?" → **"whose order is it?"**
