@@ -2185,7 +2185,8 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 
 > *Constructivism asks **how** meaning is made; critical theory adds **power** — who made the order look natural, and who's silenced? Use as the map.*
 
-- **① Core move / assumptions:** refuse to take the existing order for granted — **expose domination → denaturalise the order → open change.** The shifts: anarchy → also **hierarchy**; power-as-capabilities → **power over ideas/knowledge**; "who acts?" → **"who's marginalised?"**; "how does order work?" → **"whose order is it?"**
+- **① Core move:** realism & liberalism treat the world order as a **fixed stage** that states act on. Critical theory refuses that — it turns the spotlight **onto the order itself:** *who built it, whom it serves, and why it looks "natural."* The aim, in three steps: **expose domination → show the order is *made*, not inevitable (= "denaturalise") → open it to change.**
+- **…so it shifts the focus** (from mainstream IR → to critical theory): from **anarchy** → to also **hierarchy** · from **power = military capability** → to **power over ideas & knowledge** · from "who acts?" → to **"who's silenced?"** · from "how does the order work?" → to **"whose order is it?"**
 - **② Strands:** Marx · Lenin · Gramsci · Wallerstein · postcolonialism/Said · feminism ×3 · peace studies *(see the menu table below).*
 - **③ Mechanism:** **no single chain** — the common move is **denaturalise + ask who benefits.** Each strand supplies its own logic (class exploitation · hegemony/consent · core–periphery surplus flow · Orientalist representation · gendered hierarchy).
 - **④ Key concepts:** hegemony (Gramsci) · core/periphery (Wallerstein) · Orientalism (Said) · class/surplus (Marx/Lenin) · structural violence / positive peace.
