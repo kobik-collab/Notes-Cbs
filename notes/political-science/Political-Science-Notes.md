@@ -2121,7 +2121,7 @@ An **exemplary Historical-Institutionalist study**: where does **business power*
 
 > *Use as the map; each item is unpacked in the sub-sections below.*
 
-- **① Core move / assumptions:** reject the realist/liberal premise that **interests are given** — interests are **socially constructed.** Shift from **material facts → social meaning** (a tank is material; whether it's *threatening* is a **social fact**).
+- **① Core move / assumptions:** reject the premise — held by **realism and liberal *institutionalism*** — that **interests are given.** Interests are **socially constructed** through **ideas, identity & norms.** *(Liberal **internationalism** also opens the black box — but derives preferences from **material domestic interests**; constructivism derives them from **meaning**.)* Shift from **material facts → social meaning** (a tank is material; whether it's *threatening* is a **social fact**).
 - **② Sub-approaches:** **social constructivism** (the main one) · **postmodernism** (discourse, deconstruction, states as "fictions"). → [§what it is](#ir3-constructivism), [§postmodernism](#ir3-postmodern)
 - **③ Mechanism:** chain **social context + interaction → identity → interests → behaviour**; *"anarchy is what states make of it"* (Wendt — same anarchy → friendship *or* enmity); norms shift via **norm entrepreneurs → legitimacy changes → interests change.** → [§anarchy](#ir3-anarchy), [§norms](#ir3-norms)
 - **④ Key concepts:** social vs material facts · identity → interests · norms · **logic of appropriateness** vs logic of consequences.
