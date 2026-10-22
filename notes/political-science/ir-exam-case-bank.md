@@ -7,12 +7,43 @@
 
 ---
 
+## ★ The core 20 — memorise THESE, reuse everywhere
+
+Instead of 75 examples, learn these 20 workhorses. Each works for **several theories and questions** — the trick is to *frame the same event* through whichever theory you need (power? institution? identity? who-benefits?). "Serves" = the theories it argues best for; "Q" = question numbers it fits.
+
+| # | Example (one line) | Serves | Fits Q |
+|---|---|---|---|
+| 1 | **US–USSR Cold War** — rivalry, arms race, MAD, détente/arms control | Realism, Constr., Lib. inst. | 6, 10, 11, 12 |
+| 2 | **Cuban Missile Crisis** — brinkmanship then mutual climb-down | Realism, two-level games | 10, 12 |
+| 3 | **NATO** — alliance; balancing USSR; outlived its threat; a "community" | Realism, Constr., Lib. inst. | 4, 7, 8 |
+| 4 | **The EU** — integration, interdependence, ended Franco-German war | Lib. (both), Constr. | 4, 7, 10, 12 |
+| 5 | **NPT** — non-proliferation regime; two-tier haves/have-nots | Lib. inst., Critical | 2, 5, 8, 11 |
+| 6 | **Kazakhstan / Ukraine denuclearisation (Budapest 1994)** — gave up inherited nukes for assurances | Lib. inst., Realism | 2, 11 |
+| 7 | **Brazil–Argentina (ABACC)** — rivals' mutual, verified disarmament | Lib. inst., Lib. intl. | 2, 15 |
+| 8 | **US–China today** — power transition; trade ties vs strategic rivalry | Realism, Constr., Lib. inst. | 1, 5, 15 |
+| 9 | **Russia–Ukraine / Crimea (2014, 2022)** — great power breaks sovereignty rule; sanctions; "Russian world" identity | Realism, Constr., Critical | 1, 3, 14 |
+| 10 | **US–Iraq 2003** — great power ignores UN Charter it built; exceptionalism; "humanitarian" cover | Realism, Constr., Critical | 3, 5, 9 |
+| 11 | **WWI / 1914** — power transition, alliances, security dilemma; interdependence *failed* to stop war | Realism, Lib. (as its own weakness), Critical | 6, 10, 12, 15 |
+| 12 | **WTO / global trade regime** — institution enabling cooperation; US later defies it (tariffs, appellate body) | Lib. inst., Realism | 5, 8, 15 |
+| 13 | **UN Security Council veto** — institution built to serve the great powers | Critical, Realism | 3, 5, 8 |
+| 14 | **Democratic peace (W. Europe post-45)** — no two mature democracies fought | Lib. intl. | 4, 10, 12 |
+| 15 | **Rwanda 1994 (non-intervention) vs Somalia 1992 / Libya 2011 (intervention)** — norms vs interest in who gets saved | Constr., Realism | 9 |
+| 16 | **Iran nuclear deal (JCPOA)** — institution + sanctions; US ratification fight | Lib. inst., two-level games | 5, 14 |
+| 17 | **North Korea** — nukes for survival; left the NPT; shrugs off sanctions | Realism | 5, 11, 14 |
+| 18 | **South Africa** — built *then* dismantled nukes; apartheid→new identity | Lib. intl., Constr. | 2 |
+| 19 | **China & South China Sea (2016 ruling ignored)** — rising power defies the law | Realism, Critical | 3, 5, 15 |
+| 20 | **Trump "America First"** — domestic politics driving rule-breaking foreign policy | Lib. intl., FPA/two-level | 3, 13 |
+
+**How to use under pressure:** pick your question → grab 2 examples from this list whose "Fits Q" includes it → frame each through your chosen theory. Most questions are coverable with 2–3 of these alone.
+
+---
+
 ## 1. Why do rival states cooperate in one area while staying hostile in another?
 
 | Theory | Explanation (1-line) | Key concepts | 2 examples | Weakness |
 |---|---|---|---|---|
 | Realism | Cooperate where it doesn't shift the relative balance; hostile where it does | relative vs absolute gains, balance of power, self-help | Russia–EU gas (vs NATO); India–China trade (vs border) | Struggles to explain *durable, institutionalised* cooperation |
-| Lib. institutionalism | Issue-specific regimes make cooperation safe in one domain | regimes, reciprocity, issue-areas | US–USSR arms control (Cold War); US–China climate talks amid trade war | Can't explain persisting hostility |
+| Lib. institutionalism | Issue-specific institutions make cooperation safe in one domain | institutions, reciprocity, issue-areas | US–USSR arms control (Cold War); US–China climate talks amid trade war | Can't explain persisting hostility |
 | Lib. internationalism ⚠️ | Domestic coalitions favour cooperation on some issues, not others | preferences, domestic interests | US–China (business lobby vs security hawks) | Thin on *why rivalry persists*; forced |
 | Constructivism | Different shared meanings/identities built per issue-area | identity, norms, intersubjective meaning | US–China (economic partner vs strategic rival framing) | Weak at predicting *which* area turns cooperative |
 | Critical theory | Cooperation serves dominant economic interests; hostility masks it | hegemony, class/capital, core–periphery | Russia–EU energy capital flows; Gulf states–West | Hard to test; over-reads everything as capital |
