@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T14:02:36.690Z",
+  "generatedAt": "2026-10-22T14:06:45.155Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -300,7 +300,7 @@
           "slug": "ir-exam-case-bank",
           "title": "IR Exam Case Bank",
           "pdf": "pdfs/political-science/ir-exam-case-bank.pdf",
-          "sizeKB": 400
+          "sizeKB": 439
         }
       ],
       "hasFlashcards": true,
