@@ -16,69 +16,122 @@
 
 ## ★ The core 20 — memorise THESE, reuse everywhere
 
-Learn these 20 instead of 75. Each has the **facts you'd actually cite** + how to **frame the same event through each theory** it serves. *Fits Q* = question numbers it works for.
+Learn these 20 instead of 75. For each: the **facts you'd cite**, then the **same facts deployed across different questions and theories** — that's the whole point, *one event doing work everywhere*. Each bullet = "question → theory → the one-line argument."
 
-**1. US–USSR Cold War (1947–91).** *Fits Q6, 10, 11, 12.* Bipolar nuclear rivalry — arms race and proxy wars, then détente and arms-control treaties (SALT, INF).
-• *Realism:* security dilemma + balance of power + deterrence (MAD) → intense rivalry but no direct war. • *Lib. inst.:* SALT/INF = institutions letting rivals cooperate on the one issue that matters. • *Constr.:* the two *constructed* each other as existential enemies — enmity, not just material capability.
+**1. US–USSR Cold War (1947–91)** — bipolar nuclear rivalry: arms race, proxy wars, then détente + arms control (SALT, INF).
+- **Q6 arms races** → Realism: the *security dilemma* made each build-up spiral.
+- **Q10 rivalry→war/peace** → Realism: *deterrence* (MAD) kept it "cold."
+- **Q11 nuclear pursuit** → Realism: both armed for *survival under anarchy*.
+- **Q12 decline of great-power war** → Realism: *bipolarity* + MAD = the "long peace."
+- **Q8 institutions persist** → Lib. inst.: SALT/INF *regimes* outlived the tension.
+- **counter** → Constructivism: the enmity was *constructed* — détente shows identity can shift.
 
-**2. Cuban Missile Crisis (1962).** *Fits Q10, 12.* USSR put missiles in Cuba; 13-day standoff; resolved by USSR withdrawing them and US secretly pulling missiles from Turkey + pledging not to invade Cuba.
-• *Realism:* brinkmanship under the shadow of nuclear war; relative power. • *Two-level games:* each leader had to sell the deal to hardliners at home — the secret Turkey swap shows domestic ratification constraints.
+**2. Cuban Missile Crisis (1962)** — USSR put missiles in Cuba; 13-day standoff; resolved by USSR withdrawing them, US secretly pulling missiles from Turkey + pledging not to invade Cuba.
+- **Q10 rivalry→war/peace** → Realism: *brinkmanship* under nuclear shadow, yet rivalry stayed short of war.
+- **Q12 decline of GP war** → Realism: *deterrence* forced the climb-down.
+- **Q13 acting "against interest"** → Two-level games: the *secret* Turkey swap let each leader satisfy hardliners at home (Level II).
 
-**3. NATO (1949–).** *Fits Q4, 7, 8.* Collective-defence alliance formed to balance the USSR — and it *survived* the USSR's collapse, enlarging eastward.
-• *Realism:* balancing a threat (but its post-1991 survival is realism's embarrassment). • *Lib. inst.:* an enduring institution lowering cooperation costs. • *Constr.:* a transatlantic "security community" bound by shared democratic identity, not just threat.
+**3. NATO (1949–)** — collective-defence alliance to balance the USSR; *survived* the USSR's collapse and enlarged east.
+- **Q7 alliances** → Realism: *balancing* a shared threat.
+- **Q8 institutions persist** → Lib. inst.: an institution outliving its original purpose (and realism's *embarrassment* — use as counter).
+- **Q7 alliances** → Constructivism: a transatlantic *security community* bound by identity, not just threat.
+- **Q4 democratic peace** → Lib. intl.: an alliance *of democracies*.
 
-**4. The EU (1951–).** *Fits Q4, 7, 10, 12.* Deep economic + political integration that made war between France and Germany "unthinkable."
-• *Lib. inst.:* complex interdependence + institutions make war too costly. • *Lib. intl.:* a club of democracies (democratic peace). • *Constr.:* built a partial European identity / security community.
+**4. The EU (1951–)** — deep economic + political integration that made France–Germany war "unthinkable."
+- **Q10 rivalry→peace** → Lib. inst.: *complex interdependence* made war too costly.
+- **Q12 decline of GP war** → Lib. inst.: institutions + trade ended intra-European war.
+- **Q4 democracies don't fight** → Lib. intl.: a club of democracies.
+- **Q7 alliances** → Constructivism: a built European *identity* / security community.
 
-**5. NPT (1968).** *Fits Q2, 5, 8, 11.* Non-proliferation regime: non-nuclear states pledge not to build; the five nuclear "haves" are recognised as exceptions and pledge (vaguely) to disarm.
-• *Lib. inst.:* a regime raising the cost of proliferating → most states don't. • *Critical:* a two-tier order — the powerful keep bombs, the rest give them up.
+**5. NPT (1968)** — non-proliferation regime: non-nuclear states pledge not to build; the five "haves" keep theirs as recognised exceptions.
+- **Q11 nuclear pursuit** → Lib. inst.: a *regime* raising proliferation's cost → most states don't build.
+- **Q2 abandon capability** → Lib. inst.: the regime made disarmament safe.
+- **Q5 compliance** → Lib. inst.: reciprocity + monitoring → states obey an unenforceable rule.
+- **Q3 / Q11 counter** → Critical: a *two-tier order* — the powerful keep bombs, the rest give them up.
 
-**6. Kazakhstan / Ukraine denuclearisation (Budapest Memorandum, 1994).** *Fits Q2, 11.* Both inherited huge Soviet arsenals and gave them up for security assurances + NPT membership.
-• *Lib. inst.:* institutions (NPT + assurances) made giving up the capability safe. • *Realism:* they couldn't afford/secure the arsenal and took a great-power guarantee — which 2022 showed was hollow.
+**6. Kazakhstan / Ukraine denuclearisation (Budapest, 1994)** — both inherited huge Soviet arsenals, gave them up for security assurances + NPT.
+- **Q2 abandon capability** → Lib. inst.: NPT + assurances made giving up safe.
+- **Q2 abandon capability** → Realism: took a great-power *guarantee* instead of keeping costly arms.
+- **Q14 sanctions/coercion** → Realism: 2022 showed the guarantee was *hollow* — assurances aren't deterrence.
 
-**7. Brazil–Argentina (ABACC, 1991).** *Fits Q2, 15.* Two rivals, both with secret nuclear programmes, democratised and built a *joint mutual-inspection agency* instead of bombs.
-• *Lib. inst.:* reciprocity + verification let rivals disarm without either being exposed. • *Lib. intl.:* democratisation changed the domestic preference. • Kills critical theory's "strong coerce weak" line — these were *equals*.
+**7. Brazil–Argentina (ABACC, 1991)** — two rivals with secret nuclear programmes democratised and built a *joint mutual-inspection agency* instead of bombs.
+- **Q2 abandon capability** → Lib. inst.: *reciprocity + verification* let rivals disarm without exposure.
+- **Q2 abandon capability** → Lib. intl.: *democratisation* flipped the domestic preference.
+- **Q15 power transition** → rivals managed it *peacefully*.
+- **counter** → kills Critical's "strong coerce weak" line — these were *equals*, uncoerced.
 
-**8. US–China today.** *Fits Q1, 5, 15.* A rising power challenging the incumbent: deep trade ties *and* rivalry over Taiwan, tech, the South China Sea.
-• *Realism:* power transition + relative gains. • *Lib. inst.:* interdependence/WTO restrain conflict. • *Constr.:* whether they're "rivals" depends on threat framing.
+**8. US–China today** — rising power vs incumbent: deep trade ties *and* rivalry over Taiwan, tech, the South China Sea.
+- **Q15 power transition** → Realism: *power transition* risks conflict.
+- **Q1 cooperate-yet-hostile** → Realism: *relative gains* — cooperate where the balance isn't touched.
+- **Q5 compliance** → Realism: follows trade law only while it serves them.
+- **Q1 cooperate-yet-hostile** → Constructivism: "rival vs partner" is a *framing*.
+- **Q6 arms races** → Realism: tech/military *security dilemma*.
 
-**9. Russia–Ukraine / Crimea (2014, 2022).** *Fits Q1, 3, 14.* Russia — a UN founding power that helped make sovereignty sacrosanct — annexed Crimea and invaded Ukraine; hit by sweeping sanctions.
-• *Realism:* balancing NATO enlargement; sphere of influence. • *Constr.:* "Russian world" identity — Ukraine as *part of* Russia's self-conception. • *Critical:* a great power rewriting rules it authored. • *Q14:* sanctions largely failed (survival + Chinese help).
+**9. Russia–Ukraine / Crimea (2014, 2022)** — a UN founding power that helped make sovereignty sacrosanct annexed Crimea, invaded Ukraine; hit by sweeping sanctions.
+- **Q3 great powers break rules** → Realism: it *could*; Constructivism: *"Russian world"* identity; Critical: rewriting rules it authored. *(one case, three framings)*
+- **Q1 cooperate-yet-hostile** → Realism: Russia–EU *gas* trade alongside security hostility.
+- **Q14 sanctions fail** → Realism: *survival* + Chinese help blunted them.
+- **Q10 rivalry→war** → Constructivism: enmity hardened into invasion.
 
-**10. US–Iraq 2003.** *Fits Q3, 5, 9.* The US invaded without UN Security Council authorisation — ignoring the Charter it helped write.
-• *Realism:* it had the power to. • *Constr.:* American *exceptionalism* — identity as the indispensable nation above the rules. • *Critical:* "humanitarian/WMD" cover for hegemonic/resource interests.
+**10. US–Iraq 2003** — invaded without UN Security Council authorisation, ignoring the Charter it helped write.
+- **Q3 great powers break rules** → Realism (it had the power), Constructivism (*exceptionalism* — above the rules it authored), Critical (hegemonic/resource interest). *(one case, three framings)*
+- **Q5 compliance** → why great powers *don't* comply.
+- **Q9 intervention** → Critical: "humanitarian/WMD" *cover* for interest.
 
-**11. WWI / 1914.** *Fits Q6, 10, 11, 12.* A rising Germany, rigid alliances, and an arms race ended in catastrophic war — *despite* dense pre-war trade.
-• *Realism:* power transition + security dilemma. • *Liberalism's own weakness:* interdependence did **not** prevent war (use this to rebut liberalism). • *Critical:* imperial/capitalist rivalry.
+**11. WWI / 1914** — rising Germany, rigid alliances, an arms race → catastrophic war *despite* dense pre-war trade.
+- **Q10 rivalry→war** & **Q15 power transition** → Realism: *power transition* + *security dilemma*.
+- **Q6 arms races** → Realism: the Anglo-German naval race.
+- **Q12 / Q10 counter to liberalism** → interdependence *did not* prevent war — the knockout rebuttal to liberal "trade = peace."
+- **counter** → Critical: imperial/capitalist rivalry.
 
-**12. WTO / global trade regime.** *Fits Q5, 8, 15.* The institution that built rules-based trade — which the US, its chief architect, later undercut (tariffs, paralysing the appellate body).
-• *Lib. inst.:* reputation + reciprocity → mostly obeyed. • *Realism:* the powerful follow rules only while convenient.
+**12. WTO / global trade regime** — built rules-based trade; the US (its chief architect) later undercut it (tariffs, paralysing the appellate body).
+- **Q5 compliance** → Lib. inst.: *reputation + reciprocity* → mostly obeyed.
+- **Q8 institutions persist** → Lib. inst.: survives without coercion.
+- **Q15 power transition** → Lib. inst.: *socialised* a rising China (WTO entry).
+- **Q3 great powers break rules** → Realism: the US defies rules it built when convenient.
 
-**13. UN Security Council veto.** *Fits Q3, 5, 8.* The five victors of WWII gave *themselves* a permanent veto.
-• *Critical:* an institution literally built to serve the great powers ("who wrote the rules?"). • *Realism:* institutions mirror the distribution of power.
+**13. UN Security Council veto** — the five WWII victors gave *themselves* a permanent veto.
+- **Q3 great powers break rules** → Critical: an institution built to serve the powerful (*"who wrote the rules?"*).
+- **Q5 compliance** / **Q8 persistence** → Realism: institutions *mirror the distribution of power*.
+- **Q9 intervention** → interventions get authorised *selectively*, by power.
 
-**14. Democratic peace (W. Europe post-1945).** *Fits Q4, 10, 12.* No two mature democracies have fought a full-scale war; former enemies (France–Germany) became close partners.
-• *Lib. intl.:* Kantian triangle — accountability, interdependence, IOs. • *Realist counter:* it was shared interests + the US alliance, not democracy.
+**14. Democratic peace (W. Europe post-1945)** — no two mature democracies have fought a full war; France–Germany became partners.
+- **Q4 democracies don't fight** → Lib. intl.: *Kantian triangle* (accountability, interdependence, IOs).
+- **Q10 rivalry→peace** & **Q12 decline of war** → Lib. intl.: regime type explains the peace.
+- **counter** → Realism: it was shared interests + the US alliance, *not* democracy.
 
-**15. Rwanda 1994 vs Somalia 1992 / Libya 2011.** *Fits Q9.* The world did *not* intervene in the Rwandan genocide but *did* in Somalia and Libya.
-• *Constr.:* widening (and selective) norms of who "deserves" protection. • *Realism:* intervention tracks strategic interest — Rwanda had none.
+**15. Rwanda 1994 vs Somalia 1992 / Libya 2011** — no intervention in the genocide; intervention in the others.
+- **Q9 intervention** → Constructivism: *selective norms* of who "deserves" protection.
+- **Q9 intervention** → Realism: intervention tracks *strategic interest* (Rwanda had none).
+- **Q13 acting on norms** → Constructivism: Somalia '92 had little strategic value — *norms*, not interest.
 
-**16. Iran nuclear deal / JCPOA (2015).** *Fits Q5, 14.* Iran capped its programme for sanctions relief; the US later withdrew (2018).
-• *Lib. inst.:* an institution/regime trading verification for relief. • *Two-level games:* the US ratification fight (and withdrawal) shows Level-II domestic politics undoing a Level-I deal.
+**16. Iran nuclear deal / JCPOA (2015)** — Iran capped its programme for sanctions relief; the US withdrew in 2018.
+- **Q5 compliance** → Lib. inst.: a *regime* trading verification for relief.
+- **Q14 sanctions** → sanctions as *leverage* that bought a deal.
+- **Q13 / two-level games** → the US withdrawal shows Level-II *domestic politics* undoing a Level-I deal.
 
-**17. North Korea.** *Fits Q5, 11, 14.* Built nuclear weapons for regime survival, *left* the NPT (2003), and has absorbed years of sanctions.
-• *Realism:* self-help + deterrence for survival under anarchy. • *Q14:* sanctions failed — survival trumps economic pain.
+**17. North Korea** — built nukes for regime survival, *left* the NPT (2003), absorbed years of sanctions.
+- **Q11 nuclear pursuit** → Realism: *self-help + deterrence* for survival.
+- **Q5 compliance** → Realism: exited the law when it clashed with survival.
+- **Q14 sanctions fail** → Realism: survival trumps economic pain.
+- **Q2 counter** → the NPT *defection* that shows institutions can't bind a determined state.
 
-**18. South Africa.** *Fits Q2.* The only state to *build* nuclear weapons and then voluntarily *dismantle* them (c. 1989–91), joining the NPT as apartheid ended.
-• *Lib. intl.:* a new domestic regime changed the preference. • *Constr.:* a new post-apartheid identity made the bomb inappropriate.
+**18. South Africa** — the only state to *build* nukes then voluntarily *dismantle* them (c. 1989–91), joining the NPT as apartheid ended.
+- **Q2 abandon capability** → Lib. intl.: a new *domestic regime* changed the preference.
+- **Q2 abandon capability** → Constructivism: a new post-apartheid *identity* made the bomb inappropriate.
+- **Q11 nuclear pursuit** → the rare "built then gave up" case.
 
-**19. China & the South China Sea (2016 ruling).** *Fits Q3, 5, 15.* China ratified the Law of the Sea, then ignored the 2016 tribunal ruling against its claims.
-• *Realism:* a rising power defies law when strong enough. • *Critical:* the order's rules bind the weak, not the powerful.
+**19. China & the South China Sea (2016 ruling)** — ratified the Law of the Sea, then ignored the tribunal ruling against it.
+- **Q3 great powers break rules** → Realism: defies law once strong enough; Critical: rules bind the weak, not the powerful.
+- **Q5 compliance** → why a great power *ignores* an unenforceable ruling.
+- **Q15 power transition** → a rising power testing the order.
 
-**20. Trump "America First" (2017–).** *Fits Q3, 13.* Withdrawals (Paris, JCPOA, WHO) and tariffs driven by domestic politics.
-• *Lib. intl. / FPA / two-level games:* domestic coalitions and leaders — not the system — drove the rule-breaking. • Good for "why states act against the systemic 'national interest'."
+**20. Trump "America First" (2017–)** — withdrawals (Paris, JCPOA, WHO) and tariffs driven by domestic politics.
+- **Q3 great powers break rules** → Lib. intl. / FPA: *domestic coalitions*, not the system, drove it.
+- **Q13 acting against systemic interest** → Two-level games / FPA: Level-II politics overrode the "national interest."
+- **Q5 compliance** → why a state *exits* institutions it built.
 
-**Under pressure:** pick the question → grab 2 examples whose *Fits Q* includes it → tell each one's facts, then frame through your theory. Two of these, done well, answer almost any question.
+**Under pressure:** pick the question → scan for 2 cases with a bullet for it → state each one's facts, then run your theory's framing. Note how often the *same* case (9, 10, 11, 14) appears under many questions — that's why 20 is enough.
 
 ---
 
