@@ -110,6 +110,7 @@ function docList(subject) {
   const docs = [];
   if (subject.full) docs.push({ ...subject.full, slug: 'full', full: true, label: 'Full document' });
   subject.parts.forEach((p) => docs.push({ ...p, full: false, label: 'Lecture' }));
+  (subject.extras || []).forEach((e) => docs.push({ ...e, full: false, extra: true, label: 'Exam case bank' }));
   return docs;
 }
 
@@ -118,7 +119,8 @@ function renderSubject(subject, partSlug) {
   const selected = docs.find((d) => d.slug === partSlug) || docs[0] || null;
 
   const fullItems = docs.filter((d) => d.full);
-  const partItems = docs.filter((d) => !d.full);
+  const extraItems = docs.filter((d) => d.extra);
+  const partItems = docs.filter((d) => !d.full && !d.extra);
 
   const itemHtml = (d) => `
     <button class="doc-item ${d.full ? 'full' : ''} ${selected && d.slug === selected.slug ? 'active' : ''}"
@@ -144,6 +146,7 @@ function renderSubject(subject, partSlug) {
     <div class="doc-list">
       ${maps.length ? `<div class="doc-group-label">Concept maps</div>${maps.map(mapHtml).join('')}` : ''}
       ${fullItems.length ? `<div class="doc-group-label">Complete notes</div>${fullItems.map(itemHtml).join('')}` : ''}
+      ${extraItems.length ? `<div class="doc-group-label">Exam case bank</div>${extraItems.map(itemHtml).join('')}` : ''}
       ${partItems.length ? `<div class="doc-group-label">By lecture</div>${partItems.map(itemHtml).join('')}` : ''}
     </div>`;
 

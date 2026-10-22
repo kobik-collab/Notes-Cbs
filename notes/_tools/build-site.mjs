@@ -154,6 +154,27 @@ for (const slug of subjects) {
     subj.note = 'In progress';
   }
 
+  // ---- extras: standalone "*case-bank.md" docs (e.g. exam cheat sheets) ---------
+  // Picked up even when a master exists (loose .md files are otherwise ignored).
+  const extraMds = files.filter((f) => /case-bank\.md$/i.test(f)).sort();
+  if (extraMds.length) {
+    const extras = [];
+    for (const f of extraMds) {
+      const mdPath = path.join(dir, f);
+      const title = fs.readFileSync(mdPath, 'utf8').match(/^# (.*)/m)?.[1] || f;
+      const pslug = f.replace(/\.md$/, '');          // e.g. ir-exam-case-bank
+      let pdf = mdPath.replace(/\.md$/, '.pdf');
+      if (!NO_PDF) pdf = renderPdf(mdPath, title);
+      if (fs.existsSync(pdf)) {
+        const dest = path.join(outDir, `${pslug}.pdf`);
+        fs.copyFileSync(pdf, dest);
+        extras.push({ slug: pslug, title, pdf: rel(dest), sizeKB: kb(dest) });
+        log(`  ✓ ${slug}/extra ${pslug}`);
+      }
+    }
+    if (extras.length) subj.extras = extras;
+  }
+
   // ---- flashcards: notes/<subject>/flashcards/<part-slug>.json -----------------
   // Each JSON's filename must match a part slug (e.g. lecture-1.json ↔ the "lecture-1" part).
   const flashDir = path.join(dir, 'flashcards');

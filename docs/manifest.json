@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:51:29.214Z",
+  "generatedAt": "2026-10-22T12:38:05.018Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -293,6 +293,14 @@
             "json": "flashcards/political-science/eu-v-european-citizenship-and-identity-auw.json",
             "count": 11
           }
+        }
+      ],
+      "extras": [
+        {
+          "slug": "ir-exam-case-bank",
+          "title": "IR Exam Case Bank",
+          "pdf": "pdfs/political-science/ir-exam-case-bank.pdf",
+          "sizeKB": 341
         }
       ],
       "hasFlashcards": true,
