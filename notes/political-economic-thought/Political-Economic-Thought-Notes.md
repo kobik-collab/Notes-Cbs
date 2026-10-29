@@ -19,6 +19,7 @@
 - **[Exercise Class 4: Growth & Limits to Growth in Early Industrial Capitalism](#ex4-pet)** — [the classical growth story](#ex4-recap) · [Smith on growth](#ex4-smith) · [★ the stationary state](#ex4-stationary) · [Malthus & Ricardo on sustained growth](#ex4-malthusricardo) · [**Mill**: what is political economy?](#ex4-mill) · [★ production vs distribution](#ex4-distribution) · [★ the stationary state *welcomed*](#ex4-mill-stationary) · [Zweig: forerunners of limits to growth](#ex4-zweig) · [★ the Jevons paradox & the Coal Question](#ex4-jevons) · [*Snowpiercer*](#ex4-snowpiercer) · [★ working-question answers](#ex4-questions) · [★ Fun facts](#ff-ex4)
 - **[Module 7: From Political Economy to (Micro)Economics (1871–1933)](#module-7-pet)** — [the great divide: social science vs history](#m7-divide) · [context: Germany · England · US](#m7-context) · [two traditions of economic science](#m7-traditions) · [the German Historical School (List · Roscher · Schmoller)](#m7-historical-school) · [★ the Methodenstreit (1883)](#m7-methodenstreit) · [★ the water-diamond paradox](#m7-waterdiamond) · [Bentham & the forerunners](#m7-forerunners) · [★ marginalism & the marginal revolution](#m7-marginalism) · [★ Jevons](#m7-jevons) · [★ Marshall & neoclassical economics](#m7-marshall) · [★ how supply & demand set price (the scissors)](#m7-curves) · [★ classical vs neo-](#m7-classical-neo) · [critique of neoclassical economics](#m7-critique) · [★ Study-question answers](#m7-questions) · [★ Fun facts](#ff-module7-pet)
 - **[Exercise Class 5: Economic Culture — the Market in American Fiction](#ex5-pet)** — [the assignment](#ex5-pet) · [*Farmer Boy*: money as stored work (labour theory of value)](#ex5-farmerboy) · [*Butcher's Crossing*: the market's betrayal](#ex5-butchers) · [★ the implication for Father Wilder](#ex5-implication) · [★ Assignment answers](#ex5-questions) · [★ Fun facts](#ff-ex5)
+- **[Module 8: Reactions to Liberalism — Historical Materialism, Socialism, Communism (1848–1938)](#module-8-pet)** — [the social question & formal vs real freedom](#m8-social) · [Marx: the man & his influences](#m8-marx) · [★ historical materialism (the method)](#m8-histmat) · [★ base & superstructure](#m8-base) · [class struggle, double liberation & alienation](#m8-class) · [★ Capital: exploitation & surplus value](#m8-capital) · [★ the Manifesto: revolutionary capitalism](#m8-manifesto) · [communist revolution & communist society](#m8-communism) · [Marx on colonialism: British Rule in India](#m8-india) · [legacy: the spectre & the welfare state](#m8-legacy) · [key terms](#m8-terms) · [exam pointers](#m8-exam) · [★ Fun facts](#ff-module8-pet)
 
 ---
 
@@ -3195,5 +3196,227 @@ Tocqueville reasons by **cases and comparisons** (America ↔ France; democracy 
 - **The buffalo as a tragedy of the commons.** An unowned herd slaughtered to near-extinction for a fashion that had already passed — and the meat left "to rot in the sun." Profit by destroying the natural capital everything else depends on.
 - **Even the shrewd trader goes broke.** McDonald "bought and paid for this last fall — all the money I had." In a real market, prudence is no guarantee; the house can lose too.
 - **Almanzo the capitalist-in-training.** He turns down the lemonade to buy a pig that will breed piglets — a child modelling **saving and reinvestment** while his cousin spends his nickel on a drink.
+
+---
+
+<a id="module-8-pet"></a>
+# Module 8: Reactions to Liberalism — Historical Materialism, Socialism, Communism (1848–1938)
+
+**Readings:** **Backhouse**, *The Penguin History of Economics* (2023), **pp. 169–177** *(Marx as political economist)* · **Selections from Marx & Engels** (ed. Ougaard): *The German Ideology* (1845–46) · *The Communist Manifesto* (1848) · "The Future Results of British Rule in India" (1853) · "Preface" to *A Contribution to the Critique of Political Economy* (1859) · Marx's letter to **Vera Zasulich** (1881). *(Lecturer: Benjamin Ask Popp-Madsen — deck "Reactions to liberalism: Historical materialism, socialism, communism.")*
+
+**Theme of the module.** The modern revolutions promised **freedom and equality** — but industrial capitalism produced the **"social question"**: slums, child labour, a worn-down working class, **capital and labour in direct confrontation.** **Marx's answer** is the sharpest reaction to liberalism: the rights-of-man "freedoms" are merely **formal** — political freedom is worthless without **economic** freedom. To explain why, Marx builds a whole **theory of history (historical materialism)**: society rests on an **economic base** (how people produce) that shapes everything else (the **superstructure** — law, politics, religion, ideas); history moves through **modes of production** (ancient → feudal → capitalist), each driven forward by **class struggle**. Capitalism is the most **revolutionary** and most **productive** system ever — and, by creating and impoverishing the **proletariat**, it forges "its own gravediggers." The endpoint is **communist revolution**: common ownership of the means of production and the eventual **withering away of the state.**
+
+<div class="heart">★ <strong>The heart of the module — Marx turns liberalism's story upside-down.</strong>
+<br>• <strong>Method — historical materialism:</strong> don't explain society from its <em>ideas</em> (Hegel's idealism); explain the ideas from the <strong>material conditions of production.</strong> "<strong>Life is not determined by consciousness, but consciousness by life.</strong>" Turn Hegel <strong>on his head.</strong>
+<br>• <strong>Model — base & superstructure:</strong> the <strong>economic base</strong> (forces + relations of production) is society's foundation; <strong>law, the state, religion and ideology are a derived superstructure.</strong> Change the base → the superstructure is transformed.
+<br>• <strong>Motor — class struggle:</strong> "<strong>The history of all hitherto existing society is the history of class struggles.</strong>" Each mode of production breeds its own antagonism (master/slave, lord/serf, <strong>bourgeois/proletarian</strong>).
+<br>• <strong>Diagnosis of capitalism:</strong> wage-labour + private ownership of the means of production ⇒ <strong>exploitation</strong> (the capitalist pockets the <strong>surplus value</strong>) and <strong>alienation</strong> (the worker is cut off from the product, from the act of work, and from human "species-being").
+<br>• <strong>Prognosis:</strong> capitalism's crises and its creation of a vast, class-conscious proletariat drive it to <strong>communist revolution</strong> — common ownership and, ultimately, the end of class and of politics itself.</div>
+
+**Red thread:** *(1) Why are liberal "freedoms" not enough? (2) What really drives history — ideas, or the economy? (3) How does capitalism work, and why does Marx think it is doomed? (4) What comes after?*
+
+**Key concepts to apply:** *the social question · formal vs real (economic) freedom* · *historical materialism · "turning Hegel on his head" (materialism vs idealism)* · *the **base–superstructure** model* · *forces of production vs relations of production · mode of production* · *stage theory (Asiatic · ancient/slave · feudal · capitalist)* · *fetters & the law of social revolution* · *class struggle · bourgeoisie & proletariat · class in-itself vs class for-itself · class consciousness* · *the "double liberation" of the worker* · *the **labour theory of value** · **surplus value** · exploitation* · *alienation (from product · from labour · from species-being)* · *revolutionary capitalism · crises of over-production · "the bourgeoisie produces its own gravediggers"* · *common ownership of the means of production · dictatorship of the proletariat · the withering away of the state* · *(application) colonialism as destruction + regeneration.*
+
+---
+
+<a id="m8-social"></a>
+## The social question & "formal vs real" freedom
+
+***Core:*** industrial capitalism created misery on a new scale — and that **"social question"** is the problem every 19th-century ideology (socialists, liberals, conservatives, social Catholics) raced to answer. Marx's distinctive move: the liberal answer gives only **formal** freedom.
+
+#### The social question
+Rapid industrialisation + **uncontrolled migration to the cities** produced a cluster of social ills:
+- **slums and tenement houses**; a lack of **housing, sanitation and public health**;
+- **women and children in the factories**; a **worn-down workforce**, poor schooling, poverty, disease;
+- the **breakdown of traditional safety nets** (guilds, almshouses, charities).
+→ The result: **capital and labour in direct confrontation** — the raw material of Marx's theory.
+
+#### Formal vs real freedom
+The great rights declarations proclaimed equality:
+- **US Declaration of Independence (1776):** "all men are created equal."
+- **French Declaration of the Rights of Man (1789):** "born and remain free and equal in rights."
+
+Marx's reply: these are only **formal freedoms.** A worker is "free" to sign a contract and "equal" before the law — but if he owns nothing and must sell his labour to eat, the freedom is hollow. **Political freedom is useless without economic freedom.** *(This is the hinge between liberalism and Marx: liberalism secures the *form* of freedom; Marx demands its *material substance*.)*
+
+---
+
+<a id="m8-marx"></a>
+## Karl Marx — the man and his influences
+
+***Core:*** Marx (1818–1883) fused **three national intellectual traditions** into one system; knowing them tells you what historical materialism is *made of*.
+
+- **Life (quick sketch):** born **Trier, 1818**; studied **philosophy & law** (Bonn, Berlin); edited the radical *Rheinische Zeitung* (1842); **Paris** (1843–45, meets lifelong collaborator & funder **Friedrich Engels** in 1844); **Brussels** (1845–48); **London** (1849–83, where he writes *Capital* in the British Museum and dies). Key works: *The German Ideology* (1845–46), *The Communist Manifesto* (1848, with Engels), *A Contribution to the Critique of Political Economy* (1859), *Capital* vol. 1 (1867).
+- **The three influences (the deck's triangle):**
+
+| Tradition | Figures | What Marx took |
+|---|---|---|
+| **English political economy** | Smith · Ricardo · Malthus | the **labour theory of value**, class analysis, the economy as the key to society |
+| **German idealist philosophy** | Kant · **Hegel** | the **dialectic** and history as *stages* — but **inverted** (material, not ideal) |
+| **French utopian socialism** | Saint-Simon · Fourier · Owen | the **goal** (a cooperative, post-capitalist society) — but made "**scientific**," not utopian |
+
+---
+
+<a id="m8-histmat"></a>
+## ★ Historical materialism (the method)
+
+***Core:*** Marx's theory of history. Against Hegel's **idealism** (ideas/"Spirit" drive history), Marx says the **material process of production** drives history, and ideas merely reflect it — he "**turns Hegel on his head.**"
+
+#### "We ascend from earth to heaven" (The German Ideology)
+Marx & Engels lay out the premise in *The German Ideology*: start not from what people *think* but from **real individuals and their material activity.**
+- *"Men... begin to distinguish themselves from animals as soon as they begin to **produce their means of subsistence**."* The **first historical act** is producing material life itself.
+- Therefore: *"**Life is not determined by consciousness, but consciousness by life.**"* German philosophy "descends from heaven to earth" (starts from ideas); Marx's method "**ascends from earth to heaven**" (starts from material life and *derives* the ideas).
+- Ideas, morality, religion are a **camera obscura** — an upside-down image produced by the real life-process; they "have no history" of their own.
+
+#### The classic statement — the 1859 Preface
+The most compressed version is the **"Preface" to *A Contribution to the Critique of Political Economy* (1859)** — learn this passage:
+> "In the social production of their existence, men inevitably enter into definite **relations of production** appropriate to a given stage in the development of their material **forces of production.** The totality of these relations constitutes the **economic structure of society**, the real foundation, on which arises a legal and political **superstructure**... It is **not the consciousness of men that determines their existence, but their social existence that determines their consciousness.**"
+
+#### Stage theory & the law of revolution
+- History moves through **modes of production**: **Asiatic · ancient (slavery) · feudal · modern bourgeois (capitalist)** — "epochs marking progress."
+- The motor of change: at some point the **forces of production** (technology) outgrow the existing **relations of production** (property/ownership), which "turn into their **fetters**." Then "begins an era of **social revolution**."
+- Two famous brakes on revolution (from the Preface): *"**No social order is ever destroyed before all the productive forces for which it is sufficient have been developed**"*; and mankind *"sets itself only such tasks as it is able to solve."* → revolution is **not** voluntarist; it waits on material maturity. *(This is the tension the [Zasulich letter](#m8-legacy) later strains against.)*
+
+---
+
+<a id="m8-base"></a>
+## ★ Base & superstructure
+
+***Core:*** the picture behind historical materialism — society is a **two-storey building.** The **base** (how we produce) is the ground floor that holds up and shapes the **superstructure** (law, politics, religion, ideas).
+
+![Diagram of Marx's base–superstructure model: a lower 'BASE' box containing forces of production (tools, technology, labour) and relations of production (ownership → class), with an upward arrow 'shapes/determines' pointing to an upper 'SUPERSTRUCTURE' box (law, the state, religion, ideology, culture).](figures/m8-base-superstructure.png)
+
+**How to read it.**
+- **The base = the economy**, in two parts: **forces of production** (tools, technology, labour, raw materials — *how* we can produce) and **relations of production** (who **owns** the means of production — which defines **class**).
+- **The superstructure = everything else** — law, the state, politics, religion, morality, philosophy, culture. For Marx these are **"derived, secondary phenomena."**
+- **The arrow runs mostly upward:** the base **shapes/determines** the superstructure (the ruling ideas of an age are the ideas of its ruling class). The faint downward arrow is the later, softer reading (the superstructure can *react back*) — but orthodox Marx stresses the **upward determination.**
+- **Use it as a tool:** to explain *any* law, religion or ideology, ask **"whose economic interest does it serve, and which mode of production produced it?"**
+
+---
+
+<a id="m8-class"></a>
+## Class struggle, the "double liberation" & alienation
+
+***Core:*** the base generates society's defining **antagonism — class struggle** — and under capitalism it takes a specific, brutal form: the worker is "freed" twice over, and **alienated.**
+
+- **Class struggle is the motor:** *"The history of all hitherto existing society is the history of class struggles"* — oppressor vs oppressed (freeman/slave, lord/serf, now **bourgeois/proletarian**), ending each time in revolution or mutual ruin.
+- **The "double liberation" of the worker** — capitalism's cruel pun on "freedom":
+  1. the worker is **free** to sell his labour (not a slave or serf — *free* wage-labour); **but**
+  2. he is **"freed" from** (i.e. deprived of) any **ownership of the means of production** — so he *must* sell his labour to survive.
+- **Alienation** — capitalism separates the worker from what makes him human:
+  - from the **product** (the commodity he makes belongs to the capitalist, and confronts him as an alien thing);
+  - from the **act of labour** (work becomes a mere means to wages, not self-expression);
+  - from his **"species-being"** — for Marx, **labour is the defining creative activity of humanity**; wage-labour reduces that activity to a commodity, so "**the worker becomes a commodity**" too.
+
+---
+
+<a id="m8-capital"></a>
+## ★ Capital: exploitation & surplus value
+
+***Core:*** *Capital* explains **economic inequality** as **invisible exploitation** built into the wage relation itself — using the classical **labour theory of value.**
+
+- **Labour theory of value** (inherited from Smith/Ricardo): the value of a commodity comes from the **labour** embodied in it.
+- **The twist — surplus value:** the worker is paid the value of his **labour-power** (enough to live and show up), but he **produces more value than that** during the working day. The **difference is surplus value**, which the **capitalist appropriates** as profit.
+- **Exploitation is invisible:** because the worker is paid a "fair" wage for his time, the unpaid portion is **hidden** — unlike the open coercion of slavery or serfdom, capitalist exploitation *looks like* a free, equal exchange. That concealment is the point.
+- **The consequence:** competition drives capitalists to extract ever more surplus → **impoverishment of the working class** → the growth of **class consciousness** and a **revolutionary mindset.**
+
+---
+
+<a id="m8-manifesto"></a>
+## ★ The Communist Manifesto: revolutionary capitalism
+
+***Core:*** the *Manifesto* (1848) is **not** a simple denunciation — Marx is **awe-struck** by capitalism. The bourgeoisie is the most **revolutionary and productive** class in history; that very dynamism is what dooms it.
+
+- **The bourgeoisie's revolutionary role:** it "has played a most revolutionary part" — tearing up feudal, patriarchal ties, leaving "no other nexus between man and man than naked **self-interest**, than callous **cash payment**," resolving all values into **exchange value** and "that single, unconscionable freedom — **Free Trade.**"
+- **"All that is solid melts into air":** *"Constant revolutionising of production, uninterrupted disturbance of all social conditions, everlasting uncertainty... distinguish the bourgeois epoch... All that is solid melts into air, all that is holy is profaned."* Capitalism **cannot stand still** — it must perpetually revolutionise the means of production.
+- **The world market:** chasing markets, the bourgeoisie "must nestle everywhere, settle everywhere" — giving production a **cosmopolitan** character, battering down "all Chinese walls" with cheap commodities, and creating "**a world after its own image.**" *(This is Marx's theory of **globalisation**, in 1848.)*
+- **Crises of over-production:** capitalism is like "**the sorcerer** who is no longer able to control the powers of the nether world whom he has called up." It periodically produces **too much** — an "**epidemic of over-production**" — and survives only by destroying productive forces and conquering new markets, "paving the way for more extensive and more destructive crises."
+- **Its own gravediggers:** "**But not only has the bourgeoisie forged the weapons that bring death to itself; it has also called into existence the men who are to wield those weapons — the modern working class — the proletarians.**" Concentrating workers in factories **unites** them → a **class in-itself** (merely sharing a condition) becomes a **class for-itself** (conscious, organised) → **class consciousness.**
+
+---
+
+<a id="m8-communism"></a>
+## Communist revolution & communist society
+
+***Core:*** communism is a **new revolution in property relations** — and its endpoint is the dissolution of class, and of **politics itself.**
+
+- **A property revolution "just like" the bourgeois one:** the bourgeoisie already abolished feudal/customary property (enclosures, "no customary rights"); communism simply does to **bourgeois private property** what the bourgeoisie did to feudal property. Marx's retort to the horrified: *"private property is already abolished for nine-tenths of society"* — they own nothing; communism only generalises the fact.
+- **Common ownership:** "centralise all instruments of production in the hands of the state, i.e., of **the proletariat organised as the ruling class**" — common ownership of the **means of production.**
+- **The withering away of politics:** once "class distinctions have disappeared... the public power will **lose its political nature.**" Politics, for Marx, is just organised class domination; with no classes, there is nothing left to *rule*.
+- **The famous image of unalienated life** (*The German Ideology*): in communist society one can "**hunt in the morning, fish in the afternoon, rear cattle in the evening, criticise after dinner**... without ever becoming hunter, fisherman, herdsman or critic" — i.e. the end of the crippling **division of labour** that fixes each person to one role.
+
+---
+
+<a id="m8-india"></a>
+## Marx on colonialism: "The Future Results of British Rule in India" (1853)
+
+***Core:*** a sharp application of historical materialism — and a window on its ambivalence. British rule in India is **brutal and hypocritical**, *and yet* (for Marx) the **unconscious tool of progress.**
+
+- **The condemnation:** "The **profound hypocrisy and inherent barbarism of bourgeois civilisation** lies unveiled before our eyes, turning from its home, where it assumes respectable forms, to the colonies, where it goes **naked**." Britain plundered India, confiscated the rajahs' funds, and dragged a people "through blood and dirt, through misery and degradation."
+- **The "regeneration" thesis:** nonetheless, by smashing the **stagnant, isolated village communities** (which Marx saw as the base of "Oriental despotism") and laying down **railways, industry and a modern economy**, Britain unwittingly creates the **material preconditions** for India's future transformation. The railway is "the **forerunner of modern industry**," dissolving the caste-based division of labour.
+- **The dialectic of colonialism:** destruction **and** creation at once — Britain has "a double mission in India: one destructive, the other regenerating." But the Indians will only "reap the fruits" once either the English working class overthrows its own rulers **or** "the Hindoos... have grown strong enough to throw off the English yoke altogether."
+→ *Illustrates:* historical materialism in action (modes of production, forces vs relations), **and** the uncomfortable idea that **progress advances through catastrophe** — a thesis later critics (and postcolonial theory) attack hard.
+
+---
+
+<a id="m8-legacy"></a>
+## Legacy: the spectre of Marx & the welfare state
+
+***Core:*** Marx's prediction of proletarian revolution in the advanced capitalist West largely **did not** happen — but his *spectre* reshaped the 20th century anyway.
+
+- **Reform, not revolution, in the West:** fear of Marx helped drive the rise of the **welfare state** — strong **social-democratic parties**, strong **trade unions**, and the extension of social rights that softened capitalism's edges (the "real" freedoms Marx demanded, delivered by reform).
+- **Revolution in the East:** the **Russian Revolution (1917)** and the **Soviet Union** claimed Marx's mantle — though in an agrarian, "backward" country that his stage theory said was *not yet ready* for socialism.
+- **The Zasulich qualification (1881):** in a late letter to the Russian revolutionary **Vera Zasulich**, Marx conceded the **Russian peasant commune (*obshchina*)** might serve as a direct springboard to communism **without** first passing through full capitalism — softening the rigid, unilinear stage theory of the Preface. *(This letter is on the syllabus as an external link; it is not in the selections PDF.)*
+
+---
+
+<a id="m8-terms"></a>
+## Key terms
+
+| Term | Meaning |
+|---|---|
+| Historical materialism | theory that the **material/economic conditions of production** drive historical change (not ideas) |
+| Base | the **economic foundation** = forces of production + relations of production |
+| Superstructure | law, state, religion, ideology — **derived** from and shaped by the base |
+| Forces of production | the means of producing: tools, technology, labour, raw materials |
+| Relations of production | the **ownership** structure of production → defines **class** |
+| Mode of production | a base-type epoch: Asiatic · ancient/slave · feudal · capitalist · communist |
+| Fetters | when old relations of production **block** developed forces → trigger revolution |
+| Class struggle | the conflict between owning and producing classes; the motor of history |
+| Bourgeoisie / proletariat | owners of the means of production / propertyless wage-labourers |
+| Double liberation | the worker is free to sell labour **and** stripped of the means of production |
+| Labour theory of value | a commodity's value = the labour embodied in it |
+| Surplus value | value the worker produces **beyond** his wage, appropriated by the capitalist |
+| Exploitation | the (hidden) extraction of surplus value under a "free" wage contract |
+| Alienation | the worker's separation from the product, the act of labour, and species-being |
+| Class in-itself / for-itself | a class that merely shares a condition / one that is conscious & organised |
+| Withering away of the state | after classes vanish, "public power loses its political nature" |
+
+---
+
+<a id="m8-exam"></a>
+## Exam pointers
+
+- **Explain historical materialism and the [base–superstructure model](#m8-base)** — and quote the [1859 Preface](#m8-histmat) ("social existence determines consciousness").
+- **Run the engine of change:** forces of production outgrow relations of production → **fetters** → **social revolution** (and the two brakes on it).
+- **Define [exploitation via surplus value](#m8-capital)** and say *why it is invisible* (a "free" wage contract), vs slavery/serfdom.
+- **Distinguish the three senses of [alienation](#m8-class)**, and the **[double liberation](#m8-class)** pun on freedom.
+- **Why the [Manifesto](#m8-manifesto) admires capitalism** — revolutionising production, the world market, "all that is solid melts into air" — and why that dynamism **creates its own gravediggers.**
+- **Use the [India article](#m8-india)** as a worked example of historical materialism *and* of its "progress through catastrophe" problem.
+- **Formal vs real freedom** — the hinge between [liberalism](#module-4-pet) and Marx.
+
+---
+
+<a id="ff-module8-pet"></a>
+## ★ Fun facts & memorable details (Module 8: Marx)
+
+> The sticky lines from the Marx module.
+
+- **"All that is solid melts into air."** The *Manifesto*'s most quoted line — and it's a *compliment* to capitalism's world-dissolving dynamism before it's a critique. Marx was capitalism's most eloquent admirer and its gravedigger at once.
+- **Marx predicted globalisation in 1848.** "It must nestle everywhere, settle everywhere... it creates a world after its own image." Written before the telephone, the aeroplane, or the container ship.
+- **Capitalism's own gravediggers.** The system's cruelest irony, in Marx's telling: by herding workers into factories to maximise profit, it *organises* the very class that will overthrow it.
+- **"Turn Hegel on his head."** Hegel had history driven by Spirit/ideas descending to earth; Marx flips it — material life first, ideas as its by-product. The whole method in one image.
+- **Exploitation you can't see.** The genius (and horror) of the surplus-value idea: unlike the whip of slavery, capitalist exploitation hides inside a contract both sides signed "freely."
+- **Hunt in the morning, criticise after dinner.** Marx's one glimpse of communist daily life — not about *abolishing* work but about ending the division of labour that chains you to a single job for life.
+- **The spectre built the welfare state.** The deepest irony: Marx's revolution mostly *didn't* come to the West — partly because the *fear* of it pushed elites to grant the pensions, unions and social rights that made capitalism survivable.
 
 ---

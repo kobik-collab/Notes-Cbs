@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:20:15.612Z",
+  "generatedAt": "2026-10-29T10:34:13.785Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -66,7 +66,7 @@
       "full": {
         "title": "Political & Economic Thought — Full notes",
         "pdf": "pdfs/political-economic-thought/Political-Economic-Thought-Notes.pdf",
-        "sizeKB": 6746
+        "sizeKB": 7090
       },
       "parts": [
         {
@@ -134,6 +134,12 @@
           "title": "Exercise Class 5: Economic Culture — the Market in American Fiction",
           "pdf": "pdfs/political-economic-thought/exercise-class-5-economic-culture-the-market-in-american-fic.pdf",
           "sizeKB": 276
+        },
+        {
+          "slug": "module-8-reactions-to-liberalism-historical-materialism-soci",
+          "title": "Module 8: Reactions to Liberalism — Historical Materialism, Socialism, Communism (1848–1938)",
+          "pdf": "pdfs/political-economic-thought/module-8-reactions-to-liberalism-historical-materialism-soci.pdf",
+          "sizeKB": 466
         }
       ]
     },
