@@ -29,6 +29,7 @@
 - **[EU III: The Internal Market (AUW)](#eu-lecture-3)** — [what is the single market?](#eu3-what) · [beyond tariffs: non-tariff barriers](#eu3-barriers) · [★ the four freedoms](#eu3-freedoms) · [why integrate? economic & political logic](#eu3-why) · [★ positive vs negative integration](#eu3-posneg) · [Cassis & mutual recognition](#eu3-cassis) · [who builds it](#eu3-who) · [★ the 1992 relaunch (Cockfield · SEA)](#eu3-1992) · [★ the evolution timeline](#eu3-timeline) · [free movement of goods](#eu3-goods) · [persons & labour](#eu3-persons) · [★ services (why harder)](#eu3-services) · [★ the Services Directive (Frankenstein→vampire)](#eu3-servicesdir) · [posted workers & Laval](#eu3-posted) · [capital](#eu3-capital) · [the state as regulator](#eu3-state) · [the digital single market](#eu3-digital) · [★ LI vs neofunctionalism](#eu3-theories) · [★ Fun facts](#ff-eu3)
 - **[EU IV: EU Competition Policy (AUW)](#eu-lecture-4)** — [competition ≠ competitiveness](#eu4-what) · [why the market needs competition rules](#eu4-why) · [exclusive competence](#eu4-competence) · [★ the toolbox (6 instruments)](#eu4-toolbox) · [★ the "economic constitution" (ordoliberalism)](#eu4-constitution) · [why so supranational? DG COMP](#eu4-supranational) · [enforcement powers](#eu4-enforcement) · [cartels (Art. 101)](#eu4-cartels) · [★ the leniency programme](#eu4-leniency) · [abuse of dominance (Art. 102)](#eu4-dominance) · [merger control](#eu4-mergers) · [★ digital markets & gatekeepers](#eu4-digital) · [Google Shopping](#eu4-google) · [★ the DMA (ex-ante)](#eu4-dma) · [state aid](#eu4-stateaid) · [Fiat & Apple (tax as state aid)](#eu4-fiat) · [foreign subsidies](#eu4-foreign) · [history & political economy](#eu4-history) · [★ three theories](#eu4-theories) · [★ Fun facts](#ff-eu4)
 - **[EU V: European Citizenship and Identity (AUW)](#eu-lecture-5)** — [the core puzzle + the chain](#eu5-puzzle) · [three lenses on citizens](#eu5-lenses) · [what EU citizenship gives you](#eu5-citizenship) · [★ the democratic deficit](#eu5-deficit) · [the knowledge deficit](#eu5-knowledge) · [how citizens are represented](#eu5-representation) · [European identity: constructed, contested, changeable](#eu5-identity) · [★ multi-level identities](#eu5-multilevel) · [civic vs exclusionary Europe](#eu5-civic) · [identity ↔ integration](#eu5-twoway) · [★ permissive consensus → constraining dissensus](#eu5-dissensus) · [★ why support or oppose? four mechanisms](#eu5-mechanisms) · [hard vs soft Euroscepticism](#eu5-euroscepticism) · [★ Euroscepticism vs anti-establishment (Szczerbiak & Taggart)](#eu5-antiestablishment) · [politicization: eurozone vs Schengen](#eu5-politicization) · [★ synthesis](#eu5-synthesis) · [★ Fun facts](#ff-eu5)
+- **[Tools 4.1: Normative Frameworks — How Should We Evaluate Political Outcomes? (AD)](#lecture-tools-1)** — [positive vs normative questions](#nf-positive) · [what is a normative framework?](#nf-what) · [★ welfarism: utilitarianism](#nf-util) · [★ welfarism: Pareto](#nf-pareto) · [★ liberalism: where is the line?](#nf-liberalism) · [the harm principle · property · freedom](#nf-line) · [★ egalitarianism & Rawls](#nf-egal) · [equality of what? outcomes vs opportunity](#nf-equality-of-what) · [★ frameworks at a glance](#nf-glance) · [back to SyRI](#nf-syri) · [why reasonable people disagree](#nf-disagree) · [key terms](#nf-terms) · [exam pointers](#nf-exam) · [★ Fun facts](#ff-tools1)
 
 ---
 
@@ -4114,5 +4115,257 @@ CJEU → settles disputes over EU law
 - **In 2004, 55% thought the EU was founded just after WWI.** A vivid illustration of the **knowledge deficit** — and why Eurosceptics found an open goal.
 - **"Quintessentially anti-establishment."** Szczerbiak & Taggart's label for Italy's **Five Star Movement**; France's National Rally coined **"l'UMPS"** for the mainstream parties it accused of colluding with Brussels, and **La France Insoumise** called for a "**Sixth Republic**" to sweep away an establishment "fused with the EU elite."
 - **Ireland has voted on Europe eight times.** A constitutional duty to hold treaty referendums gives a country of ~4 million the power to stall treaties for the whole EU (as with Nice and Lisbon).
+
+---
+
+<div class="part" id="part-4">Part IV · Tools for Political Analysis</div>
+
+<a id="lecture-tools-1"></a>
+# Tools 4.1: Normative Frameworks — How Should We Evaluate Political Outcomes? (AD)
+
+**Required reading:** **Bueno de Mesquita**, *Political Economy for Public Policy*, **ch. 1 "Normative Frameworks"** · *Optional:* **Van Bekkum & Zuiderveen Borgesius**, "Digital welfare fraud detection and the Dutch **SyRI** judgment," *European Journal of Social Security* 23(4) 2021, pp. 323–340. *(Lecturer: Anna Denisenko — deck "4.1 Normative Frameworks." Part IV uses Bueno de Mesquita; Part V (Business & Politics) uses Baron.)*
+
+**Theme of the lecture.** Political analysis has **two halves**: explaining **what *is*** (positive) and judging **what *should be*** (normative). This lecture equips you for the second. A **normative framework** is a **set of criteria for judging whether a policy, outcome or institution is good** — and the same policy can look **excellent under one framework and terrible under another.** We study **three**: **welfarism** (the goal is *wellbeing*), **liberalism** (the goal is *liberty*), and **egalitarianism** (the goal is *equality*). The running case is **SyRI**, the Dutch welfare-fraud algorithm a court struck down for violating privacy — a policy each framework judges differently.
+
+<div class="heart">★ <strong>The heart of the lecture — three lenses, often three verdicts.</strong>
+<br>• <strong>Welfarism (wellbeing):</strong> judge a policy by its <strong>consequences for wellbeing.</strong> Two versions — <strong>utilitarianism</strong> (maximise the <em>sum</em> of utility) and <strong>Pareto</strong> (improve wellbeing <em>without harming anyone</em>).
+<br>• <strong>Liberalism (liberty):</strong> judge a policy by whether it <strong>intrudes on the private sphere.</strong> The whole debate is <strong>where to draw the line</strong> between private and public — by <strong>harm</strong> (Mill), <strong>property/self-ownership</strong> (Locke, Nozick), or <strong>freedom</strong> (Berlin: freedom <em>from</em> vs freedom <em>to</em>).
+<br>• <strong>Egalitarianism (equality):</strong> judge a policy by whether it <strong>reduces unjust inequality</strong> — but <strong>equality of what?</strong> formal rights, <strong>opportunity</strong>, or <strong>outcomes</strong>. <strong>Rawls</strong>: choose the rules behind a <strong>veil of ignorance</strong> → the <strong>difference principle</strong> (inequality is just only if it helps the worst-off).
+<br>• <strong>The payoff:</strong> <em>not all good things go together.</em> There are real <strong>trade-offs</strong> between efficiency, freedom and equality — so the same facts yield <strong>different verdicts</strong>, and naming your framework is what makes an argument honest.</div>
+
+**Red thread:** *(1) Is this a positive or a normative question? (2) By which criterion are we judging — wellbeing, liberty, or equality? (3) What does each framework say about the same policy, and where do they trade off?*
+
+**Key concepts to apply:** *positive (what is?) vs normative (what should be?) questions* · *normative framework = criteria for judging* · **welfarism:** *utility (Bentham) · the utilitarian optimum (maximise the sum) · the veil of ignorance (Harsanyi) · measurement/interpersonal-comparison problem · the "monster"/"Philistine" objections · trolley & transplant · discounting across generations · partiality/relationships* · *Pareto improvement · Pareto efficiency* · **liberalism:** *the private/public sphere · the harm principle (Mill) · harm vs offense · self-ownership & property (Locke, Nozick) · negative vs positive liberty (freedom from / freedom to — Berlin)* · **egalitarianism:** *equality of formal rights vs opportunity vs outcomes · Rawls' original position, veil of ignorance, equal-liberty & difference principle (maximin) · decreasing marginal utility & redistribution · leveling down · the equality–efficiency (incentives) trade-off · Cohen's three equalities of opportunity (bourgeois · left-liberal · socialist)* · *three sources of disagreement: information · self-interest · values.*
+
+---
+
+<a id="nf-positive"></a>
+## Positive vs normative questions
+
+***Core:*** political science asks **two kinds of question** — and this lecture is about the second.
+
+| | **Positive (explanatory)** | **Normative (evaluative)** |
+|---|---|---|
+| Asks | *what **is**?* | *what **should be**?* |
+| SyRI example | *Why did the Netherlands build a fraud-detection algorithm?* | *Was that algorithm a **good** policy?* |
+| Settled by | facts, data, evidence | criteria/values — **not by facts alone** |
+
+→ *Quick test:* "**Who gains and who loses** from US tariffs on Danish exports?" = **positive.** "Would imposing **retaliatory** tariffs be a **good** policy?" = **normative.**
+
+<a id="nf-what"></a>
+## What is a normative framework?
+
+***Core:*** a **normative framework** is a **set of criteria for judging whether a political outcome, policy or institution is good.** The same policy can look **excellent under one and terrible under another** — so the framework you pick largely decides the verdict.
+
+The three we study:
+
+| Framework | The goal of public policy is to promote… |
+|---|---|
+| **Welfarism** | **wellbeing** |
+| **Liberalism** | **liberty** |
+| **Egalitarianism** | **equality** |
+
+**⚠️ "Liberalism" means several different things** — don't mix them up:
+
+| Sense | Claim | Example |
+|---|---|---|
+| **IR liberalism** | states cooperate via institutions & trade | the EU; democratic peace ([IR II](#ir-lecture-2)) |
+| **Philosophical liberalism** (this lecture) | policy should protect individual **liberty** | the Hague court: SyRI violated privacy |
+| **Economic liberalism** | free markets, limited state | free trade, deregulation |
+| **"Liberal" in US talk** | left-leaning, pro–social-programme | backs Obamacare |
+
+*(In Denmark, **Venstre** and **Liberal Alliance** are centre-right — "liberal" in the **economic** sense.)*
+
+**The running case — SyRI (System Risk Indication).** The Dutch government combined data from many agencies (tax, benefits, housing, employment) into an algorithm flagging people at **high risk of welfare/tax fraud** for investigation. In **2020 a Dutch court ruled the SyRI law violated the right to privacy** (Art. 8 ECHR). We'll judge it through each framework.
+
+---
+
+<a id="nf-util"></a>
+## ★ Welfarism I: Utilitarianism
+
+***Core:*** welfarism judges policy by its **consequences for wellbeing.** The classic version — **utilitarianism** — says the best policy **maximises the *sum* of utility (wellbeing) in society.**
+
+- **Utility (Bentham):** "that property in any object whereby it tends to produce benefit… pleasure… or happiness." Utilitarianism **adds up** everyone's utility and picks the policy with the **highest total.**
+- **The utilitarian optimum:** look **only at the total** (the height of the "wellbeing" bar). **Distribution doesn't matter to the verdict** — a policy can shrink one group's share and still win if the **sum** is largest.
+
+**Why be a utilitarian?**
+- **Treats everyone's happiness as equally important** — each person's utility counts once (Bentham).
+- **It gives an answer to trade-offs** — by adding and comparing, it always ranks the options (most frameworks struggle to).
+- **The veil of ignorance (Harsanyi):** if you chose society's rules *not knowing who you'd be* (rich or poor), you'd pick the arrangement with the highest **expected utility** = the highest **average** utility = **utilitarianism.** *(Rawls uses the same device to reach the **opposite** conclusion — see [§egalitarianism](#nf-egal).)*
+
+**Problems for utilitarianism** (the classic objections):
+- **Measurement / interpersonal comparison.** To add utility you must **measure, aggregate and compare** wellbeing *across people* — a demanding, maybe impossible, informational requirement.
+- **"Monsters."** If a **sadist** gets enormous pleasure from others' pain, and his pleasure outweighs their suffering, utilitarianism says it's *good* — because it didn't **weigh all affected parties'** utilities against that conclusion. Alarming.
+- **"Philistines."** If people get more utility from crude tastes (reality TV) than from art, should policy cater to that? Utility counts *whatever* its source.
+- **Trolley & transplant.** Utilitarianism says divert the trolley to kill 1 instead of 5 — and, more disturbingly, that a surgeon should kill 1 healthy patient to harvest organs saving 5. The transplant verdict clashes hard with moral intuition.
+- **Across generations.** Treating all generations equally forces **discounting the future** (how much is a benefit in 50 years worth today?) — central to climate cost-benefit analysis, and deeply contested.
+- **Relationships / partiality.** Strict utilitarianism is **impartial**, but we feel special duties to our **own** children and friends — "Ethan's very cute kids." Impartial maximising can't capture that.
+
+<a id="nf-pareto"></a>
+## ★ Welfarism II: Pareto
+
+***Core:*** a more cautious welfarism that **never makes anyone worse off.** Its goal: **increase wellbeing without harming anyone.**
+
+<div class="formula"><span class="flabel">Pareto improvement</span>a move from y to x is a <strong>Pareto improvement</strong> if: (1) at least one person is <strong>strictly better off</strong>, and (2) <strong>no one is worse off</strong></div>
+
+*Reads:* a change counts as an improvement **only if it helps someone and hurts no one.** · A policy is **Pareto efficient** if **no** Pareto improvement is possible from it (you can't help anyone without hurting someone).
+
+- **Why Pareto?** **Nobody is harmed**, and you **don't need to compare wellbeing across people** (sidesteps utilitarianism's measurement problem).
+- **Key concerns:** it is often **indeterminate** — many policies are efficient, and it can't rank them; and it **privileges the status quo**, because almost every real policy creates **some** losers (so almost nothing is a pure Pareto improvement).
+
+---
+
+<a id="nf-liberalism"></a>
+## ★ Liberalism: the goal is liberty
+
+***Core:*** (philosophical) liberalism judges policy by whether it **protects individual liberty** — by "separating a public and private sphere and rigorously resisting the use of policy to infringe on the **private sphere**" (Judith Shklar).
+
+<a id="nf-line"></a>
+#### The key question: *where is the line?*
+Liberals split life into a **private sphere** (your own business — religion, friends, what you read; the state stays out) and a **public sphere** (where policy is allowed — traffic, taxes). **All** liberals agree the line exists; they disagree on **where to draw it.** Three ways:
+
+**(1) The harm principle (J.S. Mill, *On Liberty*, 1859).** "The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to **prevent harm to others.** His own good… is not a sufficient warrant."
+- *The problem — harm or mere **offense**?* Hateful posts (protected US free speech vs Germany's 2017 law requiring deletion), **flag/holy-book burning** (US-protected 1989; Denmark banned Qur'an burning 2023), going to work with a contagious flu (your choice — but not during COVID). The line between **harm** and **offense** is where liberals fight.
+
+**(2) Property / self-ownership (Locke; Nozick, 1970s).** You **own your own body** → you own **what your work produces** → so **taxing it needs a strong justification.** (A libertarian reading that shrinks the public sphere.)
+
+**(3) Freedom — but *which* freedom? (Isaiah Berlin, 1968).**
+- **Freedom *from*** (negative liberty): nobody stops you. "Congress shall make no law…" → implies a **small state** that stays out of the way.
+- **Freedom *to*** (positive liberty): you actually have the **means** to act. Tax-funded schools and healthcare give people the means → implies a **larger state.**
+- *The provocation:* is a **homeless person "free"** to rent a flat in Copenhagen? Negatively yes (no law stops them); positively no (no means). *(Obamacare's insurance mandate: a welfarist asks "does it raise wellbeing?"; a liberal asks "may the state **compel** you to buy insurance?")*
+
+**Liberalism — pros & cons.** *Pros:* you own your life and choices; governments can be **wrong** about what's good for you; people with **different values** can live together in peace. *Cons:* the private/public **line is hard to draw**; it can **block welfare-raising policies**; *who* counts as freely choosing (children?); and it can **permit large inequality.**
+
+---
+
+<a id="nf-egal"></a>
+## ★ Egalitarianism: the goal is equality
+
+***Core:*** egalitarianism judges policy by whether it **reduces unjust inequality.** The hard question is **"equality of *what*?"** (Amartya Sen).
+
+<a id="nf-equality-of-what"></a>
+#### Equality of what?
+| Type | Everyone has the same… | Example |
+|---|---|---|
+| **Formal rights** | rights & liberties | equality before the law |
+| **Opportunity** | **starting chances** to live a good life | free university |
+| **Outcomes** | end-state quality of life | equal income/wealth |
+
+*(Brazil's **race-based university quotas** push **equality of opportunity/outcomes** — but risk **equal formal rights** and efficiency.)*
+
+#### Rawls — how to choose fair rules
+Our views on fairness are **biased by our position** (the rich favour low taxes; the poor favour redistribution). Rawls' fix: imagine choosing society's rules from an **original position, behind a veil of ignorance** — not knowing your class, gender, race, talents or values. From there, he argues we'd choose:
+1. **Equal Liberty Principle** — everyone gets equal basic liberties (speech, vote, equality before the law).
+2. Inequalities are allowed **only if** (a) positions are **open to all** under fair equality of opportunity, **and** (b) they **benefit the least advantaged** — the **Difference Principle** (a *maximin* rule: maximise the position of the worst-off).
+
+![Grouped bar chart of three hypothetical societies (A, B, C's incomes) showing a utilitarian picks the highest-total society, Rawls picks the one with the best-off worst person, and strict equality picks the one where all are equal.](figures/l-normative-three-societies.png)
+
+**How to read it.** Same three people, three societies. **Utilitarian → Society 1** (highest **total**, 300 — never mind that Person A gets 0). **Rawls → Society 2** (the **worst-off** person does best there: 30 > 20 > 0). **Strict equality of outcomes → Society 3** (everyone equal at 20, though the total is lowest). *Same facts, three verdicts — this is why frameworks matter.*
+
+#### Why redistribution can raise total wellbeing (egalitarians & welfarists agree here)
+![A concave utility-of-income curve showing a fixed 1,000-kr transfer produces a large utility gain for a poor person (steep part of the curve) and only a small utility loss for a rich person (flat part), so moving money from rich to poor raises the total.](figures/l-normative-marginal-utility.png)
+
+**How to read it.** The curve is **decreasing marginal utility**: each extra krone adds **less** wellbeing than the one before. It's **steep for the poor, flat for the rich.** So moving 1,000 kr from a rich person (small utility loss) to a poor person (big utility gain) **raises the total** — a **utilitarian argument *for* some equality.**
+
+#### Egalitarianism vs the other frameworks
+- **With welfarists:** they **agree** on redistribution **when it raises total wellbeing** (the decreasing-marginal-utility argument).
+- **With liberals:** they **agree** on equal **formal rights**, but clash on **redistribution** — **Nozick**: justice is about **process**; if holdings were acquired and transferred **justly**, the result is just *however unequal*.
+
+**More from the chapter (equality of outcomes vs opportunity):**
+- **Leveling down** — strict equality can be reached by making everyone **worse off** (a flaw); and strict equality can gut **incentives** to work/invest (the **equality–efficiency trade-off**).
+- **Cohen's three equalities of *opportunity*:** **(1) Bourgeois** — remove formal/legal barriers (race, gender, class); **(2) Left-liberal** — also remove disadvantages of **birth/upbringing** (wealth, schooling, networks); **(3) Socialist** — also neutralise **natural** differences (talent, intelligence). Each is more radical than the last.
+- **Key concerns:** do equal-outcome policies **violate equal rights**? how to **trade off equality vs efficiency**? and always — **equality of *what*?**
+
+---
+
+<a id="nf-glance"></a>
+## ★ Frameworks at a glance
+
+| Framework | Core value | The key question it asks |
+|---|---|---|
+| **Utilitarian** | total wellbeing | *Does it raise the **sum** of wellbeing?* |
+| **Pareto** | efficiency | *Does it help someone **without hurting anyone**?* |
+| **Liberal** | freedom, rights | *Does it **intrude on the private sphere**?* |
+| **Egalitarian** | equality, fairness | *Does it **reduce unjust inequality**?* |
+
+---
+
+<a id="nf-syri"></a>
+## Back to SyRI — one policy, three verdicts
+
+Applying the lenses to the Dutch fraud algorithm:
+- **Welfarist:** does SyRI make society **better off overall** — does catching more fraud (protecting public funds) outweigh the costs, including the chilling effect and wrongful flags? A sum-of-wellbeing calculation.
+- **Liberal:** does it **intrude on the private sphere** — mass data-combination and surveillance of citizens? *This is the lens the Hague court used:* SyRI violated the **right to privacy** (Art. 8 ECHR). A welfare gain **cannot** justify crossing the private-sphere line.
+- **Egalitarian:** does it fall **unequally** — disproportionately flagging poor neighbourhoods and minorities, entrenching disadvantage? Equal **treatment** and fairness, not just aggregate welfare.
+
+→ *Each framework highlights a different problem (and a different possible justification) for the exact same policy.*
+
+---
+
+<a id="nf-disagree"></a>
+## Why do reasonable people disagree?
+
+***Core:*** a practical payoff — **diagnosing** a disagreement is the first step to managing it. People disagree for **three distinct reasons**:
+
+| Source | What differs | How to address it |
+|---|---|---|
+| **Information** | different beliefs about the **facts** | **data, analysis, evidence** |
+| **Self-interest** | different **stakes** in the outcome | appeal to **shared principles** (e.g. the veil of ignorance) |
+| **Values** | different **normative frameworks** | **cannot be settled by facts alone** |
+
+→ **Key lesson:** political analysis asks **both** *what is* and *what should be*; welfarism, liberalism and egalitarianism can give **different verdicts on the same policy**; **not all good things go together** (efficiency vs freedom vs equality); use the frameworks to **clarify your own position** and to **understand those who disagree.**
+
+---
+
+<a id="nf-terms"></a>
+## Key terms
+
+| Term | Meaning |
+|---|---|
+| Positive vs normative | *what is* (explanatory) vs *what should be* (evaluative) |
+| Normative framework | a set of criteria for judging whether a policy/outcome is good |
+| Welfarism | judge policy by its consequences for **wellbeing** |
+| Utilitarianism | maximise the **sum** of utility; distribution doesn't matter to the verdict |
+| Utility | wellbeing/pleasure/benefit (Bentham) |
+| Veil of ignorance | choose rules not knowing who you'll be (Harsanyi → utilitarianism; Rawls → maximin) |
+| Pareto improvement | ≥1 person better off, **no one** worse off |
+| Pareto efficient | no Pareto improvement is possible |
+| Liberalism (philosophical) | judge policy by whether it protects **liberty** / the private sphere |
+| Harm principle | the state may restrict you only to prevent **harm to others** (Mill) |
+| Self-ownership | you own your body → own what your labour produces (Locke, Nozick) |
+| Negative vs positive liberty | freedom **from** interference vs freedom **to** (having the means) — Berlin |
+| Egalitarianism | judge policy by whether it reduces **unjust inequality** |
+| Equality of what? | formal rights · opportunity · outcomes |
+| Difference principle | inequality is just only if it benefits the **least advantaged** (Rawls) |
+| Decreasing marginal utility | each extra krone adds less wellbeing (grounds redistribution) |
+| Leveling down | achieving equality by making everyone worse off |
+
+---
+
+<a id="nf-exam"></a>
+## Exam pointers
+
+- **Classify a question** as [positive or normative](#nf-positive) — the first move in any analysis.
+- **State each framework's core value & key question** ([the glance table](#nf-glance)) and apply all three to one policy (do it on [SyRI](#nf-syri)).
+- **Utilitarianism:** define the [utilitarian optimum](#nf-util), give the **veil-of-ignorance** argument *for* it, and **two** classic objections (monsters/transplant/measurement/partiality).
+- **Pareto:** define [improvement & efficiency](#nf-pareto) and its two weaknesses (indeterminate; status-quo bias).
+- **Liberalism:** the [private/public line](#nf-liberalism) and the **three ways to draw it** (harm · property · freedom), plus **negative vs positive liberty.**
+- **Egalitarianism:** [equality of what](#nf-equality-of-what); **Rawls'** veil → **difference principle**; and why **decreasing marginal utility** links equality to welfare.
+- **Diagnose a disagreement** as [information, self-interest or values](#nf-disagree).
+
+---
+
+<a id="ff-tools1"></a>
+## ★ Fun facts & memorable details (Tools 4.1: Normative Frameworks)
+
+> The sticky bits from the normative-frameworks lecture.
+
+- **Same policy, opposite grades.** SyRI is "efficient fraud-catching" to a welfarist, a "privacy violation" to a liberal, and "discrimination against poor neighbourhoods" to an egalitarian — one algorithm, three verdicts.
+- **The veil of ignorance cuts both ways.** Harsanyi uses it to *prove* utilitarianism (maximise expected utility); Rawls uses the *same* thought experiment to *reject* it (protect the worst-off). Same device, opposite conclusions.
+- **The utility monster.** Push utilitarianism hard enough and a sufficiently gleeful sadist's pleasure can "outweigh" his victims' pain — the reductio that haunts "just add up the happiness."
+- **Is a homeless person free to rent a flat?** Berlin's distinction in one question: negatively yes (no law forbids it), positively no (no means). Your answer reveals how big a state you want.
+- **"Liberal" is a trap word.** In the US it means left-wing; in Denmark (Venstre, Liberal Alliance) it means economically *right*-wing. Always ask *which* liberalism.
+- **Leveling down.** You can make a society perfectly equal by dragging everyone to the bottom — which is why "equality" alone, with no efficiency check, isn't obviously good.
+- **Decreasing marginal utility is the bridge.** The one idea where egalitarians and *utilitarians* shake hands: a krone means more to the poor than the rich, so some redistribution raises the total pie of wellbeing.
 
 ---

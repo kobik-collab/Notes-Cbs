@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:50:40.703Z",
+  "generatedAt": "2026-10-29T11:05:41.230Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -155,7 +155,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 14811
+        "sizeKB": 15271
       },
       "parts": [
         {
@@ -317,6 +317,12 @@
             "json": "flashcards/political-science/eu-v-european-citizenship-and-identity-auw.json",
             "count": 11
           }
+        },
+        {
+          "slug": "tools-4-1-normative-frameworks-how-should-we-evaluate-politi",
+          "title": "Tools 4.1: Normative Frameworks — How Should We Evaluate Political Outcomes? (AD)",
+          "pdf": "pdfs/political-science/tools-4-1-normative-frameworks-how-should-we-evaluate-politi.pdf",
+          "sizeKB": 588
         }
       ],
       "extras": [
