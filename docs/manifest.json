@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T17:26:12.509Z",
+  "generatedAt": "2026-10-29T10:10:25.141Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -7,7 +7,7 @@
       "full": {
         "title": "Applied Microeconomics — Full notes",
         "pdf": "pdfs/applied-micro/Applied-Micro-Notes.pdf",
-        "sizeKB": 13985
+        "sizeKB": 14383
       },
       "parts": [
         {
@@ -45,6 +45,12 @@
           "title": "Lecture 6: Firms and Production (Chapters 3–4)",
           "pdf": "pdfs/applied-micro/lecture-6.pdf",
           "sizeKB": 806
+        },
+        {
+          "slug": "lecture-7",
+          "title": "Lecture 7: Competition & Long-Run Production (Chapter 4)",
+          "pdf": "pdfs/applied-micro/lecture-7.pdf",
+          "sizeKB": 598
         }
       ]
     },

@@ -16,6 +16,7 @@
 - **[Lecture 4: Consumer Choice (Ch. 5)](#lecture-4-micro)** — [modelling choice: the 3 ingredients](#micro4-why) · [preferences & rationality axioms](#micro4-preferences) · [utility & utility functions](#micro4-utility) · [★ marginal utility](#micro4-mu) · [indifference curves & their 3 types](#micro4-indiff) · [★ marginal rate of substitution (MRS)](#micro4-mrs) · [budget constraint & MRT](#micro4-budget) · [★ the optimum: MRS = MRT](#micro4-optimum) · [comparative statics · interior vs corner · Cobb-Douglas shortcut](#micro4-comparative) · [behavioral economics](#micro4-behavioral) · [cases](#micro4-cases) · [formula sheet](#micro4-formulas) · [★ practice problems (with solutions)](#micro4-practice) · [★ Fun facts](#ff-micro4)
 - **[Lecture 5: Applying Consumer Theory (Ch. 5 · §6.5)](#lecture-5-micro)** — [★ deriving the demand curve](#micro5-demand) · [solving it analytically: substitution & Lagrangian](#micro5-analytical) · [the dual: expenditure minimization](#micro5-dual) · [★ income & substitution effects](#micro5-is) · [normal good](#micro5-normal) · [inferior good](#micro5-inferior) · [Giffen goods](#micro5-giffen) · [★ application: labour supply](#micro5-labor) · [formula sheet](#micro5-formulas) · [★ practice problems (with solutions)](#micro5-practice) · [★ Fun facts](#ff-micro5)
 - **[Lecture 6: Firms & Production (Ch. 3–4)](#lecture-6-micro)** — [the firm & perfect competition](#micro6-firm) · [inputs & the production function](#micro6-production) · [short run vs long run](#micro6-timing) · [★ marginal product & diminishing returns](#micro6-mpl) · [returns to scale](#micro6-returns) · [★ short-run costs (MC · ATC · AVC · AFC)](#micro6-costs) · [revenue & profit](#micro6-rewards) · [★ profit maximisation: MR = MC = p](#micro6-profitmax) · [the shutdown rule](#micro6-shutdown) · [long-run entry & zero profit](#micro6-longrun) · [★ optimal inputs: isoquants, isocost & cost minimisation](#micro6-inputs) · [formula sheet](#micro6-formulas) · [★ practice problems (with solutions)](#micro6-practice) · [★ Fun facts](#ff-micro6)
+- **[Lecture 7: Competition & Long-Run Production (Ch. 4)](#lecture-7-micro)** — [market structure & perfect competition](#micro7-structure) · [★ the three output rules](#micro7-rules) · [are short-run profits sustainable?](#micro7-sr) · [long-run output & shutdown](#micro7-lr) · [★ the long-run price = min AC](#micro7-price) · [★ worked example (entry → how many firms?)](#micro7-example) · [★ the long-run market supply curve](#micro7-supply) · [is the firm's demand really flat?](#micro7-elastic) · [when LR supply is *not* flat](#micro7-notflat) · [formula sheet](#micro7-formulas) · [★ Fun facts](#ff-micro7)
 
 ---
 
@@ -1461,5 +1462,269 @@ $$\textbf{Total effect} \;=\; \textbf{substitution effect} \;+\; \textbf{income 
 - **The Black Death raised wages.** Kill a third of the workforce and each survivor works more land → higher **marginal product** → higher real wages. A grim demonstration that **wages track marginal product.**
 - **Why Japanese factories are robotic and Bangladeshi ones aren't.** Same technology — different **wages.** High wages tilt the isocost toward **capital**; low wages toward **labour.** The technique follows the price of the input.
 - **One big plant can beat two small ones.** That's **increasing returns to scale** (specialisation) — and, on the cost side, the **economies of scale** that let a few firms dominate aircraft, pharma and chips.
+
+---
+
+<a id="lecture-7-micro"></a>
+# Lecture 7: Competition & Long-Run Production (Chapter 4)
+
+**Required reading:** Friberg, **Ch. 4 — Supply by price-taking firms** (the **long-run** half: output rules, long-run shutdown & entry, the long-run market supply curve). *Lecturer: L. Butera — deck **"Competition and long-run production."*** *(Lecture 6 built the firm's costs and the short-run supply rule; this lecture pushes the same firm into the **long run**, where firms can **enter and exit** — and derives the **market** supply curve.)*
+
+**Résumé.** Lecture 6 left the firm making a **short-run** profit at price *p* by setting **MR = MC**. This lecture asks the natural follow-up: *are those profits sustainable?* In **perfect competition** the answer is **no** — because **entry is free**, any economic profit attracts new firms, output rises, and the **price is bid down** until profit hits **zero**. That pins the **long-run price to the bottom of the average-cost curve** (min AC), tells us **how much each firm makes** and **how many firms** the market supports, and makes the **long-run market supply curve flat** at min AC. We also check *why* a competitive firm's demand is nearly horizontal, and the three cases where long-run supply **slopes** instead.
+
+<div class="heart">★ <strong>The heart of the lecture — free entry drives price to the bottom of the AC curve.</strong>
+<br>• <strong>Same output rule as the short run:</strong> every firm still produces where <strong>MR = MC</strong>; for a price taker that is <strong>p = MC</strong>.
+<br>• <strong>What's new is entry/exit.</strong> In the long run <em>all</em> costs are variable and firms can come and go. <strong>Economic profit ⇒ entry</strong> (more firms, price falls); <strong>economic loss ⇒ exit</strong> (fewer firms, price rises). The only resting point is <strong>zero economic profit.</strong>
+<br>• <strong>The long-run equilibrium condition</strong> stacks four things on top of each other: <strong>p = MR = MC = min AC</strong>. Price sits at the <strong>minimum of average cost</strong>, so the typical firm makes <strong>zero economic profit</strong> and produces at <strong>efficient scale</strong>.
+<br>• <strong>Market supply</strong> is therefore <strong>flat at min AC</strong> (with identical firms, free entry, constant input prices): the market delivers whatever quantity consumers want, all at the same minimum-cost price.</div>
+
+**Red thread (two questions the whole lecture answers):** *(1) Once we allow firms to enter and exit, what price and quantity does a competitive market settle at?* *(2) How many firms does it support — and when is the long-run supply curve flat vs sloped?*
+
+**Key concepts / "modes" to use:** *market structure (the 3 determinants)* · *perfect competition & the price taker* (→ [Lecture 6](#micro6-firm)) · *the three equivalent **output rules*** · *marginal profit π′(q) = 0* · *MR = MC, and p = MC for a price taker* · *the **long-run shutdown** rule (exit if economic loss)* · *free entry ⇒ **zero economic profit*** · *the **long-run price = min AC** (found by dAC/dq = 0)* · *efficient scale* · *the **long-run market supply curve** (horizontal sum; flat at min AC)* · *residual (firm-level) demand elasticity ε_A = n·ε − (n−1)·η* · *increasing- vs decreasing-cost industries.*
+
+---
+
+<a id="micro7-structure"></a>
+## Market structure & the perfectly-competitive benchmark
+
+***Core:*** *market structure* is just **how a market is shaped**, and it predicts **how firms will behave.** Perfect competition is the extreme where every firm is a **price taker**.
+
+#### What determines market structure?
+Three features (from the deck):
+| Determinant | Question it asks |
+|---|---|
+| **Number of firms** | many tiny firms, or a few big ones? |
+| **Ease of entry/exit** | can new firms join (and leave) freely? |
+| **Product differentiation** | identical products, or can firms make theirs distinct? |
+
+*In plain terms:* the more firms, the freer the entry, and the more identical the product, the closer you are to **perfect competition** (and the less power any one firm has over price).
+
+#### Perfect competition — the 5 assumptions (recap from [Lecture 6](#micro6-firm))
+**(1)** a **large number** of firms · **(2)** **identical (homogeneous)** products · **(3)** **full information** (buyers know every price) · **(4)** **negligible transaction costs** · **(5)** **free entry and exit.**
+→ The payoff of these assumptions: each firm is a **price taker** — its own demand curve is a **horizontal line at the market price**. Charge one cent more and you sell **zero** (buyers switch to an identical rival); you can already sell all you want at *p*, so you never charge less. *(Assumption (5), free entry/exit, is the one doing the real work **this** lecture — it's what makes the long run different from the short run.)*
+
+---
+
+<a id="micro7-rules"></a>
+## ★ The three output rules (how much to produce)
+
+***Core:*** "produce the profit-maximising quantity" can be stated **three equivalent ways** — they always give the **same** q*.
+
+Profit is revenue minus cost:
+
+<div class="formula"><span class="flabel">Profit</span>π(q) = R(q) − C(q) = p·q − C(q)</div>
+
+*Reads:* profit **π** = total revenue **R(q)** (for a price taker, price **p** × quantity **q**) minus total cost **C(q)**. · **p** = the market price the firm takes as given.
+
+| # | Output rule | What it says |
+|---|---|---|
+| **1** | **Profit is maximised** | pick the q at the **top** of the profit "hill" π(q). |
+| **2** | **Marginal profit = 0** | at the top of the hill the **slope** is zero: π′(q) = 0. |
+| **3** | **MR = MC** | the slope of profit is MR − MC, so π′(q) = 0 means **marginal revenue = marginal cost**. |
+
+#### Why #2 and #3 are the same thing
+Differentiate profit and set it to zero (that's rule #2):
+
+<div class="formula"><span class="flabel">Rule #2 ⇒ Rule #3</span>π′(q) = R′(q) − C′(q) = MR − MC = 0  ⇒  <strong>MR = MC</strong></div>
+
+*Reads:* the slope of the profit curve is **marginal revenue minus marginal cost**; setting it to zero gives the familiar **MR = MC**. · **R′(q) = MR** = extra revenue from one more unit · **C′(q) = MC** = extra cost of one more unit.
+
+#### For a price taker, MR = p
+Because R = p·q with *p* fixed, **MR = dR/dq = p**. So the three rules collapse to the one you already know from [Lecture 6](#micro6-profitmax):
+
+<div class="formula"><span class="flabel">Price-taker's output rule</span>p = MR = MC</div>
+
+*Reads:* a competitive firm produces the quantity where **price equals marginal cost** — that point *is* its profit-maximising output.
+
+![The firm's profit-maximising output: the horizontal demand line p = MR crosses the rising MC curve at the equilibrium point e; the U-shaped AC lies below p, so the shaded rectangle (p − AC) × q* is economic profit.](figures/l7-profit-max.png)
+
+**How to read it** *(illustrative diagram).*
+- **Axes:** price/cost (y) vs output q (x).
+- **p = MR** (blue) is **horizontal** — the price-taking firm's demand. **MC** (red) rises; **AC** (green) is U-shaped.
+- **q\*** is read off where **MC crosses p = MR** (rule #3). Rules #1 and #2 give the *same* q* at the top of the profit curve.
+- The **shaded rectangle** = profit = (**p − AC**) × **q\***. Here **p > AC**, so the firm makes an **economic profit** — which is exactly what the rest of the lecture says **can't last**.
+
+---
+
+<a id="micro7-sr"></a>
+## Are short-run profits sustainable? (the hinge of the lecture)
+
+***Core:*** **no** — in the short run firms **can't** enter, so profits can persist; but the moment we allow the **long run**, free entry competes those profits away.
+
+- In the **short run** the number of firms is **fixed** (no entry/exit), so a firm earning the shaded profit above just... keeps earning it.
+- In the **long run**, that profit is a **signal**: outsiders see easy money and **enter**. More firms → more market output → the **market price falls**. Entry continues **as long as there are economic profits to be made** — i.e. until profit is **zero**.
+- The symmetric case: if firms are making an **economic loss**, some **exit**, market output falls, and the price **rises** back up — again until profit is **zero**.
+
+→ So the long-run resting point is **zero economic profit**, reached by **entry/exit moving the price**, not by any single firm changing its behaviour. *(Recall from [Lecture 6](#micro6-longrun): "zero economic profit" is a success — every input, including the owner's time, is earning its **opportunity cost**.)*
+
+---
+
+<a id="micro7-lr"></a>
+## Long-run output & shutdown decisions
+
+***Core:*** the output rule is **unchanged** (MR = MC); what changes in the long run is that **all costs are variable**, which simplifies both the cost curves and the shutdown rule.
+
+#### Output: same rule as the short run
+The firm still picks q where **MC = MR**. Nothing new here — the rule doesn't care about the time horizon.
+
+#### All costs are variable ⇒ AC = AVC
+In the long run there are **no fixed costs** (you can sell the factory, not renew the lease). So **average total cost and average variable cost are the same curve**:
+
+<div class="formula"><span class="flabel">Long run: no fixed costs</span>AC = AVC   (because FC = 0, so AFC = 0)</div>
+
+*Reads:* with every cost variable, total = variable cost, so **average cost (AC) equals average variable cost (AVC)** — the two SR curves merge. · *AFC = average fixed cost, which vanishes in the LR.*
+
+#### Long-run shutdown: exit if you'd make a loss
+Because nothing is sunk, the rule is simpler than the short run's "min AVC":
+
+<div class="formula"><span class="flabel">Long-run shutdown rule</span>exit the market if  p &lt; min AC  (an economic loss)</div>
+
+*Reads:* in the long run a firm **leaves** the market entirely if the price is below its **minimum average cost** — because, with no sunk fixed costs, continuing would just pile up losses. · *(Contrast the **short-run** rule, [min AVC](#micro6-shutdown): there, fixed costs are sunk, so you stay open as long as price beats **variable** cost.)*
+
+---
+
+<a id="micro7-price"></a>
+## ★ The long-run price = the minimum of average cost
+
+***Core:*** competition drives the price **down to the lowest point of the AC curve** — so to find the long-run price, **minimise AC** (take its derivative and set it to zero).
+
+The chain: free entry pushes the price down; it **stops** only when there's no profit left, i.e. when the price just equals the lowest possible average cost (any lower and everyone makes a loss and exits). So:
+
+<div class="formula"><span class="flabel">Find the long-run price</span>minimise AC(q):   dAC/dq = 0   ⇒   p<sub>LR</sub> = min AC</div>
+
+*Reads:* the long-run price equals the **minimum of the average-cost curve**; you find the minimising quantity by setting the **derivative of AC to zero**. · *At that minimum, **MC = AC** (marginal cuts average at its lowest point — the fact from [Lecture 6](#micro6-costs)).*
+
+So the full **long-run equilibrium** stacks everything together:
+
+<div class="formula"><span class="flabel">Long-run competitive equilibrium</span>p = MR = MC = min AC   ⇒   π = 0</div>
+
+*Reads:* in long-run equilibrium the price equals marginal revenue, marginal cost **and** the minimum of average cost all at once — so economic **profit is zero** and each firm produces at its **efficient scale** (the output that minimises average cost).
+
+![Long-run equilibrium: the horizontal p = MR line sits exactly at the minimum of the U-shaped AC curve, where MC also passes through — so price = marginal cost = minimum average cost and the profit rectangle has vanished.](figures/l7-lr-equilibrium.png)
+
+**How to read it** *(illustrative diagram).*
+- Compare with the previous figure: entry has pushed **p = MR** (blue) **down** until it just **touches the bottom of AC** (green).
+- At that point **MC** (red) also passes through — so **p = MC = min AC**.
+- The profit rectangle has **shrunk to nothing**: **zero economic profit.** The firm produces at **efficient scale** (the q that minimises AC).
+
+---
+
+<a id="micro7-example"></a>
+## ★ Worked example — entry, the long-run price, and how many firms
+
+***Core:*** the exam-style question: given one firm's costs and the market demand, find **each firm's output**, the **long-run price**, and the **number of firms**. *(This is the deck's own example, extending Lecture 6's short-run version.)*
+
+**Given:** each firm has **TC = 2q² + 50q + 50**; the short-run price was **p = 100**; **market demand is p = 210 − Q** (Q = total market quantity).
+
+**Step 1 — build MC and AC.**
+<div class="formula"><span class="flabel">Marginal & average cost</span>MC = dTC/dq = 4q + 50      AC = TC/q = 2q + 50 + 50/q</div>
+
+*Reads:* **MC** is the derivative of total cost; **AC** is total cost per unit. · the **50/q** term is the fixed cost (50) spread over output — it's what makes AC U-shaped.
+
+**Step 2 — find the long-run price = min AC** (set dAC/dq = 0):
+<div class="formula"><span class="flabel">Minimise AC</span>dAC/dq = 2 − 50/q² = 0  ⇒  q² = 25  ⇒  <strong>q* = 5</strong></div>
+
+*Reads:* differentiate AC, set to zero, solve for q. Each firm's **efficient-scale output is q\* = 5.** · (Second check: AC″ = 100/q³ &gt; 0, so it's a minimum.)
+
+**Step 3 — the long-run price** (plug q* = 5 into AC):
+<div class="formula"><span class="flabel">Long-run price</span>p<sub>LR</sub> = min AC = 2(5) + 50 + 50/5 = <strong>70</strong>    (check: MC = 4(5)+50 = 70 = AC ✓)</div>
+
+*Reads:* the long-run price is **70** — and MC equals AC there, confirming it's the minimum. · *(The SR price of 100 &gt; 70 meant SR economic profit → that's exactly what drew firms in and dragged the price down to 70.)*
+
+**Step 4 — market quantity** (from demand at p = 70):
+<div class="formula"><span class="flabel">Total market output</span>p = 210 − Q  ⇒  Q = 210 − 70 = <strong>140</strong></div>
+
+*Reads:* at the long-run price of 70, consumers buy **Q = 140** in total across the whole market.
+
+**Step 5 — how many firms?** (market quantity ÷ each firm's output):
+<div class="formula"><span class="flabel">Number of firms</span>n = Q / q* = 140 / 5 = <strong>28 firms</strong></div>
+
+*Reads:* with each firm producing 5 and the market absorbing 140, the market supports **n = 28** identical firms in the long run. · **This is the number that free entry delivers** — exactly enough firms to meet demand at zero profit.
+
+---
+
+<a id="micro7-supply"></a>
+## ★ The long-run market supply curve
+
+***Core:*** the **market** supply curve is the **horizontal sum** of all the firms' supply curves — but in the long run the **number of firms isn't fixed**, so with identical firms it comes out **flat at min AC**.
+
+- As in the short run, market supply = **add up quantities across firms at each price** (horizontal sum).
+- The twist: firms **enter** whenever a long-run profit is available and **exit** to avoid a long-run loss. So the market can supply **any** quantity at the price **min AC** — just add or subtract firms.
+- With **identical firms + free entry + constant input prices**, the result is a **horizontal (flat) long-run supply curve at min LR average cost**: as new firms enter, profits fall to zero, and the price can't stay above (entry) or below (exit) **min AC**.
+
+<div class="formula"><span class="flabel">Long-run market equilibrium (identical firms)</span>P = MR = MC = AC   (at min AC)   ⇒   long-run profit = 0</div>
+
+*Reads:* the whole market settles where price equals every firm's marginal **and** minimum average cost, so **aggregate long-run profit is zero** — the market delivers consumers' desired quantity all at the one minimum-cost price.
+
+![The long-run market supply curve drawn flat (horizontal) at the price equal to minimum average cost, with a dashed upward-sloping line showing the increasing-cost-industry case where it slopes up instead.](figures/l7-lr-supply.png)
+
+**How to read it** *(illustrative diagram).*
+- **Axes:** price (y) vs **market** quantity Q (x).
+- The solid **blue line is flat at min AC**: whatever quantity demand calls for, the market supplies it at that one price — because **entry/exit** adjusts the number of firms rather than the price.
+- The dashed amber line previews the next section: if input prices rise with industry output (an **increasing-cost industry**), long-run supply **slopes up** instead.
+
+---
+
+<a id="micro7-elastic"></a>
+## Is the firm's demand *really* flat?
+
+***Core:*** an individual competitive firm faces a demand curve **far more elastic** (flatter) than the **market's** — flat enough to treat as horizontal — and we can show *how much* flatter.
+
+The firm's own (**residual**) demand elasticity depends on the market elasticity, the number of firms, and how elastically the **other** firms supply:
+
+<div class="formula"><span class="flabel">Firm-level (residual) demand elasticity</span>ε<sub>A</sub> = n·ε − (n − 1)·η<sub>other firms</sub></div>
+
+*Reads:* the elasticity of demand faced by **firm A** = the **number of firms** n times the **market demand elasticity** ε, minus (n − 1) times the **supply elasticity of the other firms** η. · **The more firms there are, and the more elastically they supply, the more elastic (flatter) firm A's demand.**
+
+**Worked numbers (soybean, from the deck):** market demand elasticity **ε = −1.1**, other-firm supply elasticity **η = 3.1**, **n = 78** firms:
+<div class="formula"><span class="flabel">Soybean example</span>ε<sub>A</sub> = 78·(−1.1) − 77·(3.1) = −85.8 − 238.7 ≈ <strong>−324.5</strong></div>
+
+*Reads:* although the **whole soybean market** is only **moderately** elastic (−1.1), a **single farm** faces a **super-elastic** demand (≈ −324.5) — in effect a **flat** line. · *This is what justifies the "price taker / horizontal demand" assumption: it's an approximation, but a very good one when firms are many.*
+
+---
+
+<a id="micro7-notflat"></a>
+## When the long-run supply curve is *not* flat
+
+***Core:*** the flat LR supply curve relies on identical firms + free entry + constant input prices. **Break any of those** and the curve **slopes**.
+
+| Scenario | What breaks | LR supply shape |
+|---|---|---|
+| **Entry is limited** | government caps the number of firms, a **scarce resource** is needed, or **entry is costly** | **upward-sloping** |
+| **Firms differ** | low-min-AC firms enter at lower prices than high-cost ones | **upward-sloping** (cheap firms first, then dearer) |
+| **Input prices vary with output** — **increasing-cost industry** | expanding the industry **bids up** input prices | **upward-sloping** |
+| **Input prices vary with output** — **decreasing-cost industry** | expanding the industry **lowers** input prices (e.g. supplier economies of scale) | **downward-sloping** |
+
+*In plain terms:* the flat curve is the special "textbook" case; the moment some firms are cheaper than others, or growing the industry changes what inputs cost, the long-run supply curve tilts.
+
+---
+
+<a id="micro7-formulas"></a>
+## Formula sheet (Lecture 7)
+
+| Concept | Formula | In words |
+|---|---|---|
+| Profit | π(q) = p·q − C(q) | revenue minus cost |
+| Output rule (general) | MR = MC | produce where marginal revenue = marginal cost |
+| Output rule (price taker) | **p = MC** | …and MR = p, so price = marginal cost |
+| Long run: no fixed costs | AC = AVC | fixed costs vanish |
+| Long-run shutdown | exit if **p < min AC** | leave if you'd make an economic loss |
+| Long-run price | **p = min AC** (dAC/dq = 0) | entry drives price to the bottom of AC |
+| LR equilibrium | **p = MR = MC = min AC**, π = 0 | zero profit, efficient scale |
+| Number of firms | n = Q / q* | market quantity ÷ each firm's output |
+| Firm demand elasticity | ε_A = n·ε − (n−1)·η | why one firm's demand is near-flat |
+
+---
+
+<a id="ff-micro7"></a>
+## ★ Fun facts & memorable details (Lecture 7: Competition & Long-Run Production)
+
+> The sticky bits from the long-run lecture.
+
+- **Profit is a self-destruct button (in competition).** The very thing every firm wants — economic profit — is the signal that **summons the competitors who compete it away.** In perfect competition, visible profit can't survive the long run.
+- **"How many firms?" is just division.** Once you've found each firm's efficient output (min AC) and the market quantity at that price, the number of firms is literally **Q ÷ q\***. In the worked example: 140 ÷ 5 = **28**.
+- **A single soybean farm faces demand ~300× more elastic than the market.** Market elasticity −1.1, but farm A's ≈ **−324.5**. That gap is *why* "price taker" is a fair approximation even though no demand curve is *perfectly* flat.
+- **The long run erases fixed costs — and simplifies the shutdown rule.** Short run: stay open above **min AVC** (rent is sunk). Long run: nothing is sunk, so you leave below **min AC**. Same firm, different rule, because of what you can still change.
+- **Competition is secretly an efficiency machine.** Driving price to **min AC** means the good is produced at the **lowest possible average cost** and sold at that cost — consumers capture all the gains, firms make zero economic profit. That's the welfare punchline behind "perfect competition."
 
 ---
