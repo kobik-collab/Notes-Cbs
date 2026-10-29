@@ -17,6 +17,7 @@
 - **[Lecture 5: Applying Consumer Theory (Ch. 5 · §6.5)](#lecture-5-micro)** — [★ deriving the demand curve](#micro5-demand) · [solving it analytically: substitution & Lagrangian](#micro5-analytical) · [the dual: expenditure minimization](#micro5-dual) · [★ income & substitution effects](#micro5-is) · [normal good](#micro5-normal) · [inferior good](#micro5-inferior) · [Giffen goods](#micro5-giffen) · [★ application: labour supply](#micro5-labor) · [formula sheet](#micro5-formulas) · [★ practice problems (with solutions)](#micro5-practice) · [★ Fun facts](#ff-micro5)
 - **[Lecture 6: Firms & Production (Ch. 3–4)](#lecture-6-micro)** — [the firm & perfect competition](#micro6-firm) · [inputs & the production function](#micro6-production) · [short run vs long run](#micro6-timing) · [★ marginal product & diminishing returns](#micro6-mpl) · [returns to scale](#micro6-returns) · [★ short-run costs (MC · ATC · AVC · AFC)](#micro6-costs) · [revenue & profit](#micro6-rewards) · [★ profit maximisation: MR = MC = p](#micro6-profitmax) · [the shutdown rule](#micro6-shutdown) · [long-run entry & zero profit](#micro6-longrun) · [★ optimal inputs: isoquants, isocost & cost minimisation](#micro6-inputs) · [formula sheet](#micro6-formulas) · [★ practice problems (with solutions)](#micro6-practice) · [★ Fun facts](#ff-micro6)
 - **[Lecture 7: Competition & Long-Run Production (Ch. 4)](#lecture-7-micro)** — [market structure & perfect competition](#micro7-structure) · [★ the three output rules](#micro7-rules) · [are short-run profits sustainable?](#micro7-sr) · [long-run output & shutdown](#micro7-lr) · [★ the long-run price = min AC](#micro7-price) · [★ worked example (entry → how many firms?)](#micro7-example) · [★ the long-run market supply curve](#micro7-supply) · [is the firm's demand really flat?](#micro7-elastic) · [when LR supply is *not* flat](#micro7-notflat) · [formula sheet](#micro7-formulas) · [★ Fun facts](#ff-micro7)
+- **[Lecture 8: The Benefits of Competition & How to Produce (Ch. 7 · 3.5)](#lecture-8-micro)** — [why competition benefits society](#micro8-why) · [★ consumer surplus](#micro8-cs) · [★ producer surplus](#micro8-ps) · [★ social welfare = CS + PS](#micro8-welfare) · [★ deadweight loss](#micro8-dwl) · [surplus & elasticity](#micro8-elasticity) · [policy applications](#micro8-policy) · [how to produce: cost minimisation (Ch. 3.5)](#micro8-produce) · [formula sheet](#micro8-formulas) · [★ Fun facts](#ff-micro8)
 
 ---
 
@@ -1726,5 +1727,184 @@ The firm's own (**residual**) demand elasticity depends on the market elasticity
 - **A single soybean farm faces demand ~300× more elastic than the market.** Market elasticity −1.1, but farm A's ≈ **−324.5**. That gap is *why* "price taker" is a fair approximation even though no demand curve is *perfectly* flat.
 - **The long run erases fixed costs — and simplifies the shutdown rule.** Short run: stay open above **min AVC** (rent is sunk). Long run: nothing is sunk, so you leave below **min AC**. Same firm, different rule, because of what you can still change.
 - **Competition is secretly an efficiency machine.** Driving price to **min AC** means the good is produced at the **lowest possible average cost** and sold at that cost — consumers capture all the gains, firms make zero economic profit. That's the welfare punchline behind "perfect competition."
+
+---
+
+<a id="lecture-8-micro"></a>
+# Lecture 8: The Benefits of Competition & How to Produce (Chapters 7 · 3.5)
+
+**Required reading:** Friberg, **Ch. 7 — The benefits of competition** (consumer surplus, producer surplus, social welfare, deadweight loss, policy) · **§3.5 — How to produce** (cost minimisation: isoquants, isocost, MRTS, the Lagrangian). *Lecturer: L. Butera — decks **"The benefits of competition"** + **"What inputs to use to produce?"*** *(Two readings combined. **Ch. 7 is the new, central part** — it finally says *why we care* that markets are competitive. **§3.5 is the long-run cost-minimisation machinery**, most of which you already have from [Lecture 6](#micro6-inputs); here it's recapped + the calculus added.)*
+
+**Résumé.** Lecture 7 showed competition drives price to **min AC** and profit to zero. This lecture asks the **"so what?"** — *who gains, and by how much?* The answer is in **surplus**: the demand curve is **willingness to pay**, so the gap between what consumers *would* pay and what they *do* pay is **consumer surplus**; the gap between the price sellers *get* and the minimum they'd *accept* is **producer surplus**. Their sum is **social welfare (W = CS + PS)**, and the competitive equilibrium **maximises** it — any distortion (a tax, a quota, a limit on firms) opens a **deadweight loss**. The second reading, **§3.5**, is the *cost-minimisation* side of the firm already met in [Lecture 6](#micro6-inputs): choose (L\*, K\*) where the **isoquant is tangent to the lowest isocost** — now stated as three equivalent rules and solved with a **Lagrangian**.
+
+<div class="heart">★ <strong>The heart of the lecture — competition maximises total surplus.</strong>
+<br>• <strong>Consumer surplus (CS)</strong> = area <strong>under the demand curve, above the price</strong> (what you'd have paid − what you did pay).
+<br>• <strong>Producer surplus (PS)</strong> = area <strong>above the supply curve, below the price</strong> (what you got − the minimum you'd accept). <strong>PS = Revenue − Variable cost</strong>; it equals <strong>profit</strong> whenever fixed costs are zero (the long run).
+<br>• <strong>Social welfare W = CS + PS</strong> is <strong>largest at the competitive equilibrium.</strong> Shove the market away from it and the lost surplus that <em>no one</em> captures is the <strong>deadweight loss</strong>.
+<br>• <strong>How to produce (§3.5):</strong> for a target output, minimise cost at the <strong>tangency of isoquant & isocost</strong> — the <strong>last-dollar rule</strong> MP<sub>L</sub>/w = MP<sub>K</sub>/r (same optimum as the consumer's, mirror-imaged).</div>
+
+**Red thread:** *(1) How much does competition actually benefit consumers and producers — and how do we measure it?* *(2) What does a government policy do to that total benefit?* *(3) [§3.5] Given a target output, what's the cheapest input mix?*
+
+**Key concepts / "modes" to use:** *consumer surplus (area under demand, above price)* · *marginal willingness to pay* · *producer surplus (area above supply, below price); **PS = R − VC**; PS = profit when F = 0* · *social welfare **W = CS + PS*** · *deadweight loss (DWL)* · *surplus & elasticity (inelastic ⇒ bigger surplus at stake)* · *the two ways policy bites (shift a curve · drive a wedge p ≠ MC)* · *cost minimisation: isoquant · isocost (wL + rK = C) · MRTS · the lowest-isocost / tangency / last-dollar rules · the Lagrangian.*
+
+---
+
+<a id="micro8-why"></a>
+## Why competition benefits society (the set-up)
+
+***Core:*** we proved in [Lecture 7](#micro7-price) that long-run competition pins price to **min AC** and profit to **zero**; this lecture measures the **gain that creates for everyone else.**
+
+- *Recap of the mechanism:* a short-run profit (say from a **scarce input** — a prime location, a star manager) gets **bid away** as rivals compete for that input; with identical firms the long-run **supply curve is flat**, and firms must minimise cost just to survive.
+- The result is cheap, abundant output — and the tool for measuring "how good is that for society?" is **surplus.** *(Welfare here means **efficiency** — the size of the total pie — not fairness/distribution.)*
+
+---
+
+<a id="micro8-cs"></a>
+## ★ Consumer surplus (CS)
+
+***Core:*** the **demand curve is a willingness-to-pay curve**; consumer surplus is the **bargain** consumers get — what they *would* have paid minus what they *actually* pay.
+
+- **The demand curve = marginal willingness to pay:** its height at each unit is the **most** a consumer would spend for that extra unit — the **marginal value** they place on it.
+- **Consumer surplus** = (willingness to pay for a quantity) − (what they actually pay for it), summed over all units bought.
+<div class="formula"><span class="flabel">Consumer surplus</span>CS = area <strong>under the demand curve</strong> and <strong>above the market price</strong> (up to Q)</div>
+
+*Reads:* **CS** is the triangle-ish region between the **demand curve** (what each unit is worth to buyers) and the **horizontal price line** (what they pay), out to the quantity bought. · Every unit to the left of Q* was worth **more** than its price to someone — that stacked-up "extra value" is the surplus.
+
+![Consumer and producer surplus at the competitive equilibrium: the demand and supply curves cross at (Q*, p*); consumer surplus is the shaded area under demand and above p*, producer surplus the shaded area above supply and below p*.](figures/l8-surplus.png)
+
+**How to read it.**
+- **Axes:** price (y) vs quantity (x); **Demand** slopes down, **Supply** slopes up, crossing at the **competitive equilibrium (Q\*, p\*)**.
+- **Consumer surplus** = the **upper** shaded wedge (under demand, above p\*) — buyers' total "bargain."
+- **Producer surplus** = the **lower** shaded wedge (above supply, below p\*) — sellers' total "bonus" over their minimum acceptable price.
+- Together they fill the whole area between the curves up to Q\* — that's **total surplus / welfare**.
+
+---
+
+<a id="micro8-ps"></a>
+## ★ Producer surplus (PS)
+
+***Core:*** the mirror image — the gap between the price sellers **receive** and the **minimum** they'd have accepted (which the supply curve traces, since supply = marginal cost).
+
+- **Producer surplus** = (what the good sells for) − (the minimum needed to make the seller willing to produce it), i.e. the area **above the supply curve and below the price**, up to Q.
+- Because the supply curve is **marginal cost**, that area equals **revenue minus variable cost**:
+<div class="formula"><span class="flabel">Producer surplus</span>PS = R − VC</div>
+
+*Reads:* **PS** = total **revenue** minus **variable cost** — the area above the (marginal-cost) supply curve, below price. · it is *not* the same as profit…
+
+- **PS vs profit:** profit = R − VC − **FC**. So **PS − profit = FC** (fixed cost). Therefore:
+<div class="formula"><span class="flabel">Surplus vs profit</span>PS = profit + FC    ⇒    if FC = 0 (long run), <strong>PS = profit</strong></div>
+
+*Reads:* producer surplus exceeds profit by exactly the **fixed cost F**; when there are no fixed costs (the long run), **producer surplus and profit coincide.** · (So in the long run, "zero profit" ≠ "zero producer surplus" only if there were fixed costs to recover — with F = 0 they're identical.)
+
+---
+
+<a id="micro8-welfare"></a>
+## ★ Social welfare = CS + PS
+
+***Core:*** add the two surpluses and you get society's total gain from the market — and the **competitive equilibrium makes it as big as possible.**
+
+<div class="formula"><span class="flabel">Social welfare</span>W = CS + PS</div>
+
+*Reads:* total welfare **W** = consumer surplus **plus** producer surplus — the **whole** area between the demand and supply curves up to the quantity traded. · at the competitive **(Q\*, p\*)** this area is **maximised**: every unit whose value (demand) exceeds its cost (supply) gets produced, and no unit whose cost exceeds its value does.
+
+---
+
+<a id="micro8-dwl"></a>
+## ★ Deadweight loss (DWL)
+
+***Core:*** any move away from the competitive equilibrium **destroys** some surplus that **no one** picks up — that lost welfare is the deadweight loss.
+
+**Deadweight loss** = the **net reduction in total welfare** when a policy or distortion shifts the market off (Q\*, p\*): one group loses surplus, and that loss is **not** fully offset by anyone else's gain.
+
+![Deadweight loss from restricting output below the competitive quantity: a shaded triangle between the demand and supply curves, spanning from the restricted quantity out to Q*.](figures/l8-deadweight.png)
+
+**How to read it.**
+- Output is forced **below Q\*** (e.g. a quota or a cap on firms). On every unit between the restricted quantity and **Q\***, buyers valued the good (demand) **more** than it cost to make (supply).
+- Those mutually-beneficial trades **don't happen** → the shaded **DWL triangle** of surplus simply **vanishes** (it's not transferred to anyone — it's pure loss).
+- The triangle's **width** = how far output is pushed from Q\*; the bigger the distortion, the bigger the DWL.
+
+---
+
+<a id="micro8-elasticity"></a>
+## Surplus & elasticity
+
+***Core:*** surplus is tied to **elasticity** — the **more inelastic** your demand for a good, the **more** you benefit from it being sold in a competitive market (and the more you lose if its price rises).
+
+- Intuition: if you *must* have it (**inelastic**), the gap between your high willingness-to-pay and the low competitive price is **huge** → big consumer surplus. If you can easily do without it (**elastic**), that gap is small.
+- **The deck's comparison** — a price rise from p1 to p2, elastic vs inelastic demand:
+
+| | Relatively **elastic** D | Relatively **inelastic** D |
+|---|---|---|
+| CS at **p1** (low price) | A + C | A + B + C + D |
+| CS at **p2** (high price) | A | A + B |
+| **CS lost** from the price rise | **− C** | **− C − D** |
+
+→ The **inelastic** consumer loses **more** (C + D vs just C) when price rises — they had more surplus at stake. *(Same logic sits behind tax incidence in [Lecture 3](#micro3-taxes): the inelastic side bears more.)*
+
+---
+
+<a id="micro8-policy"></a>
+## Policy applications
+
+***Core:*** essentially **every** government action hits a competitive market in one of **two** ways.
+
+| How policy bites | What it does | Examples |
+|---|---|---|
+| **1. Shifts a curve** | moves supply or demand, changing (Q\*, p\*) | **limits on the number of firms** (e.g. rules slowing how fast firms can exit, to protect workers); **quotas / output limits** |
+| **2. Drives a wedge** | makes **price ≠ marginal cost** even though they were equal in the competitive equilibrium | a **tax** (the [tax wedge](#micro3-taxes) from Lecture 3), a subsidy, a price control |
+
+→ Either way, if it pushes the market off (Q\*, p\*), it generally creates a **deadweight loss** — the analytical point of the whole chapter is to be able to **draw the policy, shade the lost surplus, and name who gained and who lost.**
+
+---
+
+<a id="micro8-produce"></a>
+## How to produce: cost minimisation (§3.5)
+
+***Core:*** the long-run **"how to produce"** problem — pick the input mix (L\*, K\*) that makes a target output **q̄** as **cheaply** as possible. *(You met this in [Lecture 6](#micro6-inputs); here is the compact statement + the calculus.)*
+
+- **The problem = the consumer's, mirror-imaged.** Objective = the **production function Q(L, K)** (like utility U); constraint = the **isocost** **C = wL + rK** (like the budget), where **w** = wage, **r** = rental rate of capital.
+- **Isoquant** = all (L, K) giving the **same output** (the firm's indifference curve). **Isocost** = all (L, K) costing the **same** total (the firm's budget line); its slope is **−w/r**.
+- **MRTS** (marginal rate of technical substitution) = slope of the isoquant = how much K one extra L replaces at constant output = **MP_L / MP_K**.
+- **Three equivalent cost-minimisation rules:**
+  1. **Lowest-isocost rule** — pick where the **lowest** isocost line just **touches** the target isoquant.
+  2. **Tangency rule** — pick where the isoquant is **tangent** to the isocost: **MRTS = w/r**.
+  3. **Last-dollar rule** — the last dollar on each input yields the **same** extra output:
+<div class="formula"><span class="flabel">Cost-minimising input mix</span>MRTS = MP<sub>L</sub>/MP<sub>K</sub> = w/r    ⇔    MP<sub>L</sub>/w = MP<sub>K</sub>/r</div>
+
+*Reads:* at the optimum the **marginal product per dollar** is equal across inputs — spend the last dollar wherever it buys the most output, and in equilibrium that's the same everywhere. · **w** = wage (price of labour) · **r** = rental rate (price of capital).
+
+- **The calculus (Lagrangian).** Minimise cost subject to hitting output **q̄**:
+<div class="formula"><span class="flabel">Cost-minimisation Lagrangian</span>ℒ = wL + rK + λ·(q̄ − Q(L, K))</div>
+
+*Reads:* minimise the **cost** wL + rK subject to the **output constraint** Q(L,K) = q̄; the multiplier **λ** comes out as **marginal cost** (the extra cost of one more unit of output). The first-order conditions reproduce the **last-dollar rule** above. *(Exactly analogous to the consumer's Lagrangian in [Lecture 5](#micro5-analytical) — and the **dual** of maximising output for a given budget.)*
+
+---
+
+<a id="micro8-formulas"></a>
+## Formula sheet (Lecture 8)
+
+| Concept | Formula | In words |
+|---|---|---|
+| Consumer surplus | CS = area under demand, above p | buyers' total "bargain" |
+| Producer surplus | **PS = R − VC** | sellers' bonus above min acceptable price |
+| PS vs profit | PS = profit + FC (⇒ PS = profit if F = 0) | they coincide in the long run |
+| Social welfare | **W = CS + PS** | total surplus; max at competitive eq. |
+| Deadweight loss | lost (CS + PS) from a distortion | surplus no one captures |
+| Cost-min (tangency) | MRTS = MP_L/MP_K = **w/r** | isoquant tangent to isocost |
+| Cost-min (last-dollar) | **MP_L/w = MP_K/r** | equal marginal product per dollar |
+| Cost-min (Lagrangian) | ℒ = wL + rK + λ(q̄ − Q(L,K)) | λ = marginal cost |
+
+---
+
+<a id="ff-micro8"></a>
+## ★ Fun facts & memorable details (Lecture 8: Benefits of Competition)
+
+> The sticky bits from the welfare lecture.
+
+- **The demand curve is a willingness-to-pay curve in disguise.** Its height over each unit is the **most** someone would pay for it — so the area between it and the price is literally the stack of **bargains** buyers walk away with.
+- **Producer surplus ≠ profit (until the long run).** They differ by exactly the **fixed cost**: PS = profit + F. Sell off the fixed assets (long run, F = 0) and the two become the **same number**.
+- **Deadweight loss is surplus that evaporates.** Unlike a tax transfer (surplus moves from you to the government), DWL goes to **no one** — it's the value of mutually-beneficial trades that simply never happen.
+- **The needier you are, the more competition does for you.** Inelastic demand = a big gap between your willingness to pay and the competitive price = **large consumer surplus**. Competition quietly helps most on the things you can't do without.
+- **Almost every policy is "shift a curve" or "drive a wedge."** Taxes, quotas, price controls, licensing — reduce the whole zoo to those two moves, draw it, and shade the deadweight-loss triangle. That's the exam skill.
 
 ---

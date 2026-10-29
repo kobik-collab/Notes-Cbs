@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:10:25.141Z",
+  "generatedAt": "2026-10-29T10:15:11.553Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -7,7 +7,7 @@
       "full": {
         "title": "Applied Microeconomics — Full notes",
         "pdf": "pdfs/applied-micro/Applied-Micro-Notes.pdf",
-        "sizeKB": 14383
+        "sizeKB": 14672
       },
       "parts": [
         {
@@ -51,6 +51,12 @@
           "title": "Lecture 7: Competition & Long-Run Production (Chapter 4)",
           "pdf": "pdfs/applied-micro/lecture-7.pdf",
           "sizeKB": 598
+        },
+        {
+          "slug": "lecture-8",
+          "title": "Lecture 8: The Benefits of Competition & How to Produce (Chapters 7 · 3.5)",
+          "pdf": "pdfs/applied-micro/lecture-8.pdf",
+          "sizeKB": 469
         }
       ]
     },
