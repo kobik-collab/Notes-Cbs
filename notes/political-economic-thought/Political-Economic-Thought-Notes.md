@@ -20,6 +20,7 @@
 - **[Module 7: From Political Economy to (Micro)Economics (1871–1933)](#module-7-pet)** — [the great divide: social science vs history](#m7-divide) · [context: Germany · England · US](#m7-context) · [two traditions of economic science](#m7-traditions) · [the German Historical School (List · Roscher · Schmoller)](#m7-historical-school) · [★ the Methodenstreit (1883)](#m7-methodenstreit) · [★ the water-diamond paradox](#m7-waterdiamond) · [Bentham & the forerunners](#m7-forerunners) · [★ marginalism & the marginal revolution](#m7-marginalism) · [★ Jevons](#m7-jevons) · [★ Marshall & neoclassical economics](#m7-marshall) · [★ how supply & demand set price (the scissors)](#m7-curves) · [★ classical vs neo-](#m7-classical-neo) · [critique of neoclassical economics](#m7-critique) · [★ Study-question answers](#m7-questions) · [★ Fun facts](#ff-module7-pet)
 - **[Exercise Class 5: Economic Culture — the Market in American Fiction](#ex5-pet)** — [the assignment](#ex5-pet) · [*Farmer Boy*: money as stored work (labour theory of value)](#ex5-farmerboy) · [*Butcher's Crossing*: the market's betrayal](#ex5-butchers) · [★ the implication for Father Wilder](#ex5-implication) · [★ Assignment answers](#ex5-questions) · [★ Fun facts](#ff-ex5)
 - **[Module 8: Reactions to Liberalism — Historical Materialism, Socialism, Communism (1848–1938)](#module-8-pet)** — [the social question & formal vs real freedom](#m8-social) · [Marx: the man & his influences](#m8-marx) · [★ historical materialism (the method)](#m8-histmat) · [★ base & superstructure](#m8-base) · [class struggle, double liberation & alienation](#m8-class) · [★ Capital: exploitation & surplus value](#m8-capital) · [★ the Manifesto: revolutionary capitalism](#m8-manifesto) · [communist revolution & communist society](#m8-communism) · [Marx on colonialism: British Rule in India](#m8-india) · [legacy: the spectre & the welfare state](#m8-legacy) · [key terms](#m8-terms) · [exam pointers](#m8-exam) · [★ Fun facts](#ff-module8-pet)
+- **[Module 9: Classics in Sociology — the Institutionalist Legacy (Durkheim & Weber, 1890–2020)](#module-9-pet)** — [the emergence of sociology](#m9-emergence) · [Durkheim's sociological project](#m9-durkheim) · [★ social facts](#m9-facts) · [social constraint & its types](#m9-constraint) · [functionalism & solidarity](#m9-solidarity) · [Weber's project & the uniqueness of the West](#m9-weber) · [★ Verstehen & ideal types](#m9-verstehen) · [★ the Protestant Ethic & the spirit of capitalism](#m9-protestant) · [rationalisation, disenchantment & the iron cage](#m9-ironcage) · [★ Durkheim vs Weber vs Marx](#m9-compare) · [key terms](#m9-terms) · [exam pointers](#m9-exam) · [★ Fun facts](#ff-module9-pet)
 
 ---
 
@@ -3418,5 +3419,264 @@ The most compressed version is the **"Preface" to *A Contribution to the Critiqu
 - **Exploitation you can't see.** The genius (and horror) of the surplus-value idea: unlike the whip of slavery, capitalist exploitation hides inside a contract both sides signed "freely."
 - **Hunt in the morning, criticise after dinner.** Marx's one glimpse of communist daily life — not about *abolishing* work but about ending the division of labour that chains you to a single job for life.
 - **The spectre built the welfare state.** The deepest irony: Marx's revolution mostly *didn't* come to the West — partly because the *fear* of it pushed elites to grant the pensions, unions and social rights that made capitalism survivable.
+
+---
+
+<a id="module-9-pet"></a>
+# Module 9: Classics in Sociology — the Institutionalist Legacy (Durkheim & Weber, 1890–2020)
+
+**Readings:** **Andersen & Kaspersen** (eds), *Classical and Modern Social Theory* (Blackwell, 2000), **ch. 5 (Durkheim) & ch. 6 (Weber), pp. 57–95** · Émile **Durkheim**, "What is a social fact?" (1895), from *The Rules of Sociological Method*, **pp. 26–30** · Max **Weber**, "Author's Introduction" to *The Protestant Ethic and the Spirit of Capitalism* (1904/1930), **pp. 13–31**. *(Lecturer: Benjamin Ask Popp-Madsen — deck "Émile Durkheim & Max Weber.")*
+
+**Theme of the module.** As industrial modernity remade society, a **new science — sociology** — emerged to answer two questions: **how is society held together, and how can it be studied scientifically?** The two founders give **opposite** answers. **Durkheim** says society is an **external reality of "social facts"** that **constrain** individuals from the outside; study it **like a natural science** (positivism), and you find it is held together by **solidarity** (functionalism). **Weber** says society is the **product of individual actions** that carry **meaning**; study it by **understanding (Verstehen)** those meanings through **ideal types**, and you find modernity's hallmark is **rationalisation.** Their clash over capitalism is also a reply to **Marx**: for Weber, it was **religious ideas** (the Protestant ethic), not just the material base, that drove capitalism into being.
+
+<div class="heart">★ <strong>The heart of the module — two founders, two opposite methods.</strong>
+<br>• <strong>Durkheim — structure first (holism / positivism):</strong> society is a reality <em>sui generis</em>, made of <strong>social facts</strong> — ways of acting/thinking that are <strong>external</strong> to the individual and <strong>exercise constraint.</strong> Study them <strong>like things</strong> (natural-science method, statistics). Society coheres through <strong>solidarity</strong>; each institution has a <strong>function</strong> for the whole. <em>Supra-individual order comes first; individual action is its effect.</em>
+<br>• <strong>Weber — meaning first (individualism / interpretivism):</strong> society is the <strong>product of individuals' meaningful actions.</strong> Study it by <strong>Verstehen</strong> (understanding their motives), using <strong>ideal types.</strong> Modernity's signature is <strong>rationalisation</strong> — the spread of calculable, goal-oriented rationality to every sphere (law, bureaucracy, science, economy).
+<br>• <strong>On capitalism (vs Marx):</strong> Weber argues the <strong>Protestant (Calvinist) ethic</strong> — not merely economic forces — produced the <strong>"spirit of capitalism."</strong> <em>Ideas moved the base</em>, reversing Marx's arrow. But the outcome is bleak: once the religious meaning drains away, we are left in the <strong>"iron cage"</strong> of <strong>disenchanted</strong> rationality.</div>
+
+**Red thread:** *(1) Why did sociology appear when it did? (2) What holds modern society together — and how do we study it: as external structure (Durkheim) or as meaningful action (Weber)? (3) Where did capitalism really come from — the material base (Marx) or religious ideas (Weber)?*
+
+**Key concepts to apply:** *the emergence of sociology · "how is society held together & studied?"* · **Durkheim:** *science of society · beyond methodological individualism · structuralism · collectivism · **positivism** · **social fact** (external + constraining) · social currents · types of constraint (material · structural · moral/normative · cultural/cognitive) · socialisation · **functionalism** (society as organism; function = social cohesion) · **mechanical vs organic solidarity** · the division of labour · Suicide as a social fact.* · **Weber:** *interpretivism · methodological individualism · **Verstehen** · **ideal types** · the four types of action (traditional · affectual · value-rational · instrumental-rational) · the uniqueness of Western **rationalism** · **the Protestant ethic & the spirit of capitalism** · predestination · the "calling" · worldly asceticism · **rationalisation** · **disenchantment** · the **iron cage**.* · *(legacy) institutions = formal rules (Weberian) + informal norms (Durkheimian).*
+
+---
+
+<a id="m9-emergence"></a>
+## The emergence of sociology
+
+***Core:*** sociology is born when **"society" itself becomes a problem** — the industrial, post-revolutionary world is a *new kind of reality* that the older disciplines (economics, philosophy, history) cannot fully grasp.
+
+- The modern revolutions and industrial capitalism dissolved the old order (village, guild, estate, fixed religion) and produced a **new social reality** — urban, mobile, individualist, secularising.
+- That reality poses the founding question: **"How is society held together, and how can it be studied?"** Sociology is the discipline that takes **"the social"** itself as its object.
+- **Different from Marx.** Where Marx reduces society to **economic class struggle**, Durkheim and Weber insist "the social" has **its own logic** — norms and solidarity (Durkheim), or meaning and rationality (Weber) — not reducible to the economic base. *(And on capitalism specifically, Weber will argue the opposite of Marx — see [§Protestant ethic](#m9-protestant).)*
+
+---
+
+<a id="m9-durkheim"></a>
+## Durkheim's sociological project
+
+***Core:*** Émile Durkheim (**1857–1917**) wanted to make sociology a **real science** with an object all its own — and that object is **society as a reality above the individual.**
+
+- **A science of society:** find **general social laws, structures and connections**, modelled on the **natural sciences.** Methodology = **structuralism · collectivism · positivism.**
+- **Beyond methodological individualism:** human beings are **part of and formed by social structures.** You cannot explain society by summing up individuals; you must give **supra-individual explanations** — the structure comes **first**, individual action is its **effect.**
+- **"The social":** his key words are **organicism, cohesion, stability** — how society holds together.
+- **Modern solidarity is still possible** — but, in modern society, for **different reasons** than in traditional society (see [solidarity](#m9-solidarity)).
+- **Major works:** *The Division of Labour in Society* (1893), *The Rules of Sociological Method* (1895), *Suicide* (1897), *The Elementary Forms of Religious Life* (1912).
+
+---
+
+<a id="m9-facts"></a>
+## ★ Social facts
+
+***Core:*** Durkheim's foundational concept. A **social fact** is a way of acting/thinking that is **external** to the individual and **exercises constraint** on them — it must be studied **like a thing** (an object), the hallmark of his **positivism.**
+
+#### The definition
+> "A **social fact** is every way of acting, fixed or not, capable of exercising on the individual an **external constraint**; or again, every way of acting which is **general** throughout a given society, while at the same time **existing in its own right independent of its individual manifestations.**" *(Durkheim, 1895: 30)*
+
+#### Two defining properties
+1. **Externality** — social facts exist **outside** me and **before** me. "The church-member finds the beliefs and practices of his religious life **ready-made at birth**." I did not create law, language, currency, or custom — I **inherited** them.
+2. **Constraint / coercion** — they **impose themselves** on me whether I like it or not. The proof is **resistance**: break the **law** and it reacts to punish you; flout **moral maxims** and the public conscience penalises you; ignore **convention** (dress, custom) and you meet **ridicule and social isolation.** *"The air is no less heavy because we do not detect its weight"* — the constraint operates even when we comply willingly.
+
+#### Why it is sociology's *own* object
+Social facts are **not biological** (they are representations and actions, not physiology) and **not psychological** (they exist **outside** any single individual consciousness). They are a **new category** — and *only* sociology studies them.
+- **Examples (Durkheim's own):** duties as brother/husband/citizen · **contracts** · **law & custom** · **religious** beliefs & practices · **language** (a system of signs) · the **currency** I pay with · commercial practices.
+- **Social currents** — social facts *without* a fixed, crystallised form: the great crowd movements of **enthusiasm, indignation, pity.** They come from outside and "**carry us away in spite of ourselves**" — a gathering of harmless individuals can be "drawn into acts of atrocity." Also the drifting **currents of opinion**.
+- **"Ways of existing" (morphological facts)** — housing types, the channels of migration and commerce, political organisation — are just **crystallised "ways of acting."** *"If the population crowds into our cities instead of scattering... this is due to a... collective drive that imposes this concentration upon the individuals."*
+
+---
+
+<a id="m9-constraint"></a>
+## Social constraint & its types
+
+***Core:*** constraint is **not** a restraint on liberty to be resented — it is **socialisation**, the very basis of stable social life. "Supra-individual order is primary; individual actions and ideas are an effect of this structure."
+
+| Type of constraint | What it is |
+|---|---|
+| **Material** | production, living conditions, technology, communication, transportation |
+| **Structural** | the hierarchical patterns of society |
+| **Moral / normative** | socialisation; the sense of respect and obligation (norms we feel *obliged* to follow) |
+| **Cultural / cognitive** | the ideas, concepts and **language** through which we even think |
+
+→ *In plain terms:* we are **socialised into** living in society — constraint is everywhere, and it is what makes shared, stable social life possible at all. *(This is the opposite of the liberal "individual-first" picture: for Durkheim the group shapes the individual, not the reverse.)*
+
+---
+
+<a id="m9-solidarity"></a>
+## Functionalism & solidarity — what holds society together?
+
+***Core:*** Durkheim explains society like a **biologist explains an organism** — by the **function** each part plays in sustaining the whole. The thing it sustains is **solidarity.**
+
+#### Functionalism
+- **Society as an organism:** each component (family, religion, law, the economy) has a **function** — a contribution to the **maintenance of the whole.**
+- To explain a social phenomenon is to state its **function**: e.g. **the function of religion is to produce social cohesion** (not to be literally true). Sociology asks: *what does this phenomenon do for social integration?*
+
+#### Mechanical vs organic solidarity (*The Division of Labour*, 1893)
+Durkheim's answer to "what holds society together?" — and how it **changes** with modernity:
+
+| | **Mechanical solidarity** (traditional) | **Organic solidarity** (modern) |
+|---|---|---|
+| **Based on** | **likeness** — everyone shares beliefs, work, a strong **collective conscience** | **difference** — an advanced **division of labour** makes people **interdependent** |
+| **Bond** | we are the same | we **need** each other (the baker needs the farmer needs the doctor…) |
+| **Typical law** | **repressive** (punishes offences against the shared conscience) | **restitutive** (restores broken contracts/relations) |
+
+→ The reassurance against the "social question": modernity does **not** doom us to anomie — it generates a **new** kind of glue, **organic** solidarity, out of the very division of labour that seemed to be tearing society apart.
+
+#### Suicide — the showcase
+*Suicide* (1897) is the demonstration case: even the **most intensely "individual" act** turns out to have **social causes.** **Suicide rates are stable social facts** — remarkably constant within a group, varying *between* groups (by religion, marital status, etc.) according to how strongly individuals are **integrated into and regulated by** society. → *Illustrates:* social facts explain what looks purely personal; the method (statistics on rates) is positivism in action.
+
+---
+
+<a id="m9-weber"></a>
+## Weber's project & the uniqueness of the West
+
+***Core:*** Max Weber (**1864–1920**) asks a historical question: **why did *modern, rational* society — and rational capitalism — arise only in the West?** His whole sociology is built to answer it from the **meaningful action of individuals.**
+
+- **The guiding questions:** *Why did modernity evolve as it did? What is distinctive about modern Western society? Why did capitalism arise in the West, and what role did **religious ideas** play?*
+- **The uniqueness of Western rationalism** (Weber's "Author's Introduction"): only in the **Occident** did a whole family of phenomena develop a **rational, systematic** form claiming **universal** validity —
+  - **science** (systematic, mathematical, experimental proof — others had empirical knowledge but not *rational method*);
+  - **rational music** (harmony, counterpoint), **rational architecture** (the Gothic vault), the **printed press & universities**;
+  - the **rational state** (written constitution, **rational law**, administration by **trained officials / bureaucracy**);
+  - and above all **rational capitalism.**
+- **Capitalism's "spirit" is the puzzle, not greed.** The mere *impulse to acquisition* "has nothing to do with capitalism" — it exists "among waiters, physicians, coachmen, artists, prostitutes... at all times and in all countries." Capitalism is the **rational tempering** of that impulse: the **pursuit of profit by means of continuous, rational, calculating enterprise.** What is uniquely Western is the **rational organisation of (formally) free labour**, the separation of **business from household**, and **rational book-keeping.**
+- **Method:** **methodological individualism** + **interpretive** social science — start from **human action and its meaning** (the opposite of Durkheim's structure-first holism).
+
+---
+
+<a id="m9-verstehen"></a>
+## ★ Verstehen & ideal types
+
+***Core:*** Weber's method. To explain society you must **understand (Verstehen)** the **meaning** actors give their own action — and to compare and analyse, you build **ideal types.**
+
+- **Verstehen (understanding):** sociology interprets **why people do what they do** — the subjective meaning of action — rather than reading social facts off from the outside. *(Scientific model: the **humanities**, not the natural sciences.)*
+- **Ideal types:** deliberately **one-sided, purified analytical constructions** (no real case matches exactly) used as a **yardstick** to compare and classify messy reality — e.g. the ideal types of **rationality** and of **action**:
+
+| Type of action | Driven by |
+|---|---|
+| **Traditional** | habit, custom ("we've always done it this way") |
+| **Affectual** | emotion/affection |
+| **Value-rational** | commitment to a value for its own sake (honour, duty, faith) |
+| **Instrumental-rational** | calculated, goal-oriented means–ends reasoning |
+
+→ Weber's central historical claim: it is **instrumental rationality** that progressively **conquers every sphere** of modern Western life (economy, law, state, science, even music) — the process he calls **rationalisation.**
+
+---
+
+<a id="m9-protestant"></a>
+## ★ The Protestant Ethic & the spirit of capitalism
+
+***Core:*** Weber's most famous argument — and his reply to Marx. Capitalism is not just an economic system but a **rational-ethical *way of life***, and its "spirit" was **unintentionally** produced by **Calvinist Protestantism.**
+
+#### What the "spirit of capitalism" is
+A moral valorisation of **"restless, continuous, systematic work"** and the disciplined pursuit of profit **as a duty** — captured by **Benjamin Franklin**: *"Remember that **time is money**... Remember that **credit is money**... money is of a **prolific, generating nature**."* Profit is sought **not** to enjoy it but as an **end in itself**, a sign of virtue.
+
+#### What Weber argues *against* (three rival explanations)
+| Rival explanation | Weber's objection |
+|---|---|
+| **Secularisation** did it | capitalism's spirit was **religious** in origin, not a product of losing religion |
+| **Utilitarian** (people just maximise utility) | the early capitalist's **ascetic self-denial** is irrational by pure utility — he *won't* enjoy his wealth |
+| **Materialist / Marx** (economic forces alone) | **ideas** (religious ethics) were an **independent cause**, not a mere reflection of the base |
+
+#### The obstacles the spirit had to overcome
+**Traditionalism** — "belief in **fate**," the view that "striving for profit is immoral," the **prohibition of interest**, "belief in **magic**" over science, work as a mere necessity — plus the **extravagant, non-investing lifestyle of the nobility.** Modern capitalism needed a **broadly shared belief system** that made disciplined accumulation feel *righteous*.
+
+#### The causal chain (via Calvinism)
+![Flow diagram of Weber's Protestant-ethic argument: Reformation/Calvinism → predestination (salvation fixed and unknowable) → salvation anxiety → worldly asceticism and the 'calling' (methodical work, success as a sign of election) → disciplined, frugal, systematic work plus reinvestment → capital accumulation ('the spirit of capitalism') → religious meaning falls away, leaving rationalisation, disenchantment, the iron cage.](figures/m9-protestant-ethic.png)
+
+**How to read it.**
+- The **Reformation (1517)** breaks the Catholic model (priest/church as the link to God, forgiveness by indulgence); **Lutheranism** makes the God–individual relation **direct**; **Calvinism** adds **predestination** — who is saved is **fixed in advance and unknowable.**
+- That doctrine produces unbearable **salvation anxiety** ("am I one of the elect?"). The psychological relief: treat **worldly success in a "calling"** as a **sign** of being chosen — so one works **methodically and relentlessly to glorify God.**
+- "**Waste of time is a deadly sin**"; luxury and idleness are forbidden → the godly route is **disciplined work + frugality + reinvestment** (not consumption) → **capital accumulates.** The wealthy reinvest; workers give **full commitment to their specialist position** (Weber's twist on the division of labour: *stay in your calling*).
+- The decisive quote: *"the religious valuation of **restless, continuous, systematic work** in a worldly calling... must have been the most powerful conceivable lever for the expansion of... the **spirit of capitalism**."* (Protestant Ethic, p. 172)
+
+---
+
+<a id="m9-ironcage"></a>
+## Rationalisation, disenchantment & the iron cage
+
+***Core:*** the sting in the tail — Weber's **diagnosis of modernity** as a "double-edged sword." Rationality liberated us from magic and superstition, but then **trapped** us.
+
+- **The religious scaffolding falls away.** Once capitalism is up and running, the **pursuit of wealth and work is stripped of its religious/ethical meaning** — the Puritan *chose* his calling; modern man is simply *born into* "this mechanism" and compelled by it "with irresistible force... perhaps until the last ton of fossilised coal is burnt." (p. 181)
+- **Disenchantment (*Entzauberung*):** "**magic has gone from the world.**" A rationalised, calculable world has no room for mystery, the sacred, or wonder.
+- **The iron cage:** the rational economic order has become a **cage** that constrains everyone — the dark mirror-image of Durkheim's benign "constraint." Rationalisation is **double-edged**: efficient and free *and* meaningless and imprisoning. *(This pessimism is Weber's lasting mood — modernity as progress **and** loss.)*
+
+---
+
+<a id="m9-compare"></a>
+## ★ Durkheim vs Weber (and vs Marx)
+
+***Core:*** the two founders are **mirror opposites** on every methodological axis — and together they define the **"institutionalist legacy"** still used to study organisations today.
+
+| | **Durkheim** | **Weber** |
+|---|---|---|
+| **What is society?** | an **external reality** to individuals | the **product of individual actors** |
+| **What are individuals?** | agents who **internalise & reproduce** society's norms | agents with **intentions & interests** guiding their action |
+| **What is sociology?** | the science of **social facts** | the science of **social actions** |
+| **Method** | **explain** social facts; reject individualism/subjectivity | **Verstehen** of motives; reconstruct the **meaning** of action |
+| **Scientific model** | the **natural sciences** | the **humanities** |
+| **Tools** | **statistics** | **ideal types** |
+| **Objects of research** | general **social laws & functions** | individual **motivations**, a plurality of causes |
+
+#### …and vs Marx (on capitalism)
+- **Marx:** capitalism arises from the **material base** — forces & relations of production; ideas/religion are **superstructure** ([Module 8](#m8-base)).
+- **Weber:** **religious ideas** (the Protestant ethic) were an **independent cause** of capitalism — *ideas moved the base.* The **reverse** of Marx's arrow.
+- **Durkheim:** neither class nor ideas alone — society is a **reality in its own right**, held together by **solidarity**, with each institution serving a **function.**
+
+#### The legacy (the module's "so what")
+Durkheim and Weber are the ancestors of how we study **institutions and organisations** today, as the interplay of:
+- **formal rules** — laws, written regulations (the **Weberian**, rational-bureaucratic side), and
+- **informal order** — norms, traditions, values, ideology, religion (the **Durkheimian**, social-fact side).
+
+---
+
+<a id="m9-terms"></a>
+## Key terms
+
+| Term | Meaning |
+|---|---|
+| Social fact | a way of acting/thinking **external** to the individual and exercising **constraint** |
+| Social constraint | the (material/structural/moral/cognitive) pressure of society on the individual = socialisation |
+| Social currents | social facts without fixed form (crowd emotions, currents of opinion) |
+| Positivism | study society **like a natural object**, seeking general laws |
+| Functionalism | explain a phenomenon by its **function** for the maintenance of the whole |
+| Collective conscience | the shared beliefs/sentiments binding a traditional society |
+| Mechanical solidarity | cohesion through **likeness** (traditional society; repressive law) |
+| Organic solidarity | cohesion through **interdependence** via the division of labour (modern; restitutive law) |
+| Verstehen | interpretive **understanding** of the meaning of social action |
+| Ideal type | a purified analytical construct used to compare/classify reality |
+| Instrumental rationality | calculated, goal-oriented means–ends action |
+| Rationalisation | the spread of calculable, instrumental rationality to all spheres of life |
+| The calling | treating disciplined work in one's vocation as a religious duty |
+| Predestination | Calvin's doctrine that salvation is fixed in advance and unknowable |
+| Worldly asceticism | disciplined, frugal, hard-working self-denial *within* worldly life |
+| Spirit of capitalism | the ethic valorising restless, systematic work and reinvested profit |
+| Disenchantment | the loss of magic/mystery from a rationalised world |
+| The iron cage | the inescapable, meaning-drained constraint of rationalised modern order |
+
+---
+
+<a id="m9-exam"></a>
+## Exam pointers
+
+- **Define a [social fact](#m9-facts)** (external + constraining) and prove it with the **resistance** test and Durkheim's examples (law, language, currency, religion).
+- **Explain [functionalism](#m9-solidarity)** and the shift from **mechanical to organic solidarity** — Durkheim's reassuring answer to the "social question."
+- **Contrast [positivism vs Verstehen](#m9-compare)** — study society as external *things* vs *understand* meaningful action. Name the tools (**statistics vs ideal types**).
+- **Run [Weber's Protestant-ethic chain](#m9-protestant)**: predestination → salvation anxiety → calling/worldly asceticism → reinvestment → spirit of capitalism. Name the **three rivals** he rejects.
+- **State the [Durkheim vs Weber vs Marx](#m9-compare)** positions on capitalism's origin — and why **Weber reverses Marx's arrow** (ideas → base).
+- **Explain [rationalisation, disenchantment and the iron cage](#m9-ironcage)** as modernity's double-edged sword.
+
+---
+
+<a id="ff-module9-pet"></a>
+## ★ Fun facts & memorable details (Module 9: Durkheim & Weber)
+
+> The sticky bits from the sociology classics.
+
+- **"The air is no less heavy because we do not detect its weight."** Durkheim's image for how social constraint presses on us even when we obey happily and feel perfectly free.
+- **Suicide — the most "personal" act — is a social fact.** Rates stay eerily constant within a group and differ sharply *between* groups. The most intimate decision turns out to track how integrated you are into society.
+- **A crowd of harmless people can be "drawn into acts of atrocity."** Durkheim's **social currents**: emotions that come from *outside* the individuals and sweep them along — gone strange to them once the crowd disperses.
+- **Weber says greed has nothing to do with capitalism.** The lust for money exists "among waiters, physicians... prostitutes... at all times." Capitalism is the *rational tempering* of that impulse — not the impulse itself.
+- **Capitalism was an accident of anxiety.** No Calvinist set out to invent capitalism; they were trying to cope with not knowing if they were saved. Disciplined work + no spending = capital piled up as an unintended by-product.
+- **"Time is money" was religious before it was financial.** Franklin's maxim distils a Puritan horror of wasted time ("waste of time is the deadliest of sins") into a business creed.
+- **The iron cage.** Weber's bleak punchline: the rationality that freed us from magic now imprisons us in a meaningless mechanism — "perhaps until the last ton of fossilised coal is burnt."
+- **Ideas can move the base.** Weber's quiet revolution against Marx: a *religious idea* (predestination) reshaped the whole *economic* order — the superstructure pushing the base, not the other way round.
 
 ---
