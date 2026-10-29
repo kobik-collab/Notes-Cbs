@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T11:12:35.242Z",
+  "generatedAt": "2026-10-29T11:15:25.010Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -176,7 +176,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 15625
+        "sizeKB": 15624
       },
       "parts": [
         {
