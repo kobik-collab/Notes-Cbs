@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:15:11.553Z",
+  "generatedAt": "2026-10-29T10:20:15.612Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -54,9 +54,9 @@
         },
         {
           "slug": "lecture-8",
-          "title": "Lecture 8: The Benefits of Competition & How to Produce (Chapters 7 · 3.5)",
+          "title": "Lecture 8/9: The Benefits of Competition & How to Produce (Chapters 7 · 3.5)",
           "pdf": "pdfs/applied-micro/lecture-8.pdf",
-          "sizeKB": 469
+          "sizeKB": 470
         }
       ]
     },
