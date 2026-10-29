@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T11:08:20.276Z",
+  "generatedAt": "2026-10-29T11:12:35.242Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -176,7 +176,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 15271
+        "sizeKB": 15625
       },
       "parts": [
         {
@@ -360,6 +360,13 @@
           "title": "Tools 4.1: Normative Frameworks — How Should We Evaluate Political Outcomes? (AD)",
           "pdf": "pdfs/political-science/tools-4-1-normative-frameworks-how-should-we-evaluate-politi.pdf",
           "sizeKB": 588,
+          "section": "part-4"
+        },
+        {
+          "slug": "tools-4-2-interests-and-rational-choice-why-do-political-act",
+          "title": "Tools 4.2: Interests and Rational Choice — Why Do Political Actors Choose What They Choose? (AD)",
+          "pdf": "pdfs/political-science/tools-4-2-interests-and-rational-choice-why-do-political-act.pdf",
+          "sizeKB": 506,
           "section": "part-4"
         }
       ],

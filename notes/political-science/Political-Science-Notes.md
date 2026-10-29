@@ -30,6 +30,7 @@
 - **[EU IV: EU Competition Policy (AUW)](#eu-lecture-4)** — [competition ≠ competitiveness](#eu4-what) · [why the market needs competition rules](#eu4-why) · [exclusive competence](#eu4-competence) · [★ the toolbox (6 instruments)](#eu4-toolbox) · [★ the "economic constitution" (ordoliberalism)](#eu4-constitution) · [why so supranational? DG COMP](#eu4-supranational) · [enforcement powers](#eu4-enforcement) · [cartels (Art. 101)](#eu4-cartels) · [★ the leniency programme](#eu4-leniency) · [abuse of dominance (Art. 102)](#eu4-dominance) · [merger control](#eu4-mergers) · [★ digital markets & gatekeepers](#eu4-digital) · [Google Shopping](#eu4-google) · [★ the DMA (ex-ante)](#eu4-dma) · [state aid](#eu4-stateaid) · [Fiat & Apple (tax as state aid)](#eu4-fiat) · [foreign subsidies](#eu4-foreign) · [history & political economy](#eu4-history) · [★ three theories](#eu4-theories) · [★ Fun facts](#ff-eu4)
 - **[EU V: European Citizenship and Identity (AUW)](#eu-lecture-5)** — [the core puzzle + the chain](#eu5-puzzle) · [three lenses on citizens](#eu5-lenses) · [what EU citizenship gives you](#eu5-citizenship) · [★ the democratic deficit](#eu5-deficit) · [the knowledge deficit](#eu5-knowledge) · [how citizens are represented](#eu5-representation) · [European identity: constructed, contested, changeable](#eu5-identity) · [★ multi-level identities](#eu5-multilevel) · [civic vs exclusionary Europe](#eu5-civic) · [identity ↔ integration](#eu5-twoway) · [★ permissive consensus → constraining dissensus](#eu5-dissensus) · [★ why support or oppose? four mechanisms](#eu5-mechanisms) · [hard vs soft Euroscepticism](#eu5-euroscepticism) · [★ Euroscepticism vs anti-establishment (Szczerbiak & Taggart)](#eu5-antiestablishment) · [politicization: eurozone vs Schengen](#eu5-politicization) · [★ synthesis](#eu5-synthesis) · [★ Fun facts](#ff-eu5)
 - **[Tools 4.1: Normative Frameworks — How Should We Evaluate Political Outcomes? (AD)](#lecture-tools-1)** — [positive vs normative questions](#nf-positive) · [what is a normative framework?](#nf-what) · [★ welfarism: utilitarianism](#nf-util) · [★ welfarism: Pareto](#nf-pareto) · [★ liberalism: where is the line?](#nf-liberalism) · [the harm principle · property · freedom](#nf-line) · [★ egalitarianism & Rawls](#nf-egal) · [equality of what? outcomes vs opportunity](#nf-equality-of-what) · [★ frameworks at a glance](#nf-glance) · [back to SyRI](#nf-syri) · [why reasonable people disagree](#nf-disagree) · [key terms](#nf-terms) · [exam pointers](#nf-exam) · [★ Fun facts](#ff-tools1)
+- **[Tools 4.2: Interests and Rational Choice — Why Do Political Actors Choose What They Choose? (AD)](#lecture-tools-2)** — [from "should" to "why"](#rc-why) · [★ the three building blocks](#rc-blocks) · [actors & preferences](#rc-prefs) · [★ what "rational" means](#rc-rational) · [why vote? the paradox](#rc-vote) · [constraints](#rc-constraints) · [incentives & the three levers](#rc-incentives) · [★ expected value: when does cheating pay?](#rc-expected) · [★ game theory & Nash equilibrium](#rc-game) · [★ the prisoner's dilemma](#rc-pd) · [criticisms of rational choice](#rc-critique) · [key terms](#rc-terms) · [exam pointers](#rc-exam) · [★ Fun facts](#ff-tools2)
 
 ---
 
@@ -4367,5 +4368,224 @@ Applying the lenses to the Dutch fraud algorithm:
 - **"Liberal" is a trap word.** In the US it means left-wing; in Denmark (Venstre, Liberal Alliance) it means economically *right*-wing. Always ask *which* liberalism.
 - **Leveling down.** You can make a society perfectly equal by dragging everyone to the bottom — which is why "equality" alone, with no efficiency check, isn't obviously good.
 - **Decreasing marginal utility is the bridge.** The one idea where egalitarians and *utilitarians* shake hands: a krone means more to the poor than the rich, so some redistribution raises the total pie of wellbeing.
+
+---
+
+<a id="lecture-tools-2"></a>
+# Tools 4.2: Interests and Rational Choice — Why Do Political Actors Choose What They Choose? (AD)
+
+**Required reading:** **Bueno de Mesquita**, *Political Economy for Public Policy*, **ch. 2.1** · *Optional:* **Kenneth Shepsle**, *Analyzing Politics: Rationality, Behavior, and Institutions*, **ch. 2**. *(Lecturer: Anna Denisenko — deck "4.2 Interests and Rational Choice.")*
+
+**Theme of the lecture.** [Lecture 4.1](#lecture-tools-1) asked the **normative** question (which outcomes are *good*); this one asks the **positive** question (**why** actors choose what they choose, and how those choices **add up to outcomes**). The tool is **rational choice**: *political and business outcomes emerge from actors pursuing their goals under constraints.* Build any analysis from **three blocks** — **actors, preferences, constraints** — and you can predict behaviour, see why "good-on-paper" policies fail, and know **which lever** (goals, incentives, or available actions) actually changes an outcome. When one actor's best move depends on others', we add **game theory** and the **Nash equilibrium** — and meet the **prisoner's dilemma**, where individually rational choices produce a collectively bad result.
+
+<div class="heart">★ <strong>The heart of the lecture — outcomes = actors pursuing goals under constraints.</strong>
+<br>• <strong>Three building blocks:</strong> <strong>actors</strong> (who chooses?), <strong>preferences</strong> (a ranking of <em>outcomes</em>, written x ≻ y), and <strong>constraints</strong> (which options are actually feasible — resources, institutions, information).
+<br>• <strong>"Rational" = complete + transitive preferences</strong> — <em>not</em> selfish, not only about money, not all-knowing, not "smart." Just a consistent ranking, pursued as best one can given beliefs and constraints.
+<br>• <strong>To change behaviour, change incentives</strong> (or the available actions) — <em>not</em> people's goals. An <strong>incentive</strong> is anything that shifts the costs/benefits of an outcome, and <strong>institutions shape incentives.</strong>
+<br>• <strong>Strategic situations → game theory.</strong> When your best choice depends on what others do, find the <strong>Nash equilibrium</strong>: a strategy profile where everyone is best-responding, so no one wants to deviate. The housing reform and the trade war are both <strong>prisoner's dilemmas</strong> — individually rational, collectively bad.</div>
+
+**Red thread:** *(1) Who are the actors, what do they want, and what constrains them? (2) Which lever changes the outcome? (3) When choices are interdependent, what's the stable (Nash) result — and is it good?*
+
+**Key concepts to apply:** *rational choice (outcomes from goals + constraints)* · *actors · preferences (ranking over **outcomes**, x ≻ y) · constraints (resources · institutions · information)* · *rationality = **complete + transitive*** · *what rationality is **not*** · *the paradox of voting · expressive/duty voting* · *incentives · the three levers (goals · incentives · actions)* · *Mayhew (re-election-seeking politicians) · Niskanen (budget-maximising bureaucrats)* · ***expected value** & when cheating pays* · *game theory: players · strategies · timing · payoffs · payoff matrix · best response · **Nash equilibrium*** · *the **prisoner's dilemma** (individually rational → collectively bad; not Pareto efficient)* · *(critiques) bounded rationality (Simon) · loss aversion / status-quo bias (Kahneman & Tversky) · preferences taken as given · "model as map."*
+
+---
+
+<a id="rc-why"></a>
+## From "should" to "why"
+
+***Core:*** normative frameworks tell us which outcomes are **good**; they do **not** tell us which outcomes will **actually happen.** Rational choice fills that gap.
+
+The lecture's motivating **puzzles** — all answerable with one tool:
+- Your single vote **almost never** decides an election — so **why do millions vote**?
+- Why do **firms break rules** even when fines are large?
+- Why might **abolishing a height limit fail** to fix a housing shortage?
+- Why do countries **raise tariffs** when they know free trade makes everyone better off?
+
+<a id="rc-blocks"></a>
+## ★ The three building blocks
+
+***Core:*** *political/business outcomes emerge from actors pursuing their goals under constraints.* Build any analysis from three pieces.
+
+![Flow diagram: an actor with Preferences (a ranking of outcomes) and Constraints (resources, institutions, information) makes a Choice, which combines with others' choices to produce a Political outcome.](figures/l-rc-flow.png)
+
+**How to read it.** An **actor** ranks outcomes (**preferences**) and faces **constraints** (what's feasible); from those they make a **choice**; that choice **plus others' choices** produces the **political outcome.** Change any block and you change the prediction.
+
+1. **Actors** — who is making the choice?
+2. **Preferences** — what outcomes do they want?
+3. **Constraints** — what options are actually available?
+
+<a id="rc-prefs"></a>
+## Actors & preferences
+
+***Core:*** we name the actor, assume a **simple goal**, and write their **ranking of outcomes.**
+
+| Typical actor | Assumed preferences |
+|---|---|
+| **Voters** | good policy, low taxes, a party they like |
+| **Politicians** | winning (re-)election, power |
+| **Bureaucrats** | budget, autonomy, career |
+| **Firms** | profit |
+| **Interest groups** | policy wins for their members |
+
+- Sometimes we treat a **group** (a city, firm, country) as a **single actor** — a simplification we should **flag.**
+- **Preferences = a ranking of possible outcomes.** Write **x ≻ y** = "the actor prefers x to y." E.g. a voter: *carbon tax ≻ green subsidies ≻ do nothing.*
+- **Preferences are about outcomes, not actions.** (You don't prefer "voting"; you prefer the *outcome* voting helps bring about.) What shapes them: **goals, identity, values, incentives, information.**
+
+<a id="rc-rational"></a>
+## ★ What "rational" means
+
+***Core:*** a precise, modest definition — **not** the everyday sense of "clever" or "selfish."
+
+Preferences are **rational** if they are:
+- **Complete** — the actor can compare *any* two outcomes (x ≻ y, or y ≻ x, or indifferent).
+- **Transitive** — the ranking is consistent: if x ≻ y and y ≻ z, then **x ≻ z.**
+
+**What rationality does *not* mean:** **not selfish** (you can prefer helping others — altruism, fairness, duty); **not only about money** (can be identity or ideology); **not all-knowing** (actors can hold *wrong* beliefs); **not "smart" or "good"** (it's about **consistency**, not wisdom).
+
+<div class="formula"><span class="flabel">Rational choice</span>acting to achieve one's <strong>most-preferred outcome</strong>, given one's <strong>constraints</strong> and <strong>beliefs</strong></div>
+
+*Reads:* given a **complete + transitive** ranking, the actor picks the **feasible action** they believe will lead to the **best** outcome.
+
+<a id="rc-vote"></a>
+## Why vote? (the paradox of voting)
+
+***Core:*** the first puzzle — if the *only* goal is to change the result, voting looks **irrational**, yet turnout is high. Resolving it shows preferences are about more than the result.
+
+- The chance a single vote decides a US presidential election is ~**1 in 60 million** (Gelman, Silver & Edlin), and voting costs time/effort — so purely *instrumentally* it doesn't pay.
+- Yet **~2/3 of eligible Americans voted in 2024**, and **~84% of Danes** in the 2022 Folketing election.
+- **Why it can still be rational:** people value **more than** changing the result — the **act itself** (expressing identity/values, doing one's **duty**, participating). Rational choice accommodates this: these are real entries in the preference ranking. *(Preferences over outcomes ≠ "only the election result.")*
+
+<a id="rc-constraints"></a>
+## Constraints
+
+***Core:*** actors choose the **best feasible** option — so the **constraint set** often decides the outcome.
+
+Types of constraint:
+- **Resources** — money, time, seats in parliament.
+- **Institutions** — laws, constitutions, electoral rules, EU treaties.
+- **Information** — what you know about options and consequences.
+
+→ **Same preferences + different constraints → different choices.** (Some actions are simply off the table — e.g. *voting twice is illegal.*) This is why **institutions matter**: they set what's feasible.
+
+<a id="rc-incentives"></a>
+## Incentives & the three levers
+
+***Core:*** we can't choose *for* people — we can only change **what shapes their choices.** There are exactly **three levers.**
+
+| Lever | How it works | Feasibility |
+|---|---|---|
+| **1. Change goals** | persuade people to *want* different things | slow and hard |
+| **2. Change incentives** | shift the **costs/benefits** of outcomes | the usual policy tool |
+| **3. Change available actions** | alter the **constraint set** (ban/allow options) | institutional design |
+
+- An **incentive** = anything that changes the **costs or benefits** of an outcome. **Institutions shape incentives:** electoral rules shape what politicians promise; budget rules shape what bureaucrats ask for; **fines and inspections** shape whether firms comply.
+- **Useful simplifying assumptions about actors:** politicians as **"single-minded seekers of re-election"** (Mayhew 1974) — explains spending aimed at swing voters and blame-avoidance before elections; bureaucrats as **budget-maximisers** (Niskanen 1971) — explains "use it or lose it" year-end spending. *These are useful if they **predict**, not because they're literally true of everyone.*
+
+<a id="rc-expected"></a>
+## ★ Expected value: when does cheating pay?
+
+***Core:*** to predict a choice under risk, compare the **expected** costs and benefits. This is how you design a rule that actually works.
+
+**The firm problem.** A firm can secretly break an environmental rule: extra profit from breaking it = **1 million kr**; fine if caught = **5 million kr**; chance of being caught = **1 in 10.**
+
+<div class="formula"><span class="flabel">Expected cost of cheating</span>E[fine] = probability × fine = 0.1 × 5,000,000 = <strong>500,000 kr</strong></div>
+
+*Reads:* on average, cheating costs **500,000 kr** — but it *gains* **1,000,000 kr.** Since the gain (1m) **exceeds** the expected fine (0.5m), a profit-maximiser **cheats.**
+
+**How the government flips the decision** — raise the expected cost above the gain, via either lever:
+- **bigger fine:** need fine × 0.1 > 1m → **fine > 10m**; or
+- **more inspections:** need prob × 5m > 1m → **prob > 0.2** (1 in 5).
+
+→ *The lesson:* "clean air is good" (normative) isn't enough — you need a **rule big enough that the actor chooses to comply** (rational choice). **Good intentions don't change behaviour; incentives do.**
+
+<a id="rc-game"></a>
+## ★ Game theory & the Nash equilibrium
+
+***Core:*** when **your best choice depends on what others do**, you're in a **strategic situation** — use **game theory.** Every game answers **four questions**, and the prediction is the **Nash equilibrium.**
+
+**The four questions of a game:** **(1) Players** — who's involved? **(2) Strategies** — what can each do? **(3) Timing** — who moves when? **(4) Payoffs** — what does each want?
+
+**The housing game.** A national height ban causes a housing shortage; the reform lifts it but lets **each city** choose. Will it work? Model **two cities** (A, B), each can **Allow** tall buildings or **Don't**; they move **simultaneously**; each would rather **not** have towers itself but wants homelessness solved (and cares more about avoiding towers). Ranking → payoffs (higher = better; only the order matters):
+
+![Payoff matrix of the two-city housing game: City A chooses a row (Allow/Don't), City B a column; cells (3,3),(1,4),(4,1),(2,2); the bottom-right (Don't,Don't)=(2,2) cell is highlighted as the Nash equilibrium.](figures/l-rc-prisoners-dilemma.png)
+
+**How to read it.** A picks a **row**, B a **column**; each cell is (A's payoff, B's payoff).
+- **Best response** = your best strategy given what the other does. *If B allows,* A prefers **Don't** (4 > 3); *if B doesn't,* A still prefers **Don't** (2 > 1). So **"Don't" is best for A no matter what** (same for B).
+- **Nash equilibrium** = a **strategy profile where every player is best-responding**, so **no one wants to change alone.** Here that's **(Don't, Don't) = (2, 2)** — the highlighted cell.
+- **The recipe:** for each player, **underline the best-response payoff** in every column/row; the cell where **all** payoffs are underlined is the **Nash equilibrium.** (A game can have one, several, or none of this simple kind.)
+- **Why it's a good prediction:** it's the **"no regrets"** outcome — after seeing what others did, no one wishes they'd chosen differently. Non-equilibria are **unstable** (someone would switch). *(Named after **John Nash**, Nobel 1994 — "A Beautiful Mind.")*
+
+→ **So will the reform fix the shortage?** No — both cities rationally choose **Don't**, and the towers never get built.
+
+<a id="rc-pd"></a>
+## ★ The prisoner's dilemma
+
+***Core:*** the housing game and the trade war are both a **prisoner's dilemma** — the signature result where **individually rational choices lead to a collectively bad outcome.**
+
+- **The structure:** each player has a strong individual reason to pick the "selfish" option (**Don't** / **Tariff**); when **everyone** does, **everyone ends up worse off.**
+- **The trade war** (same matrix): two countries choose **Free trade** or **Tariff**; the Nash equilibrium is **(Tariff, Tariff) = (2,2)**, though **(Free trade, Free trade) = (3,3)** is better for both. *Real life, 2025:* the US and China escalated tariffs to **145% / 125%**, then agreed a 90-day truce cutting them to **30% / 10%** — an attempt to climb back to the top-left cell.
+- **Link to [Lecture 4.1](#lecture-tools-1):** the equilibrium **(2,2) is *not* Pareto efficient** — moving to **(3,3)** would make *everyone* better off, with no loser. So a **Pareto** welfarist condemns the equilibrium; a **utilitarian** too (total 4 < 6); and the puzzle "**how do groups escape this trap?**" is **next lecture** (collective action).
+
+<a id="rc-critique"></a>
+## Criticisms of rational choice (and why use it anyway)
+
+***Core:*** rational choice is a **model** — deliberately simplified. Know its limits, and why it's still worth using.
+
+**Criticisms:**
+- **Bounded rationality (Herbert Simon):** people have **limited time & information**, so they use **shortcuts** and settle for "good enough" (*satisficing*), not optimising.
+- **Psychology — loss aversion (Kahneman & Tversky):** people weigh **losses about twice as heavily as equal gains**, so they **defend the status quo.** *Politics:* cutting an existing benefit causes **more anger** than never giving it — a **status-quo bias** rational choice misses.
+- **Where do preferences come from?** Rational choice **takes them as given** (the *Ideas & Identity* lecture opens that box).
+- **Too simple?** Real situations have **many** players and options.
+
+**Why use it anyway:** it makes **assumptions explicit** (who wants what, what constrains them); produces **testable predictions** (more inspections → more compliance); helps **design policy** (the housing reform looked good on paper — a simple game showed why it fails); and **explains surprising outcomes** (rational individuals, bad collective results). *Treat the model as a **map**: it leaves things out precisely so it can be useful.*
+
+---
+
+<a id="rc-terms"></a>
+## Key terms
+
+| Term | Meaning |
+|---|---|
+| Rational choice | outcomes emerge from actors pursuing goals under constraints |
+| Preferences | an actor's **ranking of outcomes** (x ≻ y = prefers x to y) |
+| Complete | the actor can compare any two outcomes |
+| Transitive | if x ≻ y and y ≻ z then x ≻ z (consistent ranking) |
+| Constraint | what limits feasible options: resources · institutions · information |
+| Incentive | anything that changes the costs/benefits of an outcome |
+| Expected value | probability × payoff (how to compare choices under risk) |
+| Strategic situation | your best choice depends on what others do |
+| Payoff matrix | table of outcomes & payoffs for a 2-player simultaneous game |
+| Best response | your best strategy given what the others do |
+| Nash equilibrium | a profile where everyone best-responds → no one deviates |
+| Prisoner's dilemma | individually rational choices → collectively worse (non-Pareto) outcome |
+| Bounded rationality | limited info/time → shortcuts & "good enough" (Simon) |
+| Loss aversion | losses loom larger than equal gains → status-quo bias (Kahneman & Tversky) |
+
+---
+
+<a id="rc-exam"></a>
+## Exam pointers
+
+- **Set up any analysis** with the [three building blocks](#rc-blocks) — actors, preferences, constraints — and state your simplifying assumptions.
+- **Define rationality** precisely ([complete + transitive](#rc-rational)) and say what it is **not.**
+- **Compute an [expected value](#rc-expected)** and use it to show when a firm cheats — and **which lever** (fine size vs inspection rate) flips the choice.
+- **Solve a 2×2 game:** underline [best responses](#rc-game), find the **Nash equilibrium**, and explain why it's a good prediction.
+- **Identify a [prisoner's dilemma](#rc-pd)** and connect it to [Lecture 4.1](#lecture-tools-1): the equilibrium is **not Pareto efficient.**
+- **Name two [critiques](#rc-critique)** (bounded rationality; loss aversion) and the "model as map" defence.
+
+---
+
+<a id="ff-tools2"></a>
+## ★ Fun facts & memorable details (Tools 4.2: Rational Choice)
+
+> The sticky bits from the rational-choice lecture.
+
+- **"Rational" doesn't mean selfish or smart.** It only means your preferences are **consistent** (complete + transitive). A selfless, ideological, mistaken person can be perfectly "rational."
+- **Your vote won't decide the election — 1 in 60 million.** Yet most people vote. The resolution: voting is about **expression and duty**, not just the result — and that's a real preference, not a mistake.
+- **"Clean air is good" changes nothing.** A rule only works if actors **choose** to obey it — so you need a fine big enough (or inspections frequent enough) that the **expected** cost beats the gain.
+- **A good policy that fails on purpose.** The height-ban reform looked sensible, but a simple 2×2 game shows every city rationally picks "Don't" — the shortage survives. Models earn their keep by catching this.
+- **The trade war is a prisoner's dilemma.** US–China 2025: both slapped on tariffs (the Nash equilibrium) even though mutual free trade would make both richer. Individually rational, collectively poorer.
+- **Losses hurt twice as much as gains feel good.** Kahneman & Tversky — which is why cutting a benefit enrages people more than never granting it, and why the status quo is so sticky.
+- **Treat the model as a map.** A map is useful *because* it leaves things out. Rational choice is wrong in the details and right about the shape — that's the point.
 
 ---
