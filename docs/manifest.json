@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T11:05:41.230Z",
+  "generatedAt": "2026-10-29T11:08:20.276Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -14,49 +14,57 @@
           "slug": "lecture-1",
           "title": "Lecture 1: Principles of Economics (Chapter 1)",
           "pdf": "pdfs/applied-micro/lecture-1.pdf",
-          "sizeKB": 9167
+          "sizeKB": 9167,
+          "section": null
         },
         {
           "slug": "lecture-2",
           "title": "Lecture 2: Supply and Demand (Chapter 2)",
           "pdf": "pdfs/applied-micro/lecture-2.pdf",
-          "sizeKB": 1230
+          "sizeKB": 1230,
+          "section": null
         },
         {
           "slug": "lecture-3",
           "title": "Lecture 3: Elasticities & Taxes — the Supply & Demand model II (Ch. 2 recap · §6.4)",
           "pdf": "pdfs/applied-micro/lecture-3.pdf",
-          "sizeKB": 1416
+          "sizeKB": 1416,
+          "section": null
         },
         {
           "slug": "lecture-4",
           "title": "Lecture 4: Consumer Choice (Chapter 5)",
           "pdf": "pdfs/applied-micro/lecture-4.pdf",
-          "sizeKB": 1171
+          "sizeKB": 1171,
+          "section": null
         },
         {
           "slug": "lecture-5",
           "title": "Lecture 5: Applying Consumer Theory (Chapter 5 · §6.5)",
           "pdf": "pdfs/applied-micro/lecture-5.pdf",
-          "sizeKB": 1209
+          "sizeKB": 1209,
+          "section": null
         },
         {
           "slug": "lecture-6",
           "title": "Lecture 6: Firms and Production (Chapters 3–4)",
           "pdf": "pdfs/applied-micro/lecture-6.pdf",
-          "sizeKB": 806
+          "sizeKB": 806,
+          "section": null
         },
         {
           "slug": "lecture-7",
           "title": "Lecture 7: Competition & Long-Run Production (Chapter 4)",
           "pdf": "pdfs/applied-micro/lecture-7.pdf",
-          "sizeKB": 598
+          "sizeKB": 598,
+          "section": null
         },
         {
           "slug": "lecture-8",
           "title": "Lecture 8/9: The Benefits of Competition & How to Produce (Chapters 7 · 3.5)",
           "pdf": "pdfs/applied-micro/lecture-8.pdf",
-          "sizeKB": 470
+          "sizeKB": 470,
+          "section": null
         }
       ]
     },
@@ -73,79 +81,92 @@
           "slug": "module-1-antiquity-and-the-middle-ages-greeks-and-romans",
           "title": "Module 1: Antiquity and the Middle Ages — Greeks and Romans",
           "pdf": "pdfs/political-economic-thought/module-1-antiquity-and-the-middle-ages-greeks-and-romans.pdf",
-          "sizeKB": 700
+          "sizeKB": 700,
+          "section": null
         },
         {
           "slug": "module-2-renaissance-and-early-modern-political-theory-from-",
           "title": "Module 2: Renaissance and Early-Modern Political Theory — from Cosmopolis to *Stato* to the Social Contract",
           "pdf": "pdfs/political-economic-thought/module-2-renaissance-and-early-modern-political-theory-from-.pdf",
-          "sizeKB": 1967
+          "sizeKB": 1967,
+          "section": null
         },
         {
           "slug": "exercise-class-1-the-pros-and-cons-of-a-central-political-au",
           "title": "Exercise Class 1: The Pros and Cons of a Central Political Authority",
           "pdf": "pdfs/political-economic-thought/exercise-class-1-the-pros-and-cons-of-a-central-political-au.pdf",
-          "sizeKB": 634
+          "sizeKB": 634,
+          "section": null
         },
         {
           "slug": "module-3-the-roots-of-modern-economics-mercantilism-to-econo",
           "title": "Module 3: The Roots of Modern Economics — Mercantilism to Economic Liberalism (1500–1790)",
           "pdf": "pdfs/political-economic-thought/module-3-the-roots-of-modern-economics-mercantilism-to-econo.pdf",
-          "sizeKB": 693
+          "sizeKB": 693,
+          "section": null
         },
         {
           "slug": "module-4-enlightenment-and-political-liberalism-1660-1790",
           "title": "Module 4: Enlightenment and Political Liberalism (1660–1790)",
           "pdf": "pdfs/political-economic-thought/module-4-enlightenment-and-political-liberalism-1660-1790.pdf",
-          "sizeKB": 820
+          "sizeKB": 820,
+          "section": null
         },
         {
           "slug": "module-5-american-and-french-experiments-social-liberalism-a",
           "title": "Module 5: American and French Experiments — Social Liberalism and Liberal Democracy (1830–1873)",
           "pdf": "pdfs/political-economic-thought/module-5-american-and-french-experiments-social-liberalism-a.pdf",
-          "sizeKB": 1050
+          "sizeKB": 1050,
+          "section": null
         },
         {
           "slug": "exercise-class-3-the-pros-and-cons-of-democracy",
           "title": "Exercise Class 3: The Pros and Cons of Democracy",
           "pdf": "pdfs/political-economic-thought/exercise-class-3-the-pros-and-cons-of-democracy.pdf",
-          "sizeKB": 388
+          "sizeKB": 388,
+          "section": null
         },
         {
           "slug": "module-6-reactions-to-liberalism-conservatism-and-classical-",
           "title": "Module 6: Reactions to Liberalism — Conservatism and Classical Political Economy (1790–1830)",
           "pdf": "pdfs/political-economic-thought/module-6-reactions-to-liberalism-conservatism-and-classical-.pdf",
-          "sizeKB": 669
+          "sizeKB": 669,
+          "section": null
         },
         {
           "slug": "exercise-class-4-growth-and-limits-to-growth-in-early-indust",
           "title": "Exercise Class 4: Growth and Limits to Growth in Early Industrial Capitalism",
           "pdf": "pdfs/political-economic-thought/exercise-class-4-growth-and-limits-to-growth-in-early-indust.pdf",
-          "sizeKB": 461
+          "sizeKB": 461,
+          "section": null
         },
         {
           "slug": "module-7-from-political-economy-to-micro-economics-1871-1933",
           "title": "Module 7: From Political Economy to (Micro)Economics (1871–1933)",
           "pdf": "pdfs/political-economic-thought/module-7-from-political-economy-to-micro-economics-1871-1933.pdf",
-          "sizeKB": 586
+          "sizeKB": 586,
+          "section": null
         },
         {
           "slug": "exercise-class-5-economic-culture-the-market-in-american-fic",
           "title": "Exercise Class 5: Economic Culture — the Market in American Fiction",
           "pdf": "pdfs/political-economic-thought/exercise-class-5-economic-culture-the-market-in-american-fic.pdf",
-          "sizeKB": 276
+          "sizeKB": 276,
+          "section": null
         },
         {
           "slug": "module-8-reactions-to-liberalism-historical-materialism-soci",
           "title": "Module 8: Reactions to Liberalism — Historical Materialism, Socialism, Communism (1848–1938)",
           "pdf": "pdfs/political-economic-thought/module-8-reactions-to-liberalism-historical-materialism-soci.pdf",
-          "sizeKB": 466
+          "sizeKB": 466,
+          "section": null
         },
         {
           "slug": "module-9-classics-in-sociology-the-institutionalist-legacy-d",
           "title": "Module 9: Classics in Sociology — the Institutionalist Legacy (Durkheim & Weber, 1890–2020)",
           "pdf": "pdfs/political-economic-thought/module-9-classics-in-sociology-the-institutionalist-legacy-d.pdf",
-          "sizeKB": 521
+          "sizeKB": 521,
+          "section": null
         }
       ]
     },
@@ -163,6 +184,7 @@
           "title": "Lecture 1: Introduction — Power, Politics, and Political Science (MDJ)",
           "pdf": "pdfs/political-science/lecture-1.pdf",
           "sizeKB": 627,
+          "section": "part-1",
           "flashcards": {
             "json": "flashcards/political-science/lecture-1.json",
             "count": 11
@@ -173,6 +195,7 @@
           "title": "Lecture 2: The State (AUW)",
           "pdf": "pdfs/political-science/lecture-2.pdf",
           "sizeKB": 625,
+          "section": "part-1",
           "flashcards": {
             "json": "flashcards/political-science/lecture-2.json",
             "count": 12
@@ -183,6 +206,7 @@
           "title": "Lecture 3: Political Regimes (FK)",
           "pdf": "pdfs/political-science/lecture-3.pdf",
           "sizeKB": 426,
+          "section": "part-1",
           "flashcards": {
             "json": "flashcards/political-science/lecture-3.json",
             "count": 12
@@ -193,6 +217,7 @@
           "title": "Lecture 4: Systems of Government",
           "pdf": "pdfs/political-science/lecture-4.pdf",
           "sizeKB": 2443,
+          "section": "part-1",
           "flashcards": {
             "json": "flashcards/political-science/lecture-4.json",
             "count": 12
@@ -203,6 +228,7 @@
           "title": "Lecture 5: Participation and Representation (FK)",
           "pdf": "pdfs/political-science/lecture-5.pdf",
           "sizeKB": 3146,
+          "section": "part-1",
           "flashcards": {
             "json": "flashcards/political-science/lecture-5.json",
             "count": 12
@@ -213,6 +239,7 @@
           "title": "Lecture 6: Institutions and Institutionalisms (AUW)",
           "pdf": "pdfs/political-science/lecture-6.pdf",
           "sizeKB": 1086,
+          "section": "part-1",
           "flashcards": {
             "json": "flashcards/political-science/lecture-6.json",
             "count": 12
@@ -223,6 +250,7 @@
           "title": "IR I: Realism (AUW)",
           "pdf": "pdfs/political-science/ir-i-realism-auw.pdf",
           "sizeKB": 1162,
+          "section": "part-2",
           "flashcards": {
             "json": "flashcards/political-science/ir-i-realism-auw.json",
             "count": 16
@@ -233,6 +261,7 @@
           "title": "IR II: Liberalism (AUW)",
           "pdf": "pdfs/political-science/ir-ii-liberalism-auw.pdf",
           "sizeKB": 599,
+          "section": "part-2",
           "flashcards": {
             "json": "flashcards/political-science/ir-ii-liberalism-auw.json",
             "count": 16
@@ -243,6 +272,7 @@
           "title": "IR III: Constructivism / Other Approaches (AUW)",
           "pdf": "pdfs/political-science/ir-iii-constructivism-other-approaches-auw.pdf",
           "sizeKB": 782,
+          "section": "part-2",
           "flashcards": {
             "json": "flashcards/political-science/ir-iii-constructivism-other-approaches-auw.json",
             "count": 16
@@ -253,6 +283,7 @@
           "title": "IR IV: International Security (AUW)",
           "pdf": "pdfs/political-science/ir-iv-international-security-auw.pdf",
           "sizeKB": 564,
+          "section": "part-2",
           "flashcards": {
             "json": "flashcards/political-science/ir-iv-international-security-auw.json",
             "count": 16
@@ -263,6 +294,7 @@
           "title": "Foreign Policymaking (EA)",
           "pdf": "pdfs/political-science/foreign-policymaking-ea.pdf",
           "sizeKB": 471,
+          "section": "part-2",
           "flashcards": {
             "json": "flashcards/political-science/foreign-policymaking-ea.json",
             "count": 16
@@ -273,6 +305,7 @@
           "title": "EU I: The Evolution of the EU (AUW)",
           "pdf": "pdfs/political-science/eu-i-the-evolution-of-the-eu-auw.pdf",
           "sizeKB": 614,
+          "section": "part-3",
           "flashcards": {
             "json": "flashcards/political-science/eu-i-the-evolution-of-the-eu-auw.json",
             "count": 12
@@ -283,6 +316,7 @@
           "title": "EU II: Institutions of the EU (AUW)",
           "pdf": "pdfs/political-science/eu-ii-institutions-of-the-eu-auw.pdf",
           "sizeKB": 2924,
+          "section": "part-3",
           "flashcards": {
             "json": "flashcards/political-science/eu-ii-institutions-of-the-eu-auw.json",
             "count": 12
@@ -293,6 +327,7 @@
           "title": "EU III: The Internal Market (AUW)",
           "pdf": "pdfs/political-science/eu-iii-the-internal-market-auw.pdf",
           "sizeKB": 496,
+          "section": "part-3",
           "flashcards": {
             "json": "flashcards/political-science/eu-iii-the-internal-market-auw.json",
             "count": 10
@@ -303,6 +338,7 @@
           "title": "EU IV: EU Competition Policy (AUW)",
           "pdf": "pdfs/political-science/eu-iv-eu-competition-policy-auw.pdf",
           "sizeKB": 584,
+          "section": "part-3",
           "flashcards": {
             "json": "flashcards/political-science/eu-iv-eu-competition-policy-auw.json",
             "count": 11
@@ -313,6 +349,7 @@
           "title": "EU V: European Citizenship and Identity (AUW)",
           "pdf": "pdfs/political-science/eu-v-european-citizenship-and-identity-auw.pdf",
           "sizeKB": 475,
+          "section": "part-3",
           "flashcards": {
             "json": "flashcards/political-science/eu-v-european-citizenship-and-identity-auw.json",
             "count": 11
@@ -322,7 +359,8 @@
           "slug": "tools-4-1-normative-frameworks-how-should-we-evaluate-politi",
           "title": "Tools 4.1: Normative Frameworks — How Should We Evaluate Political Outcomes? (AD)",
           "pdf": "pdfs/political-science/tools-4-1-normative-frameworks-how-should-we-evaluate-politi.pdf",
-          "sizeKB": 588
+          "sizeKB": 588,
+          "section": "part-4"
         }
       ],
       "extras": [

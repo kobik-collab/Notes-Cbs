@@ -40,6 +40,16 @@ const fmtSize = (kb) => (kb >= 1024 ? (kb / 1024).toFixed(1) + ' MB' : kb + ' KB
 const fileIcon = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/></svg>';
 const dlIcon = '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>';
 
+// Per-section icons: each "<div class='part' id='part-N'>" banner in a master doc
+// tags its lectures with that section, so each part shows a distinct icon in the list.
+const svgWrap = (inner) => `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${inner}</svg>`;
+const sectionIcons = {
+  'part-1': svgWrap('<path d="M3 21h18"/><path d="M12 3l8 5H4z"/><path d="M5 21V10"/><path d="M9.5 21V10"/><path d="M14.5 21V10"/><path d="M19 21V10"/>'),   // institutions (bank/columns)
+  'part-2': svgWrap('<circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>'),  // IR (globe)
+  'part-3': svgWrap('<path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/>'),   // EU (flag)
+  'part-4': svgWrap('<path d="M14.7 6.3a4 4 0 0 0 5 5l-7.9 7.9a2.1 2.1 0 1 1-3-3z"/><circle cx="17" cy="7" r="1.5"/>'),   // Tools (wrench)
+};
+
 async function boot() {
   try {
     const res = await fetch('manifest.json', { cache: 'no-cache' });
@@ -125,7 +135,7 @@ function renderSubject(subject, partSlug) {
   const itemHtml = (d) => `
     <button class="doc-item ${d.full ? 'full' : ''} ${selected && d.slug === selected.slug ? 'active' : ''}"
             data-slug="${esc(d.slug)}">
-      <span class="doc-icon">${fileIcon}</span>
+      <span class="doc-icon">${(d.section && sectionIcons[d.section]) || fileIcon}</span>
       <span class="doc-text">
         <span class="doc-title">${esc(d.full ? subject.name + ' — Full notes' : d.title)}</span>
         <span class="doc-sub">${fmtSize(d.sizeKB)} · PDF${d.flashcards ? ` · ◧ ${d.flashcards.count} cards` : ''}</span>

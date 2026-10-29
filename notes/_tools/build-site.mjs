@@ -52,11 +52,14 @@ function splitMaster(md) {
   let docTitle = null;
   const parts = [];
   let cur = null;
+  let section = null;                         // tracks the current "<div class='part' id='part-N'>" banner
   for (const line of lines) {
+    const sec = line.match(/<div class="part"[^>]*\bid="(part-[0-9]+)"[^>]*>/);
+    if (sec) { section = sec[1]; continue; }  // e.g. "part-2"; subsequent lectures inherit it
     const h1 = line.match(/^# (?!#)(.*)/);
     if (h1) {
       if (docTitle === null) { docTitle = h1[1].trim(); continue; }
-      cur = { title: h1[1].trim(), lines: [line] };
+      cur = { title: h1[1].trim(), lines: [line], section };
       parts.push(cur);
       continue;
     }
@@ -65,7 +68,7 @@ function splitMaster(md) {
   }
   return {
     title: (docTitle || '').replace(/\s*—\s*Master Notes\s*$/i, '').trim(),
-    parts: parts.map((p) => ({ title: p.title, body: p.lines.join('\n').trim() })),
+    parts: parts.map((p) => ({ title: p.title, body: p.lines.join('\n').trim(), section: p.section })),
   };
 }
 
@@ -130,7 +133,7 @@ for (const slug of subjects) {
         }
       }
       if (fs.existsSync(destPdf)) {
-        subj.parts.push({ slug: pslug, title: part.title, pdf: rel(destPdf), sizeKB: kb(destPdf) });
+        subj.parts.push({ slug: pslug, title: part.title, pdf: rel(destPdf), sizeKB: kb(destPdf), section: part.section || null });
         log(`  ✓ ${slug}/${pslug}`);
       }
     }
