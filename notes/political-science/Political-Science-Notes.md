@@ -32,6 +32,7 @@
 - **[Tools 4.1: Normative Frameworks — How Should We Evaluate Political Outcomes? (AD)](#lecture-tools-1)** — [positive vs normative questions](#nf-positive) · [what is a normative framework?](#nf-what) · [★ welfarism: utilitarianism](#nf-util) · [★ welfarism: Pareto](#nf-pareto) · [★ liberalism: where is the line?](#nf-liberalism) · [the harm principle · property · freedom](#nf-line) · [★ egalitarianism & Rawls](#nf-egal) · [equality of what? outcomes vs opportunity](#nf-equality-of-what) · [★ frameworks at a glance](#nf-glance) · [back to SyRI](#nf-syri) · [why reasonable people disagree](#nf-disagree) · [key terms](#nf-terms) · [exam pointers](#nf-exam) · [★ Fun facts](#ff-tools1)
 - **[Tools 4.2: Interests and Rational Choice — Why Do Political Actors Choose What They Choose? (AD)](#lecture-tools-2)** — [from "should" to "why"](#rc-why) · [★ the three building blocks](#rc-blocks) · [actors & preferences](#rc-prefs) · [★ what "rational" means](#rc-rational) · [why vote? the paradox](#rc-vote) · [constraints](#rc-constraints) · [incentives & the three levers](#rc-incentives) · [★ expected value: when does cheating pay?](#rc-expected) · [★ game theory & Nash equilibrium](#rc-game) · [★ the prisoner's dilemma](#rc-pd) · [criticisms of rational choice](#rc-critique) · [key terms](#rc-terms) · [exam pointers](#rc-exam) · [★ Fun facts](#ff-tools2)
 - **[Tools 4.3: Collective Action, Public Goods, and Norms — Why Do Groups Fail to Get What They All Want? (AD)](#lecture-tools-3)** — [what is a collective action problem?](#ca-what) · [two kinds: free-rider vs coordination](#ca-two) · [externalities & the ★ goods typology](#ca-goods) · [★ the free-rider problem](#ca-freerider) · [group size (Olson)](#ca-olson) · [tragedy of the commons](#ca-commons) · [coordination problems](#ca-coordination) · [★ the toolkit](#ca-toolkit) · [coercion · selective incentives · repeated interaction · expectations](#ca-tools) · [the climate case](#ca-climate) · [key terms](#ca-terms) · [exam pointers](#ca-exam) · [★ Fun facts](#ff-tools3)
+- **[Tools 4.4: Bargaining, Commitment, and Political Conflict — Why Do Actors Fail to Agree? (AD)](#lecture-tools-4)** — [from collective action to bargaining](#bg-from) · [★ sequential games & game trees](#bg-tree) · [★ backward induction](#bg-backward) · [★ outside options (Lesson 1)](#bg-outside) · [★ the spatial model: ideal points & veto players](#bg-spatial) · [the status quo matters (Lesson 2)](#bg-statusquo) · [tactics](#bg-tactics) · [fairness & the ultimatum game](#bg-fairness) · [bundling (Lesson 3)](#bg-bundling) · [★ the puzzle of costly conflict (Fearon)](#bg-conflict) · [★ why talks fail: info & commitment](#bg-why) · [the Ukraine 1994 case](#bg-ukraine) · [key terms](#bg-terms) · [exam pointers](#bg-exam) · [★ Fun facts](#ff-tools4)
 
 ---
 
@@ -4785,5 +4786,217 @@ Scale the public-goods game from 4 to **40** members: your 10 points still becom
 - **A revolution in six weeks.** Leipzig went from a few thousand protesters in September 1989 to 300,000+ by late October — a coordination cascade, each joiner making the next one braver.
 - **Sweden changed sides overnight.** "Dagen H," 3 September 1967: the entire country swapped from driving on the left to the right at once — a coordination problem solved by a public signal everyone obeyed.
 - **Denmark is 0.1% of emissions — and cuts anyway.** Pure free-rider logic says don't bother; it cuts because green industry profits and because going first made clean energy cheaper for everyone — nudging the world from free-riding toward coordination.
+
+---
+
+<a id="lecture-tools-4"></a>
+# Tools 4.4: Bargaining, Commitment, and Political Conflict — Why Do Actors Fail to Agree? (AD)
+
+**Required reading:** **Bueno de Mesquita**, *Political Economy for Public Policy*, **ch. 6** · *Optional:* **James Fearon**, "Rationalist explanations for war," *International Organization* 49(3) 1995, pp. 379–414 · **Pifer**, *The Trilateral Process* (Brookings) — selected pages. *(Lecturer: Anna Denisenko — deck "4.4 Bargaining, Commitment, and Political Conflict.")*
+
+**Theme of the lecture.** [Lecture 4.3](#lecture-tools-3) was about groups that **agree on the goal** but struggle to contribute. This one is about actors who **want different things** and must **split the gains** — and sometimes end up in **costly conflict** instead. [Pareto](#nf-pareto) says many splits beat "no deal," but **cannot pick which**; **bargaining** decides. We build the tools — **sequential games & game trees**, **backward induction**, **outside options**, and the **spatial model** of ideal points and veto players — and then confront the deep puzzle (**Fearon 1995**): if conflict **destroys value**, why don't rational actors just agree on the deal in advance? The answer: **asymmetric information** and **commitment problems.**
+
+<div class="heart">★ <strong>The heart of the lecture — bargaining splits the surplus; conflict destroys it.</strong>
+<br>• <strong>Sequential games (game trees):</strong> players move <em>in turn</em>; solve by <strong>backward induction</strong> — "think ahead, reason back." A smart proposer asks "how will the other side react?" before offering.
+<br>• <strong>Outside options decide the split (Lesson 1):</strong> your deal depends on what you (and your opponent) get from <strong>no deal.</strong> A strong outside option = a bigger share. <strong>Where there's a scale, the status quo = the outside option.</strong>
+<br>• <strong>The spatial model:</strong> players have <strong>ideal points</strong>; a <strong>veto player</strong> accepts only policies at least as close to its ideal as the status quo (its <strong>acceptance set</strong>); the <strong>agenda setter</strong> proposes the point in that set closest to <em>its</em> ideal. <strong>Where the status quo sits decides the outcome (Lesson 2).</strong>
+<br>• <strong>Costly conflict is a puzzle (Fearon):</strong> war/strikes are <em>not</em> Pareto efficient — a deal in the <strong>bargaining range</strong> would beat them. Rational actors still fail to agree because of <strong>asymmetric information</strong> (private info + incentive to bluff) and <strong>commitment problems</strong> (can't credibly promise to keep the deal).</div>
+
+**Red thread:** *(1) What does each side get from "no deal" (outside option / status quo)? (2) Who proposes, who vetoes, and where is the status quo? (3) If a deal beats conflict for both, why might they fight anyway?*
+
+**Key concepts to apply:** *bargaining · the bargaining range · Pareto can't pick the split* · *sequential game · game tree · outside option · **backward induction*** · *ultimatum game · fairness norms* · *the **spatial model**: ideal point · status quo · veto player · acceptance set · agenda setter* · *bundling / issue linkage* · *costly conflict & Pareto inefficiency* · ***Fearon's three explanations**: asymmetric information (+ incentive to misrepresent) · commitment problems · issue indivisibility* · *costly signals · tying hands · third-party enforcement · reputation (shadow of the future).*
+
+---
+
+<a id="bg-from"></a>
+## From collective action to bargaining
+
+***Core:*** last lecture the group agreed on the goal; here a deal would help everyone, but the parties **disagree about how to split it.**
+
+- Paris: everyone wants lower emissions — but **whose**? Unions & firms both gain from production — but **who gets how much**?
+- Recall [Lecture 4.1](#nf-pareto): **many** outcomes are Pareto efficient; **Pareto doesn't say which split is best.** **Bargaining decides which one actually happens.**
+- Bargaining is everywhere: coalition partners, government–parliament budgets, unions–employers (the Danish model), firms–regulators, mergers, EU member states, countries (trade, territory, arms control). It works best when **a deal beats "no deal" for everyone** and there are **few parties.**
+
+<a id="bg-tree"></a>
+## ★ Sequential games & game trees
+
+***Core:*** a new tool. In [Lecture 4.2](#rc-game) players moved **simultaneously** (a payoff matrix). In bargaining they move **in turn** — one makes an **offer**, the other **sees it and responds.** We draw this as a **game tree.**
+
+> **Sequential game:** players move one after another, and later players **know what earlier players did** (think chess, or a job offer).
+
+![Game tree of wage bargaining: the Firm first chooses Low wage or High wage; the Union then Accepts or Strikes; the backward-induction path (High wage → Accept) is highlighted, giving the outcome (50, 50).](figures/l-barg-game-tree.png)
+
+**How to read it.** Read **top to bottom.** A **dot** = a decision (the label says who decides); **arrows** = the available choices; the **bottom** = payoffs (first number: firm, second: union). A player's **outside option** is what they get if there's **no deal** (here, a strike gives firm 20, union 30).
+
+<a id="bg-backward"></a>
+## ★ Backward induction
+
+***Core:*** solve a sequential game **from the end** — "**think ahead, reason back.**"
+
+**The recipe:** (1) go to the **last** decisions; (2) at each, mark the choice that gives **that** player more; (3) the earlier player now **knows** what follows each of its choices; (4) step back and repeat to the top.
+
+- **The wage game:** if wage is **low**, the union **strikes** (30 > 25); if **high**, it **accepts** (50 > 30). So the firm faces: *low → strike → 20*, or *high → accept → 50*. It chooses **high.** **Outcome: (50, 50)** — the firm would *love* 75, but it foresees the strike and doesn't demand it.
+- **From two offers to any offer (the ultimatum game):** let the firm demand **any** x out of 100; the union gets **100 − x**, and accepts only if that beats its outside option (30). So the union accepts while **x ≤ 70.** The firm demands the most it can get away with → **x = 70**, union gets **30.** → **Outcome (70, 30).** *The split is set by the outside options.*
+
+<a id="bg-outside"></a>
+## ★ Outside options (Lesson 1)
+
+***Core:*** your share is decided by what each side gets from **no deal.**
+
+> **It is good to have a strong outside option — and good if your opponent has a weak one.**
+
+- Raise the **union's** outside option from 30 → 50 and the split shifts from (70, 30) to **(50, 50)**; raise the **firm's** and it shifts the other way. *(Try it: with union option 50, the firm can demand at most x = 50.)*
+- **Boeing vs its workers:** in **2014** Boeing had **strong** outside options (states bidding to host its plant; could move to a weak-union state) → workers **lost their pensions.** In **2024** its options were **weak** (few subsidies; safety scandals made moving risky) → after a **53-day strike** the union won a **38% raise** (though not the old pensions). *Same union, opposite outcomes — because the outside options flipped.*
+
+<a id="bg-spatial"></a>
+## ★ The spatial model: ideal points & veto players
+
+***Core:*** often actors don't split a pie — they choose **a point on a scale** (a tax rate, a minimum wage, office days). Now each player has an **ideal point**, and "no deal" means the **status quo** stays.
+
+> **Status quo** = the policy/rule/contract that stays if no new deal is reached. **The status quo *is* the outside option.**
+
+- **Ideal point:** the policy a player likes best; the **closer** a policy is, the better.
+- **Minimum-wage example:** the **legislature proposes** a wage *p*; the **governor** signs or **vetoes** (a **veto player**). Ideal points: **governor 12, legislature 18, status quo 10.**
+
+![A one-dimensional policy scale showing the status quo at 10, the governor's ideal at 12, the legislature's ideal at 18, the governor's acceptance set 10–14 shaded, and the outcome at 14.](figures/l-barg-spatial.png)
+
+**How to read it.** The governor signs any bill **at least as close to her ideal (12) as the status quo (10)** — i.e. anything in **10–14** (her **acceptance set**). The legislature wants 18, so it proposes the point in **10–14 closest to 18** → **14.** *(The governor wanted 12 yet signs 14 — because 14 beats the status quo 10 for her.)*
+
+<a id="bg-statusquo"></a>
+## The status quo matters (Lesson 2)
+
+***Core:*** the **agenda setter** (proposer) gets the policy closest to **its** ideal **inside the veto player's acceptance set** — and that set **depends on the status quo.**
+
+- A status quo the **veto player dislikes** → **big** acceptance set → the agenda setter gets **more.**
+- A status quo the veto player **likes** → **small** acceptance set → the agenda setter gets **little.** *(If the status quo were 16, the governor blocks every move right, and the legislature can't improve on 16.)*
+- → **Whoever sets the status quo before bargaining starts shapes the outcome** — in politics and business alike.
+
+<a id="bg-tactics"></a>
+## Tactics to improve your position
+
+***Core:*** two levers — your **outside option** and the **status quo.**
+
+- **Improve your outside option:** find other partners (the EU and UK both signed new trade deals *during* Brexit talks); **diversify** (energy sources before negotiating with a supplier); make yourself **hard to replace** (rare skills).
+- **Shape the status quo / set the agenda:** **move first** ("facts on the ground"); write **sunset clauses** into deals you'll want to revisit; **write the first draft** of the contract or standard; **become the agenda setter.**
+
+<a id="bg-fairness"></a>
+## Fairness & the ultimatum game
+
+***Core:*** real people don't behave like the pure model — **fairness norms change payoffs.**
+
+- **The ultimatum game:** I'm given 1000 kr and offer you **1 kr**; reject and we both get **0.** The model says **accept** (1 > 0). But in experiments, proposers offer **40–50%**, and people **reject** offers below **~20–30%.**
+- Recall [Lecture 4.3](#ca-freerider): **fairness norms** are real entries in the payoff — rejecting an "insulting" offer is **rational if you care about fairness.** → **A smart proposer takes normative frameworks into account.**
+
+<a id="bg-bundling"></a>
+## Bundling (Lesson 3)
+
+***Core:*** combining several issues into one deal can create agreements that **don't exist issue-by-issue.**
+
+Danish budget deals (*finanslov*) and coalition agreements combine tax, defence, welfare, climate, local projects. **Why?** If parties **weight issues differently**, trading creates value:
+
+| | Status quo | Policy A | Policy B | A + B |
+|---|---|---|---|---|
+| **Party 1** | 0 | −1 | **10** | **9** |
+| **Party 2** | 0 | **10** | −1 | **9** |
+
+Each policy **alone** is vetoed (outside the other's acceptance set); the **bundle** beats the status quo for **both** — a Pareto improvement. → **Give way on what you care about less, win on what you care about more.** More issues on the table → more possible trades → a better chance of a deal.
+
+<a id="bg-conflict"></a>
+## ★ The puzzle of costly conflict (Fearon 1995)
+
+***Core:*** in our models a deal is **always** reached at once — no strike, no war. Yet strikes, government crises and wars **happen.** They're **costly** (they destroy part of what's fought over), so the post-conflict outcome is **not Pareto efficient** — **some deal would have been better for both.** *So why don't rational actors just agree on that deal in advance?*
+
+**Costs of conflict create a bargaining range.** Two countries dispute territory worth **100**; if they fight, **A wins with probability 60%** (winner takes all) and **war costs each 10.**
+
+<div class="formula"><span class="flabel">Expected value of war</span>A: 0.6 × 100 − 10 = <strong>50</strong>   ·   B: 0.4 × 100 − 10 = <strong>30</strong></div>
+
+*Reads:* A's war payoff is **50**, B's is **30** — so B will accept any split giving it **≥ 30** (i.e. A gets **≤ 70**), and A will accept any giving it **≥ 50.**
+
+![A number line from 0 to 100 (A's share of the territory): A prefers war below 50, B prefers war above 70, and the green 50–70 'deal range' is where every split beats war for both sides.](figures/l-barg-range.png)
+
+**How to read it.** The **war costs** open a **bargaining range (50–70)**: every split in it makes **both** better off than fighting. *The puzzle is why actors ever fail to find a point in this range.*
+
+<a id="bg-why"></a>
+## ★ Why talks fail: information & commitment
+
+***Core:*** Fearon's answer — rational actors still fail to agree for **three** reasons (we focus on the first two; the third is rarer than it looks).
+
+**1. Asymmetric information (+ an incentive to bluff).** Each side knows its **own** strength, costs and outside options better than the other — and has a reason to **exaggerate** them. *(The union knows how long its members will really strike; a government knows how strong its army really is.)* So it can't just **tell** the truth credibly.
+- **Example:** profit 100; the union is **strong** (option 50) or **weak** (30), and the firm doesn't know which. **Generous** (demand 50): both types accept → firm gets 50. **Tough** (demand 70): weak accepts (70), strong strikes (20). Which is better depends on the **probability** the union is weak.
+- **How information gets revealed — costly signals** (words are cheap): strike votes, strike funds, military mobilisation, **walking away from the table.** And **conflict itself reveals information**: as a strike drags on, each side learns the other's true strength. *(Boeing workers rejected 25% and 35% before accepting 38% — each vote told Boeing more about their resolve.)*
+
+**2. Commitment problems.** A deal would make everyone better off, but **one side can't credibly promise to keep it**, because **later it will have an incentive to break it.** The problem is **not information** (both understand the situation) — it's **timing**: incentives change *after* the other side has acted.
+- **Spain's renewables:** generous guaranteed payments drew a solar/wind boom; after the 2008 crisis Spain **cut support retroactively** → dozens of international arbitration claims. *Lesson:* investors now demand **higher returns or stronger legal guarantees** before building. *(Independent central banks & regulators exist partly so politicians **can't** change policy whenever it suits them.)*
+
+**3. Indivisible issues.** The thing at stake can't be split (e.g. a holy site). *Rarer than it looks* — **side payments and bundling** can often make an issue "divisible."
+
+<a id="bg-ukraine"></a>
+## The Ukraine 1994 case — a commitment problem
+
+***Core:*** the showcase of a commitment problem across time.
+
+- When the USSR collapsed, **Ukraine** held the **world's third-largest nuclear arsenal.** In the **Trilateral Statement (Jan 1994)** and the **Budapest Memorandum (Dec 1994)**, Ukraine **gave the weapons up** in return for compensation and **security assurances** (from the US, UK and Russia) to respect its borders.
+- In **2014, Russia annexed Crimea** — breaking the promise once Ukraine had already **disarmed.** The guarantor had no binding commitment; incentives changed after Ukraine acted.
+- **What could have made the promises more credible?** → the general solutions to commitment problems:
+
+| Solution | How it binds |
+|---|---|
+| **Tie your hands** | constitutions, courts, **independent** central banks/regulators |
+| **Third-party enforcement** | international courts/arbitration, peacekeepers, the EU |
+| **Reputation** | in repeated interaction, breaking a promise is costly ([shadow of the future](#ca-toolkit)) |
+| **Share power** | coalition governments, federalism, guaranteed seats |
+| **Stage the deal** | small steps, each checked before the next |
+
+**Bargaining & the normative frameworks** ([Lecture 4.1](#lecture-tools-1)): **Pareto** — every deal in the range beats conflict, but it **can't pick** among them; **egalitarian** — the split reflects **power** (outside options, who proposes, where the status quo sits), not fairness; **liberal** — a freely-accepted deal looks legitimate, but is it "free" if one side has **no outside option**? → *Policy can change bargaining power on purpose:* minimum wages, unemployment insurance and the **right to strike** all raise workers' outside options.
+
+---
+
+<a id="bg-terms"></a>
+## Key terms
+
+| Term | Meaning |
+|---|---|
+| Bargaining | dividing the gains from a deal that beats "no deal" for all |
+| Sequential game / game tree | players move in turn; later players see earlier moves |
+| Backward induction | solve from the end: anticipate the last move, reason back |
+| Outside option | what a player gets if there is **no deal** |
+| Ultimatum game | one side demands x of a pie; the other accepts or gets its outside option |
+| Ideal point | the policy a player likes best (closer = better) |
+| Status quo | the policy that stays if no new deal is reached (= the outside option) |
+| Veto player | an actor whose consent is needed; accepts only its **acceptance set** |
+| Acceptance set | policies a veto player likes at least as much as the status quo |
+| Agenda setter | the proposer; gets the point in the acceptance set closest to its ideal |
+| Bundling / issue linkage | combining issues so trades across priorities create a deal |
+| Bargaining range | splits that beat conflict for **both** (opened by conflict's costs) |
+| Asymmetric information | each side knows things the other doesn't (+ incentive to bluff) |
+| Commitment problem | a side can't credibly promise to keep the deal later |
+| Costly signal | an action too expensive to fake, so it reveals real information |
+
+---
+
+<a id="bg-exam"></a>
+## Exam pointers
+
+- **Solve a [game tree](#bg-tree) by [backward induction](#bg-backward)** — mark each last-mover's best choice, reason back to the first move.
+- **Explain [outside options](#bg-outside)** (Lesson 1) and use Boeing 2014 vs 2024.
+- **Run the [spatial model](#bg-spatial):** ideal points, a veto player's **acceptance set**, and why the **agenda setter** + **status quo** location decide the outcome (Lesson 2).
+- **Show why [bundling](#bg-bundling)** turns two vetoes into one "yes."
+- **State the [bargaining range](#bg-conflict)** and compute it from war's costs/odds.
+- **Give [Fearon's](#bg-why) three reasons** talks fail — and distinguish **information** (bluffing) from **commitment** (timing) problems; use **Ukraine 1994** for commitment.
+
+---
+
+<a id="ff-tools4"></a>
+## ★ Fun facts & memorable details (Tools 4.4: Bargaining)
+
+> The sticky bits from the bargaining lecture.
+
+- **The firm "would love 75" — but takes 50.** Backward induction in one line: a smart proposer never demands what will trigger a strike it can foresee.
+- **Same union, opposite deals.** Boeing's workers lost their pensions in 2014 and won a 38% raise in 2024 — nothing about them changed; their **outside option** did.
+- **The governor wanted 12 but signs 14.** Agenda-setting power: the legislature proposes the edge of her acceptance set, and 14 still beats the status quo for her.
+- **Whoever sets the status quo wins.** Before a word is spoken, the position you're negotiating *from* often decides how much you'll get.
+- **"Would you accept 1 kr?"** The model says yes (1 > 0); most people say no. Fairness is a real payoff — and a smart proposer offers near 50%.
+- **War is a bargain both sides reject — and then regret.** Fighting burns value, so a deal in the bargaining range always existed. Fearon's puzzle: why rational actors still fail to find it (bluffing + broken promises).
+- **Ukraine gave up the world's 3rd-largest arsenal for a promise.** 1994's assurances weren't a binding commitment; in 2014 Russia took Crimea anyway — the textbook commitment problem.
 
 ---
