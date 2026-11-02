@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T11:15:25.010Z",
+  "generatedAt": "2026-11-02T09:53:43.571Z",
   "subjects": [
     {
       "slug": "applied-micro",
@@ -176,7 +176,7 @@
       "full": {
         "title": "Political Science — Full notes",
         "pdf": "pdfs/political-science/Political-Science-Notes.pdf",
-        "sizeKB": 15624
+        "sizeKB": 15914
       },
       "parts": [
         {
@@ -367,6 +367,13 @@
           "title": "Tools 4.2: Interests and Rational Choice — Why Do Political Actors Choose What They Choose? (AD)",
           "pdf": "pdfs/political-science/tools-4-2-interests-and-rational-choice-why-do-political-act.pdf",
           "sizeKB": 506,
+          "section": "part-4"
+        },
+        {
+          "slug": "tools-4-3-collective-action-public-goods-and-norms-why-do-gr",
+          "title": "Tools 4.3: Collective Action, Public Goods, and Norms — Why Do Groups Fail to Get What They All Want? (AD)",
+          "pdf": "pdfs/political-science/tools-4-3-collective-action-public-goods-and-norms-why-do-gr.pdf",
+          "sizeKB": 415,
           "section": "part-4"
         }
       ],

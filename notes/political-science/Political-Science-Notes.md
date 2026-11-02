@@ -31,6 +31,7 @@
 - **[EU V: European Citizenship and Identity (AUW)](#eu-lecture-5)** — [the core puzzle + the chain](#eu5-puzzle) · [three lenses on citizens](#eu5-lenses) · [what EU citizenship gives you](#eu5-citizenship) · [★ the democratic deficit](#eu5-deficit) · [the knowledge deficit](#eu5-knowledge) · [how citizens are represented](#eu5-representation) · [European identity: constructed, contested, changeable](#eu5-identity) · [★ multi-level identities](#eu5-multilevel) · [civic vs exclusionary Europe](#eu5-civic) · [identity ↔ integration](#eu5-twoway) · [★ permissive consensus → constraining dissensus](#eu5-dissensus) · [★ why support or oppose? four mechanisms](#eu5-mechanisms) · [hard vs soft Euroscepticism](#eu5-euroscepticism) · [★ Euroscepticism vs anti-establishment (Szczerbiak & Taggart)](#eu5-antiestablishment) · [politicization: eurozone vs Schengen](#eu5-politicization) · [★ synthesis](#eu5-synthesis) · [★ Fun facts](#ff-eu5)
 - **[Tools 4.1: Normative Frameworks — How Should We Evaluate Political Outcomes? (AD)](#lecture-tools-1)** — [positive vs normative questions](#nf-positive) · [what is a normative framework?](#nf-what) · [★ welfarism: utilitarianism](#nf-util) · [★ welfarism: Pareto](#nf-pareto) · [★ liberalism: where is the line?](#nf-liberalism) · [the harm principle · property · freedom](#nf-line) · [★ egalitarianism & Rawls](#nf-egal) · [equality of what? outcomes vs opportunity](#nf-equality-of-what) · [★ frameworks at a glance](#nf-glance) · [back to SyRI](#nf-syri) · [why reasonable people disagree](#nf-disagree) · [key terms](#nf-terms) · [exam pointers](#nf-exam) · [★ Fun facts](#ff-tools1)
 - **[Tools 4.2: Interests and Rational Choice — Why Do Political Actors Choose What They Choose? (AD)](#lecture-tools-2)** — [from "should" to "why"](#rc-why) · [★ the three building blocks](#rc-blocks) · [actors & preferences](#rc-prefs) · [★ what "rational" means](#rc-rational) · [why vote? the paradox](#rc-vote) · [constraints](#rc-constraints) · [incentives & the three levers](#rc-incentives) · [★ expected value: when does cheating pay?](#rc-expected) · [★ game theory & Nash equilibrium](#rc-game) · [★ the prisoner's dilemma](#rc-pd) · [criticisms of rational choice](#rc-critique) · [key terms](#rc-terms) · [exam pointers](#rc-exam) · [★ Fun facts](#ff-tools2)
+- **[Tools 4.3: Collective Action, Public Goods, and Norms — Why Do Groups Fail to Get What They All Want? (AD)](#lecture-tools-3)** — [what is a collective action problem?](#ca-what) · [two kinds: free-rider vs coordination](#ca-two) · [externalities & the ★ goods typology](#ca-goods) · [★ the free-rider problem](#ca-freerider) · [group size (Olson)](#ca-olson) · [tragedy of the commons](#ca-commons) · [coordination problems](#ca-coordination) · [★ the toolkit](#ca-toolkit) · [coercion · selective incentives · repeated interaction · expectations](#ca-tools) · [the climate case](#ca-climate) · [key terms](#ca-terms) · [exam pointers](#ca-exam) · [★ Fun facts](#ff-tools3)
 
 ---
 
@@ -4587,5 +4588,202 @@ Types of constraint:
 - **The trade war is a prisoner's dilemma.** US–China 2025: both slapped on tariffs (the Nash equilibrium) even though mutual free trade would make both richer. Individually rational, collectively poorer.
 - **Losses hurt twice as much as gains feel good.** Kahneman & Tversky — which is why cutting a benefit enrages people more than never granting it, and why the status quo is so sticky.
 - **Treat the model as a map.** A map is useful *because* it leaves things out. Rational choice is wrong in the details and right about the shape — that's the point.
+
+---
+
+<a id="lecture-tools-3"></a>
+# Tools 4.3: Collective Action, Public Goods, and Norms — Why Do Groups Fail to Get What They All Want? (AD)
+
+**Required reading:** **Bueno de Mesquita**, *Political Economy for Public Policy*, **ch. 4** · *Optional:* **Elinor Ostrom**, *Governing the Commons*, **ch. 1**. *(Lecturer: Anna Denisenko — deck "4.3 Collective Action, Public Goods, and Norms.")*
+
+**Theme of the lecture.** [Lecture 4.1](#lecture-tools-1) asked which outcomes are *good*; [4.2](#lecture-tools-2) asked which will *happen*. This one asks the uncomfortable follow-up: **why does the outcome that happens so often be one that nobody wants?** The answer is the **collective action problem** — the gap between **individual rationality and group rationality.** Each person does best by **free riding** (letting others pay), so groups fail to provide **public goods** and over-use **shared resources**, even when everyone would be better off cooperating. We diagnose the two kinds (**free-rider** vs **coordination**), locate them in the **goods typology** (excludable × rival), and build a **toolkit** to escape them — coercion, selective incentives, repeated interaction, and changing expectations — applied to **climate politics**.
+
+<div class="heart">★ <strong>The heart of the lecture — individual rationality ≠ group rationality.</strong>
+<br>• <strong>A collective action problem</strong> exists when (1) an outcome would make everyone better off (a Pareto improvement), yet (2) the choices individuals make on their own don't get the group there — the group is stuck in a <strong>Nash equilibrium that is not Pareto efficient.</strong>
+<br>• <strong>Free-rider problems</strong> come from <strong>externalities</strong> and live with <strong>non-excludable goods</strong> (public goods · common-pool resources): I benefit whether or not I contribute, so I don't — <strong>free riding is a dominant strategy.</strong> Bigger groups make it worse (<strong>Olson</strong>).
+<br>• <strong>Coordination problems</strong> have <strong>multiple equilibria</strong>: everyone would act <em>if sure others would</em>, so everyone waits. Here nobody wants to cheat — they just need to <strong>expect</strong> the good outcome.
+<br>• <strong>The toolkit:</strong> first <strong>diagnose</strong>. Free-rider → <strong>change payoffs</strong> (coercion · selective incentives · repeated interaction). Coordination → <strong>change expectations</strong> (communication · focal points · leaders · signals).</div>
+
+**Red thread:** *(1) Is this a free-rider or a coordination problem? (2) What kind of good is at stake (excludable? rival?)? (3) Which tool fits — change payoffs, or change expectations?*
+
+**Key concepts to apply:** *collective action problem · individual vs group rationality · Pareto-inefficient Nash equilibrium* · *externality (positive/negative)* · ***excludable · rival** → the goods typology (private · club · common-pool · public)* · *free riding · dominant strategy · the public-goods game · conditional cooperators · peer punishment (Fehr & Gächter)* · *group size (**Olson 1965**, The Logic of Collective Action)* · *tragedy of the commons (**Hardin 1968**); Ostrom's challenge* · *coordination problem · multiple equilibria · threshold/cascade effects · focal points (Schelling)* · *the toolkit: **coercion · selective incentives (Olson) · repeated interaction / shadow of the future (Axelrod) · changing expectations*** · *social norms · conditional cooperation.*
+
+---
+
+<a id="ca-what"></a>
+## What is a collective action problem?
+
+***Core:*** the central puzzle of the lecture — a group can get **stuck at an outcome nobody wants.**
+
+A **collective action problem** exists when:
+1. there is an outcome that would make **everyone in the group better off** (a Pareto improvement), **but**
+2. the choices individuals make **on their own** do not lead the group there.
+
+→ In game-theory terms ([Lecture 4.2](#rc-game)): the group lands in a **Nash equilibrium that is not Pareto efficient.** The recap is last lecture's housing game: **(Don't, Don't) = (2,2)** is the equilibrium even though **(Allow, Allow) = (3,3)** is better for both — each city hopes the other builds; each **free rides.**
+
+**Central idea for today: individual rationality ≠ group rationality.** Everyone acting sensibly for themselves produces a result that's bad for all of them.
+
+<a id="ca-two"></a>
+## Two kinds of collective action problem
+
+***Core:*** diagnosis comes first — the fix depends on **which** problem you have.
+
+| | **Free-rider problem** | **Coordination problem** |
+|---|---|---|
+| Logic | **doing nothing is better for me** — even if I know others act | I'd act **only if sure others will**; so everyone waits |
+| Result | nobody contributes (empty pot) | nobody moves (empty protest square) |
+| Equilibrium | one bad equilibrium (a dominant strategy to defect) | **multiple** equilibria (a good one and a bad one) |
+| Fix | **change payoffs** | **change expectations** |
+
+<a id="ca-goods"></a>
+## Externalities & the goods typology
+
+***Core:*** free-rider problems aren't random — they appear with **certain kinds of goods**, which you can spot with two questions.
+
+- An **externality** is an effect of my action on others that I **don't pay for (or get paid for)**: a town's **fireworks** (positive — anyone can watch, my watching doesn't block yours); **fishing boats** sharing a sea (negative — every fish I take is one fewer for you).
+- **Two questions about any good:**
+  - **Excludable?** — can people who don't pay be **kept out**?
+  - **Rival?** — does my use **leave less** for you?
+
+![A 2x2 goods typology: rows are excludable/non-excludable, columns are rival/non-rival. Private good (rival, excludable: a sandwich); club good (non-rival, excludable: Netflix); common-pool resource (rival, non-excludable: fish in the sea); public good (non-rival, non-excludable: national defence).](figures/l-ca-goods-typology.png)
+
+**How to read it.** Cross the two questions and you get **four kinds of good.** **Free-rider problems live in the bottom (non-excludable) row** — you **cannot keep free riders out**, so people under-provide (**public goods**) or over-use (**common-pool resources**).
+
+<a id="ca-freerider"></a>
+## ★ The free-rider problem
+
+***Core:*** with a **public good**, I get the benefit **whether or not I contribute** — so the rational choice is **don't contribute.** That's **free riding**, and it's a **dominant strategy** (the same reasoning as "Don't" in the housing game).
+
+> *If enough others contribute, the good is provided anyway → I save my effort. If others don't, my small contribution won't matter → I save my effort. Either way: don't contribute.*
+
+**The public-goods game** (the classroom experiment): each student has 10 points; **Keep** them, or **Contribute** to a pot that is **doubled and split equally** among all. With 4 students, your 10 points become 20 in the pot but you get back only **20/4 = 5** — so **Keeping always pays 5 more**, no matter what others do. A **prisoner's dilemma with 4 players.**
+
+**But real people aren't pure free riders:**
+- In round 1 many **contribute a fair amount**; they're **conditional cooperators** — "I'll do my part *if* others do theirs."
+- Over repeated rounds, contributions **fall** (cooperators tire of being exploited).
+- Letting players **punish** free riders — at a cost to themselves — **keeps contributions high** (**Fehr & Gächter 2000**). *(This is where **norms** enter: informal punishment sustains cooperation.)*
+
+<a id="ca-olson"></a>
+## Group size — Olson (1965)
+
+***Core:*** **the larger the group, the harder** collective action — the key insight of Mancur Olson's *The Logic of Collective Action.*
+
+Scale the public-goods game from 4 to **40** members: your 10 points still become 20 in the pot, but you get back only **20/40 = 0.5.** Large groups struggle because:
+1. each member's **share of the benefit is smaller**;
+2. each contribution is **less noticeable** ("my effort won't matter");
+3. it's **harder to monitor and pressure** free riders.
+
+→ *Counter-intuitive upshot:* a **small** group with concentrated interests (a handful of firms) often out-organises a **large** diffuse public — which is why narrow lobbies can beat the general interest.
+
+<a id="ca-commons"></a>
+## The tragedy of the commons
+
+***Core:*** the mirror image of under-provided public goods — **over-used common-pool resources.** Same free-rider logic.
+
+- **Hardin (1968):** a pasture open to all herders. Each extra cow gives its owner the **full** benefit, but the cost (**overgrazing**) is **shared by all** → everyone adds cows until the pasture is ruined.
+- **Real example — Atlantic cod** off Newfoundland: decades of overfishing (supercharged by **factory trawlers**) collapsed the stock; **Canada closed the fishery in 1992**, costing tens of thousands of jobs.
+- **The symmetry:** **public good →** people contribute **too little**; **common-pool resource →** people take **too much.** Both are the **free-rider problem.**
+- **Ostrom's challenge (optional reading).** Elinor Ostrom showed Hardin's "tragedy" is **not inevitable**: real communities often **self-govern** commons successfully — without either the **state** or **privatisation** — through local rules, monitoring and graduated sanctions. *(Ostrom ch. 1 was not in the attached files; this is the gist.)*
+
+<a id="ca-coordination"></a>
+## Coordination problems
+
+***Core:*** the second trap — here **nobody wants to cheat**; the problem is **expectations**, because there is **more than one equilibrium.**
+
+**The protest game.** Two citizens decide whether to **Join** a protest. If only one joins, she's arrested; if both join, the dictator falls; if neither joins, he stays.
+
+| | B: Join | B: Stay home |
+|---|---|---|
+| **A: Join** | **3, 3** | 0, 1 |
+| **A: Stay home** | 1, 0 | **2, 2** |
+
+- **Two equilibria:** everyone joins **(3, 3)** *or* nobody joins **(2, 2).** Both are stable.
+- **The trap:** I stay home **because I fear you'll stay home.** One equilibrium is not Pareto efficient — and which one we land in depends on **what we expect.**
+- **Threshold / cascade effects — Leipzig, 1989:** a few thousand East Germans joined the Monday demonstrations in September; by **23 October, 300,000+** had joined. As more protested, others became willing → a **cascade.**
+- Other coordination problems: **which side of the road** to drive on (**Sweden switched overnight in 1967**), which **technical standard** firms adopt (phone chargers).
+
+<a id="ca-toolkit"></a>
+## ★ The toolkit — how groups escape
+
+***Core:*** **diagnose first**, then pick the matching tool. Free-rider problems need **changed payoffs**; coordination problems need **changed expectations.**
+
+<a id="ca-tools"></a>
+
+| Problem | Tool | How it works |
+|---|---|---|
+| **Free-rider** | **1. Coercion** | the **state** requires/forbids an action and enforces it (police, courts, fines) |
+| **Free-rider** | **2. Selective incentives** (Olson) | a **private** reward/cost given **only to contributors** |
+| **Free-rider** | **3. Repeated interaction** | cooperate today to keep cooperation tomorrow (the shadow of the future) |
+| **Coordination** | **4. Change expectations** | communication, focal points, leaders, signals → everyone expects the good equilibrium |
+
+**1. Coercion — the state as solution.** (Recall [The State lecture](#lecture-2): a classic justification for the state is solving what individuals can't alone.) **Bans** (CFCs, indoor smoking, closed fishing seasons); **mandates** (compulsory schooling, conscription); **compulsory voting** (Australia); **standards** (car emissions, building codes). *Limits:* the state needs **information & capacity**; the **liberal concern** ([Lecture 4.1](#nf-liberalism)) that coercion limits freedom; **who controls the state** (coercion can serve organised groups); and in international politics **there is no world government** to coerce states (recall [Realism: anarchy](#ir-lecture-1)).
+
+**2. Selective incentives (Olson).** A **private** benefit given **only** to contributors turns a public-good problem into a **private choice** ("join to get the benefit"). **Business associations** (Dansk Industri: legal advice, data, networks); **professional associations** (insurance, journals); **social movements** (friendship, identity). *The union puzzle:* unions win gains for **all** workers, members or not — so why do **~2/3 of Danes** pay dues? Partly **selective incentives**: in the **Ghent countries** (Denmark, Sweden, Finland, Belgium) **unemployment insurance** runs through **union-linked funds** → unionisation is far higher. *(And **norms** matter: in some workplaces, not joining is socially costly.)*
+
+**3. Repeated interaction — the shadow of the future.** One-shot games invite defection; **repeated** ones support cooperation via **tit-for-tat** ("I cooperate as long as you do; if you cheat, I stop"). Works best when interaction **continues**, players **value the future**, and cheating is **observable** (**Axelrod 1984**).
+
+**4. Coordination → change expectations.** Payoffs can stay the same; everyone just needs to **expect** the good outcome: **communication** (here promises are **credible**, because keeping them is in your own interest — unlike the free-rider experiment's cheap talk); **focal points** (**Schelling 1960** — an answer that "stands out": a tradition, a date, a famous square); **leaders / first movers** (someone goes first and shows it's safe); **public signals and laws** (tell everyone what everyone else will do — **Sweden's Dagen H, 1967**; US **standard time zones, 1883**). *Once everyone expects the good outcome, it enforces itself.*
+
+<a id="ca-climate"></a>
+## The climate case — why does Denmark cut?
+
+***Core:*** the running application — use the toolkit to explain the **Danish Climate Act** (cut emissions **70% by 2030**) when Denmark is just **~0.1%** of world CO₂ (China ~30%, US ~13%).
+
+- **Diagnose:** a stable climate is a **public good** (non-excludable, non-rival); the **externality** is global; it's a **free-rider problem**; and by **Olson** it's a **hard group** (≈200 countries, each tiny).
+- **Denmark's best choice** (pure free-rider logic): **pollute** — 0.1% can't change the climate. *So why does it cut?*
+- **Tools:** **coercion** works only **inside** a state (no world government — [anarchy](#ir-lecture-1)), so between countries it's **incentives / repeated interaction** (the EU carbon border fee; **Paris** pledges-and-reviews every 5 years).
+- **Change Denmark's incentives:** Danish **green industry** profits whenever Denmark cuts (+2) — turning a losing free-rider game into a winning one.
+- **Verdict (three views):** free-rider logic → **no**; incentives → **yes** (green industry profits); **first mover** → Danish **wind** helped make clean energy **cheaper for everyone**, which shifts the problem **from free-rider toward coordination** (as cutting gets cheaper, more will cut). *Open question for [next lecture](#lecture-tools-3): who should cut most — today's big emitters or yesterday's? That's a **bargaining** problem.*
+
+---
+
+<a id="ca-terms"></a>
+## Key terms
+
+| Term | Meaning |
+|---|---|
+| Collective action problem | a Pareto-improving outcome exists, but individual choices don't reach it |
+| Individual vs group rationality | each acting sensibly → a result bad for all |
+| Externality | an effect of my action on others I don't pay (or get paid) for |
+| Excludable / rival | can non-payers be kept out? / does my use leave less for you? |
+| Public good | non-excludable **and** non-rival (national defence) — under-provided |
+| Common-pool resource | non-excludable but rival (fish) — over-used |
+| Club good | excludable but non-rival (Netflix) |
+| Free riding | enjoying a good without contributing (a dominant strategy) |
+| Conditional cooperator | "I'll contribute if others do" |
+| Olson's logic | larger groups find collective action harder |
+| Tragedy of the commons | shared resource ruined by individually rational over-use (Hardin) |
+| Coordination problem | multiple equilibria; the issue is expectations, not payoffs |
+| Threshold/cascade | each joiner makes others willing → sudden mass participation |
+| Selective incentive | a private reward/cost given only to contributors (Olson) |
+| Focal point | an option that "stands out" and coordinates expectations (Schelling) |
+| Shadow of the future | repeated interaction makes cooperation pay (Axelrod) |
+
+---
+
+<a id="ca-exam"></a>
+## Exam pointers
+
+- **Define a [collective action problem](#ca-what)** and state the slogan: **individual rationality ≠ group rationality.**
+- **Classify a good** with [excludable × rival](#ca-goods) and say why free-rider problems live in the **non-excludable** row.
+- **Explain [free riding](#ca-freerider)** as a dominant strategy; use the public-goods game and **Olson's** group-size logic.
+- **Contrast [free-rider vs coordination](#ca-two)** problems — and match each to its fix (**change payoffs** vs **change expectations**).
+- **Run the [toolkit](#ca-toolkit)**: coercion · selective incentives · repeated interaction · focal points — with an example of each (union dues; Ghent; Leipzig 1989; Dagen H).
+- **Apply it to [climate](#ca-climate)**: why Denmark "should" free-ride, and the incentive/first-mover reasons it cuts anyway.
+
+---
+
+<a id="ff-tools3"></a>
+## ★ Fun facts & memorable details (Tools 4.3: Collective Action)
+
+> The sticky bits from the collective-action lecture.
+
+- **Individual rationality ≠ group rationality.** The whole lecture in five words: everyone being sensible can leave everyone worse off.
+- **The small group usually beats the big one.** Olson's twist: a handful of firms with concentrated stakes out-organise millions of diffuse citizens — which is why narrow lobbies so often win.
+- **Punishment keeps cooperation alive.** In public-goods games, letting people fine free riders (at a cost to themselves) stops contributions from collapsing — the experimental root of social norms (Fehr & Gächter).
+- **The cod never came back.** Factory trawlers + a shared sea = tragedy of the commons; Canada closed the fishery in 1992 and tens of thousands lost their jobs. A commons can be ruined *permanently.*
+- **A revolution in six weeks.** Leipzig went from a few thousand protesters in September 1989 to 300,000+ by late October — a coordination cascade, each joiner making the next one braver.
+- **Sweden changed sides overnight.** "Dagen H," 3 September 1967: the entire country swapped from driving on the left to the right at once — a coordination problem solved by a public signal everyone obeyed.
+- **Denmark is 0.1% of emissions — and cuts anyway.** Pure free-rider logic says don't bother; it cuts because green industry profits and because going first made clean energy cheaper for everyone — nudging the world from free-riding toward coordination.
 
 ---
